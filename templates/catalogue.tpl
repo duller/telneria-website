@@ -1,4 +1,4 @@
-﻿<!-- David Winckel et François Ripp -->
+
 <h1>Catalogue</h1>
 
 <table>

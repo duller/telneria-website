@@ -1,4 +1,4 @@
-﻿<!-- David Winckel & François Ripp-->
+
 {if $Connected}
 <h1>Consulter Livre</h1>
 

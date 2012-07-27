@@ -1,6 +1,27 @@
-﻿<!-- David WINCKEL et François Ripp -->
+<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:00:23
+         compiled from "templates/inscription.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:1679984935012f357b5d923-95364533%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '5a865f3a849a0af36077680f77abe8353f438adf' => 
+    array (
+      0 => 'templates/inscription.tpl',
+      1 => 1336417000,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '1679984935012f357b5d923-95364533',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.7',
+  'unifunc' => 'content_5012f357b9694',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5012f357b9694')) {function content_5012f357b9694($_smarty_tpl) {?>﻿<!-- David WINCKEL et François Ripp -->
 
-{literal}
+
 <script type="text/javascript">
 
         function formVerification()
@@ -160,7 +181,7 @@
         }
 
         </script>
-{/literal}
+
 
     <h1>Inscription</h1>
     
@@ -337,4 +358,4 @@
                 </td>
             </tr>
         </table>
-    </form>
+    </form><?php }} ?>

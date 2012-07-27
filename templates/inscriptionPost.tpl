@@ -1,4 +1,4 @@
-﻿<!-- David Winckel & François Ripp-->
+
 <h1>Retour d'inscription</h1>
 
 {if $inscription eq "reussi"}

@@ -1,4 +1,4 @@
-﻿<!-- François Ripp -->
+
 {if $Connected}
 <h1>Mes livres</h1>
 

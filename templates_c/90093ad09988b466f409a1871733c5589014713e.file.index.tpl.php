@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-05-02 16:50:58
+<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:00:04
          compiled from "templates/index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:4482397884fa149d2d28008-41449651%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '90093ad09988b466f409a1871733c5589014713e' => 
     array (
       0 => 'templates/index.tpl',
-      1 => 1335970170,
+      1 => 1343419202,
       2 => 'file',
     ),
   ),
@@ -15,18 +15,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.7',
+  'unifunc' => 'content_4fa149d2ea19e',
   'variables' => 
   array (
     'nom' => 0,
     'page' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.7',
-  'unifunc' => 'content_4fa149d2ea19e',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_4fa149d2ea19e')) {function content_4fa149d2ea19e($_smarty_tpl) {?><!-- David Winckel -->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<?php if ($_valid && !is_callable('content_4fa149d2ea19e')) {function content_4fa149d2ea19e($_smarty_tpl) {?>
+<!DOCTYPE html>
 <html>
    <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -56,8 +55,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 </div>
     	<div id="footer"><?php echo $_smarty_tpl->getSubTemplate ("footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
 </div>
-        <div id="hidden">©David WINCKEL et François RIPP<br><a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a></div>
+        <div id="hidden">François Ripp : Creative Commons by-nc-sa<br>
     </body>
 </html>
 

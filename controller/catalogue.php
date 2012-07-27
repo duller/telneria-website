@@ -1,5 +1,5 @@
 <?php
-// David WINCKEL
+
 
 require_once 'modeles/manipulation/GestionLivre.php';
 

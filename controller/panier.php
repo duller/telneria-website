@@ -1,5 +1,5 @@
 <?php
-// François Ripp
+
 
 class Controller implements IController
 {

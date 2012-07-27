@@ -1,4 +1,4 @@
-<!-- David WINCKEL -->
+
 {if $Connected}
 <h1>Panier</h1>
 

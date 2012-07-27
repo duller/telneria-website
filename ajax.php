@@ -1,5 +1,4 @@
 <?php
-// David WINCKEL
 
 session_start();
 

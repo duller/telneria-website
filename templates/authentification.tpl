@@ -1,4 +1,4 @@
-<!-- David WINCKEL & François Ripp-->
+
 
 <h1>Authentification</h1>
 

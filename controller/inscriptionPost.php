@@ -1,5 +1,5 @@
 <?php
-// David WINCKEL
+
 require_once('modeles/manipulation/DatabaseConnexion.php');
 
 class Controller implements IController

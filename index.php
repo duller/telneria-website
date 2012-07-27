@@ -1,5 +1,4 @@
 <?php
-/* David Winckel */
 session_start();
 
 require('libs/Smarty.class.php');
@@ -10,7 +9,7 @@ $smarty->compile_dir = 'templates_c/';
 $smarty->config_dir = 'configs/';
 $smarty->cache_dir = 'cache/';
 
-$smarty->assign("nom","Librairie de l'Ours");
+$smarty->assign("nom","Les légendes de Telneria");
 
 if(isset($_GET["Page"]) && is_file("templates/".$_GET["Page"].".tpl"))
 {

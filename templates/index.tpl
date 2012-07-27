@@ -1,6 +1,5 @@
-<!-- David Winckel -->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
    <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -24,8 +23,7 @@
         <div id="menu">{include file="menu.tpl"}</div>
         <div id="content">{include file=$page}</div>
     	<div id="footer">{include file="footer.tpl"}</div>
-        <div id="hidden">©David WINCKEL et François RIPP<br><a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a></div>
+        <div id="hidden">François Ripp : Creative Commons by-nc-sa<br>
     </body>
 </html>
 

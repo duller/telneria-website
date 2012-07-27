@@ -1,4 +1,4 @@
-﻿<!-- David WINCKEL et François Ripp -->
+
 
 {literal}
 <script type="text/javascript">

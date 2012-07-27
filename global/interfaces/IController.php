@@ -1,5 +1,5 @@
 <?php
-// David WINCKEL
+
 
 interface IController 
 {

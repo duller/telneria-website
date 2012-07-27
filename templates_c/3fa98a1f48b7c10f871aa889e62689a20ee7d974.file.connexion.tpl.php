@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-05-02 16:51:29
+<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:00:18
          compiled from "templates/connexion.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:15774635974fa149f1e1ec50-98074976%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '3fa98a1f48b7c10f871aa889e62689a20ee7d974' => 
     array (
       0 => 'templates/connexion.tpl',
-      1 => 1335965894,
+      1 => 1335969810,
       2 => 'file',
     ),
   ),
@@ -15,9 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.7',
   'unifunc' => 'content_4fa149f1e89b2',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_4fa149f1e89b2')) {function content_4fa149f1e89b2($_smarty_tpl) {?>﻿<!-- David Winckel et François Ripp -->
 

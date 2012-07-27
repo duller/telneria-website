@@ -1,4 +1,4 @@
-<!-- David Winckel -->
+
 <p>
 <a href="?Page=accueil"><span class="menuElement">Accueil</span></a>
 

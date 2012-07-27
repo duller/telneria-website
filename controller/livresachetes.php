@@ -1,5 +1,5 @@
 <?php
-// François Ripp
+
 
 require_once 'modeles/manipulation/GestionLivre.php';
 

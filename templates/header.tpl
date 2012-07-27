@@ -1,4 +1,4 @@
-<!-- David Winckel & François Ripp-->
+
 <p>
 <a class="lienBlanc" href="?Page=accueil">Accueil</a><br>
 

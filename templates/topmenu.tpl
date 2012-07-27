@@ -1,4 +1,4 @@
-<!-- David Winckel -->
+
 
 <form action="?Page=recherche" method="POST">
     <label for="tb_recherche">Recherche</label>

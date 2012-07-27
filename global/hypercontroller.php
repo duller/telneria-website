@@ -1,5 +1,5 @@
 <?php
-// David WINCKEL
+
 
 class HyperController implements IController
 {

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-05-02 16:50:58
+<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 20:47:29
          compiled from "templates/header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:13519637594fa149d2e98354-58600264%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'be439f82a4dbec61746f62a0df07c19a7eecd966' => 
     array (
       0 => 'templates/header.tpl',
-      1 => 1335970170,
+      1 => 1336417000,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.7',
+  'unifunc' => 'content_4fa149d2ec774',
   'variables' => 
   array (
     'Connected' => 0,
@@ -22,10 +24,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'Login' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.7',
-  'unifunc' => 'content_4fa149d2ec774',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_4fa149d2ec774')) {function content_4fa149d2ec774($_smarty_tpl) {?><!-- David Winckel -->
+<?php if ($_valid && !is_callable('content_4fa149d2ec774')) {function content_4fa149d2ec774($_smarty_tpl) {?><!-- David Winckel & François Ripp-->
 <p>
 <a class="lienBlanc" href="?Page=accueil">Accueil</a><br>
 
@@ -34,7 +34,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 </span>)</a><br>
 <a class="lienBlanc" href="?Page=compte">Mon compte (<?php echo $_smarty_tpl->tpl_vars['Login']->value;?>
 )</a><br>
-<a class="lienBlanc" href="?Page=authentification">Deconnexion</a><br>
+<a class="lienBlanc" href="?Page=authentification">Déconnexion</a><br>
 </p>
 <?php }else{ ?>
 <p>
