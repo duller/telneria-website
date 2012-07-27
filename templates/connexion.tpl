@@ -1,5 +1,4 @@
 
-
 {literal}
 <script type="text/javascript">
 
