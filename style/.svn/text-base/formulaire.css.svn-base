@@ -1,0 +1,24 @@
+/* David Winckel & François Ripp */
+
+.erreurMasque 
+{
+    display: none;
+}
+
+input
+{
+    background-color:#FFF;
+    width: 200px;
+}
+
+select
+{
+    background-color:#FFF;
+    width: 200px;
+}
+
+.erreurAffiche
+{
+    display:inline;
+    color:red;
+}

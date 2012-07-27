@@ -1,0 +1,58 @@
+/* David Winckel, François Ripp */
+
+body
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;		
+}
+
+.lienBlanc
+{
+    color:#FFF;
+}
+
+.lienBlanc:link
+{
+    color:#FFF;
+}
+
+.lienBlanc:hover
+{
+    color:#f0ead8;
+}
+
+.lienBlanc:visited
+{
+    color:#FFF;
+}
+
+
+input
+{
+	background-color:#CCC;
+	border: 1px solid #000;
+}
+
+a:link
+{
+	color:#F00;
+	text-decoration: none;
+}
+
+a:hover
+{
+        color:#F00;
+        text-decoration: none;
+}
+
+a:visited
+{
+	color:#F00;
+	text-decoration: none;	
+}
+
+p
+{
+    margin: 0px;
+    padding: 0px;
+}
