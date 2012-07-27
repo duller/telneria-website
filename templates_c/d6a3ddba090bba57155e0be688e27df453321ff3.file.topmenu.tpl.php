@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-05-02 16:50:58
+<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:49:59
          compiled from "templates/topmenu.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:16990045024fa149d2ec43f0-92519548%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd6a3ddba090bba57155e0be688e27df453321ff3' => 
     array (
       0 => 'templates/topmenu.tpl',
-      1 => 1335970170,
+      1 => 1343420742,
       2 => 'file',
     ),
   ),
@@ -15,11 +15,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.7',
   'unifunc' => 'content_4fa149d2ec79b',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_4fa149d2ec79b')) {function content_4fa149d2ec79b($_smarty_tpl) {?><!-- David Winckel -->
+<?php if ($_valid && !is_callable('content_4fa149d2ec79b')) {function content_4fa149d2ec79b($_smarty_tpl) {?>
 
 <form action="?Page=recherche" method="POST">
     <label for="tb_recherche">Recherche</label>

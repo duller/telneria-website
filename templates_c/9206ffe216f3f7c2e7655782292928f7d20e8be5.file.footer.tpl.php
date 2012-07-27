@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-05-02 16:50:58
+<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:49:59
          compiled from "templates/footer.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:3376726134fa149d2f1fa71-62941223%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '9206ffe216f3f7c2e7655782292928f7d20e8be5' => 
     array (
       0 => 'templates/footer.tpl',
-      1 => 1335963294,
+      1 => 1343420742,
       2 => 'file',
     ),
   ),
@@ -15,11 +15,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.7',
   'unifunc' => 'content_4fa149d2f24bb',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_4fa149d2f24bb')) {function content_4fa149d2f24bb($_smarty_tpl) {?><!-- David Winckel -->
+<?php if ($_valid && !is_callable('content_4fa149d2f24bb')) {function content_4fa149d2f24bb($_smarty_tpl) {?>
 
 <p>
 <a class="lienBlanc" href="?Page=mentionslegales">Mentions légales</a> - 

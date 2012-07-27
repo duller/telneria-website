@@ -1,4 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/home/francois/WebDev/portail-web-telneria/index.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/mentionslegales.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/index.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/ajax.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/topmenu.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/recherche.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/perdu.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/panier.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/menu.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/livresachetes.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/inscriptionPost.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/inscription.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/header.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/footer.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/ficheproduit.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/contact.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/consulterLivre.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/connexion.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/conditiondevente.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/compte.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/catalogue.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/authentification.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/templates/accueil.tpl</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/style/formulaire.css</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/style/layout.css</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/style/style.css</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/modeles/manipulation/DatabaseConnexion.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/modeles/manipulation/GestionLivre.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/modeles/metier/Livre.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/global/hypercontroller.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/global/interfaces/IController.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/controller/authentification.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/controller/catalogue.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/controller/ficheproduit.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/controller/inscriptionPost.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/controller/livresachetes.php</file>
+        <file>file:/home/francois/WebDev/portail-web-telneria/controller/panier.php</file>
+    </open-files>
 </project-private>

@@ -1,5 +1,5 @@
 <?php
-// David WINCKEL & François Ripp
+
 
 require_once 'modeles/metier/Livre.php';
 

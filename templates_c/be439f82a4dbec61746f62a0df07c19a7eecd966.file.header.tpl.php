@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 20:47:29
+<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:49:59
          compiled from "templates/header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:13519637594fa149d2e98354-58600264%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'be439f82a4dbec61746f62a0df07c19a7eecd966' => 
     array (
       0 => 'templates/header.tpl',
-      1 => 1336417000,
+      1 => 1343420742,
       2 => 'file',
     ),
   ),
@@ -25,7 +25,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_4fa149d2ec774')) {function content_4fa149d2ec774($_smarty_tpl) {?><!-- David Winckel & François Ripp-->
+<?php if ($_valid && !is_callable('content_4fa149d2ec774')) {function content_4fa149d2ec774($_smarty_tpl) {?>
 <p>
 <a class="lienBlanc" href="?Page=accueil">Accueil</a><br>
 

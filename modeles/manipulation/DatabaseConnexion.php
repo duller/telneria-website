@@ -1,8 +1,9 @@
 <?php
-// David Winckel
-require_once('pear/MDB2.php');
 
-class DatabaseConnexion {
+//require_once('pear/MDB2.php');
+
+class DatabaseConnexion
+{
   
    private static $_instance = null;
    private $db = null;
