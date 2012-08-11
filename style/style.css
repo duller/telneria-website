@@ -33,9 +33,15 @@ input
 	border: 1px solid #000;
 }
 
+a:visited
+{
+	color:#9A783D;
+	text-decoration: none;	
+}
+
 a:link
 {
-	color:#F00;
+	color:#9A783D;
 	text-decoration: none;
 }
 
@@ -43,12 +49,6 @@ a:hover
 {
         color:#F00;
         text-decoration: none;
-}
-
-a:visited
-{
-	color:#F00;
-	text-decoration: none;	
 }
 
 p

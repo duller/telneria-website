@@ -25,7 +25,7 @@ body
 	margin-right:1%;
 	margin-bottom:10px;
         
-	background-color:#8C5707;
+	background-color:-moz-linear-gradient(19% 75% 90deg,#AB8F32, #C9C55E);/*-webkit-gradient(linear, 0% 0%, 0% 100%, from(#544429), to(#9C7738), color-stop(.6,#333333));*//*#8C5707;*/
 	background-image:url('../ressources/header.png');
 	background-repeat:no-repeat;
 	background-position:left;
