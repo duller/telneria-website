@@ -164,7 +164,7 @@
 
     <h1>Inscription</h1>
     
-    <form action="?Page=inscriptionPost" method="POST" onsubmit="return formVerification()">
+    <form action="?Page=gestionCompte/inscriptionPost" method="POST" onsubmit="return formVerification()">
         <table>
             <tr>
                 <td>

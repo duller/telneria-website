@@ -1,6 +1,6 @@
 
 
-<form action="?Page=recherche" method="POST">
+<form action="?Page=fiches/recherche" method="POST">
     <label for="tb_recherche">Recherche</label>
     <select>
         <option value="tous">Tous les livres</option>

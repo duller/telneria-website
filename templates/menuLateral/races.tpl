@@ -1,3 +1,5 @@
+<h1>Les races</h1>
+
 <div>
 <h3>Les Orcs</h3>
 <p>Les orcs sont de robustes combattants à la peau verte.</p>
@@ -7,14 +9,18 @@
 <p>sorcier, chaman, guerrier, sombregarde.</p>
 </div>
 
+<br />
+
 <div>
-<h3>Les Trolls</h3>
-<p>Les trolls sont grands et forts, ils sont doués tout aussi bien au combat qu'à la maîtrise de la magie.</p>
+<h3>Les Chepteg</h3>
+<p>Les chepteg sont des humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite mais des griffes puissantes.</p>
 <h4>Traits raciaux</h4>
-<p>+1 à la dextérité, +1 au dé de toucher avec les arcs et les lances, 1d4 supplémentaire au dé de toucher si les pv du troll sont inférieurs à 20% du total, taille moyenne.</p>
+<p>+1 à la dextérité, +1 au dé de toucher avec les arcs et les lances, 1d4 supplémentaire au dé de toucher si les pv du chepteg sont inférieurs à 20% du total, taille moyenne.</p>
 <h4>Classes disponibles</h4>
 <p>magicien, roublard, druide, chaman, rôdeur, guerrier.</p>
 </div>
+
+<br />
 
 <div>
 <h3>Les Varelias</h3>
@@ -25,6 +31,8 @@
 <p>druide, rôdeur, chaman, guerrier.</p>
 </div>
 
+<br />
+
 <div>
 <h3>Les Murviens</h3>
 <p>Les murviens sont des créatures humanoïdes à quatre bras et quatre yeux qui peuvent se régénérer et qui ont une affinité avec la magie offensive.</p>
@@ -33,6 +41,8 @@
 <h4>Classes disponibles</h4>
 <p>magicien, sorcier, roublard, rôdeur.</p>
 </div>
+
+<br />
 
 <div>
 <h3>Les Elfes</h3>
@@ -43,6 +53,8 @@
 <p>clerc, magicien, sorcier, druide, roublard, rôdeur, guerrier, sombregarde.</p>
 </div>
 
+<br />
+
 <div>
 <h3>Les Humains</h3>
 <p>Les humains sont des créatures communes et classiques.</p>
@@ -51,6 +63,8 @@
 <h4>Classes disponibles</h4>
 <p>clerc, magicien, sorcier, roublard, rôdeur, guerrier, paladin, sombregarde.</p>
 </div>
+
+<br />
 
 <div>
 <h3>Les Nains</h3>
@@ -61,14 +75,18 @@
 <p>clerc, roublard, rôdeur, guerrier, paladin.</p>
 </div>
 
+<br />
+
 <div>
-<h3>Les Gnomes</h3>
-<p>Les gnomes sont de petites créatures qui comptent sur leur ingéniosité pour compenser leurs faiblesses physiques.</p>
+<h3>Les Kerfenn</h3>
+<p>Les kerfenn sont de petites créatures qui comptent sur leur ingéniosité pour compenser leurs faiblesses physiques.</p>
 <h4>Traits raciaux</h4>
 <p>+1 en intelligence, +1 en sagesse, artisanat amélioré, discrétion améliorée, taille petite.</p>
 <h4>Classes disponibles</h4>
 <p>magicien, sorcier, roublard.</p>
 </div>
+
+<br />
 
 <div>
 <h3>Les Neltariens</h3>
@@ -79,6 +97,8 @@
 <p>magicien, sorcier, roublard, rôdeur, guerrier, sombregarde.</p>
 </div>
 
+<br />
+
 <div>
 <h3>Les Draconides</h3>
 <p>Les draconides sont des humanoïdes issus des dragons, ils ont le corps recouvert d'écailles et une tête reptilienne.</p>
@@ -88,9 +108,10 @@
 <p>magicien, sorcier, chaman, guerrier, sombregarde.</p>
 </div>
 
-<div>
+<br />
 
-<p>Récapitulatif des classes disponibles en fonction des races :</p>
+<br />
+<h2>Récapitulatif des classes disponibles en fonction des races :</h2>
 <br />
 
 <table>
@@ -101,7 +122,7 @@
 			<p class="ptab">Humain</p>
 		</td>
 		<td>
-			<p class="ptab">Gnome</p>
+			<p class="ptab">Kerfenn</p>
 		</td>
 		<td>
 			<p class="ptab">Nain</p>
@@ -111,21 +132,6 @@
 		</td>
 		<td>
 			<p class="ptab">Orc</p>
-		</td>
-		<td>
-			<p class="ptab">Troll</p>
-		</td>
-		<td>
-			<p class="ptab">Murvien</p>
-		</td>
-		<td>
-			<p class="ptab">Varelias</p>
-		</td>
-		<td>
-			<p class="ptab">Neltarien</p>
-		</td>
-		<td>
-			<p class="ptab">Draconide</p>
 		</td>
 	</tr>
 	<tr>
@@ -146,16 +152,6 @@
 		<td>
 		</td>
 		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -174,21 +170,6 @@
 		</td>
 		<td>
 		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -196,19 +177,6 @@
 		</td>
 		<td>
 			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
 		</td>
 		<td>
 			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
@@ -240,19 +208,6 @@
 		</td>
 		<td>
 		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -262,20 +217,6 @@
 			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
 		</td>
 		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
 		</td>
 		<td>
 			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
@@ -301,6 +242,197 @@
 		</td>
 		<td>
 		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Chaman</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Guerrier</p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Paladin</p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Sombregarde</p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+	</tr>
+</table>
+
+<br />
+
+<table>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">Chepteg</p>
+		</td>
+		<td>
+			<p class="ptab">Murvien</p>
+		</td>
+		<td>
+			<p class="ptab">Varelias</p>
+		</td>
+		<td>
+			<p class="ptab">Neltarien</p>
+		</td>
+		<td>
+			<p class="ptab">Draconide</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Clerc</p>
+		</td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Magicien</p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Sorcier</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Roublard</p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Rôdeur</p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Druide</p>
+		</td>
 		<td>
 			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
 		</td>
@@ -317,17 +449,6 @@
 	<tr>
 		<td>
 			<p class="ptab">Chaman</p>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
 		</td>
 		<td>
 			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
@@ -359,37 +480,11 @@
 			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<p class="ptab">Paladin</p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
-		<td>
 		</td>
 		</td>
 		<td>
@@ -406,19 +501,6 @@
 	<tr>
 		<td>
 			<p class="ptab">Sombregarde</p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
-		</td>
-		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
 		</td>
 		<td>
 		</td>

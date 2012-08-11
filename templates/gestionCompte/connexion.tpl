@@ -36,7 +36,7 @@
 
 <h1>Connexion</h1>
 
-<form action="?Page=authentification" method="POST" onsubmit="return formVerification()">
+<form action="?Page=gestionCompte/authentification" method="POST" onsubmit="return formVerification()">
     <table>
         <tr>
             <td>
@@ -78,7 +78,7 @@
             </td>
 
             <td>
-                <a href="?Page=inscription">Inscription</a>
+                <a href="?Page=gestionCompte/inscription">Inscription</a>
             </td>
             <td>
             </td>
@@ -89,7 +89,7 @@
             </td>
 
             <td>
-                <a href="?Page=perdu">Récupérer mon mot de passe</a>
+                <a href="?Page=gestionCompte/perdu">Récupérer mon mot de passe</a>
             </td>
             <td>
             </td>

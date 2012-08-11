@@ -61,8 +61,8 @@ body
 {
 	border: 1px solid #000;
 	float:left;
-	width:20%;
-	min-height:300px;
+	width:10%;
+	min-height:500px;
         
 	padding-top:10px;
         padding-left:1%;
@@ -83,9 +83,9 @@ body
 	border: 1px solid #000;
 	
 	float:left;
-	width:73%;
+	width:83%;
 	
-	min-height:300px;
+	min-height:500px;
 	
 	padding-top:10px;
         padding-left:1%;

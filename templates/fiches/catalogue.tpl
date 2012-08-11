@@ -14,7 +14,7 @@
     {section name=produit loop=$catalogueProduit}
     <tr>
         <td>
-            <a href="?Page=ficheproduit&amp;Produit={$catalogueProduit[produit].key}" title="{$catalogueProduit[produit].titre}">
+            <a href="?Page=fiches/ficheproduit&amp;Produit={$catalogueProduit[produit].key}" title="{$catalogueProduit[produit].titre}">
             {$catalogueProduit[produit].titre}
             </a>
         </td>

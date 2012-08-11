@@ -5,8 +5,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta http-equiv="Content-Language" content="fr">
 
-        <meta name="keywords" lang="fr" content="livre,librairie,magasin">
-        <meta name="description" content="Librairie de l'Ours - La librairie en ligne !">
+        <meta name="keywords" lang="fr" content="jeu de rôle, medieval, fantasy">
+        <meta name="description" content="Les légendes de Telnaria - le site internet">
                 
         <link rel="stylesheet" href="style/layout.css">
         <link rel="stylesheet" href="style/style.css">
@@ -21,7 +21,7 @@
         <div id="menu">{include file="menu.tpl"}</div>
         <div id="content">{include file=$page}</div>
     	<div id="footer">{include file="footer.tpl"}</div>
-        <div id="hidden">François Ripp : Creative Commons by-nc-sa<br>
+        <div id="hidden">François Ripp : Creative Commons by-nc-sa</div>
     </body>
 </html>
 

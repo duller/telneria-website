@@ -93,10 +93,29 @@
 	<p>Magie.</p>
 
 	<h4>Compétences</h4>
-	<p>Concentration, connaissance (histoire et coutumes), premiers secours </p>
+	<p>Concentration, connaissances, premiers secours </p>
 
 	<h4>Sorts et techniques</h4>
-	<p>2 en magie blanche, 1 en magie protectrice, 1 en magie incitatrice.</p>
+	<p> i. Châtiment céleste
+Frappe l'ennemi avec un jet de lumière sacrée.
+ ii. Soins de lien
+Soigne un personnage au choix ainsi qu'un deuxième personnage pour un montant plus faible.
+ iii. Adjuration
+Frappe un mort-vivant ou un démon avec un jet de lumière sacrée, lui inflige des dégâts et le ralentit.</p>
 
 	<h4>Classes de prestige</h4>
-	<p>Prêtre, moine.</p>
+	<p>- Le prêtre : clerc dévolu à la transmission de la parole de la lumière sacrée. Il permet d'utiliser les sorts et techniques suivantes : 
+ i. Résurrection
+Ressucite un personnage-joueur mort, peut être utilisé en combat.
+ ii. Prière de soins
+Soigne l'ensemble des personnages-joueurs qui accompagnent le prêtre.
+ iii. Soins majeurs
+Soigne le personnage-joueur choisi de toutes ses blessures mortelles.
+
+- Le moine : clerc spécialisé dans le combat au corps-à-corps. Il permet d'utiliser les sorts et techniques suivantes :
+ i. Bouclier spirituel
+Le moine se concentre et protège un personnage-joueur choisi à l'aide d'un bouclier spirituel qui absorbe les dégâts de la prochaine attaque.
+ ii. Déluge de coups
+Le moine assène une série rapide de trois coups successifs à son adversaire.
+ iii. Frappe inspirée
+Le moine se concentre pour asséner un coup puissant à son adversaire.</p>

@@ -40,7 +40,7 @@ setTimeout ("redirection()", 3000 );
 {literal}
 function redirection()
 {
-    document.location.href="?Page=connexion"
+    document.location.href="?Page=gestionCompte/connexion"
 }
 </script>
 {/literal}
