@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:00:17
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-11 13:36:29
          compiled from "templates/ficheproduit.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:10616099545012f351346c70-68666418%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'b6b1e98dadaaeda8761a581d497fc282d1106a41' => 
     array (
       0 => 'templates/ficheproduit.tpl',
-      1 => 1335968946,
+      1 => 1343420742,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.7',
+  'unifunc' => 'content_5012f3513adc1',
   'variables' => 
   array (
     'nomProduit' => 0,
@@ -23,10 +25,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'Connected' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.7',
-  'unifunc' => 'content_5012f3513adc1',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5012f3513adc1')) {function content_5012f3513adc1($_smarty_tpl) {?>﻿<!-- David Winckel et François Ripp -->
+<?php if ($_valid && !is_callable('content_5012f3513adc1')) {function content_5012f3513adc1($_smarty_tpl) {?>
 
 
 <script type="text/javascript">

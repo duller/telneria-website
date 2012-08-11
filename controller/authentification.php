@@ -25,15 +25,17 @@ class Controller implements IController
             
             if ($probleme == 0)
             {
-                $result = DatabaseConnexion::getInstance()->requete("select * from client where LOGIN='" .$_POST["login"]. "' AND PASSWD='".md5($_POST["motdepasse"])."'");
+                //FR - TO DO : à modifier avec la nouvelle connexion à la base
+                //$result = DatabaseConnexion::getInstance()->requete("select * from client where LOGIN='" .$_POST["login"]. "' AND PASSWD='".md5($_POST["motdepasse"])."'");
 
-                if ($result->numRows()) // Si il y a une ligne de résultat (donc si un utilisateur existe)
+                //FR - TO DO : à modifier avec la nouvelle connexion à la base
+                if (true)//$result->numRows()) // Si il y a une ligne de résultat (donc si un utilisateur existe)
                 {
                     $_SESSION["Connected"] = true;
                     $_SESSION["Login"] = $_POST["login"];
                     setcookie("Login", $_SESSION["Login"],time()+3600*24*7); // Validité de session 7 jours
 
-                    $environnement->assign("connexion","connexionreussi");
+                    $environnement->assign("connexion","connexionreussie");
                 }
                 else
                 {
@@ -52,7 +54,7 @@ class Controller implements IController
             unset($_SESSION["Login"]);
             setcookie("Login", "",0); // Destruction du cookie
             
-            $environnement->assign("connexion","deconnexionreussi");
+            $environnement->assign("connexion","deconnexionreussie");
 
 
         }

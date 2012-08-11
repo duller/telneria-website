@@ -2,7 +2,7 @@
 
 <h1>Authentification</h1>
 
-{if $connexion eq "connexionreussi"}
+{if $connexion eq "connexionreussie"}
 <p>Connexion en cours...</p>
 
 {literal}
@@ -16,7 +16,7 @@ function redirection()
 }
 </script>
 {/literal}
-{elseif $connexion eq "deconnexionreussi"}
+{elseif $connexion eq "deconnexionreussie"}
 <p>Déconnexion en cours...</p>
 
 {literal}

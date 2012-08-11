@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:00:04
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-11 13:37:43
          compiled from "templates/index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:4482397884fa149d2d28008-41449651%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '90093ad09988b466f409a1871733c5589014713e' => 
     array (
       0 => 'templates/index.tpl',
-      1 => 1343419202,
+      1 => 1344685060,
       2 => 'file',
     ),
   ),
@@ -33,9 +33,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
         <meta name="keywords" lang="fr" content="livre,librairie,magasin">
         <meta name="description" content="Librairie de l'Ours - La librairie en ligne !">
-        
-        <link href="style.css" rel="stylesheet" type="text/css">
-        
+                
         <link rel="stylesheet" href="style/layout.css">
         <link rel="stylesheet" href="style/style.css">
         <link rel="stylesheet" href="style/formulaire.css">

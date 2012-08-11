@@ -10,17 +10,19 @@ class DatabaseConnexion
    
    private function __construct() 
    {
-        $this->db = MDB2::connect('mysql://root:root@localhost/librairieOurs');
-
+        //FR - TO DO : à modifier avec la nouvelle connexion à la base
+        //$this->db = MDB2::connect('mysql://root:root@localhost/librairieOurs');
+        /*
         if (MDB2::isError($this->db)) 
         {
             die("Connexion error: " . $this->db->getDebugInfo());
-        }
+        }*/
    }
    
    public function requete($sql)
    {
-       return $this->db->query($sql);
+        //FR - TO DO : à modifier avec la nouvelle connexion à la base
+        //return $this->db->query($sql);
    }
 
    public static function getInstance() 

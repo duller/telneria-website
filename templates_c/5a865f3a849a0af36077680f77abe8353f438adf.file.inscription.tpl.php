@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-07-27 22:00:23
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-11 14:20:14
          compiled from "templates/inscription.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1679984935012f357b5d923-95364533%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '5a865f3a849a0af36077680f77abe8353f438adf' => 
     array (
       0 => 'templates/inscription.tpl',
-      1 => 1336417000,
+      1 => 1343420742,
       2 => 'file',
     ),
   ),
@@ -15,11 +15,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.7',
   'unifunc' => 'content_5012f357b9694',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5012f357b9694')) {function content_5012f357b9694($_smarty_tpl) {?>﻿<!-- David WINCKEL et François Ripp -->
+<?php if ($_valid && !is_callable('content_5012f357b9694')) {function content_5012f357b9694($_smarty_tpl) {?>
 
 
 <script type="text/javascript">

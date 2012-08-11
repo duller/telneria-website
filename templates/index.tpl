@@ -7,9 +7,7 @@
 
         <meta name="keywords" lang="fr" content="livre,librairie,magasin">
         <meta name="description" content="Librairie de l'Ours - La librairie en ligne !">
-        
-        <link href="style.css" rel="stylesheet" type="text/css">
-        
+                
         <link rel="stylesheet" href="style/layout.css">
         <link rel="stylesheet" href="style/style.css">
         <link rel="stylesheet" href="style/formulaire.css">
