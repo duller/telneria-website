@@ -44,7 +44,7 @@
 <table>
 	<tr>
 		<td style="height: 30px">
-                    <p class="ptab"><strong>Taille</strong></p>
+                    <p class="ptabstrong">Taille</p>
 		</td>
 		<td>
                     <p class="ptab">Minuscule</p>
@@ -73,7 +73,7 @@
 	</tr>
 	<tr>
 		<td>
-                    <p class="ptab"><strong>Modificateur</strong></p>
+                    <p class="ptabstrong">Modificateur</p>
 		</td>
 		<td>
                     <p class="ptab">+3</p>

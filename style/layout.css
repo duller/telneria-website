@@ -25,7 +25,6 @@ body
 	margin-right:1%;
 	margin-bottom:10px;
         
-	background-color:-moz-linear-gradient(19% 75% 90deg,#AB8F32, #C9C55E);/*-webkit-gradient(linear, 0% 0%, 0% 100%, from(#544429), to(#9C7738), color-stop(.6,#333333));*//*#8C5707;*/
 	background-image:url('../ressources/header.png');
 	background-repeat:no-repeat;
 	background-position:left;
@@ -62,7 +61,7 @@ body
 	border: 1px solid #000;
 	float:left;
 	width:10%;
-	min-height:500px;
+	min-height: 500px;
         
 	padding-top:10px;
         padding-left:1%;
@@ -74,7 +73,7 @@ body
 	margin-right:0%;
 	margin-bottom:10px;
         
-	background-color:#CA6213;
+	background-color: #D06E3D;
 }
 
 /* La zone centrale à droite du menu principal */
@@ -157,19 +156,17 @@ body
 .menuElement:link
 {
         color:#000;
-	background-color:#FFDF00;
-}
-
-.menuElement:hover
-{
-        color:#000;
-	background-color:#FFDF00;
 }
 
 .menuElement:visited
 {
         color:#000;
-	background-color:#FFDF00;
+}
+
+.menuElement:hover
+{
+        color:#000;
+	background-color:#F6E497;
 }
 
 #hidden
@@ -178,4 +175,207 @@ body
 	width:100%;
 	
 	text-align:center;
+}
+
+/* CSS pour la page du choix de la classe d'un personnage*/
+
+#classesMagie
+{
+	border: 1px solid #000;
+        float:left;
+	width:46%;
+        min-height:300px;
+        
+        margin-top:10px;
+	margin-left:1%;
+	margin-right:1%;
+	margin-bottom:10px;
+        
+        padding-top:10px;
+        padding-left:1%;
+        padding-right:1%;
+	padding-bottom:10px;
+}
+
+#classesFoi
+{
+	border: 1px solid #000;
+        float:left;
+	width:46%;
+        min-height:300px;
+        
+        margin-top:10px;
+	margin-left:1%;
+	margin-right:1%;
+	margin-bottom:10px;
+        
+        padding-top:10px;
+        padding-left:1%;
+        padding-right:1%;
+	padding-bottom:10px;
+}
+
+#classesNature
+{
+	border: 1px solid #000;
+        float:left;
+	width:46%;
+        min-height:300px;
+        
+        margin-top:10px;
+	margin-left:1%;
+	margin-right:1%;
+	margin-bottom:10px;
+        
+        padding-top:10px;
+        padding-left:1%;
+        padding-right:1%;
+	padding-bottom:10px;
+}
+
+#classesDiscretion
+{
+	border: 1px solid #000;
+        float:left;
+	width:46%;
+        min-height:300px;
+        
+        margin-top:10px;
+	margin-left:1%;
+	margin-right:1%;
+	margin-bottom:10px;
+        
+        padding-top:10px;
+        padding-left:1%;
+        padding-right:1%;
+	padding-bottom:10px;
+}
+
+#classesGuerre
+{
+	border: 1px solid #000;
+        float:left;
+	width : 50%;
+        
+        min-height:300px;
+        
+        margin-left: 25%;
+        margin-top:10px;
+	margin-bottom:10px;
+        
+        padding-top:10px;
+        padding-left:1%;
+        padding-right:1%;
+	padding-bottom:10px;
+}
+
+
+/* CSS pour les pages des classes de personnage*/
+
+.descriptionClasse
+{
+    border: 1px solid #000;
+    float:left;
+    width:60%;
+    min-height:550px;
+
+    margin-top:10px;
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:10px;
+
+    padding-top:10px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:10px;
+}
+
+.classeImage
+{
+    border: 1px solid #000;
+    float:right;
+    width:30%;
+    min-height:550px;
+
+    margin-top:10px;
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:10px;
+
+    padding-top:10px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:10px;
+}
+
+.classeTableaux
+{
+    border: 1px solid #000;
+    float:right;
+    width:30%;
+    min-height:550px;
+
+    margin-top:10px;
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:10px;
+
+    padding-top:10px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:10px;
+}
+
+.sortsClasse
+{
+    border: 1px solid #000;
+    float:left;
+    width:60%;
+    min-height:550px;
+
+    margin-top:10px;
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:10px;
+
+    padding-top:10px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:10px;
+}
+
+.classePrestige1
+{
+    border: 1px solid #000;
+    float:left;
+    width:45%;
+    min-height:550px;
+
+    margin-top:10px;
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:10px;
+
+    padding-top:10px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:10px;
+}
+
+.classePrestige2
+{
+    border: 1px solid #000;
+    float:right;
+    width:45%;
+    min-height:550px;
+
+    margin-top:10px;
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:10px;
+
+    padding-top:10px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:10px;
 }

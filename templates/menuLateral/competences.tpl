@@ -184,7 +184,7 @@
                     <p class="ptab">INT</p>
 		</td>
 		<td width="">
-                    <p class="ptab">Capacité à déceler les trésors et biens cachés dans une pièce ou sur un cadavre encore frais.</p>
+                    <p class="ptab">Capacité à déceler les trésors cachés dans une pièce ou sur un cadavre encore frais.</p>
 		</td>
 	</tr>
 	<tr>

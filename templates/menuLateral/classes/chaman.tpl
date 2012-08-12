@@ -1,9 +1,11 @@
+<h1>Le chaman</h1>
 
-    <h4>Description</h4>
+<div class="descriptionClasse">
+<h4>Description</h4>
     <p>Le chaman est un guide spirituel. Il communique avec les éléments et les esprits.
     </p>
-
-    <h4>Armures</h4>
+    
+<h4>Armures</h4>
     <p>Tissu, cuir, maille, bouclier.</p>
 
     <h4>Armes</h4>
@@ -11,9 +13,35 @@
 
     <h4>Alignement</h4>
     <p>habituellement neutre bon.</p>
+    
+    <h4>Dons</h4>
+    <p>Sauvegarde, combat, magie.</p>
 
-    <h4>Caractéristiques</h4>
-    <p>
+    <h4>Compétences</h4>
+    <p>Concentration, premiers secours, psychologie.</p>
+</div>
+
+
+<div class="classeImage">
+    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p>Un chaman chepteg</p>
+</div>
+  
+
+<div class="sortsClasse">
+    <h3>Sorts et techniques</h3>
+    
+    <h4>Vague de soins</h4>
+    <p>Soins canalisé qui permet de soigner jusqu'à trois alliés par rebond.</p>
+    <h4>Trait de foudre</h4>
+    <p>Un puissant sort permettant d'infliger des dégâts de foudre à un ennemi unique.</p>
+    <h4>Frappe imprégnée</h4>
+    <p>Imprègne l'arme de puissance élémentaire, infligeant des dégâts plus importants et des dégâts de type magique.</p>
+</div>
+
+<div class="classeTableaux">
+    <h4>Points de vie et de mana</h4>
+    
     <table>
             <tr>
                     <td>
@@ -32,7 +60,10 @@
                     </td>
             </tr>
     </table>
-    <br />
+
+    
+    <h4>Caractéristiques</h4>
+    
     <table>
             <tr>
                     <td>
@@ -83,40 +114,29 @@
                     </td>
             </tr>
     </table>
+</div>
+
+<div class="classePrestige1">
+    <h3>Classe de prestige : Le totémiste</h3>
+    
+    <p>Le totémiste est un chaman versé dans les arts mystiques des totems. Il permet d'utiliser les sorts et techniques suivantes :</p>
+    <h4>Totem de terre</h4>
+    <p>Invoque un totem de terre apportant protection au chaman et ses alliés.</p>
+    <h4>Totem de foudre</h4>
+    <p>Invoque un totem de foudre permettant d'infliger des dégâts de foudre à plusieurs ennemis proches.</p>
+    <h4>Totem d'eau</h4>
+    <p>Invoque un totem d'eau permettant de soigner le chaman et ses alliés.</p>
+</div>
 
 
-    <br />
-
-    </p>
-
-    <h4>Dons</h4>
-    <p>Sauvegarde, combat, magie.</p>
-
-    <h4>Compétences</h4>
-    <p>Concentration, premiers secours, psychologie.</p>
-
-    <h4>Sorts et techniques</h4>
-    <p> i. Vague de soins
-Soins canalisé qui permet de soigner jusqu'à trois alliés par rebond.
- ii. Trait de foudre
-Un puissant sort permettant d'infliger des dégâts de foudre à un ennemi unique.
- iii. Frappe imprégnée
-Imprègne l'arme de puissance élémentaire, infligeant des dégâts plus importants et des dégâts de type magique.</p>
-
-    <h4>Classes de prestige</h4>
-    <p>- Le totémiste : chaman versé dans les arts mystiques des totems. Il permet d'utiliser les sorts et techniques suivantes : 
- i. Totem de terre
-Invoque un totem de terre apportant protection au chaman et ses alliés.
- ii. Totem de foudre
-Invoque un totem de foudre permettant d'infliger des dégâts de foudre à plusieurs ennemis proches.
- iii. Totem d'eau
-Invoque un totem d'eau permettant de soigner le chaman et ses alliés.
-
-- Le mentaliste : chaman adepte de la maîtrise des esprits mortels. Il permet d'utiliser les sorts et techniques suivantes :
- i. Immobilisation
-Pénètre l'esprit d'un ennemi afin de l'empêcher de faire tout mouvement.
- ii. Lévitation des armes
-Contrôle psychique des armes du chaman à distance, permettant d'infliger des dégâts sans se mettre en danger.
- iii. Contrôle mental
-Contrôle total de l'esprit d'un ennemi, permettant de le faire agir selon la volonté du mentaliste.</p>
-
+ <div class="classePrestige2">
+    <h3>Classe de prestige : Le mentaliste</h3>
+    
+    <p>Le mentaliste est un chaman adepte de la maîtrise des esprits mortels. Il permet d'utiliser les sorts et techniques suivantes :</p>
+    <h4>Immobilisation</h4>
+    <p>Pénètre l'esprit d'un ennemi afin de l'empêcher de faire tout mouvement.</p>
+    <h4>Lévitation des armes</h4>
+    <p>Contrôle psychique des armes du chaman à distance, permettant d'infliger des dégâts sans se mettre en danger.</p>
+    <h4>Contrôle mental</h4>
+    <p>Contrôle total de l'esprit d'un ennemi, permettant de le faire agir selon la volonté du mentaliste.</p>
+</div>

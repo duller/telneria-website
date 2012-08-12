@@ -2,8 +2,7 @@
 <br />
 
 <p>Chaque don n'est utilisable qu'une seule fois par combat, c'est une demi-action. Sachant qu'un joueur n'a que deux dons au total, il ne peut en utiliser que deux pendant un combat.</p>
-<br />
-Quand les dons modifient des valeurs en pourcentages, on arrondit à la valeur au-dessus.</p>
+<p>Quand les dons modifient des valeurs en pourcentages, on arrondit à la valeur au-dessus.</p>
 <br />
 
 <h2>Les dons de sauvegarde
