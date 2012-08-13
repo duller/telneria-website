@@ -1,4 +1,6 @@
+<h1>Le paladin</h1>
 
+<div class="descriptionClasse">
 	<h4>Description</h4>
 	<p>Le paladin est un héraut de la lumière, c'est un combattant qui s'est dévoué à combattre le mal.
 	</p>
@@ -11,8 +13,33 @@
 
 	<h4>Alignement</h4>
 	<p>Habituellement loyal bon, ne peut être ni chaotique, ni mauvais.</p>
+        
+        <h4>Dons</h4>
+	<p>Sauvegarde, combat, magie.</p>
 
-	<h4>Caractéristiques</h4>
+	<h4>Compétences</h4>
+	<p>Diplomatie, psychologie, premiers secours.</p>
+</div>
+        
+<div class="classeImage">
+    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p>Un paladin humain</p>
+</div>
+  
+
+<div class="sortsClasse">
+		<h3>Sorts et techniques</h3>
+    <h4>Frappe sacrée</h4>
+    <p>Frappe l'ennemi avec l'arme du paladin infusée de puissance sacrée. Inflige des dégâts physiques et magiques.</p>
+    <h4>Toucher sacré</h4>
+    <p>Soigne un personnage allié du paladin et augmente temporairement son armure.</p>
+    <h4>Exorcisme</h4>
+    <p>Attaque puissante infligeant de lours dégâts aux morts-vivants et aux démons, et réduisant leur capacité de mouvement.</p>
+</div>
+
+<div class="classeTableaux">
+    <h4>Points de vie et de mana</h4>
+    
 	<p>
 	<table>
 		<tr>
@@ -32,7 +59,8 @@
 			</td>
 		</tr>
 	</table>
-	<br />
+
+        <h4>Caractéristiques</h4>
 	<table>
 		<tr>
 			<td>
@@ -84,38 +112,28 @@
 		</tr>
 	</table>
 
-	
-	<br />
+</div>
 
-	</p>
+<div class="classePrestige1">
+    <h3>Classe de prestige : Le templier</h3>
 
-	<h4>Dons</h4>
-	<p>Sauvegarde, combat, magie.</p>
+    <p>Le templier est un paladin dévolue à la protection d'autrui, portant armure lourde et bouclier. Il permet d'utiliser les sorts et techniques suivantes : </p>
+    <h4>Rétribution du juste</h4>
+    <p>Puissant coup porté à l'arme en riposte à un coup porté par un ennemi.</p>
+    <h4>Infusion du bouclier</h4>
+    <p>Infuse le bouclier d'énergie sacrée, le rendant plus efficace contre les attaques physiques et magiques.</p>
+    <h4>Égide renversante</h4>
+    <p>Puissant coup porté avec le bouclier faisant basculer l'ennemi touché.</p>
+</div>
 
-	<h4>Compétences</h4>
-	<p>Diplomatie, psychologie, premiers secours.</p>
 
-	<h4>Sorts et techniques</h4>
-	<p> i. Frappe sacrée
-Frappe l'ennemi avec l'arme du paladin infusée de puissance sacrée. Inflige des dégâts physiques et magiques.
- ii. Toucher sacré
-Soigne un personnage allié du paladin et augmente temporairement son armure.
- iii. Exorcisme
-Attaque puissante infligeant de lours dégâts aux morts-vivants et aux démons, et réduisant leur capacité de mouvement.</p>
-
-	<h4>Classes de prestige</h4>
-	<p>- Le templier : paladin dévolue à la protection d'autrui, portant armure lourde et bouclier. Il permet d'utiliser les sorts et techniques suivantes : 
- i. Rétribution du juste
-Puissant coup porté à l'arme en riposte à un coup porté par un ennemi.
- ii. Infusion du bouclier
-Infuse le bouclier d'énergie sacrée, le rendant plus efficace contre les attaques physiques et magiques.
- iii. Égide renversante
-Puissant coup porté avec le bouclier faisant basculer l'ennemi touché.
-
-- L'inquisiteur : paladin obnubilé par la traque et l'élimination des êtres impies. Il permet d'utiliser les sorts et techniques suivantes :
- i. Marteau béni
-Attaque de zone infligeant de lours dégâts aux morts-vivants et aux démons.
- ii. Courroux répurgateur
-Sort infligeant des dégâts de sacré à un ennemi.
- iii. Regard incriminateur
-Regard accusateur envers un ennemi lui faisant subir les propres dégâts de ses attaques.</p>
+ <div class="classePrestige2">
+    <h3>Classe de prestige : L'inquisiteur</h3>
+    <p>L'inquisiteur est un paladin obnubilé par la traque et l'élimination des êtres impies. Il permet d'utiliser les sorts et techniques suivantes :</p>
+    <h4>Marteau béni</h4>
+    <p>Attaque de zone infligeant de lours dégâts aux morts-vivants et aux démons.</p>
+    <h4>Courroux répurgateur</h4>
+    <p>Sort infligeant des dégâts de sacré à un ennemi.</p>
+    <h4>Regard incriminateur</h4>
+    <p>Regard accusateur envers un ennemi lui faisant subir les propres dégâts de ses attaques.</p>
+</div>

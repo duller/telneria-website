@@ -24,7 +24,7 @@
 
 <div class="classeImage">
     <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
-    <p>Un chaman chepteg</p>
+    <p>Un druide varelias</p>
 </div>
   
 

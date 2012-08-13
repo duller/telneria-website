@@ -1,7 +1,8 @@
+<h1>Le magicien</h1>
 
+<div class="descriptionClasse">
 	<h4>Description</h4>
-	<p>Le magicien maîtrise la magie élémentaire et des arcanes comme personne.
-	</p>
+	<p>Le magicien maîtrise la magie élémentaire et des arcanes comme personne.</p>
 
 	<h4>Armures</h4>
 	<p>Tissu.</p>
@@ -12,8 +13,33 @@
 	<h4>Alignement</h4>
 	<p>Habituellement loyal neutre.</p>
 
-	<h4>Caractéristiques</h4>
-	<p>
+	<h4>Dons</h4>
+	<p>Magie.</p>
+
+	<h4>Compétences</h4>
+	<p>Concentration, connaissances, psychologie</p>
+        
+</div>
+
+<div class="classeImage">
+    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p>Un kerfenn magicien</p>
+</div>
+  
+
+<div class="sortsClasse">
+	<h3>Sorts et techniques</h3>
+    <h4>Boule de feu</h4>
+    <p>Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts.</p>
+    <h4>Doigt de givre</h4>
+    <p>Envoie un doigt de givre sur un ennemi, lui infligeant des dégâts et le ralentissant.</p>
+    <h4>Vélocité</h4>
+    <p>Infuse un allié du magicien avec la vélocité des arcanes, lui permettant de se mouveoir plus rapidement.</p>
+
+</div>
+
+<div class="classeTableaux">
+    <h4>Points de vie et de mana</h4>
 	<table>
 		<tr>
 			<td>
@@ -32,7 +58,8 @@
 			</td>
 		</tr>
 	</table>
-	<br />
+        
+	<h4>Caractéristiques</h4>
 	<table>
 		<tr>
 			<td>
@@ -84,38 +111,29 @@
 		</tr>
 	</table>
 
-	
-	<br />
+</div>
 
-	</p>
+<div class="classePrestige1">
+    <h3>Classe de prestige : L'arcaniste</h3>
+    
+    <p>L'arcaniste est un magicien focalisé sur les arcanes, la forme de magie la plus pure. Il permet d'utiliser les sorts et techniques suivantes : </p>
+    <h4>Divination</h4>
+    <p>Permet de prévoir le mouvement d'un ennemi afin de le toucher à coup sûr ou de permettre à un allié d'éviter un coup mortel.</p>
+    <h4>Contrôle du temps</h4>
+    <p>Permet de figer le présent, seul l'arcaniste peut agir.</p>
+    <h4>Explosion des arcanes</h4>
+    <p>Invoque une concentration de magie à un point précis afin de surcharger l'espace confiné et d'infliger des dégâts à toute la zone.</p>
 
-	<h4>Dons</h4>
-	<p>Magie.</p>
+</div>
 
-	<h4>Compétences</h4>
-	<p>Concentration, connaissances, psychologie</p>
 
-	<h4>Sorts et techniques</h4>
-	<p> i. Boule de feu
-Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts.
- ii. Doigt de givre
-Envoie un doigt de givre sur un ennemi, lui infligeant des dégâts et le ralentissant.
- iii. Vélocité
-Infuse un allié du magicien avec la vélocité des arcanes, lui permettant de se mouveoir plus rapidement.</p>
-
-	<h4>Classes de prestige</h4>
-	<p>- L'arcaniste : magicien focalisé sur les arcanes, la forme de magie la plus pure. Il permet d'utiliser les sorts et techniques suivantes : 
- i. Divination
-Permet de prévoir le mouvement d'un ennemi afin de le toucher à coup sûr ou de permettre à un allié d'éviter un coup mortel.
- ii. Contrôle du temps
-Permet de figer le présent, seul l'arcaniste peut agir.
- iii. Explosion des arcanes
-Invoque une concentration de magie à un point précis afin de surcharger l'espace confiné et d'infliger des dégâts à toute la zone.
-
-- L'élémentaliste : magicien spécialisé dans les magies élémentaires de la glace et du feu. Il permet d'utiliser les sorts et techniques suivantes :
- i. Invocation élémentaire
-L'élémentaliste invoque un élémentaire de feu ou de glace qui se bat pour son invocateur.
- ii. Pluie de feu
-Fait tomber une pluie de feu dévastatrice dans une zone modérée.
- iii. Nova de glace
-Génère une explosion de glace à un endroit donné, infligeant des dégâts et gelant les victimes.</p>
+ <div class="classePrestige2">
+    <h3>Classe de prestige : L'élémentaliste</h3>
+    <p>L'élémentaliste est un magicien spécialisé dans les magies élémentaires de la glace et du feu. Il permet d'utiliser les sorts et techniques suivantes :</p>
+    <h4>Invocation élémentaire</h4>
+    <p>L'élémentaliste invoque un élémentaire de feu ou de glace qui se bat pour son invocateur.</p>
+    <h4>Pluie de feu</h4>
+    <p>Fait tomber une pluie de feu dévastatrice dans une zone modérée.</p>
+    <h4>Nova de glace</h4>
+    <p>Génère une explosion de glace à un endroit donné, infligeant des dégâts et gelant les victimes.</p>
+</div>

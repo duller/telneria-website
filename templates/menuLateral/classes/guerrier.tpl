@@ -1,4 +1,6 @@
+<h1>Le guerrier</h1>
 
+<div class="descriptionClasse">
 	<h4>Description</h4>
 	<p>Le guerrier est un combattant polyvalent et résistant. Il est apte à manier tout type d'armes pour tout combat.
 	</p>
@@ -11,9 +13,35 @@
 
 	<h4>Alignement</h4>
 	<p>Habituellement neutre strict.</p>
+	<h4>Dons</h4>
+	<p>Sauvegarde, combat.</p>
 
-	<h4>Caractéristiques</h4>
-	<p>
+	<h4>Compétences</h4>
+	<p>Intimidation, saut, escalade.</p>
+        
+</div>
+
+<div class="classeImage">
+    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p>Un guerrier orc</p>
+</div>
+  
+
+<div class="sortsClasse">
+    <h3>Sorts et techniques</h3>
+    
+    <h4>Frappe perçante</h4>
+    <p>Frappe l'ennemi en ignorant ses protections, technique épuisante qui ne peut être utilisée plusieurs fois.</p>
+    <h4>Désarmement</h4>
+    <p>Désarme complètement l'adversaire pour un court laps de temps.</p>
+    <h4>Brise-genou</h4>
+    <p>Coup puissant porté au genou de l'ennemi réduisant fortement sa vitesse de déplacement.</p>
+    
+</div>    
+
+<div class="classeTableaux">
+    <h4>Points de vie et de mana</h4>
+    
 	<table>
 		<tr>
 			<td>
@@ -32,7 +60,8 @@
 			</td>
 		</tr>
 	</table>
-	<br />
+
+        <h4>Caractéristiques</h4>
 	<table>
 		<tr>
 			<td>
@@ -83,39 +112,30 @@
 			</td>
 		</tr>
 	</table>
+</div>
 
-	
-	<br />
+<div class="classePrestige1">
+    <h3>Classe de prestige : Le barbare</h3>
 
-	</p>
+    <p> Le barbare est un guerrier brutal orienté vers un type de combat primitif. Il permet d'utiliser les sorts et techniques suivantes</p>
+    <h4>Fureur sanguinaire</h4>
+    <p>Permet trois frappes simultanées, mais réduit fortement la défense du barbare pour un court laps de temps.</p>
+    <h4>Frappe ambidextre</h4>
+    <p>Frappe puissante portée avec les deux mains du combattant, infligeant le double des dégâts normaux. Nécessite de se tenir en posture de défense.</p>
+    <h4>Cri de guerre</h4>
+    <p>Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégas infligés par les alliés.</p>
 
-	<h4>Dons</h4>
-	<p>Sauvegarde, combat.</p>
+</div>
 
-	<h4>Compétences</h4>
-	<p>Intimidation, saut, escalade.</p>
 
-	<h4>Sorts et techniques</h4>
-	<p> i. Frappe perçante
-Frappe l'ennemi en ignorant ses protections, technique épuisante qui ne peut être utilisée plusieurs fois
- ii. Désarmement
-Désarme complètement l'adversaire pour un court laps de temps.
- iii. Brise-genou
-Coup puissant porté au genou de l'ennemi réduisant fortement sa vitesse de déplacement.</p>
+ <div class="classePrestige2">
+    <h3>Classe de prestige : Le gardien</h3>
 
-	<h4>Classes de prestige</h4>
-	<p>- Le barbare : guerrier brutal orienté vers un type de combat primitif. Il permet d'utiliser les sorts et techniques suivantes : 
- i. Fureur sanguinaire
-Permet trois frappes simultanées, mais réduit fortement la défense du barbare pour un court laps de temps
- ii. Frappe ambidextre
-Frappe puissante portée avec les deux mains du combattant, infligeant le double des dégâts normaux. Nécessite de se tenir en posture de défense.
- iii. Cri de guerre
-Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégas infligés par les alliés.
-
-- Le gardien : guerrier spécialisé dans le combat à l'armure lourde et au bouclier. Il permet d'utiliser les sorts et techniques suivantes :
- i. Coup de bouclier
-Puissant coup porté avec le bouclier déstabilisant l'ennemi.
- ii. Coup railleur
-Frappe violente portée sur un ennemi l'incitant à attaquer le gardien.
- iii. Coup incapacitant
-Puissante frappe portée sur un ennemi réduisant sa défense et sa capacité de déplacement.</p>
+    <p>Le gardien est un guerrier spécialisé dans le combat à l'armure lourde et au bouclier. Il permet d'utiliser les sorts et techniques suivantes :</p>
+    <h4>Coup de bouclier</h4>
+    <p>Puissant coup porté avec le bouclier déstabilisant l'ennemi.</p>
+    <h4>Coup railleur</h4>
+    <p>Frappe violente portée sur un ennemi l'incitant à attaquer le gardien.</p>
+    <h4>Coup incapacitant</h4>
+    <p>Puissante frappe portée sur un ennemi réduisant sa défense et sa capacité de déplacement.</p>
+</div>

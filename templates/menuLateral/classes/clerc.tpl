@@ -23,7 +23,7 @@
 
 <div class="classeImage">
     <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
-    <p>Un chaman chepteg</p>
+    <p>Un clerc nain</p>
 </div>
   
 <div class="sortsClasse">

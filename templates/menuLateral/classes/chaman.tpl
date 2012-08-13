@@ -2,8 +2,7 @@
 
 <div class="descriptionClasse">
 <h4>Description</h4>
-    <p>Le chaman est un guide spirituel. Il communique avec les éléments et les esprits.
-    </p>
+    <p>Le chaman est un guide spirituel. Il communique avec les éléments et les esprits.</p>
     
 <h4>Armures</h4>
     <p>Tissu, cuir, maille, bouclier.</p>

@@ -1,4 +1,6 @@
+<h1>Le roublard</h1>
 
+<div class="descriptionClasse">
 	<h4>Description</h4>
 	<p>Le roublard est un combattant agile et pernicieux, il attaquera habituellement en traître et se faufile dans l'ombre comme personne.
 	</p>
@@ -12,8 +14,34 @@
 	<h4>Alignement</h4>
 	<p>Habituellement chaotique neutre, ne peut pas être loyal.</p>
 
-	<h4>Caractéristiques</h4>
-	<p>
+	<h4>Dons</h4>
+	<p>Sauvegarde, combat.</p>
+
+	<h4>Compétences</h4>
+	<p>Crochetage, équilibre, discrétion.</p>
+</div>
+
+
+<div class="classeImage">
+    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p>Une roublarde neltarienne</p>
+</div>
+  
+
+<div class="sortsClasse">
+    <h3>Sorts et techniques</h3>  
+
+    <h4>Frappe pernicieuse</h4>
+    <p>Nécessite d'être de dos, frappe l'ennemi au point le plus fragile, lui infligeant de lourds dégâts.</p>
+    <h4>Frappes rapides</h4>
+    <p>Frappe l'ennemi à deux reprises très rapidement.</p>
+    <h4>Frappe étourdissante</h4>
+    <p>Nécessite d'être de dos, frappe l'ennemi au point le plus sensible, l'étourdissant pour un court laps de temps.</p>
+</div>
+
+<div class="classeTableaux">
+    <h4>Points de vie et de mana</h4>
+    
 	<table>
 		<tr>
 			<td>
@@ -32,7 +60,8 @@
 			</td>
 		</tr>
 	</table>
-	<br />
+
+        <h4>Caractéristiques</h4>
 	<table>
 		<tr>
 			<td>
@@ -84,38 +113,28 @@
 		</tr>
 	</table>
 
-	
-	<br />
+</div>
 
-	</p>
+<div class="classePrestige1">
+    <h3>Classe de prestige : L'assassin</h3>
 
-	<h4>Dons</h4>
-	<p>Sauvegarde, combat.</p>
+    <p>L'assassin est un roublard spécialisé dans le meurtre et la tuerie. Il permet d'utiliser les sorts et techniques suivantes : </p>
+    <h4>Tranche-gorge</h4>
+    <p>Nécessite d'être de dos et d'être camouflé, c'est-à-dire ne pas avoir été vu par les ennemis au début du combat. Tranche la gorge de l'ennemi avec l'arme et le fait se vider de son sang.</p>
+    <h4>Frappe au point faible</h4>
+    <p>Inflige de lourds dégâts à un ennemi sans nécessiter de frapper par derrière.</p>
+    <h4>Fracture-cheville</h4>
+    <p>Inflige un violent coup à la cheville de l'ennemi, le faisant trébucher lors de sa prochaine tentative de déplacement.</p>
+</div>
 
-	<h4>Compétences</h4>
-	<p>Crochetage, équilibre, discrétion.</p>
 
-	<h4>Sorts et techniques</h4>
-	<p> i. Frappe pernicieuse
-Nécessite d'être de dos, frappe l'ennemi au point le plus fragile, lui infligeant de lourds dégâts.
- ii. Frappes rapides
-Frappe l'ennemi à deux reprises très rapidement.
- iii. Frappe étourdissante
-Nécessite d'être de dos, frappe l'ennemi au point le plus sensible, l'étourdissant pour un court laps de temps.</p>
-
-	<h4>Classes de prestige</h4>
-	<p>- L'assassin : Roublard spécialisé dans le meurtre et la tuerie. Il permet d'utiliser les sorts et techniques suivantes : 
- i. Tranche-gorge
-Nécessite d'être de dos et d'être camouflé, c'est-à-dire ne pas avoir été vu par les ennemis au début du combat. Tranche la gorge de l'ennemi avec l'arme et le fait se vider de son sang.
- ii. Frappe au point faible
-Inflige de lourds dégâts à un ennemi sans nécessiter de frapper par derrière.
- iii. Fracture-cheville
-Inflige un violent coup à la cheville de l'ennemi, le faisant trébucher lors de sa prochaine tentative de déplacement.
-
-- Le fourbe : roublard spécialisé dans la discrétion et la tromperie. Il permet d'utiliser les sorts et techniques suivantes :
- i. Poudre aux yeux
-Jette de la poudre très fine au visage des ennemis, les aveuglant pour un court laps de temps.
- ii. Illusion
-Le fourbe se confond dans le paysage et peut faire croire à ses ennemis qu'il est présent à un autre endroit.
- iii. Retrait de précaution
-Permet au fourbe de se mettre rapidement hors de portée de ses ennemis.</p>
+ <div class="classePrestige2">
+    <h3>Classe de prestige : Le fourbe</h3>
+    <p>Le fourbe est un roublard spécialisé dans la discrétion et la tromperie. Il permet d'utiliser les sorts et techniques suivantes :</p>
+    <h4>Poudre aux yeux</h4>
+    <p>Jette de la poudre très fine au visage des ennemis, les aveuglant pour un court laps de temps.</p>
+    <h4>Illusion</h4>
+    <p>Le fourbe se confond dans le paysage et peut faire croire à ses ennemis qu'il est présent à un autre endroit.</p>
+    <h4>Retrait de précaution</h4>
+    <p>Permet au fourbe de se mettre rapidement hors de portée de ses ennemis.</p>
+</div>
