@@ -1,6 +1,6 @@
 <h1>Les classes</h1>
 
-<p>Le joueur a le choix entre cinq voies principales pour choisir son personnage.</p><br />
+<p>Le joueur a le choix entre cinq voies principales pour choisir son personnage. Il faut ensuite choisir une classe de personnage.</p><br />
 
 <div id="classesMagie">
     <h3>La voie de la magie</h3>
@@ -31,7 +31,7 @@
 
 
 <div id="classesNature">
-    <h3>La voie de la Nature</h3>
+    <h3>La voie de la nature</h3>
     <br />
     
     <h4>Le druide</h4>

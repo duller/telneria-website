@@ -59,17 +59,15 @@ table
 
 td
 {
-	width: 100px;
-	height: 30px;		
-	border: 1px solid black;
+	width: 80px;
+        border: 1px solid black;
         padding: 5px;
 }
 
 tr
 {
-	width: 100px;
-	height: 30px;		
-	border: 1px solid black;
+	
+        border: 1px solid black;
 }
 
 .ptab
@@ -127,6 +125,6 @@ h4
 
 .imagePersonnage
 {
-    max-width: 400px;
-    max-height: 500px;
+    max-width:100%;
+    max-height: 510px;
 }

@@ -1,7 +1,9 @@
 <h1>Les races</h1>
 
+<p>Le joueur a le choix entre dix races de personnages. Il faut en choisir une, sachant que toutes les races ne donnent pas accès à toutes les classes.</p>
+
 <br />
-<h2>Récapitulatif des classes disponibles en fonction des races :</h2>
+<h2>Tableau des classes disponibles en fonction des races :</h2>
 <br />
 
 <table>
@@ -29,15 +31,15 @@
 			<p class="ptab">Clerc</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -48,15 +50,15 @@
 			<p class="ptab">Magicien</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -66,18 +68,18 @@
 			<p class="ptab">Sorcier</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 	<tr>
@@ -85,16 +87,16 @@
 			<p class="ptab">Roublard</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -104,15 +106,15 @@
 			<p class="ptab">Rôdeur</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -128,7 +130,7 @@
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -146,7 +148,7 @@
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 	<tr>
@@ -154,18 +156,18 @@
 			<p class="ptab">Guerrier</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 	<tr>
@@ -173,12 +175,12 @@
 			<p class="ptab">Paladin</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -191,17 +193,17 @@
 			<p class="ptab">Sombregarde</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 </table>
@@ -249,19 +251,19 @@
 			<p class="ptab">Magicien</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 	<tr>
@@ -271,15 +273,15 @@
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 	<tr>
@@ -287,15 +289,15 @@
 			<p class="ptab">Roublard</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -305,16 +307,16 @@
 			<p class="ptab">Rôdeur</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -324,12 +326,12 @@
 			<p class="ptab">Druide</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -341,17 +343,17 @@
 			<p class="ptab">Chaman</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 	<tr>
@@ -359,15 +361,15 @@
 			<p class="ptab">Guerrier</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
 		</td>
@@ -399,10 +401,12 @@
 		<td>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 		<td>
-			<p class="ptab"><input type="checkbox" checked="checked" disabled="true"/></p>
+			<p class="ptab">O</p>
 		</td>
 	</tr>
 </table>
+
+<!--<input type="checkbox" checked="checked" disabled="true"/>-->

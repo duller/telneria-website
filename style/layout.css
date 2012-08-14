@@ -61,7 +61,7 @@ body
 	border: 1px solid #000;
 	float:left;
 	width:10%;
-	min-height: 500px;
+	min-height: 560px;
         
 	padding-top:10px;
         padding-left:1%;
@@ -84,7 +84,7 @@ body
 	float:left;
 	width:83%;
 	
-	min-height:500px;
+	min-height:560px;
 	
 	padding-top:10px;
         padding-left:1%;
@@ -132,9 +132,13 @@ body
 	
 	font-weight:bold;
 	
-	margin-bottom:1%;
+	margin-bottom:2%;
         
         display:block;
+        
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
 }
 
 .menuElement
@@ -147,10 +151,13 @@ body
 	height:25px;
 	width:100%;
 	
-	margin-bottom:1%;
+	margin-bottom:2%;
 	
 	background-color:#FFFFFF;
         display:block;
+        
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 14px;
 }
 
 .menuElement:link
@@ -183,8 +190,8 @@ body
 {
 	border: 1px solid #000;
         float:left;
-	width:46%;
-        min-height:300px;
+	width:45%;
+        min-height:330px;
         
         margin-top:10px;
 	margin-left:1%;
@@ -201,8 +208,8 @@ body
 {
 	border: 1px solid #000;
         float:left;
-	width:46%;
-        min-height:300px;
+	width:45%;
+        min-height:330px;
         
         margin-top:10px;
 	margin-left:1%;
@@ -219,8 +226,8 @@ body
 {
 	border: 1px solid #000;
         float:left;
-	width:46%;
-        min-height:300px;
+	width:45%;
+        min-height:330px;
         
         margin-top:10px;
 	margin-left:1%;
@@ -237,8 +244,8 @@ body
 {
 	border: 1px solid #000;
         float:left;
-	width:46%;
-        min-height:300px;
+	width:45%;
+        min-height:330px;
         
         margin-top:10px;
 	margin-left:1%;
@@ -257,7 +264,7 @@ body
         float:left;
 	width : 50%;
         
-        min-height:300px;
+        min-height:330px;
         
         margin-left: 25%;
         margin-top:10px;
