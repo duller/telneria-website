@@ -22,7 +22,7 @@
 
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/NainClerc.jpg"></p>
     <p>Un clerc nain</p>
 </div>
   

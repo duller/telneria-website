@@ -10,6 +10,6 @@
 </div>
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/HumainPaladin.jpg"></p>
     <p>Un humain paladin</p>
 </div>

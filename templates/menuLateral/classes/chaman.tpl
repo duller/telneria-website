@@ -22,7 +22,7 @@
 
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/CheptegChaman.jpg"></p>
     <p>Un chaman chepteg</p>
 </div>
   

@@ -23,7 +23,7 @@
 
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/DraconideSombregarde.jpg"></p>
     <p>Un sombregarde draconide</p>
 </div>
   

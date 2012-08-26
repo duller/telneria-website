@@ -23,7 +23,7 @@
 
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/NeltarienneRoublarde.jpg"></p>
     <p>Une roublarde neltarienne</p>
 </div>
   

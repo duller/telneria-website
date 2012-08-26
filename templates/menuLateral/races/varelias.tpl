@@ -9,6 +9,6 @@
 </div>
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/VareliasDruide.jpg"></p>
     <p>Un varelias druide</p>
 </div>

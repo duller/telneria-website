@@ -8,6 +8,6 @@
 </div>
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/KerfennMagicien.jpg"></p>
     <p>Un kerfenn magicien</p>
 </div>

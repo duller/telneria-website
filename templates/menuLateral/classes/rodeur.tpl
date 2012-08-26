@@ -23,7 +23,7 @@
 
 
 <div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/draconide.jpg"></p>
+    <p><img class="imagePersonnage" src="ressources/ImagesRaces/ElfeRodeuse.jpg"></p>
     <p>Une rôdeuse elfe</p>
 </div>
   
