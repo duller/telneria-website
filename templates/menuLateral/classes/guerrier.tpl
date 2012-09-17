@@ -2,7 +2,7 @@
 
 <div class="descriptionClasse">
 	<h4>Description</h4>
-	<p>Le guerrier est un combattant polyvalent et résistant. Il est apte à manier tout type d'armes pour tout combat.
+	<p>Le guerrier est un combattant polyvalent et résistant. Il est apte à manier tout type d'arme pour tout combat.
 	</p>
 
 	<h4>Armures</h4>
@@ -117,7 +117,7 @@
 <div class="classePrestige1">
     <h3>Classe de prestige : Le barbare</h3>
 
-    <p> Le barbare est un guerrier brutal orienté vers un type de combat primitif. Il permet d'utiliser les sorts et techniques suivantes</p>
+    <p> Le barbare est un guerrier brutal orienté vers un type de combat primitif. Il permet d'utiliser les sorts et techniques suivantes :</p>
     <h4>Fureur sanguinaire</h4>
     <p>Permet trois frappes simultanées, mais réduit fortement la défense du barbare pour un court laps de temps.</p>
     <h4>Frappe ambidextre</h4>

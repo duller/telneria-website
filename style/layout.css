@@ -2,7 +2,11 @@
 
 body
 {
-	background-color:#E9E79E;
+	/*background-color:#E9E79E;*/
+        background-image:url('../ressources/FondParchemin.jpg');
+        /*background-repeat:no-repeat;
+	background-position:left;
+        background-position:100% 100%;*/
 	padding:0px;
 	margin:0px;
 }
@@ -25,6 +29,7 @@ body
 	margin-right:1%;
 	margin-bottom:10px;
         
+        /*background-image: url('../ressources/FondParcheminFonce.jpg');*/
 	background-image:url('../ressources/header.png');
 	background-repeat:no-repeat;
 	background-position:left;
@@ -52,7 +57,8 @@ body
 	margin-bottom:10px;
         
 	text-align:right;
-	background-color:#AE803C;
+	/*background-color:#AE803C;*/
+        background-image: url('../ressources/FondParcheminFonce.jpg');
 }
 
 /* Le menu de gauche au milieu */
@@ -73,7 +79,8 @@ body
 	margin-right:0%;
 	margin-bottom:10px;
         
-	background-color: #D06E3D;
+	/*background-color: #D06E3D;*/
+        background-image: url('../ressources/FondParcheminRouge.jpg');
 }
 
 /* La zone centrale à droite du menu principal */
@@ -96,7 +103,8 @@ body
 	margin-right:0%;
 	margin-bottom:10px;
 	
-	background-color:#FFFFFF;
+	/*background-color:#FFFFFF;*/
+        background-image: url('../ressources/FondParcheminClair.jpg');
 
 }
 
@@ -118,7 +126,8 @@ body
 	margin-right:1%;
 	margin-bottom:10px;
 	
-        background-color:#AE803C;
+        /*background-color:#AE803C;*/
+        background-image: url('../ressources/FondParcheminFonce.jpg');
         
         text-align: center;
 }
@@ -158,6 +167,8 @@ body
         
         font-family: Verdana, Geneva, sans-serif;
         font-size: 14px;
+        
+        background-image: url('../ressources/FondParcheminClair.jpg');
 }
 
 .menuElement:link
