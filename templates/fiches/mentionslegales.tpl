@@ -12,4 +12,4 @@
 
 <h3>Contact</h3>
 <p>Pour toute question, vous pouvez contacter l'auteur du site à l'adresse suivante : 
-    <a href="mailo:francois.commerce@gmail.com">francois.commerce@gmail.com</mailto></p>
+    <a href="mailto:francois.commerce@gmail.com">francois.commerce@gmail.com</mailto></p>
