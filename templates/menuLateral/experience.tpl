@@ -4,7 +4,9 @@
 <p>Les joueurs gagnent de l'expérience lorsqu'ils participent à un combat qui résulte en la mort d'une créature.</p>
 <p>Les points d'expérience octroyés sont à l'appréciation du MJ.</p>
 <p>Il faut acquérir 100 points d'expérience pour passer au niveau suivant. 
-    Les points d'expérience continuent à augmenter, il faut attendre 200 points d'expériences pour passer au niveau 3 et ainsi de suite. </p>
+    Les points d'expérience continuent à augmenter, il faut attendre 200 points d'expériences pour passer 
+    au niveau 3 et ainsi de suite. </p>
+<p>Au niveau 5, le joueur doit choisir une classe de prestige.</p>
 <br />
 
 <h2>Les niveaux</h2>

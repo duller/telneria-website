@@ -134,7 +134,7 @@
     <h4>Frappe de sang</h4>
     <p>Puissante frappe infligeant de lourds dégâts à l'ennemi et lui volant de la vie.</p>
     <h4>Percée hémophile</h4>
-    <p>Coup de taille portée à un ennemi le faisant saigner abondamment jusqu'au trépas.</p>
+    <p>Coup de taille porté à un ennemi le faisant saigner abondamment jusqu'au trépas.</p>
     <h4>Morsure débilitante</h4>
     <p>Le vampiriste plante ses crocs dans la chair de l'ennemi afin de l'immobiliser et de lui voler de la vie.</p>
 </div>

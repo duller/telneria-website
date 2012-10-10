@@ -1,6 +1,7 @@
 
 
 <form action="?Page=fiches/recherche" method="POST">
+    <!--
     <label for="tb_recherche">Recherche</label>
     <select>
         <option value="tous">Tout le site</option>
@@ -10,4 +11,5 @@
     </select>
     <input id="tb_recherche" type="text">
     <input onclick="alert('Non implementé')" type="submit">
+    -->
 </form>

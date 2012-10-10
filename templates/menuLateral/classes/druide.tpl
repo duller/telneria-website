@@ -9,7 +9,7 @@
 	<p>Tissu, cuir.</p>
 
 	<h4>Armes</h4>
-	<p>dagues, toutes masses, bâtons.</p>
+	<p>Dagues, toutes masses, bâtons.</p>
 
 	<h4>Alignement</h4>
 	<p>Habituellement loyal neutre, ne peut être mauvais.</p>
