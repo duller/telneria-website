@@ -1,5 +1,8 @@
 <h1>Les caractéristiques</h1>
 
+<p>Lors de l'utilisation d'une caractéristique pour une action, on prend son modificateur associé. Le calcul du modificateur se trouve dans le tableau au bas de cette page.</p>
+<p>Les caractéristiques impactent les jets de dés lors de l'utilisation des compétences, on peut se reporter à la section des compétences pour savoir quelle caractéristique est 
+    utilisée pour quelle compétence. En dehors des compétences, les caractéristiques ont également une utilité propre détaillée sur cette page.</p>
 
 <h3>Force</h3>
 <p>Le modificateur de force modifie le dé de toucher au corps-à-corps.</p><br />
@@ -8,10 +11,11 @@
 <p>Le modificateur de dexterité modifie le dé de toucher à distance et le jet d'initiative en début de combat. Il modifie également la classe d'armure.</p><br />
 
 <h3>Constitution</h3>
-<p>Le modificateur de constitution détermine le nombre de points de vie de base et gagnés à chaque niveau.</p><br />
+<p>Le modificateur de constitution détermine le nombre de points de vie gagnés à chaque niveau.</p><br />
 
 <h3>Intelligence</h3>
-<p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs ainsi que la détermination des caractéristiques.</p><br />
+<p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs, la nombre de points de mana gagnés à chaque niveau
+    ainsi que le gain des points de compétence.</p><br />
 
 <h3>Sagesse</h3>
 <p>Le modificateur de sagesse modifie le dé de toucher avec les sorts de soins.</p><br />

@@ -6,7 +6,7 @@
         <meta http-equiv="Content-Language" content="fr">
 
         <meta name="keywords" lang="fr" content="jeu de rôle, medieval, fantasy">
-        <meta name="description" content="Les légendes de Telnaria - le site internet">
+        <meta name="description" content="Les légendes de Telneria - le site internet">
                 
         <link rel="stylesheet" href="style/layout.css">
         <link rel="stylesheet" href="style/style.css">
@@ -21,7 +21,7 @@
         <div id="menu">{include file="menu.tpl"}</div>
         <div id="content">{include file=$page}</div>
     	<div id="footer">{include file="footer.tpl"}</div>
-        <div id="hidden">François Ripp, Jérôme Rotfarb : Creative Commons by-nc-sa & GPL V3</div>
+        <div id="hidden">François Ripp : Creative Commons by-nc-sa & GPL V3</div>
     </body>
 </html>
 
