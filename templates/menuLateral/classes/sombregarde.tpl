@@ -19,6 +19,9 @@
 
 	<h4>Compétences</h4>
 	<p>Psychologie, bluff, intimidation.</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FicheSombregarde.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 

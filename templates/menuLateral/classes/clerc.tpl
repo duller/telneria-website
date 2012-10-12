@@ -18,6 +18,9 @@
 
     <h4>Compétences</h4>
     <p>Concentration, connaissances, premiers secours</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FicheClerc.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 

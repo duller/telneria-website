@@ -19,6 +19,9 @@
 
 	<h4>Compétences</h4>
 	<p>Détection, premiers secours, concentration.</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FicheDruide.pdf">Fiche de personnage au format pdf</a>
 </div>
     
 

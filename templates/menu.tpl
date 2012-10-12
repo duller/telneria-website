@@ -17,6 +17,7 @@
 
 <br />
 <span class="menuParent">Monde</span>
+<a href="?Page=menuLateral/telneria"><span class="menuElement">Telneria</span></a>
 <a href="?Page=menuLateral/equipement"><span class="menuElement">Équipement</span></a>
 <a href="?Page=menuLateral/monstres"><span class="menuElement">Monstres</span></a>
 

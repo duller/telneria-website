@@ -1,4 +1,4 @@
-
+<!--
 <p>
 <a class="lienBlanc" href="?Page=accueil">Accueil</a><br>
 
@@ -12,4 +12,4 @@
 <a class="lienBlanc" href="?Page=gestionCompte/connexion">Connexion</a><br>
 <a class="lienBlanc" href="?Page=gestionCompte/inscription">Inscription</a>
 {/if}
-</p>
+</p>-->

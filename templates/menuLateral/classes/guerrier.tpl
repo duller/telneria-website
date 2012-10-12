@@ -18,6 +18,9 @@
 
 	<h4>Compétences</h4>
 	<p>Intimidation, saut, escalade.</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FicheGuerrier.pdf">Fiche de personnage au format pdf</a>
         
 </div>
 

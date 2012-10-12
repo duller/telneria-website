@@ -19,6 +19,9 @@
 
 	<h4>Compétences</h4>
 	<p>Concentration, psychologie, bluff.</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FicheSorcier.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 

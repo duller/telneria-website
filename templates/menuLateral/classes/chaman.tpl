@@ -1,5 +1,6 @@
 <h1>Le chaman</h1>
 
+
 <div class="descriptionClasse">
 <h4>Description</h4>
     <p>Le chaman est un guide spirituel. Il communique avec les éléments et les esprits.</p>
@@ -18,6 +19,9 @@
 
     <h4>Compétences</h4>
     <p>Concentration, premiers secours, psychologie.</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FicheChaman.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 

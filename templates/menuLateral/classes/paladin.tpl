@@ -19,6 +19,9 @@
 
 	<h4>Compétences</h4>
 	<p>Diplomatie, psychologie, premiers secours.</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FichePaladin.pdf">Fiche de personnage au format pdf</a>
 </div>
         
 <div class="classeImage">

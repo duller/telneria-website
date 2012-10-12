@@ -19,6 +19,9 @@
 
 	<h4>Compétences</h4>
 	<p>Dressage, perception auditive, renseignements.</p>
+    
+    <br /><br />
+    <a href="ressources/PdfFichesPerso/FicheRodeur.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 
