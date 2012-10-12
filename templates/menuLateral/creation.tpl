@@ -20,7 +20,7 @@
 
 <h3>Les caractéristiques</h3>
 <p>Le joueur détermine au début du jeu les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> de son personnage, 
-    ces informations sont dépendantes de la classe et sont complétées par 4d2 pour chaque caractéristique.</p><br />
+    ces informations sont dépendantes de la classe et sont complétées par 1d2 pour chaque caractéristique.</p><br />
 
 <h3>Les compétences</h3>
 <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage en fonction de sa classe.<br /> 
