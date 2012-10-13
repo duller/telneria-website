@@ -2,11 +2,11 @@
 
 <h3>La classe</h3>
 <p>Le joueur doit choisir une <a href="?Page=menuLateral/classes">classe</a>, il ne peut en choisir qu'une seule. 
-    Il faut le faire en concordance avec la race, un tableau de correspondance classe/race est disponible à la fin du chapitre sur les races.</p><br />
+    Il faut le faire en concordance avec la race, un tableau de correspondance classe/race est disponible à la fin de cette page.</p><br />
 
 <h3>La race</h3>
 <p>Le joueur doit choisir une <a href="?Page=menuLateral/races">race</a>, il ne peut en choisir qu'une seule, toutes les races ne peuvent pas être toutes les classes, 
-    il faut se reporter aux descriptions des différentes races pour plus de précisions.</p><br />
+    il faut se reporter au tableau à la fin de cette page.</p><br />
 
 <h3>L'alignement</h3>
 <p>Le joueur doit choisir son <a href="?Page=menuLateral/alignement">alignement</a>, il faut choisir la composante éthique et la composante morale.</p><br />
@@ -27,3 +27,757 @@
     Le nombre de points à investir est de 4+2d4+modificateur d'intelligence.<br /> 
     Le maximum de points par compétence est 3 au niveau 1; 
     pour les compétences spécifiques à la classe, un point supplémentaire déjà affiché sur la fiche de personnage est attribué.</p>
+
+
+<br />
+<h2>Tableau des classes disponibles en fonction des races :</h2>
+<br />
+
+<table>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/humain">Humain</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/kerfenn">Kerfenn</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/nain">Nain</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/elfe">Elfe</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/orc">Orc</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/chepteg">Chepteg</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/murvien">Murvien</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/varelias">Varelias</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/neltarien">Neltarien</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/dragonide">Dragonide</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/clerc">Clerc</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		</td>
+                </td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/magicien">Magicien</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+                <td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/sorcier">Sorcier</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+                <td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/roublard">Roublard</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/rodeur">Rôdeur</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/classes/druide">Druide</a></p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/chaman">Chaman</a></p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/guerrier">Guerrier</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/classes/paladin">Paladin</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		</td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/classes/sombregarde">Sombregarde</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+</table>
+
+<!--
+<table>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/humain">Humain</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/kerfenn">Kerfenn</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/nain">Nain</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/elfe">Elfe</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/orc">Orc</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+                    <p class="ptab"><a href="?Page=menuLateral/classes/clerc">Clerc</a></p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Magicien</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Sorcier</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Roublard</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Rôdeur</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Druide</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Chaman</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Guerrier</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Paladin</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Sombregarde</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+</table>
+
+<br />
+
+<table>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/chepteg">Chepteg</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/murvien">Murvien</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/varelias">Varelias</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/neltarien">Neltarien</a></p>
+		</td>
+		<td>
+			<p class="ptab"><a href="?Page=menuLateral/races/dragonide">Dragonide</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Clerc</p>
+		</td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Magicien</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Sorcier</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Roublard</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Rôdeur</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Druide</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Chaman</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Guerrier</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Paladin</p>
+		</td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p class="ptab">Sombregarde</p>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+		<td>
+			<p class="ptab">O</p>
+		</td>
+	</tr>
+</table>
+-->

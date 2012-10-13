@@ -21,7 +21,7 @@
         <div id="menu">{include file="menu.tpl"}</div>
         <div id="content">{include file=$page}</div>
     	<div id="footer">{include file="footer.tpl"}</div>
-        <div id="hidden">François Ripp : Creative Commons by-nc-sa & GPL V3</div>
+        <div id="hidden">François Ripp : Creative Commons by-nc-sa & GPL</div>
     </body>
 </html>
 

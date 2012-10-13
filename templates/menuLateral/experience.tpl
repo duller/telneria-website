@@ -13,3 +13,7 @@
 <p>À chaque niveau, les joueurs gagnent 1d2 de chaque caractéristique et 2d2 points de compétences à distribuer. 
     Le maximum de chaque compétence monte d'un point chaque niveau pair.</p>
 <p>À chaque niveau, le nombre de points de vie et de mana augmente de 1d4 plus le modificateur respectivement de constitution et d'intelligence.</p>
+
+<h2>La maîtrise du Telnas</h2>
+<p>À chaque gain de niveau par un personnage, il a une petite chance de progresser dans son niveau de maîtrise du Telnas.</p>
+<p>Le telnas est une matérialisation pseudo-solide d</p>

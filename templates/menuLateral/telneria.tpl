@@ -4,13 +4,14 @@
 
 <h3>Istnor</h3>
 <p>Petite île au nord-ouest de Telneria, Istnor est une contrée froide et peu habitée.</p>
-<p>Terre d'origine des Chepteg dans les forêts au nord de l'île et des Varelias au sud. Istville est une ville de taille moyenne abritant les aînés des Varelias.</p>
-<p>La mer environnante est gelé la plupart des temps, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
-    cromlechs des transports pour les rares qui en connaissant l'existence.</p>
+<p>Elle est la terre d'origine des Chepteg dans les forêts au nord de l'île et des Varelias au sud. La plus grande cité de l'île est Istville, une ville de taille moyenne abritant les aînés des Varelias.</p>
+<p>La mer environnante est gelée la plupart des temps, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
+    cromlech des transports pour les rares qui en connaissant l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé symbolisant
+la disposition de chacun des pierres formant l'édifice.</p>
 <br />
 
 <h3>Veldris</h3>
-<p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'est jusqu'à l'île de Ferestos à l'est.</p>
+<p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'ouest jusqu'à l'île de Ferestos à l'est.</p>
 <p>Le nord-ouest du continent est peuplé par les Neltariens, avec Norska comme ville-sanctuaire.</p>
 <p>Au centre-nord, on trouve de nombreuses tribus d'Orcs inféodées au suzerain orc de la cité de Trollnordh, cité bâtie sur les restes des derniers refuges des trolls sauvages.</p>
 <p>Au nord-est, on trouve la cité sylvaine de Prenence, capitale des Elfes des forêts.</p>
@@ -35,12 +36,13 @@ et Estrhan.</p>
 <h3>Les unités de temps</h3>
 <p>Le temps dans le monde de Telneria est basé sur la différence entre deux levers de soleil, c'est-à-dire une levée.</p>
 <p>Chaque levée est séparée en 24 heures, chaque heure est ensuite séparée en 12 mitres.</p>
-<p>Une lune est composée de 36 journées, tandis que 12 lunes forment un cycle. Le cycle est utilisé par les habitants pour indiquer leurs âges ou les périodes de règne.</p>
+<p>Une lune est composée de 36 journées, tandis que 12 lunes forment un cycle. Le cycle est utilisé par les habitants pour indiquer leur âge ou les périodes de règne.</p>
 
 <h3>Les unités de mesure</h3>
 <p>L'utilisation du pas, de la longue et de la lieue est répandue sur l'ensemble des quatre continents, à l'exception de quelques tribus nomades de Mestrhune.</p>
 <p>Le pas correspond à une enjambée d'un nain adulte. Le quart-pas est la plus petite unité, il faut quatre quart-pas pour faire un pas.</p>
-<p>La longue est utilisée pour mesurer les distances à l'intérieur d'un village et d'une ville, ou exceptionnellement pour les très grands édifices.</p>
+<p>La longue est utilisée pour mesurer les distances à l'intérieur d'un village et d'une ville, ou exceptionnellement pour les très grands édifices ; 
+    il faut douze pas pour faire une longue.</p>
 <p>Pour les grandes distances de déplacement ou pour le cadastre, c'est la lieue qui est utilisée. La lieue correspond à une heure de marche pour un nain adulte.</p>
 
 <h3>Les unités de poids</h3>
@@ -48,5 +50,5 @@ et Estrhan.</p>
 <p>La nanite est également utilisée pour indiquer des poids plus importants. Une nanite correspond au poids de la lame d'une hache naine traditionnelle, elle correspond à 12 ould.</p>
 
 <h3>La monnaie</h3>
-<p>De nombreuses monnaies locales sont utilisées sur les quatre continents de Telneria.
+<p>De nombreuses monnaies locales sont utilisées sur les quatre continents de Telneria, elles sont généralement en minerai rare tel l'or ou l'argent, et n'ont que rarement des effigies.
     Cepdendant, les monnaies frappées par le prince de Vesnoth, le vescu, et le carn de Carnum, le mestol, sont acceptées dans la plupart des places marchandes du monde.</p>

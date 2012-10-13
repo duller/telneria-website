@@ -11,7 +11,8 @@
     sont sous licence CC-by-nc-sa 3.0 .</p>
 
 <br />
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License"  src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target=_blank">
+    <img alt="Creative Commons License"  src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
 <br /><br />
 
 <p>Textes : François Ripp.</p>
@@ -19,6 +20,12 @@
 <p>Carte du monde : Geoffrey Vallin.</p>
 
 <br /><br />
-<h3>Contact</h3>
-<p>Pour toute question, vous pouvez contacter l'auteur du site à l'adresse suivante : 
+<h3>Contacter l'auteur</h3>
+<p>Développeur d'applications résidant à Strasbourg, François Ripp écrit également des romans qu'il publie sous licence libre sur la plateforme 
+    InLibroVeritas, vous pouvez trouver ses oeuvres déjà publiées 
+    <a href="http://www.inlibroveritas.net/auteur22615.html" target="_blank">à cette adresse</a>.</p>
+
+<br />
+
+<p>Pour toute question, vous pouvez le contacter à l'adresse suivante : 
     <a href="mailto:francois.commerce@gmail.com">francois.commerce@gmail.com</mailto></p>
