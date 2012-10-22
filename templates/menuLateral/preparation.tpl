@@ -21,3 +21,5 @@ d'un groupe de fanatiques qui sacrifient des humains pour apaiser la colère des
 de dialogues ou d'affiliation importants.</p>
 <p>Pour les personnages importants de l'histoire, il faut s'assurer que les échanges qu'ils vont tenir avec les joueurs soient en concordance avec le scénario et avec les autres personnages 
 non-joueurs (PNJ) que les personnages-joueurs (PJ) rencontrent.</p>
+
+<!--A FAIRE : mettre les armures sous forme de tableau, faire des sous-pages pour le combat -->

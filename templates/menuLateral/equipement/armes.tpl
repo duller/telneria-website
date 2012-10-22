@@ -1,49 +1,330 @@
- i. Les épées<br />
- a) A une main<br />
-Epée fine rouillée, 1d2, 10po.<br />
-Epée fine aiguisée, 1d4, 25po.<br />
-Lame d'acier trempée, 1d6, 40po.<br />
- b) A deux mains<br />
-Grande épée abîmée, 1d6, 20po.<br />
-Epée large forgée, 1d8, 35po.<br />
-Espadon tranchant, 1d10, 60po.<br /><br />
- ii. Les haches<br />
- a) A une main<br />
-Petite hache en silex, 1d2, 10po.<br />
-Hache moyenne en fer, 1d4, 25po.<br />
-Hache tranchante équilibrée, 1d6, 60po.<br />
- b) A deux mains<br />
-Hache massive grossière, 1d6, 20po.<br />
-Hache double en acier, 1d8, 35po.<br />
-Hache lourde des montagnes, 1d10, 60po.<br /><br />
- iii. Les masses<br />
- a) A une main<br />
-Masse légère, 1d2, 10po.<br />
-Masse barbelée, 1d4, 25po.<br />
-Morgenstern, 1d6, 40po.<br />
- b) A deux mains<br />
-Cognée renforcée, 1d6, 20po.<br />
-Marteau de forgeron, 1d8, 35po.<br />
-Grande masse de guerre, 1d10, 60po.<br /><br />
- iv. Les armes d'hast<br />
-Lance taillée, 1d6, 20po.<br />
-Longue lance forgée, 1d8, 35po.<br />
-Hallebarde, 1d10, 60po.<br /><br />
- v. Les dagues<br />
-Petite dague, 1d2, 10po.<br />
-Moyenne dague, 1d4, 25po.<br />
-Forte dague, 1d6, 40po.<br /><br />
- vi. Les bâtons<br />
-Bâton sylvestre, 1d6, 20po.<br />
-Bâton en chêne taillé, 1d8, 35po.<br />
-Bâton runique, 1d10, 60po.<br /><br />
- vii. Les baguettes<br />
-Baguette en bois d'if, 1d4, 20m, 10po.<br /><br />
- viii. Les arcs<br />
-Arc court en écorce, 1d6, 25m, 25po.<br />
-Arc long en sapin, 1d8, 30m, 40po.<br />
-Arc composite, 1d10, 30m, 60po. <br /><br />
- ix. Les arbalètes<br />
-Arbalète légère, 1d6, 30m, 35po.<br />
-Arbalète lourde, 1d8, 35m, 45po.<br />
-Arbalète lourde renforcée, 1d10, 40m, 65po.<br />
+<h1>Les armes</h1>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptabstrong">Nom</p></td>
+            <td class="tdEquipement"><p class="ptabstrong">Dégâts</p></td>
+            <td class="tdEquipement"><p class="ptabstrong">Portée</p></td>
+            <td class="tdEquipement"><p class="ptabstrong">Valeur</p></td>
+            <td class="tdEquipement"><p class="ptabstrong">Qualité</p></td>
+	</tr>
+</table>
+
+
+<h2>Épées</h2>
+
+<h3>À une main</h3>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Épée fine rouillée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d2</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">10 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Épée fine aiguisée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d4</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">25 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Lame d'acier trempée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">40 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h3>À deux mains</h3>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Grande épée abîmée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Épée large forgée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Espadon tranchant</p></td>
+            <td class="tdEquipement"><p class="ptab">1d10</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Haches</h2>
+
+<h3>À une main</h3>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Petite hache en silex</p></td>
+            <td class="tdEquipement"><p class="ptab">1d2</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">10 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Hache moyenne en fer</p></td>
+            <td class="tdEquipement"><p class="ptab">1d4</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">25 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Hache tranchante équilibrée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">40 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h3>À deux mains</h3>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Hache massive grossière</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Hache double en acier</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Hache lourde des montagnes</p></td>
+            <td class="tdEquipement"><p class="ptab">1d10</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Masses</h2>
+
+<h3>À une main</h3>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Masse légère</p></td>
+            <td class="tdEquipement"><p class="ptab">1d2</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">10 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Masse barbelée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d4</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">25 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Morgenstern</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">40 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h3>À deux mains</h3>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Cognée renforcée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Marteau de forgeron</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Grande masse de guerre</p></td>
+            <td class="tdEquipement"><p class="ptab">1d10</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Armes d'hast</h2>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Lance taillée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Longue lance forgée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Hallebarde</p></td>
+            <td class="tdEquipement"><p class="ptab">1d10</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Dagues</h2>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Dague en fer rouillée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d2</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">10 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Dague en os plaquée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d4</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">25 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Dague en acier courbée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">40 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Bâtons</h2>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Bâton sylvestre</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Bâton en chêne taillé</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Bâton runique</p></td>
+            <td class="tdEquipement"><p class="ptab">1d10</p></td>
+            <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
+            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Baguettes</h2>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Baguette en bois de hêtre</p></td>
+            <td class="tdEquipement"><p class="ptab">1d4</p></td>
+            <td class="tdEquipement"><p class="ptab">20m</p></td>
+            <td class="tdEquipement"><p class="ptab">10 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Baguette en bois d'if</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">20m</p></td>
+            <td class="tdEquipement"><p class="ptab">25 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Baguette en bois d'ébène</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">20m</p></td>
+            <td class="tdEquipement"><p class="ptab">40 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Arcs</h2>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Arc court en écorce</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">25m</p></td>
+            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Arc long en sapin</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">30m</p></td>
+            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Arc composite</p></td>
+            <td class="tdEquipement"><p class="ptab">1d10</p></td>
+            <td class="tdEquipement"><p class="ptab">35m</p></td>
+            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>
+
+<h2>Arbalètes</h2>
+
+<table>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Arbalète légère</p></td>
+            <td class="tdEquipement"><p class="ptab">1d6</p></td>
+            <td class="tdEquipement"><p class="ptab">30m</p></td>
+            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Arbalète lourde</p></td>
+            <td class="tdEquipement"><p class="ptab">1d8</p></td>
+            <td class="tdEquipement"><p class="ptab">35m</p></td>
+            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+	</tr>
+	<tr>
+            <td class="tdNomEquipement"><p class="ptab">Arbalète lourde renforcée</p></td>
+            <td class="tdEquipement"><p class="ptab">1d10</p></td>
+            <td class="tdEquipement"><p class="ptab">40m</p></td>
+            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+	</tr>
+</table>

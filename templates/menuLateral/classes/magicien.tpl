@@ -8,7 +8,7 @@
 	<p>Tissu.</p>
 
 	<h4>Armes</h4>
-	<p>Bâtons, dagues, épées à une mains, baguette.</p>
+	<p>Bâtons, dagues, épées à une mains, baguettes.</p>
 
 	<h4>Alignement</h4>
 	<p>Habituellement loyal neutre.</p>

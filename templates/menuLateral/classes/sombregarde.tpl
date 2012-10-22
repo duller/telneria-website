@@ -6,10 +6,10 @@
 	</p>
 
 	<h4>Armures</h4>
-	<p>Tissu, cuir, maille, plaques.</p>
+	<p>Tissu, cuir, maille, plaque.</p>
 
 	<h4>Armes</h4>
-	<p>Toute épées, toutes haches, armes d'hast, toutes masses.</p>
+	<p>Toutes épées, toutes haches, armes d'hast, toutes masses.</p>
 
 	<h4>Alignement</h4>
 	<p>Habituellement chaotique mauvais, ne peut être ni loyal, ni bon.</p>

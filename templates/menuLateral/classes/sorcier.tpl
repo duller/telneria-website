@@ -9,7 +9,7 @@
 	<p>Tissu.</p>
 
 	<h4>Armes</h4>
-	<p>Bâtons, dagues, épées à une main, baguette.</p>
+	<p>Bâtons, dagues, épées à une main, baguettes.</p>
 
 	<h4>Alignement</h4>
 	<p>Habituellement chaotique mauvais, ne peut être ni loyal, ni bon.</p>

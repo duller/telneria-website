@@ -12,8 +12,13 @@
 <p>Le joueur doit choisir son <a href="?Page=menuLateral/alignement">alignement</a>, il faut choisir la composante éthique et la composante morale.</p><br />
 
 <h3>L'équipement</h3>
-<p>Chaque joueur commence le jeu avec 100+1d100 po, il peut alors acheter des <a href="?Page=menuLateral/equipement">armes et armures</a> en fonction de ses richesses. 
-    L'équipement commun est détaillé dans la section spécifique.</p><br />
+<p>Chaque joueur commence le jeu avec 100+1d100 po.<p>
+<p>Il choisit ensuite une arme de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
+    sa classe lui permet.</p>
+<p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main.</p>
+<p>Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.</p>
+<p>Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
+<p>L'équipement se trouve dans la section des <a href="?Page=menuLateral/equipement">armes et armures</a>.</p><br />
 
 <h3>Les dons</h3>
 <p>Le joueur peut choisir deux <a href="?Page=menuLateral/dons">dons</a> au départ, les types de dons disponibles sont détaillées dans les descriptions de classes.</p><br />

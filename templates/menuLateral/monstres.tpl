@@ -31,6 +31,7 @@
 <h3>Les monstres personnalisés</h3>
 <p>Il est également possible de créer n'importe quel monstre imaginaire, 
     il faut cependant faire attention à ce que ses caractéristiques amènent à une difficulté appropriée par rapport au niveau des joueurs.</p>
+<br />
 <p>Voici l'ensemble des caractéristiques à définir pour un monstre personnalisé :</p>
 <br />
 
@@ -40,4 +41,4 @@
 <li>La taille (P pour un loup, M pour un zombie...)</li>
 <li>Les dégâts infligés (1d6 au niveau 1 pour une difficulté modérée...)</li>
 <li>Les sorts (boule de feu 1d6 de dégâts, contrôle mental d'un joueur pour 1 tour...)</li>
-<li>Le butin (10 pièces d'or, une dague rouillée...)</li>
+<li>Le butin (10 pièces d'or, un anneau magique...)</li>

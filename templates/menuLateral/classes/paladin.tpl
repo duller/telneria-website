@@ -6,7 +6,7 @@
 	</p>
 
 	<h4>Armures</h4>
-	<p>Tissu, cuir, maille, plaques, bouclier.</p>
+	<p>Tissu, cuir, maille, plaque, bouclier.</p>
 
 	<h4>Armes</h4>
 	<p>Toutes épées, toutes masses, haches à deux mains, armes d'hast.</p>
@@ -37,7 +37,7 @@
     <h4>Toucher sacré</h4>
     <p>Soigne un personnage allié du paladin et augmente temporairement son armure.</p>
     <h4>Exorcisme</h4>
-    <p>Attaque puissante infligeant de lours dégâts aux morts-vivants et aux démons, et réduisant leur capacité de mouvement.</p>
+    <p>Attaque puissante infligeant de lourds dégâts aux morts-vivants et aux démons, et réduisant leur capacité de mouvement.</p>
 </div>
 
 <div class="classeTableaux">
