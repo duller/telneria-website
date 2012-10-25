@@ -50,6 +50,12 @@ a:hover
         text-decoration: none;
 }
 
+a:active
+{
+        color:#9A783D;
+        text-decoration: none;
+}
+
 
 table
 {
@@ -79,7 +85,13 @@ tr
 
 .tdNomEquipement
 {
-	width: 240px;
+	width: 260px;
+        border: 1px solid black;
+        padding: 5px;
+}
+.tdEquipementReduc
+{
+	width: 200px;
         border: 1px solid black;
         padding: 5px;
 }
@@ -119,9 +131,37 @@ li
 h1
 {
     font-family: Geneva, sans-serif;
-    font-size: 22px;
+    font-size: 23px;
     font-weight: bold;
     color : #C03000;
+}
+
+h2 a:visited
+{
+    color : #B9121B;
+    text-decoration: none;
+    border: none;
+}
+
+h2 a:link
+{
+    color : #B9121B;
+    text-decoration: none;
+    border: none;
+}
+
+h2 a:hover
+{
+    color : #B9121B;
+    text-decoration: none;
+    border: none;
+}
+
+h2 a:active
+{
+    color : #B9121B;
+    text-decoration: none;
+    border: none;
 }
 
 h2

@@ -1,8 +1,9 @@
 <h1>L'équipement</h1>
 
-<p>
-<a href="?Page=menuLateral/equipement/armes"> Les armes</a>
+<p>Pour le combat, les joueurs peuvent porter l'équipement suivant :
+    <li>Les <a href="?Page=menuLateral/equipement/armes">armes</a>.</li> 
+    <li>Les <a href="?Page=menuLateral/equipement/armures">armures</a>.</li>
+    
 <br />
-<a href="?Page=menuLateral/equipement/armures"> Les armures</a>
-</p>
-<br />
+<p>L'équipement commun, tel que les cordes, l'huile ou les couvertures sont à décider par le MJ en fonction 
+    de la situation.</p>

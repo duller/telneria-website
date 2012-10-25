@@ -1,11 +1,77 @@
+{literal}
+<script type="text/javascript">
+function unhide(divID)
+{
+    var item = document.getElementById(divID);
+    if (item)
+    {
+       item.className=(item.className=='hidden')?'unhidden':'hidden';
+    }
+}
+   
+function hideAll()
+{
+    var listeDivId = new Array();
+    listeDivId[0] = "divInitiative";
+    listeDivId[1] = "divAttaque";
+    listeDivId[2] = "divModificateurs";
+    listeDivId[3] = "divIncapacite";
+    listeDivId[4] = "divTelnas";
+    
+    for (var i = 0; i < listeDivId.length; i++)
+    {
+        document.getElementById(listeDivId[i]).className = 'hidden';
+        /*if (listeDivId[i])
+        {
+            var item = document.getElementById(listeDivId[i]);
+        }
+        if (item)
+        {
+            item.classname = 'hidden';
+        }*/
+    }
+}
+    
+function unhideAll()
+{
+    var listeDivId = new Array();
+    listeDivId[0] = "divInitiative";
+    listeDivId[1] = "divAttaque";
+    listeDivId[2] = "divModificateurs";
+    listeDivId[3] = "divIncapacite";
+    listeDivId[4] = "divTelnas";
+    
+    for (var i = 0; i < listeDivId.length; i++)
+    {
+        document.getElementById(listeDivId[i]).className = 'unhidden';
+        /*if (listeDivId[i])
+        {
+            var item = document.getElementById(listeDivId[i]);
+        }
+        if (item)
+        {
+            item.classname = 'unhidden';
+        }*/
+    }
+}
+
+</script>
+{/literal}
+
 <h1>Le combat</h1>
 
-<h2>Initiative</h2>
+<p>Cliquez sur les titres pour dérouler le contenu. Vous pouvez également tout 
+    <a href="javascript:unhideAll();">dérouler</a> ou tout <a href="javascript:hideAll();">cacher.</a></p>
+<br />
+
+<h2><a href="javascript:unhide('divInitiative');">Initiative et actions</a></h2>
+<div id="divInitiative" class="hidden">
+    <h3>Initiative</h3>
 <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu. Ce jet est modifié par la dextérité.</p>
 <p>L'initiative peut être modifié négativement si un protagoniste est pris par surprise ou est affairé à autre chose, c'est au MJ de le décider.</p>
 <br />
 
-<h2>Actions</h2>
+<h3>Actions</h3>
 <p>Les joueurs, ainsi que les monstres et pnj joués par le MJ, ont le choix entre plusieurs actions, qui sont complètes ou non.</p>
 <p>Sont considérées comme des actions complètes :</p>
 <p> > Se déplacer de 10m</p>
@@ -21,9 +87,12 @@
 <p>  > Changer d'arme</p>
 <p>  > Se déplacer de 5m</p>
 <p>  > Se mettre en position de défense, ce qui donne +1 à la CA.</p>
+</div>
 <br />
 
-<h2>Jet de toucher</h2>
+<h2><a href="javascript:unhide('divAttaque');">Les attaques et les jets de toucher</a></h2>
+<div id="divAttaque" class="hidden">
+<h3>Jet de toucher</h3>
 <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé de toucher pour savoir si son attaque est un succès ou un échec. 
     Les attaques au corps à corps sont modifiés par la force, 
     les attaques à distance sont modifiés par la dexterité, les sorts sont offensifs sont modifiés par l'intelligence, 
@@ -33,7 +102,20 @@
 <p>Le jet obtenu est comparé à la classe d'armure ou magique de la cible pour déterminer la réussite de l'action.</p>
 <br />
 
-<h2>Modificateurs de toucher : classe d'armure et classe magique</h2>
+<h3>Sorts et techniques</h3>
+
+<p>Les sorts et techniques sont déterminées en fonction des classes, la description de chaque classe indique leur nom et leur description.</p>
+<p>Chaque sort a un coût en mana fixe, les points de mana peuvent être récupérés hors combat en buvant ou en se reposant. 
+    Le coût réel du sort est le coût indiqué plus le niveau du personnage.</p>
+<p>Les sorts de soins touchent si le jet atteint la valeur 10, si le jet atteint 20, le soin est critique et est doublé. 
+    Le jet est modifié par la sagesse. Si le jet atteint de 6 à 9, le soin atteint tout de même sa cible, mais le soin est diminué de moitié. 
+    Si le jet donne 1, le soigneur subit 1 point de dégât.</p>
+<p>Les sorts offensifs touchent avec le modificateur d'intelligence et en fonction de la classe magique des ennemis.</p>
+</div>
+<br />
+
+<h2><a href="javascript:unhide('divModificateurs');">Modificateurs de toucher : classe d'armure et classe magique</a></h2>
+<div id="divModificateurs" class="hidden">
 <h3>Attaques physiques</h3>
 <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec la classe d'armure de la cible. 
     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés en fonction de l'arme utilisée.</p>
@@ -108,9 +190,11 @@
     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés par le sort utilisé.</p>
 <p>La classe magique est déterminée à partir de la classe magique de base, qui est de 10, des éventuelles pièces d'armures magiques, du charisme et du modificateur de taille.</p>
 <p>Les classes magiques les plus puissantes, à savoir clerc, sorcier, magicien et druide, ont un bonus de +1 à la classe magique.</p>
+</div>
 <br />
     
-<h2>Incapacités et mort</h2>
+<h2><a href="javascript:unhide('divIncapacite');">Incapacités et mort</a></h2>
+<div id="divIncapacite" class="hidden">
 <h3>Mise hors de combat</h3>
 <p>Lorsqu'un joueur ou un monstre voit ses points de vie atteindre 0, il devient inconscient et ne peut plus mener d'actions. 
     Si les points de vie d'un joueur atteignent -10, l'intéressé est mort et ni la fin du combat ni des soins d'un autre joueur ne peuvent rétablir la victime.</p>
@@ -130,13 +214,21 @@
     Si le jet atteint entre 5 et 9, la victime se relève mais s'écroule à nouveau une fois son action effectuée. 
     Si le jet est au moins de 10 , la victime se relève avec 3pv.</p>
 <p>Un échec critique achève le joueur, tandis qu'une réussite critique soigne le joueur pour 10pv.</p>
+</div>
 <br />
 
- <h2> Les sorts et techniques</h2>
-<p>Les sorts et techniques sont déterminées en fonction des classes, la description de chaque classe indique leur nom et leur description.</p>
-<p>Chaque sort a un coût en mana fixe, les points de mana peuvent être récupérés hors combat en buvant ou en se reposant. 
-    Le coût réel du sort est le coût indiqué plus le niveau du personnage.</p>
-<p>Les sorts de soins touchent si le jet atteint la valeur 10, si le jet atteint 20, le soin est critique et est doublé. 
-    Le jet est modifié par la sagesse. Si le jet atteint de 6 à 9, le soin atteint tout de même sa cible, mais le soin est diminué de moitié. 
-    Si le jet donne 1, le soigneur subit 1 point de dégât.</p>
-<p>Les sorts offensifs touchent avec le modificateur d'intelligence et en fonction de la classe magique des ennemis.</p>
+<h2><a href="javascript:unhide('divTelnas');">Le Telnas</a></h2>
+<div id="divTelnas" class="hidden">
+<p>Le Telnas est une matérialisation physique d'une forme très pure de magie des arcanes.</p>
+<p>Elle permet au joueur d'invoquer une épaisse fumée bleue qu'il peut contrôler à sa guise.</p>
+<p>Voici quelques exemples de l'utilisation du Telnas par ordre de difficulté :</p>
+<li>Matérialisation d'une clé pour ouvrir une serrure que le crochetage n'a pas permis de forcer.</li>
+<li>Matérialisation d'une épée infligeant des dégâts magiques aux spectres ou aux élémentaires.</li>
+<li>Matérialisation d'une sphère de protection autour du groupe de joueur.</li>
+
+<br />
+
+<p>Lors de l'utilisation du Telnas, le joueur décrit en détails ce qu'il essaye de faire. Le MJ estime ensuite le score
+nécessaire au dé 20 pour réussir l'action, ce score est pondéré par le niveau de maîtrise du Telnas du joueur.</p>
+
+</div>

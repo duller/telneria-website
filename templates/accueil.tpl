@@ -16,11 +16,14 @@
 écouter les aspirations du bas peuple ou à se préoccuper de l'émergence des sociétés non-humaines aux frontières des continents.</p>
 
 <br />
+<br />
+<br />
 
 <h2>Qu'est ce qu'un jeu de rôle ?</h2>
 <p>Le jeu de rôle consiste à vivre une aventure à plusieurs en s'imaginant la situation et en se mettant dans la peau de personnages fictifs.</p>
 <p>Les légendes de Telneria est un ensemble de règles, de descriptions et de fiches papiers permettant de mener à bien un tel jeu
     dans un univers de fantasy médiévale.</p>
+
 <p>Pour commencer un jeu de rôle, il faut au préalable <a href="?Page=menuLateral/creation">créer les personnages</a>
     de chacun des joueurs présents.</p>
 <p>C'est ensuite au MJ (maître du jeu, parfois appelé MD, maître du donjon) de mener ses compagnons dans l'aventure et de fournir le cadre 
@@ -28,7 +31,14 @@
 <p>Pour chaque aventure, il est conseillé au MJ de <a href="?Page=menuLateral/preparation">suivre un scénario</a> préparé à l'avance afin de profiter d'une histoire cohérente et intéressante.
 Le scénario peut être inventé par le MJ ou peut être trouvé sur internet, il existe de nombreux sites proposant des scénarios adaptés à un univers
 de fantasy médiévale, ce qu'est le monde de Telneria.</p>
+<br />
 
+<p>Les actions effectuées par les joueurs d'un jeu de rôle sont déterminées par la réussite au lancer de dé.</p>
+<p>Le dé le plus utilisé est le dé à 20 faces, noté 1d20. Si le joueur doit lancer plusieurs dés, 
+    c'est noté 2d8 pour jeter 2 dés à 8 faces.</p>
+
+<br />
+<br />
 <br />
 
 <h2>Les romans de l'univers de Telneria</h2>
