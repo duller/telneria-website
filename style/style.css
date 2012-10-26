@@ -59,40 +59,74 @@ a:active
 
 table
 {
-	border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+	border-collapse: separate;
+        border-spacing : 0;
         border: 1px;
+	border-radius:10px 10px 10px 10px;
 }
 
 td
 {
 	width: 80px;
-        border: 1px solid black;
+        border-top : 1px solid black;
+        border-left: 1px solid black;
         padding: 5px;
 }
 
-tr
+
+table tr:first-child td:first-child
 {
+    border-top-left-radius:10px;
+    border-top : 1px solid black;
+}
+
+table tr:first-child td:last-child
+{
+    border-top-right-radius:10px;
+    border-top : 1px solid black;
+}
+
+table tr:last-child td:first-child
+{
+    border-bottom-left-radius:10px;
+}
 	
-        border: 1px solid black;
+table tr:last-child td:last-child
+{
+    border-right : 1px solid black;
+    border-bottom-right-radius:10px;
+}
+
+table td:last-child
+{
+    border-right : 1px solid black;
+}
+
+table tr:first-child
+{
+    border-bottom : 1px solid black;
+    border-top : 1px solid black;
+}
+
+table tr:last-child td
+{
+    border-bottom : 1px solid black;
 }
 
 .tdEquipement
 {
 	width: 100px;
-        border: 1px solid black;
         padding: 5px;
 }
 
 .tdNomEquipement
 {
 	width: 260px;
-        border: 1px solid black;
         padding: 5px;
 }
 .tdEquipementReduc
 {
 	width: 200px;
-        border: 1px solid black;
         padding: 5px;
 }
 
@@ -190,12 +224,14 @@ h4
 
 .imagePersonnage
 {
+    border-radius: 20px;
     max-width:100%;
     max-height: 510px;
 }
 
 .imageCarte
 {
+    border-radius: 20px;
     max-width:100%;
     max-height: 900px;
 }
