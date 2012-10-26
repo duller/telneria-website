@@ -108,20 +108,26 @@ $(function ()
 
 <h3>Actions</h3>
 <p>Les joueurs, ainsi que les monstres et pnj joués par le MJ, ont le choix entre plusieurs actions, qui sont complètes ou non.</p>
+<br />
 <p>Sont considérées comme des actions complètes :</p>
-<p> > Se déplacer de 10m</p>
-<p>  > Fouiller, inspecter ou se concentrer</p>
-<p>  > Attaquer</p>
-<p>  > Lancer un sort</p>
+<ul>
+<li>Se déplacer de 10m</li>
+<li>Fouiller, inspecter ou se concentrer</li>
+<li>Attaquer</li>
+<li>Lancer un sort</li>
+</ul>
 <br />
 <p>Le joueur peut également effectuer plusieurs actions si elles ne sont pas complètes. 
     Il peut en l'occurrence charger et attaquer à la suite dans un maximum de 10 mètres, 
     la réussite est déterminée par un jet d'équilibre pour la charge et par un jet d'attaque classique pour l'attaque portée.</p><br />
 <p>Sont considérés comme des demi-actions :</p>
-<p>  > Utiliser un don</p>
-<p>  > Changer d'arme</p>
-<p>  > Se déplacer de 5m</p>
-<p>  > Se mettre en position de défense, ce qui donne +1 à la CA.</p>
+<ul>
+<li>Utiliser un don</li>
+<li>Changer d'arme</li>
+<li>Se déplacer de 5m</li>
+<li>Se mettre en position de défense, ce qui donne +1 à la CA.</li>
+<li>Se mettre en position d'attaque, ce qui donne +1 au prochain jet de toucher.</li>
+</ul>
 </div>
 <br />
 
@@ -257,9 +263,11 @@ $(function ()
 <p>Le Telnas est une matérialisation physique d'une forme très pure de magie des arcanes.</p>
 <p>Elle permet au joueur d'invoquer une épaisse fumée bleue qu'il peut contrôler à sa guise.</p>
 <p>Voici quelques exemples de l'utilisation du Telnas par ordre de difficulté :</p>
+<ul>
 <li>Matérialisation d'une clé pour ouvrir une serrure que le crochetage n'a pas permis de forcer.</li>
 <li>Matérialisation d'une épée infligeant des dégâts magiques aux spectres ou aux élémentaires.</li>
 <li>Matérialisation d'une sphère de protection autour du groupe de joueur.</li>
+</ul>
 
 <br />
 

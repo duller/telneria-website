@@ -33,8 +33,8 @@
     il faut cependant faire attention à ce que ses caractéristiques amènent à une difficulté appropriée par rapport au niveau des joueurs.</p>
 <br />
 <p>Voici l'ensemble des caractéristiques à définir pour un monstre personnalisé :</p>
-<br />
 
+<ul>
 <li>Les points de vie (20 au niveau 1 pour un monstre solitaire pour une difficulté modérée...)</li>
 <li>La classe d'armure (10 au niveau 1 pour une difficulté modérée...)</li>
 <li>La classe magique (valeur similaire à la classe d'armure...)</li>
@@ -42,3 +42,4 @@
 <li>Les dégâts infligés (1d6 au niveau 1 pour une difficulté modérée...)</li>
 <li>Les sorts (boule de feu 1d6 de dégâts, contrôle mental d'un joueur pour 1 tour...)</li>
 <li>Le butin (10 pièces d'or, un anneau magique...)</li>
+</ul>
