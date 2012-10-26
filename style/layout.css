@@ -42,25 +42,25 @@ body
 /* Le menu fin entre l'entête et la zone centrale */
 #topmenu
 {
-	border: 1px solid #000;
-        border-radius: 10px;
+	/*border: 1px solid #000;
+        border-radius: 10px;*/
 	float:left;
 	width:96%;
-	min-height:20px;
+	min-height:60px;
         
 	padding-top:10px;
         padding-left:1%;
         padding-right:1%;
 	padding-bottom:10px;
 	
-	margin-top:10px;
+	margin-top:0px;
 	margin-left:1%;
 	margin-right:1%;
 	margin-bottom:10px;
         
-	text-align:right;
+	text-align:center;
 	/*background-color:#AE803C;*/
-        background-image: url('../ressources/FondParcheminFonce.jpg');
+        /*background-image: url('../ressources/FondParcheminFonce.jpg');*/
 }
 
 /* Le menu de gauche au milieu */
@@ -143,6 +143,8 @@ body
 	position:relative;
 	height:25px;
 	width:100%;
+        
+        overflow : hidden ;
 	
 	font-weight:bold;
 	
@@ -150,7 +152,6 @@ body
         
         display:block;
         
-        font-family: Verdana, Geneva, sans-serif;
         font-size: 16px;
         font-weight: bold;
 }
@@ -161,17 +162,20 @@ body
 	border: 1px solid #000;
         border-radius: 6px;
 	text-align:center;
+        
+        overflow : hidden ;
 	
 	position:relative;
-	height:25px;
 	width:100%;
 	
-	margin-bottom:2%;
+	margin-bottom:3px;
+        padding-top : 3px;
+        
+        padding-bottom : 3px;
 	
 	background-color:#FFFFFF;
         display:block;
         
-        font-family: Verdana, Geneva, sans-serif;
         font-size: 14px;
         
         background-image: url('../ressources/FondParcheminClair.jpg');
@@ -189,7 +193,7 @@ body
 
 .menuElement:hover
 {
-        color:#000;
+        color:#C03000;
 	background-color:#F6E497;
 }
 

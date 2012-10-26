@@ -1,0 +1,31 @@
+@font-face
+{
+    font-family: 'Orthoventional';
+        src: url('../fonts/OrthoventionalUpright.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Dark Garden';
+        src: url('../fonts/DarkGardenRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Alegreya';
+        src: url('../fonts/AlegreyaRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Pierce';
+        src: url('../fonts/PierceRoman.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

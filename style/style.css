@@ -1,7 +1,7 @@
 
 body
 {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: 'Pierce',Verdana, Geneva, sans-serif;
 	font-size: 12px;		
 }
 
@@ -146,8 +146,8 @@ p
     margin: 0px;
     padding: 0px;
     
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 14px;
+    font-family: 'Alegreya',Verdana, Geneva, sans-serif;
+    font-size: 16px;
     line-height: 15pt;
 }
 
@@ -157,14 +157,13 @@ li
     margin-left: 20px;
     
     
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: 'Alegreya',Verdana, Geneva, sans-serif;
     font-size: 14px;
     line-height: 15pt;
 }
 
 h1
 {
-    font-family: Geneva, sans-serif;
     font-size: 23px;
     font-weight: bold;
     color : #C03000;
@@ -200,7 +199,6 @@ h2 a:active
 
 h2
 {
-    font-family: Geneva, sans-serif;
     font-size: 20px;
     font-weight: bold;
     color : #B9121B;
@@ -208,7 +206,6 @@ h2
 
 h3
 {
-    font-family: Geneva, sans-serif;
     font-size: 18px;
     font-weight: bold;
     color : #4A1A2C;
@@ -216,7 +213,6 @@ h3
 
 h4
 {
-    font-family: Geneva, sans-serif;
     font-size: 16px;
     font-weight: bold;
     color : #4C1B1B;
