@@ -11,7 +11,7 @@
 <br /><br />
 <a href="?Page=menuLateral/races/elfe"> Les elfes</a>
 <br /><br />
-<a href="?Page=menuLateral/races/humaine"> Les humains</a>
+<a href="?Page=menuLateral/races/humain"> Les humains</a>
 <br /><br />
 <a href="?Page=menuLateral/races/kerfenn"> Les kerfenn</a>
 <br /><br />

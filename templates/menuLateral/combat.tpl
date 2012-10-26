@@ -1,5 +1,6 @@
 {literal}
 <script type="text/javascript">
+    /*
 function unhide(divID)
 {
     var item = document.getElementById(divID);
@@ -21,14 +22,14 @@ function hideAll()
     for (var i = 0; i < listeDivId.length; i++)
     {
         document.getElementById(listeDivId[i]).className = 'hidden';
-        /*if (listeDivId[i])
+        / *if (listeDivId[i])
         {
             var item = document.getElementById(listeDivId[i]);
         }
         if (item)
         {
             item.classname = 'hidden';
-        }*/
+        }* /
     }
 }
     
@@ -44,16 +45,49 @@ function unhideAll()
     for (var i = 0; i < listeDivId.length; i++)
     {
         document.getElementById(listeDivId[i]).className = 'unhidden';
-        /*if (listeDivId[i])
+        / *if (listeDivId[i])
         {
             var item = document.getElementById(listeDivId[i]);
         }
         if (item)
         {
             item.classname = 'unhidden';
-        }*/
+        }* /
     }
 }
+*/
+$(function ()
+{
+    
+    $("h2").prepend("<span> + </span>").click(function()
+    {
+        var next = $(this).next();
+        if(next.css("display") != "none")
+        {
+            $(next).hide(300);
+            $("span", this).html(" + ");
+        }
+        else
+        {
+            $(next).show(500);
+            $("span", this).html(" - ");
+        }
+        
+    }).css("cursor", "pointer");
+        
+    $("#show").click(function()
+    {
+        $("h2").next().show(500);
+        $("h2 span").html(" - ");
+    });
+       
+    $("#hide").click(function()
+    {
+        $("h2").next().hide(300);
+        $("h2 span").html(" + ");
+    });
+        
+});
 
 </script>
 {/literal}
@@ -61,10 +95,11 @@ function unhideAll()
 <h1>Le combat</h1>
 
 <p>Cliquez sur les titres pour dérouler le contenu. Vous pouvez également tout 
-    <a href="javascript:unhideAll();">dérouler</a> ou tout <a href="javascript:hideAll();">cacher.</a></p>
+    <a href="#" id="show">dérouler</a> ou tout <a href="#" id="hide">
+    <!--<a href="javascript:hideAll();"-->cacher.</a></p>
 <br />
 
-<h2><a href="javascript:unhide('divInitiative');">Initiative et actions</a></h2>
+<h2>Initiative et actions</h2><!--<a href="javascript:unhide('divInitiative');">Initiative et actions</a></h2>-->
 <div id="divInitiative" class="hidden">
     <h3>Initiative</h3>
 <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu. Ce jet est modifié par la dextérité.</p>
@@ -90,7 +125,7 @@ function unhideAll()
 </div>
 <br />
 
-<h2><a href="javascript:unhide('divAttaque');">Les attaques et les jets de toucher</a></h2>
+<h2>Les attaques et les jets de toucher</h2>
 <div id="divAttaque" class="hidden">
 <h3>Jet de toucher</h3>
 <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé de toucher pour savoir si son attaque est un succès ou un échec. 
@@ -114,7 +149,7 @@ function unhideAll()
 </div>
 <br />
 
-<h2><a href="javascript:unhide('divModificateurs');">Modificateurs de toucher : classe d'armure et classe magique</a></h2>
+<h2>Modificateurs de toucher : classe d'armure et classe magique</h2>
 <div id="divModificateurs" class="hidden">
 <h3>Attaques physiques</h3>
 <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec la classe d'armure de la cible. 
@@ -193,7 +228,7 @@ function unhideAll()
 </div>
 <br />
     
-<h2><a href="javascript:unhide('divIncapacite');">Incapacités et mort</a></h2>
+<h2>Incapacités et mort</h2>
 <div id="divIncapacite" class="hidden">
 <h3>Mise hors de combat</h3>
 <p>Lorsqu'un joueur ou un monstre voit ses points de vie atteindre 0, il devient inconscient et ne peut plus mener d'actions. 
@@ -217,7 +252,7 @@ function unhideAll()
 </div>
 <br />
 
-<h2><a href="javascript:unhide('divTelnas');">Le Telnas</a></h2>
+<h2>Le Telnas</h2>
 <div id="divTelnas" class="hidden">
 <p>Le Telnas est une matérialisation physique d'une forme très pure de magie des arcanes.</p>
 <p>Elle permet au joueur d'invoquer une épaisse fumée bleue qu'il peut contrôler à sa guise.</p>
