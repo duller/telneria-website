@@ -20,7 +20,7 @@
 	<p>Concentration, connaissances, psychologie</p>
     
     <br /><br />
-    <a href="ressources/PdfFichesPerso/FicheMagicien.pdf">Fiche de personnage au format pdf</a>
+    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheMagicien.pdf">Fiche de personnage au format pdf</a>
         
 </div>
 

@@ -20,7 +20,7 @@
     <p>Concentration, connaissances, premiers secours</p>
     
     <br /><br />
-    <a href="ressources/PdfFichesPerso/FicheClerc.pdf">Fiche de personnage au format pdf</a>
+    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheClerc.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 

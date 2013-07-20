@@ -21,7 +21,7 @@
 	<p>Crochetage, équilibre, discrétion.</p>
     
     <br /><br />
-    <a href="ressources/PdfFichesPerso/FicheRoublard.pdf">Fiche de personnage au format pdf</a>
+    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheRoublard.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 

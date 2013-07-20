@@ -21,7 +21,7 @@
 	<p>Psychologie, bluff, intimidation.</p>
     
     <br /><br />
-    <a href="ressources/PdfFichesPerso/FicheSombregarde.pdf">Fiche de personnage au format pdf</a>
+    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheSombregarde.pdf">Fiche de personnage au format pdf</a>
 </div>
 
 

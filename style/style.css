@@ -1,10 +1,4 @@
 
-body
-{
-	font-family: 'Pierce',Verdana, Geneva, sans-serif;
-	font-size: 12px;		
-}
-
 .lienBlanc
 {
     color:#FFF;
@@ -13,18 +7,20 @@ body
 .lienBlanc:link
 {
     color:#FFF;
+     text-shadow: 0.1em 0.1em 0.2em black;
 }
 
 .lienBlanc:hover
 {
     color:#f0ead8;
+     text-shadow: 0.1em 0.1em 0.2em black;
 }
 
 .lienBlanc:visited
 {
     color:#FFF;
+     text-shadow: 0.1em 0.1em 0.2em black;
 }
-
 
 input
 {
@@ -36,24 +32,28 @@ a:visited
 {
 	color:#9A783D;
 	text-decoration: none;	
+        text-shadow: none;
 }
 
 a:link
 {
 	color:#9A783D;
 	text-decoration: none;
+        text-shadow: none;
 }
 
 a:hover
 {
         color:#F00;
         text-decoration: none;
+        text-shadow: none;
 }
 
 a:active
 {
         color:#9A783D;
         text-decoration: none;
+        text-shadow: none;
 }
 
 
@@ -163,6 +163,7 @@ h1
     font-size: 23px;
     font-weight: bold;
     color : #C03000;
+    text-shadow: 0.15em 0.15em 0.3em #777;
 }
 
 h2 a:visited
@@ -198,6 +199,7 @@ h2
     font-size: 20px;
     font-weight: bold;
     color : #B9121B;
+    text-shadow: 0.1em 0.1em 0.5em #555;
 }
 
 h3
@@ -205,6 +207,7 @@ h3
     font-size: 18px;
     font-weight: bold;
     color : #4A1A2C;
+    text-shadow: 0.1em 0.1em 0.2em #888;
 }
 
 h4
@@ -212,6 +215,9 @@ h4
     font-size: 16px;
     font-weight: bold;
     color : #4C1B1B;
+    text-shadow: 0.1em 0.1em 0.5em #999;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 .imagePersonnage
@@ -226,4 +232,10 @@ h4
     border-radius: 20px;
     max-width:100%;
     max-height: 900px;
+}
+
+.pdfFichePerso
+{
+    font-size: 17px;
+    text-shadow: 0em 0.3em 0.9em black !important;
 }

@@ -9,6 +9,10 @@ body
         background-position:100% 100%;*/
 	padding:0px;
 	margin:0px;
+        
+        font-family: 'Pierce',Verdana, Geneva, sans-serif;
+	font-size: 12px;
+        text-shadow: 0.2em 0.3em 1em #C4C0AD;
 }
 
 /* L'entête, tout en haut de la page'*/
@@ -59,6 +63,7 @@ body
 	margin-bottom:10px;
         
 	text-align:center;
+        text-shadow: 0.5em 0.5em 0.3em #777;
 	/*background-color:#AE803C;*/
         /*background-image: url('../ressources/FondParcheminFonce.jpg');*/
 }
@@ -66,11 +71,12 @@ body
 /* Le menu de gauche au milieu */
 #menu
 {
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
         border-radius: 10px;
 	float:left;
 	width:10%;
 	min-height: 590px;
+        box-shadow: 0 0 5px #666;
         
 	padding-top:10px;
         padding-left:1%;
@@ -89,8 +95,9 @@ body
 /* La zone centrale à droite du menu principal */
 #content
 {
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
         border-radius: 10px;
+        box-shadow: 0 0 10px #666;
 	
 	float:left;
 	width:83%;
@@ -115,8 +122,9 @@ body
 /* Le pied de page (mentions légales...) */
 #footer
 {
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
         border-radius: 10px;
+        box-shadow: 0 0 5px black;
 	
         float:left;
 	width:96%;
@@ -148,27 +156,30 @@ body
 	
 	font-weight:bold;
 	
-	margin-bottom:2%;
+	margin-bottom:10px;
         
         display:block;
         
         font-size: 16px;
         font-weight: bold;
+        text-shadow: 0.1em 0.3em 0.3em  #222;
+        color: #FEEDAA;
 }
 
 .menuElement
 {
         color:#000;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
         border-radius: 6px;
 	text-align:center;
+        box-shadow: 0 0 5px #666;
         
         overflow : hidden ;
 	
 	position:relative;
 	width:100%;
 	
-	margin-bottom:3px;
+	margin-bottom: 5px;
         padding-top : 3px;
         
         padding-bottom : 3px;
@@ -177,6 +188,7 @@ body
         display:block;
         
         font-size: 14px;
+        text-shadow: 0.15em 0.15em 0.3em #999;
         
         background-image: url('../ressources/FondParcheminClair.jpg');
 }
@@ -209,11 +221,12 @@ body
 
 #classesMagie
 {
-	border: 1px outset #000;
+	/*border: 1px outset #000;*/
         border-radius: 20px;
         float:left;
 	width:45%;
         min-height:330px;
+        box-shadow: 0 0 5px #666;
         
         margin-top:10px;
 	margin-left:1%;
@@ -228,11 +241,12 @@ body
 
 #classesFoi
 {
-	border: 1px outset #000;
+	/*border: 1px outset #000;*/
         border-radius: 20px;
         float:left;
 	width:45%;
         min-height:330px;
+        box-shadow: 0 0 5px #666;
         
         margin-top:10px;
 	margin-left:1%;
@@ -247,11 +261,12 @@ body
 
 #classesNature
 {
-	border: 1px outset #000;
+	/*border: 1px outset #000;*/
         border-radius: 20px;
         float:left;
 	width:45%;
         min-height:330px;
+        box-shadow: 0 0 5px #666;
         
         margin-top:10px;
 	margin-left:1%;
@@ -266,11 +281,12 @@ body
 
 #classesDiscretion
 {
-	border: 1px outset #000;
+	/*border: 1px outset #000;*/
         border-radius: 20px;
         float:left;
 	width:45%;
         min-height:330px;
+        box-shadow: 0 0 5px #666;
         
         margin-top:10px;
 	margin-left:1%;
@@ -285,10 +301,11 @@ body
 
 #classesGuerre
 {
-	border: 1px outset #000;
+	/*border: 1px outset #000;*/
         border-radius: 20px;
         float:left;
 	width : 50%;
+        box-shadow: 0 0 5px #666;
         
         min-height:330px;
         
@@ -307,11 +324,12 @@ body
 
 .descriptionClasse
 {
-    border: 1px outset #000;
+    /*border: 1px outset #000;*/
     border-radius: 20px;
     float:left;
     width:60%;
     min-height:550px;
+    box-shadow: 0 0 5px #666;
 
     margin-top:10px;
     margin-left:1%;
@@ -326,11 +344,12 @@ body
 
 .classeImage
 {
-    border: 1px outset #000;
+    /*border: 1px outset #000;*/
     border-radius: 20px;
     float:right;
     width:30%;
     min-height:550px;
+    box-shadow: 0 0 5px #666;
 
     margin-top:10px;
     margin-left:1%;
@@ -345,11 +364,12 @@ body
 
 .classeTableaux
 {
-    border: 1px outset #000;
+    /*border: 1px outset #000;*/
     border-radius: 20px;
     float:right;
     width:30%;
     min-height:550px;
+    box-shadow: 0 0 5px #666;
 
     margin-top:10px;
     margin-left:1%;
@@ -364,11 +384,12 @@ body
 
 .sortsClasse
 {
-    border: 1px outset #000;
+    /*border: 1px outset #000;*/
     border-radius: 20px;
     float:left;
     width:60%;
     min-height:550px;
+    box-shadow: 0 0 5px #666;
 
     margin-top:10px;
     margin-left:1%;
@@ -383,11 +404,12 @@ body
 
 .classePrestige1
 {
-    border: 1px outset #000;
+    /*border: 1px outset #000;*/
     border-radius: 20px;
     float:left;
     width:45%;
     min-height:550px;
+    box-shadow: 0 0 5px #666;
 
     margin-top:10px;
     margin-left:1%;
@@ -402,11 +424,12 @@ body
 
 .classePrestige2
 {
-    border: 1px outset #000;
+    /*border: 1px outset #000;*/
     border-radius: 20px;
     float:right;
     width:45%;
     min-height:550px;
+    box-shadow: 0 0 5px #666;
 
     margin-top:10px;
     margin-left:1%;

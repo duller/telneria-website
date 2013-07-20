@@ -21,7 +21,7 @@
 	<p>Diplomatie, psychologie, premiers secours.</p>
     
     <br /><br />
-    <a href="ressources/PdfFichesPerso/FichePaladin.pdf">Fiche de personnage au format pdf</a>
+    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FichePaladin.pdf">Fiche de personnage au format pdf</a>
 </div>
         
 <div class="classeImage">
