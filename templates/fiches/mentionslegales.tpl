@@ -16,8 +16,10 @@
 <br /><br />
 
 <p>Textes : François Ripp.</p>
+<p>Illustrations de la page d'accueil : Fa11eng0d/Deviant art, Wikimedia</p>
 <p>Illustrations des personnages : Jérôme Rotfarb.</p>
 <p>Carte du monde : Geoffrey Vallin.</p>
+
 
 <br /><br />
 <h3>Contacter l'auteur</h3>

@@ -133,12 +133,14 @@ table tr:last-child td
 .ptab
 {
 	text-align: center;
+        text-indent: 0px;
 }
 
 .ptabstrong
 {
 	text-align: center;
         font-weight: bold;
+        text-indent: 0px;
 }
 
 p
@@ -149,6 +151,9 @@ p
     font-family: 'Alegreya',Verdana, Geneva, sans-serif;
     font-size: 16px;
     line-height: 15pt;
+    
+    text-indent: 20px;
+    text-align: justify;   
 }
 
 li
@@ -225,6 +230,29 @@ h4
     border-radius: 20px;
     max-width:100%;
     max-height: 510px;
+}
+
+/* CSS pour les images de la page d'accueil' */
+
+.imageDecoAccueil
+{
+    border-radius: 20px;
+    max-width:70%;
+    box-shadow: 0 0 5px #666;
+    float:right;
+    margin-left:10px;
+}
+
+.imageDecoAccueilDes
+{
+    max-width: 40%;
+    max-height: 170px;
+    box-shadow: none;
+}
+
+.imageDecoAccueilLivres
+{
+    max-width: 50%;
 }
 
 .imageCarte

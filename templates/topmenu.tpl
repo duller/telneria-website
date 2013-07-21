@@ -1,5 +1,5 @@
 
-<p style="font-family: 'Orthoventional'; font-size: 40px; padding-top : 20px; font-style: italic">
+<p style="font-family: 'Orthoventional'; font-size: 40px; padding-top : 20px; font-style: italic; text-indent: 0px; text-align: center;   ">
     ~ Les légendes de Telneria ~</p>
 
 <form action="?Page=fiches/recherche" method="POST">
