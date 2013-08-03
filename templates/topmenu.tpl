@@ -15,3 +15,6 @@
     <input onclick="alert('Non implementé')" type="submit">
     -->
 </form>
+
+<a onclick="var _window = window.open('iframeaudio.html'/*, '_blank'*/);_window.opener.focus();" 
+   style="float:right;margin-right:20px;"><p>Musique</p></a>

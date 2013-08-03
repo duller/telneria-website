@@ -11,14 +11,21 @@
         <link rel="stylesheet" href="style/layout.css">
         <link rel="stylesheet" href="style/style.css">
         <link rel="stylesheet" href="style/formulaire.css">
+        <link rel="stylesheet" href="style/images.css">
+        <link rel="stylesheet" href="style/pagesAttributs.css">
+        <link rel="stylesheet" href="style/pagesJeu.css">
+        <link rel="stylesheet" href="style/pagesMonde.css">
+        <link rel="stylesheet" href="style/pagesPersonnages.css">
+        <link rel="stylesheet" media="screen" href="style/fonts.css" rel="stylesheet" type="text/css"/> 
+        
         <script type="text/javascript" src="js/Jquery.js"></script>
         <title>{$nom}</title>
-        <link rel="stylesheet" media="screen" href="style/fonts.css" rel="stylesheet" type="text/css"/> 
     </head>
 
     <body>
         <!--<div id="header">{ include file="header.tpl"}</div>-->
         <div id="topmenu">{include file="topmenu.tpl"}</div>
+        
         <div id="menu">{include file="menu.tpl"}</div>
         <div id="content">{include file=$page}</div>
     	<div id="footer">{include file="footer.tpl"}</div>

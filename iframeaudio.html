@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <script type="text/javascript" src="js/Jquery.js"></script>
+        <audio id="audio" tabindex="0" controls="" style="float: right">
+            <source src="ressources/audio/Telneria.ogg">
+        </audio>
+
+        <ul id="playlist" style="visibility: hidden">
+                <li class="active"><a href="ressources/audio/Telneria.ogg"></a></li>
+                <li><a href="ressources/audio/02 - Dragon Rising.ogg"></a></li>
+                <li><a href="ressources/audio/02 - Dragon Dance.ogg"></a></li>
+        </ul>
+
+        <script> 
+            
+            var audio;
+            var playlist;
+            var tracks;
+            var current;
+
+            init();
+            function init(){
+            current = 0;
+            audio = $('#audio');
+            playlist = $('#playlist');
+            tracks = playlist.find('li a');
+            len = tracks.length;
+            audio[0].volume = .10;
+            audio[0].play();
+            playlist.find('a').click(function(e){
+                e.preventDefault();
+                link = $(this);
+                current = link.parent().index();
+                run(link, audio[0]);
+            });
+            audio[0].addEventListener('ended',function(e){
+                current++;
+                if(current == len){
+                    current = 0;
+                    link = playlist.find('a')[0];
+                }else{
+                link = playlist.find('a')[current];   
+                }
+                run($(link),audio[0]);
+            });
+        }
+        function run(link, player){
+                player.src = link.attr('href');
+                par = link.parent();
+                par.addClass('active').siblings().removeClass('active');
+                audio[0].load();
+                audio[0].play();
+        }
+        
+        </script>
+    </body>
+</html>

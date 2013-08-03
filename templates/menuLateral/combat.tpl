@@ -73,7 +73,7 @@ $(function ()
             $("span", this).html(" - ");
         }
         
-    }).css("cursor", "pointer");
+    }).css("cursor", "url('ressources/curseurs/GantPointe32.png'), auto");
         
     $("#show").click(function()
     {

@@ -9,12 +9,12 @@
     il arrivait fréquemment qu'un sorcier ou un magicien se forme à une école de magie distincte des forces telluriques et spirituelles. Leur nombre était 
     cependant très réduit et ils n'apparaissaient que peu sur la place publique.</p>
 <br />
-<img class="imageDecoAccueil" src="ressources/ImagesDecoPages/Dragon-Fa11eng0d-DeviantArt.jpg">
+<img class="imageDecoAccueil" src="ressources/01-Accueil/Dragon-Fa11eng0d-DeviantArt.jpg">
 
-<p>Il y a deux siècles, le mage Nitrus découvrit le telnas, une discipline permettant de matérialiser en une épaisse fumée bleuâtre la magie des arcanes.
+<p>Il y a deux siècles, la mage Nitria découvrit le telnas, une discipline permettant de matérialiser en une épaisse fumée bleuâtre la magie des arcanes.
      Cette discipline permet au conjureur de contrôler cette fumée en sort offensif, en arme ou en mur de protection, lui octroyant une puissance sans égale.</p>
-<p>Cette découverte a bouleversé les sociétés claniques de Telneria, cette magie autrement plus dévastatrice que les énergies naturelles des druides poussa des 
-    nobles à s'allier aux adeptes du telnas, les telnastres. Profitant de leur soif de pouvoir et de leur nouvelle puissance, ils ont pu mettre en place des sociétés 
+<p>Cette découverte a bouleversé les sociétés claniques de Telneria. La magie du telnas, autrement plus dévastatrice que les énergies naturelles des druides, poussa certains 
+    nobles à s'allier aux telnastres, les adeptes de cette discipline. Profitant de leur leur nouvelle puissance, ils ont ainsi pu mettre en place des sociétés 
     non plus électives mais aristocratiques.</p>
 <br />
 <p>Le jeu de rôle "Les légendes de Telneria" se déroule dans ce monde où les barons humains, épaulés par les puissants telnastres, passent plus de temps à se disputer 
@@ -38,7 +38,7 @@
 <p>C'est ensuite au MJ (maître du jeu, parfois appelé MD, maître du donjon) de mener ses compagnons dans l'aventure et de fournir le cadre 
     imaginaire propice au jeu.</p>
 
-<img class="imageDecoAccueil imageDecoAccueilDes" src="ressources/ImagesDecoPages/Des-Wikimedia.png">
+<img class="imageDecoAccueil imageDecoAccueilDes" src="ressources/01-Accueil/Des-Wikimedia.png">
 
 <p>Pour chaque aventure, il est conseillé au MJ de <a href="?Page=menuLateral/preparation">suivre un scénario</a> préparé à l'avance afin de profiter d'une histoire cohérente et intéressante.
 Le scénario peut être inventé par le MJ ou peut être trouvé sur internet, il existe de nombreux sites proposant des scénarios adaptés à un univers
@@ -58,7 +58,7 @@ de fantasy médiévale, ce qu'est le monde de Telneria.</p>
 
 
 <h2>Les romans de l'univers de Telneria</h2>
-<img class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/ImagesDecoPages/Wikimedia-Books.jpg">
+<img class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/01-Accueil/Wikimedia-Books.jpg">
 
 <p>Pour les visiteurs qui ont été menés ici à partir des romans "Les légendes de Telneria", vous êtes invités à vous rendre dans la section
 détaillant <a href="?Page=menuLateral/telneria">le monde de Telneria</a> pour découvrir plus en détail l'univers des romans.</p>
