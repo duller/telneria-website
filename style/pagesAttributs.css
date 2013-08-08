@@ -1,12 +1,58 @@
-/* 
-    Document   : pagesAttributs
-    Created on : 3 août 2013, 23:49:14
-    Author     : francois
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+/* CSS pour la page d'alignement*/
+.divMoitieGauche
+{
+    width: 45%;
+    margin: 10px 2% 10px 2%;
+    float: left;
 }
 
+.divMoitieDroite
+{
+    width: 45%;
+    margin: 10px 2% 10px 2%;
+    float: left;
+}
+
+.zoneAlignement
+{
+    margin: 5px 0 5px 0;
+    padding: 5px 0 5px 0;
+    min-height: 140px;
+}
+
+/* CSS pour la page des dons */
+.divTiersGauche
+{
+    width: 30%;
+    margin: 10px 1% 10px 1%;
+    float: left;
+}
+
+.divTiersMilieu
+{
+    width: 30%;
+    margin: 10px 1% 10px 1%;
+    float: left;
+}
+
+.divTiersDroit
+{
+    width: 30%;
+    margin: 10px 1% 10px 1%;
+    float: left;
+}
+
+.zoneDons
+{
+    margin: 5px 0 5px 0;
+    padding: 5px 0 5px 0;
+    min-height: 120px;
+}
+
+/* CSS pour la page des caractéristiques */
+.zoneCarac
+{
+    margin: 5px 0 5px 0;
+    padding: 5px 0 5px 0;
+    min-height: 80px;
+}

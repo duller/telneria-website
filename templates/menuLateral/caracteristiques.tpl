@@ -1,29 +1,48 @@
 <h1>Les caractéristiques</h1>
 
-<p>Lors de l'utilisation d'une caractéristique pour une action, on prend son modificateur associé. Le calcul du modificateur se trouve dans le tableau au bas de cette page.</p>
-<p>Les caractéristiques impactent les jets de dés lors de l'utilisation des compétences, on peut se reporter à la section des compétences pour savoir quelle caractéristique est 
+<p class="pSousTitre">Lors de l'utilisation d'une caractéristique pour une action, on prend son modificateur associé. Le calcul du modificateur se trouve dans le tableau au bas de cette page.</p>
+<p class="pSousTitre">Les caractéristiques impactent les jets de dés lors de l'utilisation des compétences, on peut se reporter à la section des compétences pour savoir quelle caractéristique est 
     utilisée pour quelle compétence. En dehors des compétences, les caractéristiques ont également une utilité propre détaillée sur cette page.</p>
 
+<div class="divMoitieGauche">
+    <div class="zoneCarac">
+<img class="communImages imageLogoCarac" src="ressources/07-Carac/Force.png">
 <h3>Force</h3>
-<p>Le modificateur de force modifie le dé de toucher au corps-à-corps.</p><br />
-
+<p>Le modificateur de force modifie le dé de toucher au corps-à-corps.</p>
+</div>
+<div class="zoneCarac">
+    <img class="communImages imageLogoCarac" src="ressources/07-Carac/Dexterite.png">
 <h3>Dextérité</h3>
-<p>Le modificateur de dexterité modifie le dé de toucher à distance et le jet d'initiative en début de combat. Il modifie également la classe d'armure.</p><br />
-
+<p>Le modificateur de dexterité modifie le dé de toucher à distance et le jet d'initiative en début de combat. Il modifie également la classe d'armure.</p>
+</div>
+<div class="zoneCarac">
+    <img class="communImages imageLogoCarac" src="ressources/07-Carac/Constitution.png">
 <h3>Constitution</h3>
-<p>Le modificateur de constitution détermine le nombre de points de vie gagnés à chaque niveau.</p><br />
+<p>Le modificateur de constitution détermine le nombre de points de vie gagnés à chaque niveau.</p>
+</div>
 
+</div>
+
+<div class="divMoitieDroite">
+    <div class="zoneCarac">
+        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Intelligence.png">
 <h3>Intelligence</h3>
 <p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs, la nombre de points de mana gagnés à chaque niveau
-    ainsi que le gain des points de compétence.</p><br />
-
+    ainsi que le gain des points de compétence.</p>
+</div>
+<div class="zoneCarac">
+    <img class="communImages imageLogoCarac" src="ressources/07-Carac/Sagesse.png">
 <h3>Sagesse</h3>
-<p>Le modificateur de sagesse modifie le dé de toucher avec les sorts de soins.</p><br />
-
+<p>Le modificateur de sagesse modifie le dé de toucher avec les sorts de soins.</p>
+</div>
+<div class="zoneCarac">
+    <img class="communImages imageLogoCarac" src="ressources/07-Carac/Charisme.png">
 <h3>Charisme</h3>
-<p>Le modificateur de charisme modifie la classe magique.</p><br />
-<br />
+<p>Le modificateur de charisme modifie la classe magique.</p>
+</div>
+</div>
 
+<div style="float: left;">
 <h2>Tableau des modificateurs de caractéristiques</h2>
 
 <br />
@@ -161,3 +180,5 @@
 		</td>
 	</tr>
 </table>
+
+</div>

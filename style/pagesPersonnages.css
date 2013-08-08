@@ -19,13 +19,13 @@
 {
     width: 45%;
     float: left;
+    margin-right: 20px;
 }
 
 #divCreationAlignementDons
 {
     width: 45%;
     float: left;
-    padding-left: 20px;
 }
 
 #divCreationEquipement
@@ -36,9 +36,8 @@
 
 #divCreationCaracCompe
 {
-    width: 45%;
-    float: left;
-    padding-left: 20px;
+    /*width: 45%;*/
+    /*float: left;*/
 }
 
 #divCreationTableau
@@ -47,108 +46,70 @@
     float: left;
 }
 
+.titreCreation
+{
+    padding-left: 50px;
+}
 
 
 /* CSS pour la page du choix de la classe d'un personnage*/
 
-#classesMagie
+.titreVoie
 {
-	/*border: 1px outset #000;*/
-        border-radius: 20px;
-        float:left;
-	width:45%;
-        min-height:330px;
-        box-shadow: 0 0 5px #666;
-        
-        margin-top:10px;
-	margin-left:1%;
-	margin-right:1%;
-	margin-bottom:10px;
-        
-        padding-top:10px;
-        padding-left:1%;
-        padding-right:1%;
-	padding-bottom:10px;
+    display: inline-block;
+    box-shadow: 6px 0 4px  -4px #222 , -6px 0 4px  -4px #222;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 10px;
 }
 
-#classesFoi
+.divVoie
 {
-	/*border: 1px outset #000;*/
-        border-radius: 20px;
-        float:left;
-	width:45%;
-        min-height:330px;
-        box-shadow: 0 0 5px #666;
-        
-        margin-top:10px;
-	margin-left:1%;
-	margin-right:1%;
-	margin-bottom:10px;
-        
-        padding-top:10px;
-        padding-left:1%;
-        padding-right:1%;
-	padding-bottom:10px;
+    border-radius: 20px;
+    float:left;
+    width:25%;
+    min-height:408px;
+    box-shadow: 0 0 5px #666;
+
+    margin-top:10px;
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:10px;
+
+    padding-top:10px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:10px;
 }
 
-#classesNature
+.pDescriptionClasseChoix
 {
-	/*border: 1px outset #000;*/
-        border-radius: 20px;
-        float:left;
-	width:45%;
-        min-height:330px;
-        box-shadow: 0 0 5px #666;
-        
-        margin-top:10px;
-	margin-left:1%;
-	margin-right:1%;
-	margin-bottom:10px;
-        
-        padding-top:10px;
-        padding-left:1%;
-        padding-right:1%;
-	padding-bottom:10px;
+    padding-right:6%;
 }
 
-#classesDiscretion
+.classesMagie
 {
-	/*border: 1px outset #000;*/
-        border-radius: 20px;
-        float:left;
-	width:45%;
-        min-height:330px;
-        box-shadow: 0 0 5px #666;
-        
-        margin-top:10px;
-	margin-left:1%;
-	margin-right:1%;
-	margin-bottom:10px;
-        
-        padding-top:10px;
-        padding-left:1%;
-        padding-right:1%;
-	padding-bottom:10px;
+	
 }
 
-#classesGuerre
+.classesFoi
 {
-	/*border: 1px outset #000;*/
-        border-radius: 20px;
-        float:left;
-	width : 50%;
-        box-shadow: 0 0 5px #666;
-        
-        min-height:330px;
-        
-        margin-left: 25%;
-        margin-top:10px;
-	margin-bottom:10px;
-        
-        padding-top:10px;
-        padding-left:1%;
-        padding-right:1%;
-	padding-bottom:10px;
+	
+}
+
+.classesNature
+{
+    
+}
+
+.classesDiscretion
+{
+    margin-left: 8%;
+}   
+
+.classesGuerre
+{
+    margin-left: 7%;
 }
 
 
@@ -272,4 +233,24 @@
     padding-left:1%;
     padding-right:1%;
     padding-bottom:10px;
+}
+
+/* CSS pour la page des races de personnages */
+.imageChoixRaces
+{
+    width: 80%;
+    margin: 5px 5% 5px 5%;
+}
+
+.lienRacesChoix
+{
+    width: 17%;
+    display: inline-block;
+    text-align: center;
+    float: left;
+}
+
+.ligneRacesChoix
+{
+    margin-left: 8%;
 }

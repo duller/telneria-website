@@ -1,9 +1,14 @@
+<div style="max-width: 999px;">
+
 <h1>Les compétences</h1>
 
-<p>Chaque classe a des compétences en fonction de son intelligence. 
-    Vous pouvez vous reporter à la création des personnages pour savoir combien de points investir au début. <br />
-    Au niveau 1, le maximum de points par compétence est 3. 
-    Pour les compétences spécifiques à la classe, un point gratuit supplémentaire est attribué (il est affiché sur la fiche de classe et n'est pas comptabilisé dans les 5 points maximum).</p><br/>
+<img class="communImages imageCompeGauche" src="ressources/08-Compe/Pioche.Small.png">
+<img class="communImages imageCompeDroite" src="ressources/08-Compe/Book.Chasity.jpg">
+<p>Chaque classe a des points de compétences à répartir en fonction de son intelligence. 
+    Vous pouvez vous reporter à la création des personnages pour savoir combien de points investir au début.</p>
+    <p>Au niveau 1, le maximum de points par compétence est 3.</p> 
+    <p>Pour les compétences spécifiques à la classe, un point gratuit supplémentaire est attribué (il est affiché sur la fiche de classe 
+    et n'est pas comptabilisé dans les 5 points maximum).</p><br/>
 <p>Chaque compétence a une caractéristique associée. 
     Lorsque le MJ demande à un personnage-joueur de lancer un jet d'artisanat par exemple, 
     le d20 est pondéré par le nombre de points de la compétence plus le modificateur de la caractéristique associée.</p><br />
@@ -287,3 +292,5 @@
 		</td>
 	</tr>
 </table>
+
+</div>

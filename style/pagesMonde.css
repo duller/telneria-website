@@ -1,12 +1,21 @@
-/* 
-    Document   : pagesMonde
-    Created on : 3 août 2013, 23:49:23
-    Author     : francois
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+/* CSS pour la page Telneria */
+.zoneRegionsHaut
+{
+    padding-bottom: 20px;
 }
 
+.zoneRegionsBas
+{
+    padding: 20px 5px 20px 5px;
+}
+
+.zoneMondeUnites
+{
+    padding: 0 5px 0 5px;
+    float: left;
+}
+
+.zoneCarte
+{
+    text-align: center;
+}

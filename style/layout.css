@@ -86,7 +86,7 @@ a:link
         border-radius: 10px;
 	float:left;
 	width:10%;
-	min-height: 590px;
+	min-height: 655px;
         box-shadow: 0 0 5px #666;
         
 	padding-top:10px;
@@ -113,7 +113,7 @@ a:link
 	float:left;
 	width:83%;
 	
-	min-height:603px;
+	min-height:655px;
 	
 	padding-top:10px;
         padding-left:1%;
@@ -231,7 +231,10 @@ a:link
 	text-align:center;
 }
 
-
+.pSousTitre
+{
+    max-width:666px;
+}
 
 
 

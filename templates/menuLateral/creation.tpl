@@ -2,11 +2,14 @@
 
 <div id="divCreationClasseRace">
 
-<h3>La classe</h3>
+    <div style="text-align:center;">
+    <img class="communImages imageClassesRaces" src="ressources/02-Creation/Races.WillDan.DA.Small.jpg">
+    </div>
+<h3 class="titreCreation">La classe</h3>
 <p>Le joueur doit choisir une <a href="?Page=menuLateral/classes">classe</a>, il ne peut en choisir qu'une seule. 
     Il faut le faire en concordance avec la race, un tableau de correspondance classe/race est disponible à la fin de cette page.</p><br />
 
-<h3>La race</h3>
+<h3 class="titreCreation">La race</h3>
 <p>Le joueur doit choisir une <a href="?Page=menuLateral/races">race</a>, il ne peut en choisir qu'une seule, toutes les races ne peuvent pas être toutes les classes, 
     il faut se reporter au tableau à la fin de cette page.</p><br />
 
@@ -14,38 +17,50 @@
 
 <div id="divCreationAlignementDons">
 
-<h3>L'alignement</h3>
+    <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png">
+    
+<h3 class="titreCreation">L'alignement</h3>
 <p>Le joueur doit choisir son <a href="?Page=menuLateral/alignement">alignement</a>, il faut choisir la composante éthique et la composante morale.</p><br />
 
-<h3>Les dons</h3>
+<h3 class="titreCreation">Les dons</h3>
 <p>Le joueur peut choisir deux <a href="?Page=menuLateral/dons">dons</a> au départ, les types de dons disponibles sont détaillées dans les descriptions de classes.</p><br />
+
+
 
 </div>
 
 <div id="divCreationEquipement">
 
-<h3>L'équipement</h3>
-<p>Chaque joueur commence le jeu avec 100+1d100 po.<p>
-<p>Il choisit ensuite une arme de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
+    <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.png">
+    
+<h3 class="titreCreation">L'équipement</h3>
+<p>Chaque joueur commence le jeu avec 100+1d100 po. Il choisit ensuite une arme de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
     sa classe lui permet.</p>
-<p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main.</p>
-<p>Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.</p>
-<p>Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
+<p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main. Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.
+    Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
 <p>L'équipement se trouve dans la section des <a href="?Page=menuLateral/equipement">armes et armures</a>.</p><br />
 
 </div>
 
 <div id="divCreationCaracCompe">
 
-<h3>Les caractéristiques</h3>
+    
+   <div style="float:left;width: 45%;margin-right:20px;">
+<h3 class="titreCreation">Les caractéristiques</h3>
 <p>Le joueur détermine au début du jeu les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> de son personnage, 
     ces informations sont dépendantes de la classe et sont complétées par 1d2 pour chaque caractéristique.</p><br />
+</div>
+    
+    <div style="float:left;width: 45%;">
+<img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg">
 
-<h3>Les compétences</h3>
+<h3 class="titreCreation">Les compétences</h3>
 <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage en fonction de sa classe.<br /> 
     Le nombre de points à investir est de 4+2d4+modificateur d'intelligence.<br /> 
     Le maximum de points par compétence est 3 au niveau 1; 
     pour les compétences spécifiques à la classe, un point supplémentaire déjà affiché sur la fiche de personnage est attribué.</p>
+</div>
+    
 
 </div>
 
