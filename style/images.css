@@ -59,7 +59,7 @@
     float:right;
     margin: 10px;
     margin-top: 70px;
-    /*box-shadow: none;*/
+    background-color: white;
 }
 
 .imageCompeCarac
@@ -134,10 +134,10 @@
 /* CSS pour les images de la page du monde de Telneria */
 .imageCarte
 {
-    margin:10px 5% 10px 5%;
+    margin:10px 0 10px 0;
     max-width:90%;
     /*max-height: 900px;*/
-    
+
 }
 
 .imageLogoSystemeUnite
@@ -146,4 +146,85 @@
     float:left;
     margin: 10px;
     border-radius: 10px;
+}
+
+.imageRegion
+{
+    margin:50px 2px 5px 10px;
+    max-width:45%;
+    float:right;
+}
+
+.imageEquipementEquip
+{
+    max-height: 300px;
+    max-width: 90%;
+}
+
+
+/*CSS pour les images de la page des monstres */
+
+
+/* CSS pour les images de la page de préparation des personnages */
+.imagePrepTour
+{
+    max-width: 20%;
+    box-shadow:none;
+    float:right;
+    margin-top:50px;
+}
+
+.imagePrepLanterne
+{
+    max-width:35%;
+    box-shadow: none;
+    float:right;
+    margin-top:50px;
+}
+
+/* CSS pour les images de la page d'expérience */
+.imageExpGuerrier
+{
+    max-width: 35%;
+    float:right;
+    margin-top:50px;
+    margin-left: 10px;
+}
+
+.imageExpTelnas
+{
+    max-width:35%;
+    float:right;
+    margin-top:50px;
+    margin-left: 10px;
+}
+
+/* Css pour les images de la page de combat */
+.imageCombatModificateurs
+{
+    max-height: 80px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.imageCombatJetToucher
+{
+    max-width: 100%;
+}
+
+.imageCrane
+{
+    max-height: 160px;
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.imageCombatTelnas
+{
+    max-height: 240px;
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 20px;
 }

@@ -2,12 +2,14 @@ html
 {
     cursor: url('../ressources/curseurs/GantOuvert32.png'), auto;
     /*margin-top:-30px;*/
+    overflow-y: scroll;
 }
 
 body
 {
 	/*background-color:#E9E79E;*/
-        background-image:url('../ressources/FondParchemin.jpg');
+        background-image:url('../ressources/FondParcheminBody.jpg');
+        background-size: 20%;
         /*background-repeat:no-repeat;
 	background-position:left;
         background-position:100% 100%;*/
@@ -126,7 +128,8 @@ a:link
 	margin-bottom:10px;
 	
 	/*background-color:#FFFFFF;*/
-        background-image: url('../ressources/FondParcheminClair.jpg');
+        background-image: url('../ressources/FondParchClair.jpg');
+        background-size: 100%;
 
 }
 
@@ -237,7 +240,13 @@ a:link
 }
 
 
+/*
+.hidden
+{
+    display: none;
+}
 
-.hidden { display: none; }
-
-.unhidden { display: block; }
+.unhidden
+{
+    display: block;
+}*/

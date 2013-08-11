@@ -7,23 +7,23 @@
 <br />
 
 <p>
-<a href="?Page=menuLateral/monstres/betes"> Les bêtes</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/demons"> Les démons</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/dragons"> Les dragons</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/elementaires"> Les élementaires</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/etheres"> Les éthérés</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/garous"> Les garous</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/humanoides"> Les humanoïdes</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/mortVivants"> Les mort-vivants</a>
-<br /><br />
-<a href="?Page=menuLateral/monstres/vampires"> Les vampires</a>
+    <a href="?Page=menuLateral/monstres/betes"> Les bêtes</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/demons"> Les démons</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/dragons"> Les dragons</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/elementaires"> Les élementaires</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/etheres"> Les éthérés</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/garous"> Les garous</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/humanoides"> Les humanoïdes</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/mortVivants"> Les mort-vivants</a>
+    <br /><br />
+    <a href="?Page=menuLateral/monstres/vampires"> Les vampires</a>
 </p>
 
 
@@ -35,11 +35,11 @@
 <p>Voici l'ensemble des caractéristiques à définir pour un monstre personnalisé :</p>
 
 <ul>
-<li>Les points de vie (20 au niveau 1 pour un monstre solitaire pour une difficulté modérée...)</li>
-<li>La classe d'armure (10 au niveau 1 pour une difficulté modérée...)</li>
-<li>La classe magique (valeur similaire à la classe d'armure...)</li>
-<li>La taille (P pour un loup, M pour un zombie...)</li>
-<li>Les dégâts infligés (1d6 au niveau 1 pour une difficulté modérée...)</li>
-<li>Les sorts (boule de feu 1d6 de dégâts, contrôle mental d'un joueur pour 1 tour...)</li>
-<li>Le butin (10 pièces d'or, un anneau magique...)</li>
+    <li>Les points de vie (20 au niveau 1 pour un monstre solitaire pour une difficulté modérée...)</li>
+    <li>La classe d'armure (10 au niveau 1 pour une difficulté modérée...)</li>
+    <li>La classe magique (valeur similaire à la classe d'armure...)</li>
+    <li>La taille (P pour un loup, M pour un zombie...)</li>
+    <li>Les dégâts infligés (1d6 au niveau 1 pour une difficulté modérée...)</li>
+    <li>Les sorts (boule de feu 1d6 de dégâts, contrôle mental d'un joueur pour 1 tour...)</li>
+    <li>Le butin (10 pièces d'or, un anneau magique...)</li>
 </ul>

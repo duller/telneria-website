@@ -31,7 +31,7 @@
 
 <div id="divCreationEquipement">
 
-    <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.png">
+    <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.SansFond.png">
     
 <h3 class="titreCreation">L'équipement</h3>
 <p>Chaque joueur commence le jeu avec 100+1d100 po. Il choisit ensuite une arme de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que

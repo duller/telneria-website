@@ -1,12 +1,37 @@
-/* 
-    Document   : pagesJeu
-    Created on : 3 août 2013, 23:49:30
-    Author     : francois
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+.divZoneCombatTitre
+{
+    float:left;
 }
 
+.titreCombat
+{
+    margin-right: 50px;
+}
+
+.divPageCombat
+{
+    margin-bottom: 50px;
+    float:left;
+}
+
+
+.div30
+{
+    max-width: 28%;
+    float:left;
+    margin: 0 1%;
+}
+
+.div40
+{
+    max-width: 38%;
+    float:left;
+    margin: 0 1%;
+}
+
+.divEtroite
+{
+    max-width:1200px;
+    float:left;
+    margin-left:2%;
+}
