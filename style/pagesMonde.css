@@ -25,13 +25,13 @@
 
 .divEquip
 {
-    max-width: 1400px;
+    max-width: 900px;
 }
 
 .divEquipGauche
 {
-    max-width:25%;
-    margin: 10px 2% 10px 2%;
+    max-width:45%;
+    margin: 15px 2% 25px 2%;
     float:left;
     text-align: center;
 }
@@ -43,7 +43,34 @@
 
 .divEquipDroite
 {
-    max-width:40%;
+    max-width:50%;
     margin: 10px 1% 10px 1%;
+}
+
+.tabTitreArmes
+{
+    margin-right:115px;
+    margin-top:15px;
+}
+
+/* CSS pour la page des monstres */
+.lienMonstre
+{
+    text-align: center;
+}
+
+.divGroupeMonstres
+{
     float:left;
+    margin-left:1%;
+    margin-right:1%;
+    margin-top:0px;
+    margin-bottom:5px;
+}
+
+.divSousGroupeMonstres
+{
+    float:left;
+    margin-left:1%;
+    margin-right:1%;
 }

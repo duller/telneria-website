@@ -2,7 +2,12 @@
 
 <div class="divEquip">
 
-    <p>Pour le combat, les joueurs peuvent porter l'équipement suivant :
+    <p>Chaque joueur commence le jeu avec 100+1d100 po. Il choisit ensuite une arme de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
+    sa classe lui permet.</p>
+<p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main. Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.
+    Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
+    
+<p>L'équipement est classé en trois catégories, on trouve les armes, les armures, et l'équipement commun.</p>
     <div class="divEquipGauche">
         <img class="communImages imageEquipementEquip" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg">
         <p class="pEquip">Les <a href="?Page=menuLateral/equipement/armes">armes</a> </p>

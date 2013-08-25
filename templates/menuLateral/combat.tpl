@@ -77,7 +77,8 @@
                     <li>Utiliser un don</li>
                     <li>Changer d'arme</li>
                     <li>Se déplacer de 5m</li>
-                    <li>Se mettre en position de défense, ce qui donne +1 à la CA.</li>
+                    <li>Se mettre en position de défense, ce qui donne +1 à l'EP (esquive physique).</li>
+                    <li>Se concentrer spirituellement, ce qui donne +1 à l'EM (esquive magique).</li>
                     <li>Se mettre en position d'attaque, ce qui donne +1 au prochain jet de toucher.</li>
                 </ul>
             </div>
@@ -102,7 +103,7 @@
                     tandis que les sorts de soins sont modifiés par la sagesse.</p>
                 <p>Une réussite critique peut être obtenue lorsque le score au d20 est de 20, ce qui se traduit en un doublement des dégâts infligés.</p>
                 <p>Un échec critique est obtenu lorsque le score au d20 est de 1, c'est nécessairement un échec et qui a des conséquences néfastes, et de préférence drôles, sur le personnage.</p>
-                <p>Le jet obtenu est comparé à la classe d'armure ou magique de la cible pour déterminer la réussite de l'action.</p>
+                <p>Le jet obtenu est comparé à l'esquive physique ou magique de la cible pour déterminer la réussite de l'action.</p>
 
             </div>
 
@@ -119,7 +120,7 @@
                 <p>Les sorts de soins touchent si le jet atteint la valeur 10, si le jet atteint 20, le soin est critique et est doublé. 
                     Le jet est modifié par la sagesse. Si le jet atteint de 6 à 9, le soin atteint tout de même sa cible, mais le soin est diminué de moitié. 
                     Si le jet donne 1, le soigneur subit 1 point de dégât.</p>
-                <p>Les sorts offensifs touchent avec le modificateur d'intelligence et en fonction de la classe magique des ennemis.</p>
+                <p>Les sorts offensifs touchent avec le modificateur d'intelligence et en fonction de l'esquive magique des ennemis.</p>
             </div>
 
         </div>
@@ -128,22 +129,22 @@
 
 
     <div class="divZoneCombatTitre">
-        <h2 class="titreCombat">Modificateurs de toucher : classe d'armure et classe magique</h2>
+        <h2 class="titreCombat">Modificateurs de toucher : esquive physique (EP) et esquive magique (EM)</h2>
         <div id="divModificateurs" class="divPageCombat">
             <div class="divMoitieGauche">
                 <h3>Attaques physiques</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/hammer-drop.png">
-                <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec la classe d'armure de la cible. 
+                <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec l'esquive physique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés en fonction de l'arme utilisée.</p>
-                <p>La classe d'armure est déterminée à partir de la classe d'armure de base, qui est de 10, des éventuelles pièces d'armure, de la dextérité et du modificateur de taille.</p>
+                <p>L'esquive physique est déterminée à partir de l'esquive physique de base, qui est de 10, des éventuelles pièces d'armure, de la dextérité et du modificateur de taille.</p>
             </div>
             <div class="divMoitieDroite">
                 <h3>Attaques magiques</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/unfriendly-fire.png">
-                <p>Pour déterminer le sucès d'une attaque magique, il faut comparer le jet de toucher avec la classe magique de la cible. 
+                <p>Pour déterminer le sucès d'une attaque magique, il faut comparer le jet de toucher avec l'esquive magique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés par le sort utilisé.</p>
-                <p>La classe magique est déterminée à partir de la classe magique de base, qui est de 10, des éventuelles pièces d'armures magiques, du charisme et du modificateur de taille.</p>
-                <p>Les classes magiques les plus puissantes, à savoir clerc, sorcier, magicien et druide, ont un bonus de +1 à la classe magique.</p>
+                <p>L'esquive magique est déterminée à partir de l'esquive magique de base, qui est de 10, des éventuelles pièces d'armures magiques, du charisme et du modificateur de taille.</p>
+                <p>Les classes magiques les plus puissantes, à savoir clerc, sorcier, magicien et druide, ont un bonus de +1 à l'esquive magique.</p>
             </div>
             <div style="float:left;margin-left:1%;">
                 <h4>Tableau du modificateur de taille :</h4>
@@ -153,10 +154,10 @@
                             <p class="ptabstrong">Taille</p>
                         </td>
                         <td>
-                            <p class="ptab">Minuscule</p>
+                            <p class="ptab">Infime</p>
                         </td>
                         <td>
-                            <p class="ptab">Très petit</p>
+                            <p class="ptab">Minuscule</p>
                         </td>
                         <td>
                             <p class="ptab">Petit</p>
@@ -168,10 +169,10 @@
                             <p class="ptab">Grand</p>
                         </td>
                         <td>
-                            <p class="ptab">Très grand</p>
+                            <p class="ptab">Énorme</p>
                         </td>
                         <td>
-                            <p class="ptab">Énorme</p>
+                            <p class="ptab">Gigantesque</p>
                         </td>
                         <td>
                             <p class="ptab">Colossal</p>
@@ -204,6 +205,64 @@
                         </td>
                         <td>
                             <p class="ptab">-4</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="ptabstrong">Échelle</p>
+                        </td>
+                        <td>
+                            <p class="ptab">< 10 cm</p>
+                        </td>
+                        <td>
+                            <p class="ptab">10 cm - 50 cm</p>
+                        </td>
+                        <td>
+                            <p class="ptab">50 cm - 1 m</p>
+                        </td>
+                        <td>
+                            <p class="ptab">1 m - 2 m</p>
+                        </td>
+                        <td>
+                            <p class="ptab">2 m - 3 m</p>
+                        </td>
+                        <td>
+                            <p class="ptab">3 m - 5 m</p>
+                        </td>
+                        <td>
+                            <p class="ptab">5 m - 10 m</p>
+                        </td>
+                        <td>
+                            <p class="ptab">> 10 m</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="ptabstrong">Exemple</p>
+                        </td>
+                        <td>
+                            <p class="ptab">Rat</p>
+                        </td>
+                        <td>
+                            <p class="ptab">Faucon</p>
+                        </td>
+                        <td>
+                            <p class="ptab">Gobelin</p>
+                        </td>
+                        <td>
+                            <p class="ptab">Elfe</p>
+                        </td>
+                        <td>
+                            <p class="ptab">Varelias</p>
+                        </td>
+                        <td>
+                            <p class="ptab">Ogre </p>
+                        </td>
+                        <td>
+                            <p class="ptab">Ancien Troll des collines</p>
+                        </td>
+                        <td>
+                            <p class="ptab">Dragon vénérable</p>
                         </td>
                     </tr>
 

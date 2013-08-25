@@ -15,7 +15,7 @@
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/SauvegardeEsquive.png">
         <h3>Esquive améliorée</h3>
-        <p>Augmente la classe d'armure de 50% pour les deux prochaines attaques subies.</p>
+        <p>Augmente l'esquive physique de 50% pour les deux prochaines attaques subies.</p>
     </div>
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/SauvegardeResistance.png">

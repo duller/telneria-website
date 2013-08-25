@@ -13,7 +13,7 @@
     <div class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Dexterite.png">
         <h3>Dextérité</h3>
-        <p>Le modificateur de dexterité modifie le dé de toucher à distance et le jet d'initiative en début de combat. Il modifie également la classe d'armure.</p>
+        <p>Le modificateur de dexterité modifie le dé de toucher à distance et le jet d'initiative en début de combat. Il modifie également l'esquive physique.</p>
     </div>
     <div class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Constitution.png">
@@ -38,7 +38,7 @@
     <div class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Charisme.png">
         <h3>Charisme</h3>
-        <p>Le modificateur de charisme modifie la classe magique.</p>
+        <p>Le modificateur de charisme modifie l'esquive magique.</p>
     </div>
 </div>
 

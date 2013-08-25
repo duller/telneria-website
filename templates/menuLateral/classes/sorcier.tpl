@@ -39,7 +39,7 @@
     <h4>Voile de terreur</h4>
     <p>Ensevelit l'ennemi sous un voile de ténèbres, lui infligeant des dégâts et l'incitant à fuir brièvement.</p>
     <h4>Rire sadique</h4>
-    <p>Le sorcier adresse un rire démoniaque à un ennemi, réduisant sa classe d'armure et ses chances de toucher.</p>
+    <p>Le sorcier adresse un rire démoniaque à un ennemi, réduisant son esquive physique et ses chances de toucher.</p>
 </div>
 
 <div class="classeTableaux">

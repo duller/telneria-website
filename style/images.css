@@ -97,7 +97,7 @@
     border-radius: 10px;
 }
 
-/* CSS pour les images de la page d'alignement */
+/* CSS pour les images de la page des dons */
 .imageLogoDon
 {
     max-height: 60px;
@@ -155,15 +155,27 @@
     float:right;
 }
 
+/* CSS pour les images de la page d'équipement */
 .imageEquipementEquip
 {
     max-height: 300px;
     max-width: 90%;
 }
 
+.imageArme
+{
+    width:100px;
+    height:100px;
+    float:right;
+    margin-left:15px;
+}
+
 
 /*CSS pour les images de la page des monstres */
-
+.imageTousMonstres
+{
+    max-width: 100%;
+}
 
 /* CSS pour les images de la page de préparation des personnages */
 .imagePrepTour

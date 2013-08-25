@@ -20,7 +20,7 @@
     <table class="tableTableauCompe">
         <tr>
             <td class="tdNomCompe">
-                <p class="ptab"><strong>Caractéristique</strong></p>
+                <p class="ptab"><strong>Compétence</strong></p>
             </td>
             <td>
                 <p class="ptab"><strong>Modificateur</strong></p>
@@ -31,112 +31,25 @@
         </tr>
         <tr class="trTableauCompe">
             <td>
-                <p class="ptab">Artisanat</p>
+                <p class="ptab">Athlétisme</p>
             </td>
             <td>
-                <p class="ptab">INT</p>
+                <p class="ptab">FOR</p>
             </td>
             <td>
-                <p class="ptab">Fabrication de pièces de bois, de pièges, d'armes...</p>
+                <p class="ptab">Capacités physiques du personnage lors de l'escalade d'une falaise, de la traversée à la nage d'une rivière, ou d'un saut par-dessus
+                    un obstacle...</p>
             </td>
         </tr>
         <tr class="trTableauCompe">
             <td>
-                <p class="ptab">Bluff</p>
-            </td>
-            <td>
-                <p class="ptab">CHA</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à berner son interlocuteur et à l'amener à faire ce que l'on veut.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Concentration</p>
-            </td>
-            <td>
-                <p class="ptab">SAG</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité de se concentrer sur un problème intellectuel.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Connaissances</p>
-            </td>
-            <td>
-                <p class="ptab">INT</p>
-            </td>
-            <td width="">
-                <p class="ptab">Connaissances des histoires et coutumes, des souterrains et passages secrets, des animaux et des plantes...</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Crochetage</p>
+                <p class="ptab">Équilibre</p>
             </td>
             <td>
                 <p class="ptab">DEX</p>
             </td>
             <td width="">
-                <p class="ptab">Capacité à crocheter les serrures verrouillées et les coffres.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Décryptage</p>
-            </td>
-            <td>
-                <p class="ptab">INT</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à décrypter les messages codés, les runes antiques...</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Déguisement</p>
-            </td>
-            <td>
-                <p class="ptab">CHA</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à se camoufler et à tromper autrui en se déguisant avec une tenue humanoïde ou végétale.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Désamorcage</p>
-            </td>
-            <td>
-                <p class="ptab">INT</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à désamorcer un piège.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Détection</p>
-            </td>
-            <td>
-                <p class="ptab">SAG</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à détecter une tromperie, une faible lueur...</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Diplomatie</p>
-            </td>
-            <td>
-                <p class="ptab">CHA</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à amener son interlocuteur à changer son point de vue et à le convaincre sans le menacer.</p>
+                <p class="ptab">Capacité à garder son équilibre sur un terrain scabreux.</p>
             </td>
         </tr>
         <tr class="trTableauCompe">
@@ -152,149 +65,13 @@
         </tr>
         <tr class="trTableauCompe">
             <td>
-                <p class="ptab">Dressage</p>
+                <p class="ptab">Précision</p>
             </td>
             <td>
                 <p class="ptab">DEX</p>
             </td>
             <td width="">
-                <p class="ptab">Capacité à dresser des animaux sauvages et à monter sur une monture terrestre ou volante.</p>
-            </td>
-        </tr>
-
-    </table>
-
-    <table class="tableTableauCompe">
-        <tr>
-            <td class="tdNomCompe">
-                <p class="ptab"><strong>Caractéristique</strong></p>
-            </td>
-            <td>
-                <p class="ptab"><strong>Modificateur</strong></p>
-            </td>
-            <td class="tdDescrCompe">
-                <p class="ptab"><strong>Description</strong></p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Equilibre</p>
-            </td>
-            <td>
-                <p class="ptab">DEX</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à garder son équilibre sur un terrain scabreux.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Escalade</p>
-            </td>
-            <td>
-                <p class="ptab">FOR</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à grimper par la force de ses membres une falaise ou un mur.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Fouille</p>
-            </td>
-            <td>
-                <p class="ptab">INT</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à déceler les trésors cachés dans une pièce ou sur un cadavre encore frais.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Intimidation</p>
-            </td>
-            <td>
-                <p class="ptab">CHA</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à amener son interlocuteur à s'exécuter en le menaçant.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Natation</p>
-            </td>
-            <td>
-                <p class="ptab">FOR</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à nager dans un fleuve ou en mer.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Perception auditive</p>
-            </td>
-            <td>
-                <p class="ptab">SAG</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à déceler un léger murmure ou un bruit indistinct dans une ambiance animée.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Premiers secours</p>
-            </td>
-            <td>
-                <p class="ptab">SAG</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à venir à l'aide de ses compagnons d'aventure blessés.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Psychologie</p>
-            </td>
-            <td>
-                <p class="ptab">SAG</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à résister aux attaques psychiques des ennemis. Est utilisé notamment pour déterminer la résistance à un contrôle mental.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Renseignements</p>
-            </td>
-            <td>
-                <p class="ptab">CHA</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à obtenir des renseignements de la part d'une créature dotée d'intelligence.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Repérage</p>
-            </td>
-            <td>
-                <p class="ptab">INT</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à s'orienter dans une ville inconnue, un labyrinthe ou une montagne.</p>
-            </td>
-        </tr>
-        <tr class="trTableauCompe">
-            <td>
-                <p class="ptab">Saut</p>
-            </td>
-            <td>
-                <p class="ptab">FOR</p>
-            </td>
-            <td width="">
-                <p class="ptab">Capacité à franchir des obstacles tel un précipice ou à s'agripper à une prise en hauteur.</p>
+                <p class="ptab">Capacité à manier de petits objets ou mécanismes avec délicatesse, notamment pour du crochetage ou du désamorçage.</p>
             </td>
         </tr>
         <tr class="trTableauCompe">
@@ -308,6 +85,87 @@
                 <p class="ptab">Capacité à résister dans un environnement hostile, notamment un milieu volcanique ou toxique.</p>
             </td>
         </tr>
+        <tr class="trTableauCompe">
+            <td>
+                <p class="ptab">Découverte</p>
+            </td>
+            <td>
+                <p class="ptab">INT</p>
+            </td>
+            <td width="">
+                <p class="ptab">Capacité du personnage à assimiler de nouvelles connaissances et à fouiller une chambre ou un cadavre.</p>
+            </td>
+        </tr>
+        <tr class="trTableauCompe">
+            <td>
+                <p class="ptab">Création</p>
+            </td>
+            <td>
+                <p class="ptab">INT</p>
+            </td>
+            <td width="">
+                <p class="ptab">Capacité à concevoir des objets, notamment pour l'artisanat et le déguisement.</p>
+            </td>
+        </tr>
+        <tr class="trTableauCompe">
+            <td>
+                <p class="ptab">Concentration</p>
+            </td>
+            <td>
+                <p class="ptab">SAG</p>
+            </td>
+            <td width="">
+                <p class="ptab">Capacité à résister aux distractions lors d'un travail intellectuel. 
+                    Est également utilisé pour déterminer la résistance au contrôle mental et aux attaques psychologiques, ainsi que pour le décryptage.</p>
+            </td>
+        </tr>
+        <tr class="trTableauCompe">
+            <td>
+                <p class="ptab">Perception</p>
+            </td>
+            <td>
+                <p class="ptab">SAG</p>
+            </td>
+            <td width="">
+                <p class="ptab">Capacité à détecter les sons, les lumières, même dans les situations les plus bruyantes et les pièces les plus sombres.</p>
+            </td>
+        </tr>
+        <tr class="trTableauCompe">
+            <td>
+                <p class="ptab">Tromperie</p>
+            </td>
+            <td>
+                <p class="ptab">CHA</p>
+            </td>
+            <td width="">
+                <p class="ptab">Capacité à se jouer de son interlocuteur ou de son adversaire pour l'amener à agir favorablement. 
+                    Est également utilisé lorsque le joueur est camouflé ou déguisé.</p>
+            </td>
+        </tr>
+        <tr class="trTableauCompe">
+            <td>
+                <p class="ptab">Diplomatie</p>
+            </td>
+            <td>
+                <p class="ptab">CHA</p>
+            </td>
+            <td width="">
+                <p class="ptab">Capacité à amener son interlocuteur à changer son point de vue et à le convaincre par la raison ou la menace. 
+                    Est également utilisé lorsque le joueur est à la recherche de renseignements.</p>
+            </td>
+        </tr>
+        <tr class="trTableauCompe">
+            <td>
+                <p class="ptab">Animaphilie</p>
+            </td>
+            <td>
+                <p class="ptab">CHA</p>
+            </td>
+            <td width="">
+                <p class="ptab">Capacité à dresser des animaux sauvages et à monter sur une monture terrestre ou volante.</p>
+            </td>
+        </tr>
+
     </table>
 
 </div>
