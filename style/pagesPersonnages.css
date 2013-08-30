@@ -122,7 +122,7 @@
     float:left;
     width:60%;
     min-height:550px;
-    box-shadow: 0 0 5px #666;
+    box-shadow: 0 0 5px #666;/*1px 1px 2px 1px rgb(102, 102, 102)*/
 
     margin-top:10px;
     margin-left:1%;
@@ -242,6 +242,11 @@
     margin: 5px 5% 5px 5%;
 }
 
+.divImageRace
+{
+    box-shadow: none;
+}
+
 .lienRacesChoix
 {
     width: 17%;
@@ -253,4 +258,32 @@
 .ligneRacesChoix
 {
     margin-left: 8%;
+}
+
+/* CSS pour les page de chaque race */
+
+.divDescrRace
+{
+    float:left;
+    clear:left;
+}
+
+.sousTitreRace
+{
+    margin-top:10px;
+}
+
+.aClasseDispo
+{
+    display: inline-block;
+}
+
+.pClassesDispo
+{
+    display: inline;
+}
+
+.pImageRace
+{
+    text-align: center;
 }
