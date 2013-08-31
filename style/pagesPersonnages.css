@@ -122,7 +122,7 @@
     float:left;
     width:60%;
     min-height:550px;
-    box-shadow: 0 0 5px #666;/*1px 1px 2px 1px rgb(102, 102, 102)*/
+    box-shadow: 1px 1px 2px 1px rgb(102, 102, 102);/*0 0 5px #666;*/
 
     margin-top:10px;
     margin-left:1%;
@@ -268,14 +268,23 @@
     clear:left;
 }
 
-.sousTitreRace
+.sousTitre4Race
 {
-    margin-top:10px;
+    margin-top:0px;
+}
+
+.sousTitre3Race
+{
+    clear: both;
+    margin-top:20px;
+    margin-bottom: 0px;
+    padding-top:20px;
 }
 
 .aClasseDispo
 {
     display: inline-block;
+    margin-top:20px;
 }
 
 .pClassesDispo

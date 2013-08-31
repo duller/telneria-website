@@ -156,6 +156,12 @@ p
     text-align: justify;   
 }
 
+.titreDebutLigne
+{
+    font-style:italic;
+    /*font-weight:bold;*/
+}
+
 li
 {
     font-family: 'Alegreya',Verdana, Geneva, sans-serif;
