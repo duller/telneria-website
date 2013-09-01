@@ -31,8 +31,9 @@
             <p>+1d2 de dégâts lors d'une attaque à mains nues</p>
         </div>
         <div class="divMoitieGauche">
-            <h4 class="sousTitre4Race">Taille</h4>
-            <p>Moyenne</p>
+            <h4 class="sousTitre4Race">Physique</h4>
+            <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 1m80 à 2m10</p>
+            <p><span class="titreDebutLigne">Poids</span> &nbsp: 90kg à 120kg</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un rôdeur chepteg est assez commun, tandis qu'un druide est plutôt rare.</p> 

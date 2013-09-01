@@ -22,7 +22,7 @@
         <p>Au nord-est, on trouve la cité sylvaine de Prenence, capitale des Elfes des forêts.</p>
         <p>Le sud du continent se compose des belliqueuses baronnies humaines veldriennes. Vesnoth, à l'ouest, est la capitale des baronnies et le siège du prince régnant ; 
             on trouve également dans cette baronnie la cité des telnastres de Maldaran ainsi que la grande cité commerciale de Brill. 
-            Les autres baronnies sont inféodés au souverain de Vesnoth : ce sont les baronnies de Vilnus, Temberg, Valmer
+            Les autres baronnies sont inféodées au souverain de Vesnoth : ce sont les baronnies de Vilnus, Temberg, Valmer
             et Estrhan.</p>
     </div>
 </div>
@@ -36,7 +36,7 @@
         <img class="communImages imageRegion" src="ressources/09-Monde/Ferestos.SkullDixon.DA.jpg">
         <h3>Ferestos</h3>
         <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des nains et des dragonides, le paysage est majoritairement montagnard et le climat y est rude.</p>
-        <p>Au nord, se trouve la cité elfe du savoir de Dilnis. À l'ouest et au sud, se trouvent les cités commerçantes des nains Feresbourg et Tendris.</p>
+        <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains .</p>
         <p>L'intérieur des terres de l'île de Ferestos est constitué de hautes montagnes et de volcans qu'habitent quelques nains et les clans dragonides.</p>
     </div>
     <div class="divMoitieDroite">
@@ -44,41 +44,67 @@
         <h3>Mestrhune</h3>
         <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
         <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, on trouve les terres des Kerfenn et leur capitale Kerbourg. 
-            Au centre on trouve le carnumat humain de Carnum ;
-            le carn, souverain de Carnum, est un ancien rival des barons de Veldris. À l'est, on trouve la république des Murviens et leur capitale Golnan.</p>
+            Au centre on trouve le royaume humain de Carnum ;
+            le souverain de Carnum est un ancien rival des barons de Veldris. À l'est, on trouve la république des Murviens et leur capitale Golnan.</p>
+    </div>
+</div>
+
+<div class="zoneRegionsBas">
+    <div class="divMoitieGauche">
+        <img class="communImages imageRegion" src="ressources/09-Monde/Ferestos.SkullDixon.DA.jpg">
+        <h3>Ferestos</h3>
+        <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des nains et des dragonides, le paysage est majoritairement montagnard et le climat y est rude.</p>
+        <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains .</p>
+        <p>L'intérieur des terres de l'île de Ferestos est constitué de hautes montagnes et de volcans qu'habitent quelques nains et les clans dragonides.</p>
+    </div>
+    <div class="divMoitieDroite">
+        <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg">
+        <h3>Mestrhune</h3>
+        <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
+        <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, on trouve les terres des Kerfenn et leur capitale Kerbourg. 
+            Au centre on trouve le royaume humain de Carnum ;
+            le souverain de Carnum est un ancien rival des barons de Veldris. À l'est, on trouve la république des Murviens et leur capitale Golnan.</p>
     </div>
 </div>
 
 <div class="zoneMondeUnites">
-    <h2>Le système d'unités dans le monde de Telneria</h2>
+    <h2>Chronologie du monde de Telneria</h2>
+    <p>-700 : Signature des traités de paix entre les villages humains et les tribus d'orcs.</p>
+    <p>0 : Émergence de l'empire humain de Carnum en Mestrhune et Veldris.</p>
+    <p>505 : Découverte du Telnas par la mage Nitria.</p>
+    <p>509 : Renversement de l'empire de Carnum et proclamation des baronnies en Veldris.</p>
+    <p>782 : Aujourd'hui.</p>
 
     <div class="divMoitieGauche">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/temps.png">
         <h3>Les unités de temps</h3>
-        <p>Le temps dans le monde de Telneria est basé sur la différence entre deux levers de soleil, c'est-à-dire une levée.</p>
-        <p>Chaque levée est séparée en 24 heures, chaque heure est ensuite séparée en 12 mitres.</p>
-        <p>Une lune est composée de 36 journées, tandis que 12 lunes forment un cycle. Le cycle est utilisé par les habitants pour indiquer leur âge ou les périodes de règne.</p>
+        <p>Le temps dans le monde de Telneria est basé sur le lever et le coucher du soleil. 
+            Chaque jour est séparé en 24 heures réparties en 12 heures avant et après le zénith.</p>
+        <p>Le découpage de la journée en heures est mesurée à l'aide d'horloges à huile. Le beffroi des villes indique chaque heure en faisant sonner la cloche municipale.</p>
+        <p>Une lune est composée de 36 jours, tandis que 12 lunes forment un cycle. Le cycle est utilisé par les habitants pour indiquer leur âge ou les périodes de règne.</p>
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/mesure.png">
         <h3>Les unités de mesure</h3>
-        <p>L'utilisation du pas, de la longue et de la lieue est répandue sur l'ensemble des quatre continents, à l'exception de quelques tribus nomades de Mestrhune.</p>
-        <p>Le pas correspond à une enjambée d'un nain adulte. Le quart-pas est la plus petite unité, il faut quatre quart-pas pour faire un pas.</p>
-        <p>La longue est utilisée pour mesurer les distances à l'intérieur d'un village et d'une ville, ou exceptionnellement pour les très grands édifices ; 
-            il faut douze pas pour faire une longue.</p>
+        <p>L'utilisation du pied, de la toise et de la lieue est répandue sur l'ensemble des quatre continents, à l'exception de quelques tribus nomades de Mestrhune.</p>
+        <p>Le pied correspond à la taille du pied d'un nain adulte. Pour les mesures plus petites, le pouce est parfois utilisé, il faut six pouces pour faire faire un pied.</p>
+        <p>La toise est utilisée pour mesurer les distances à l'intérieur d'un village et d'une ville, ou exceptionnellement pour les très grands édifices ; 
+            il faut six pieds pour faire une toise.</p>
         <p>Pour les grandes distances de déplacement ou pour le cadastre, c'est la lieue qui est utilisée. La lieue correspond à une heure de marche pour un nain adulte.</p>
     </div>
     <div class="divMoitieGauche">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/poids.png">
         <h3>Les unités de poids</h3>
-        <p>L'unité de poids de base dans le monde de Telneria est l'ould. L'ould correspond au poids d'un bâton de bois d'un quart-pas de long.</p>
-        <p>La nanite est également utilisée pour indiquer des poids plus importants. Une nanite correspond au poids de la lame d'une hache naine traditionnelle, elle correspond à 12 ould.</p>
+        <p>L'unité de poids de base dans le monde de Telneria est l'ould. L'ould correspond au poids d'un bâton de bois d'un pied de long.</p>
+        <p>La nanite est également utilisée pour indiquer des poids plus importants. Une nanite correspond au poids de la lame d'une hache naine traditionnelle, 
+            elle correspond à 12 ould.</p>
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/monnaie.png">
         <h3>La monnaie</h3>
         <p>De nombreuses monnaies locales sont utilisées sur les quatre continents de Telneria, elles sont généralement en minerai rare tel l'or ou l'argent, 
             et n'ont que rarement des effigies.
-            Cepdendant, les monnaies frappées par le prince de Vesnoth, le vescu, et le carn de Carnum, le mestol, sont acceptées dans la plupart des places marchandes du monde.</p>
+            Cepdendant, les monnaies frappées par le prince de Vesnoth et le souverain de Carnum (le vescu et le mestol) 
+            sont acceptées dans la plupart des places marchandes du monde.</p>
     </div>
 </div>

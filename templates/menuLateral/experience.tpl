@@ -4,17 +4,18 @@
     <img class="communImages imageExpGuerrier" src="ressources/13-Experience/ExpKnight.FantasyArt.jpg">
 <h2>Les points d'expérience</h2>
 <p>Les joueurs gagnent de l'expérience lorsqu'ils participent à un combat qui résulte en la mort d'une créature.</p>
-<p>Les points d'expérience octroyés sont à l'appréciation du MJ.</p>
-<p>Il faut acquérir 100 points d'expérience pour passer au niveau suivant. 
-    Les points d'expérience continuent à augmenter, il faut attendre 200 points d'expériences pour passer 
+<p>Les points d'expérience octroyés sont à l'appréciation du MJ. Tous les joueurs commencent le jeu avec 100 points d'expérience.</p>
+<p>Il faut acquérir 100 points d'expérience supplémentaires pour passer au niveau suivant. 
+    Les points d'expérience continuent à augmenter, il faut attendre 300 points d'expériences pour passer 
     au niveau 3 et ainsi de suite. </p>
 <p>Au niveau 5, le joueur doit choisir une classe de prestige.</p>
 <br />
 
 <h2>Les niveaux</h2>
-<p>À chaque niveau, les joueurs gagnent 1d2 de chaque caractéristique et 2d2 points de compétences à distribuer. 
-    Le maximum de chaque compétence monte d'un point chaque niveau pair.</p>
-<p>À chaque niveau, le nombre de points de vie et de mana augmente de 1d4 plus le modificateur respectivement de constitution et d'intelligence.</p>
+<p>À chaque niveau, les joueurs gagnent 1d4+8 de points de caractéristiques et 2d2 points de compétences à distribuer. 
+    Pour chaque caractéristique, le nombre de points à distribuer est entre 0 et 2.
+    Pour chaque compétence, le nombre de points à distribuer est entre 0 et 1.</p>
+<p>À chaque niveau, le nombre de points de vie et de mana augmente de 1d2 plus le modificateur respectivement de constitution et d'intelligence.</p>
 </div>
 
 <div class="divMoitieDroite">
