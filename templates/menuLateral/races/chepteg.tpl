@@ -32,8 +32,8 @@
         </div>
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Physique</h4>
-            <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 1m80 à 2m10</p>
-            <p><span class="titreDebutLigne">Poids</span> &nbsp: 90kg à 120kg</p>
+            <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 à 7 pieds (1m80 à 2m10)</p>
+            <p><span class="titreDebutLigne">Poids</span> &nbsp: 180 à 240 livres (90kg à 120kg)</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un rôdeur chepteg est assez commun, tandis qu'un druide est plutôt rare.</p> 

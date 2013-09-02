@@ -30,8 +30,8 @@
         </div>
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Physique</h4>
-            <p><span class="titreDebutLigne">Taille</span> &nbsp: Grande, 2m10 à 2m40</p>
-            <p><span class="titreDebutLigne">Poids</span> &nbsp: 160kg à 200kg</p>
+            <p><span class="titreDebutLigne">Taille</span> &nbsp: Grande, 7 à 8 pieds (2m10 à 2m40)</p>
+            <p><span class="titreDebutLigne">Poids</span> &nbsp: 320 à 400 livres (160kg à 200kg)</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un rôdeur varelias est assez commun, tandis qu'un chaman est plutôt rare.</p> 

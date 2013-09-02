@@ -49,32 +49,25 @@
     </div>
 </div>
 
-<div class="zoneRegionsBas">
-    <div class="divMoitieGauche">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Ferestos.SkullDixon.DA.jpg">
-        <h3>Ferestos</h3>
-        <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des nains et des dragonides, le paysage est majoritairement montagnard et le climat y est rude.</p>
-        <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains .</p>
-        <p>L'intérieur des terres de l'île de Ferestos est constitué de hautes montagnes et de volcans qu'habitent quelques nains et les clans dragonides.</p>
-    </div>
-    <div class="divMoitieDroite">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg">
-        <h3>Mestrhune</h3>
-        <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
-        <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, on trouve les terres des Kerfenn et leur capitale Kerbourg. 
-            Au centre on trouve le royaume humain de Carnum ;
-            le souverain de Carnum est un ancien rival des barons de Veldris. À l'est, on trouve la république des Murviens et leur capitale Golnan.</p>
-    </div>
-</div>
-
 <div class="zoneMondeUnites">
     <h2>Chronologie du monde de Telneria</h2>
-    <p>-700 : Signature des traités de paix entre les villages humains et les tribus d'orcs.</p>
-    <p>0 : Émergence de l'empire humain de Carnum en Mestrhune et Veldris.</p>
-    <p>505 : Découverte du Telnas par la mage Nitria.</p>
-    <p>509 : Renversement de l'empire de Carnum et proclamation des baronnies en Veldris.</p>
-    <p>782 : Aujourd'hui.</p>
 
+    <div class="divMoitieGauche">
+        <p>-2000 : Partage de Veldris entre les Elfes et les Neltariens.</p>
+        <p>-2000 à -754 : Paix des Elfes.</p>
+        <p>-754 : Extermination des derniers trolls par les Orcs. Regroupement des Humains en villages fortifiés.</p>
+        <p>-509 : Traité de paix entre les Humains et les clans orcs. Fondation des cités humaines.</p>
+        <p>0 : Proclamation de l'empire humain de Carnum en Mestrhune et Veldris.</p>
+    </div>
+    <div class="divMoitieDroite" style="margin-bottom:40px;">
+        <p>470 : Découverte du Telnas par la mage Nitria.</p>
+        <p>470-476 : Rébellion des Humains de Veldris contre Carnum</p>
+        <p>476 : Renversement de l'empire de Carnum et proclamation des baronnies en Veldris.</p>
+        <p>476-511 : Guerre du Telnas et avènement de l'ordre des Telnastres.</p>
+        <p>782 : Aujourd'hui.</p>
+    </div>
+
+    <h2>Les unités du monde de Telneria</h2>
     <div class="divMoitieGauche">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/temps.png">
         <h3>Les unités de temps</h3>
@@ -87,24 +80,26 @@
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/mesure.png">
         <h3>Les unités de mesure</h3>
         <p>L'utilisation du pied, de la toise et de la lieue est répandue sur l'ensemble des quatre continents, à l'exception de quelques tribus nomades de Mestrhune.</p>
-        <p>Le pied correspond à la taille du pied d'un nain adulte. Pour les mesures plus petites, le pouce est parfois utilisé, il faut six pouces pour faire faire un pied.</p>
+        <p>Le pied correspond à la taille du pied d'un nain adulte. Pour les mesures plus petites, le pouce est parfois utilisé, il faut douze pouces pour faire un pied.</p>
         <p>La toise est utilisée pour mesurer les distances à l'intérieur d'un village et d'une ville, ou exceptionnellement pour les très grands édifices ; 
             il faut six pieds pour faire une toise.</p>
         <p>Pour les grandes distances de déplacement ou pour le cadastre, c'est la lieue qui est utilisée. La lieue correspond à une heure de marche pour un nain adulte.</p>
     </div>
     <div class="divMoitieGauche">
-        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/poids.png">
-        <h3>Les unités de poids</h3>
-        <p>L'unité de poids de base dans le monde de Telneria est l'ould. L'ould correspond au poids d'un bâton de bois d'un pied de long.</p>
-        <p>La nanite est également utilisée pour indiquer des poids plus importants. Une nanite correspond au poids de la lame d'une hache naine traditionnelle, 
-            elle correspond à 12 ould.</p>
-    </div>
-    <div class="divMoitieDroite">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/monnaie.png">
         <h3>La monnaie</h3>
-        <p>De nombreuses monnaies locales sont utilisées sur les quatre continents de Telneria, elles sont généralement en minerai rare tel l'or ou l'argent, 
+        <p>De nombreuses monnaies locales sont utilisées sur les quatre continents de Telneria, elles sont généralement en minerai rare, 
             et n'ont que rarement des effigies.
-            Cepdendant, les monnaies frappées par le prince de Vesnoth et le souverain de Carnum (le vescu et le mestol) 
+            Cependant, les monnaies frappées par le prince de Vesnoth et le souverain de Carnum (le vescu et le mestol) 
             sont acceptées dans la plupart des places marchandes du monde.</p>
+        <p>Le vescu, tout comme le mestol, est forgé à partir des métaux d'or, d'argent et de cuivre. 
+            Le taux de change entre les deux monnaies est très variable et reste essentiellement politique.</p>
+    </div>
+    <div class="divMoitieDroite">
+        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/poids.png">
+        <h3>Les unités de poids</h3>
+        <p>L'unité de poids la plus courante dans le monde de Telneria est la livre. La livre correspond au poids d'une chope de bière naine.</p>
+        <p>L'once est également utilisée pour indiquer des poids plus faibles. Une once correspond au poids d'un vescu d'or, 
+            une livre correspondant à 16 onces.</p>
     </div>
 </div>
