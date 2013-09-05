@@ -1,7 +1,7 @@
 <div class="descriptionClasse">
     <div>
         <h2>Les Varelias</h2>
-        <img class="communImages" src="ressources/04-Races/PaysageVarelias.jpg" style="float:left;max-width:60%;margin-right:20px;">
+        <img class="communImages" src="ressources/04-Races/PaysageVarelias.jpg" style="float:left;max-width:65%;margin-right:20px;">
 
         <p>Originaires de la Forêt Touffue du nord de Veldris, les Varelias se sont exilés il y a deux siècles sur l'île d'Istnor, terre d'origine des Chepteg.</p>
         <p>Peuple ancien et sage, les Varelias sont d'imposants humanoïdes dont l'épiderme s'apparente à l'écorce des arbres.</p>

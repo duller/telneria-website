@@ -13,7 +13,7 @@
     <div class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Dexterite.png">
         <h3>Dextérité</h3>
-        <p>Le modificateur de dexterité modifie le dé de toucher à distance et le jet d'initiative en début de combat. Il modifie également l'esquive physique.</p>
+        <p>Le modificateur de dexterité modifie le dé de toucher à distance et l'esquive physique.</p>
     </div>
     <div class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Constitution.png">
@@ -27,8 +27,7 @@
     <div class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Intelligence.png">
         <h3>Intelligence</h3>
-        <p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs, la nombre de points de mana gagnés à chaque niveau
-            ainsi que le gain des points de compétence.</p>
+        <p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs et le nombre de points de mana gagnés à chaque niveau.</p>
     </div>
     <div class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Sagesse.png">
