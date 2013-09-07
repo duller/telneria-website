@@ -17,7 +17,7 @@
 <div class="descriptionClasse">
     <div>
         <h2>Les Orcs</h2>
-        <img class="communImages" src="ressources/04-Races/Paysage.Orc.WolfgangStaudt.jpg" style="float:left;max-width:65%;margin-right:20px;">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.WolfgangStaudt.jpg" style="max-width:65%;">
 
         <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de Ferestos.</p>
         <p>Il y a 2000 ans, il existait encore en Ferestos des dragonides de toutes les ethnies. Chacune des cinq ethnies de ce peuple est originaire des cinq familles de dragons.

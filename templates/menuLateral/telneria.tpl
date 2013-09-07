@@ -11,17 +11,16 @@
         <p>La mer environnante est gelée la plupart des temps, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
             cromlech des transports pour les rares qui en connaissant l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé symbolisant
             la disposition de chacun des pierres formant l'édifice.</p>
-
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Veldris.Phatpuppy.Flickr.Petit.jpg">
         <h3>Veldris</h3>
         <p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'ouest jusqu'à l'île de Ferestos à l'est.</p>
         <p>Le nord-ouest du continent est peuplé par les Neltariens, avec Norska comme ville-sanctuaire.</p>
-        <p>Au centre-nord, on trouve de nombreuses tribus d'Orcs inféodées au suzerain orc de la cité de Trollnordh, cité bâtie sur les restes des derniers refuges des trolls sauvages.</p>
+        <p>Au centre-nord, se trouvent de nombreuses tribus d'Orcs inféodées au suzerain orc de la cité de Trollnordh, cité bâtie sur les restes des derniers refuges des trolls sauvages.</p>
         <p>Au nord-est, on trouve la cité sylvaine de Prenence, capitale des Elfes des forêts.</p>
         <p>Le sud du continent se compose des belliqueuses baronnies humaines veldriennes. Vesnoth, à l'ouest, est la capitale des baronnies et le siège du prince régnant ; 
-            on trouve également dans cette baronnie la cité des telnastres de Maldaran ainsi que la grande cité commerciale de Brill. 
+            se trouvent également dans cette baronnie la cité des telnastres de Maldaran ainsi que la grande cité commerciale de Brill. 
             Les autres baronnies sont inféodées au souverain de Vesnoth : ce sont les baronnies de Vilnus, Temberg, Valmer
             et Estrhan.</p>
     </div>
@@ -43,9 +42,9 @@
         <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg">
         <h3>Mestrhune</h3>
         <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
-        <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, on trouve les terres des Kerfenn et leur capitale Kerbourg. 
-            Au centre on trouve le royaume humain de Carnum ;
-            le souverain de Carnum est un ancien rival des barons de Veldris. À l'est, on trouve la république des Murviens et leur capitale Golnan.</p>
+        <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, se trouvent les terres des Kerfenn et leur capitale Kerbourg. 
+            Au centre se trouve le royaume humain de Carnum ;
+            le souverain de Carnum est un ancien rival des barons de Veldris. À l'est, se trouve la république des Murviens et leur capitale Golnan.</p>
     </div>
 </div>
 

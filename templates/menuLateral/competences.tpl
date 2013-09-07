@@ -4,14 +4,12 @@
 
     <img class="communImages imageCompeGauche" src="ressources/08-Compe/Pioche.Small.png">
     <img class="communImages imageCompeDroite" src="ressources/08-Compe/Book.Chasity.jpg">
-    <p>Chaque classe a des points de compétences à répartir en fonction de son intelligence. 
-        Vous pouvez vous reporter à la création des personnages pour savoir combien de points investir au début.</p>
+    <p>Chaque classe a des points de compétences à répartir, vous pouvez vous reporter à la création des personnages pour savoir combien de points investir au début.</p>
     <p>Au niveau 1, le maximum de points par compétence est 3.</p> 
-    <p>Pour les compétences spécifiques à la classe, un point gratuit supplémentaire est attribué (il est affiché sur la fiche de classe 
-        et n'est pas comptabilisé dans les 5 points maximum).</p><br/>
+    <p>Pour les compétences spécifiques à la classe, un point gratuit supplémentaire est attribué, déjà affiché sur la fiche de classe.</p><br/>
     <p>Chaque compétence a une caractéristique associée. 
-        Lorsque le MJ demande à un personnage-joueur de lancer un jet d'artisanat par exemple, 
-        le d20 est pondéré par le nombre de points de la compétence plus le modificateur de la caractéristique associée.</p><br />
+        Lorsque le MJ demande à un personnage-joueur de lancer un jet d'équilibre par exemple, 
+        le d20 est pondéré par le nombre de points de la compétence plus le modificateur de la caractéristique associée (dextérité dans ce cas).</p><br />
 
 </div>
 
@@ -37,7 +35,7 @@
                 <p class="ptab">FOR</p>
             </td>
             <td>
-                <p class="ptab">Capacités physiques du personnage lors de l'escalade d'une falaise, de la traversée à la nage d'une rivière, ou d'un saut par-dessus
+                <p class="ptab">Capacités physiques du personnage lors de l'escalade d'une falaise, de la traversée à la nage d'une rivière, d'un saut par-dessus
                     un obstacle...</p>
             </td>
         </tr>
@@ -150,7 +148,7 @@
                 <p class="ptab">CHA</p>
             </td>
             <td width="">
-                <p class="ptab">Capacité à amener son interlocuteur à changer son point de vue et à le convaincre par la raison ou la menace. 
+                <p class="ptab">Capacité à convaincre son interlocuteur par la raison ou la menace. 
                     Est également utilisé lorsque le joueur est à la recherche de renseignements.</p>
             </td>
         </tr>

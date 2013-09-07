@@ -3,7 +3,7 @@
 <div id="divCreationClasseRace">
 
     <div style="text-align:center;">
-        <img class="communImages imageClassesRaces" src="ressources/02-Creation/Races.WillDan.DA.Small.jpg">
+        <img class="communImages imageClassesRaces" src="ressources/02-Creation/Races.WillDan.DA.Small.jpg" title="Par : Will Dan, Deviant Art">
     </div>
     <h3 class="titreCreation">La classe</h3>
     <p>Le joueur doit choisir une <a href="?Page=menuLateral/classes">classe</a>, il ne peut en choisir qu'une seule. 
@@ -17,7 +17,7 @@
 
 <div id="divCreationAlignementDons">
 
-    <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png">
+    <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Par : Dark Fang, Deviant Art">
 
     <h3 class="titreCreation">L'alignement</h3>
     <p>Le joueur doit choisir son <a href="?Page=menuLateral/alignement">alignement</a>, il faut choisir la composante éthique et la composante morale.</p><br />
@@ -25,16 +25,14 @@
     <h3 class="titreCreation">Les dons</h3>
     <p>Le joueur peut choisir deux <a href="?Page=menuLateral/dons">dons</a> au départ, les types de dons disponibles sont détaillées dans les descriptions de classes.</p><br />
 
-
-
 </div>
 
 <div id="divCreationEquipement">
 
-    <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.SansFond.png">
+    <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.SansFond.png" title="Par : Flare Rpg, Open Game Art">
 
     <h3 class="titreCreation">L'équipement</h3>
-    <p>Chaque joueur commence le jeu avec 100+1d100 po. Il choisit ensuite une arme de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
+    <p>Chaque joueur commence le jeu avec 10+1d100 po. Il choisit ensuite deux armes de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
         sa classe lui permet.</p>
     <p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main. Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.
         Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
@@ -44,7 +42,6 @@
 
 <div id="divCreationCaracCompe">
 
-
     <div style="float:left;width: 45%;margin-right:20px;">
         <h3 class="titreCreation">Les caractéristiques</h3>
         <p>Le joueur détermine au début du jeu les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> de son personnage, 
@@ -52,15 +49,14 @@
     </div>
 
     <div style="float:left;width: 45%;">
-        <img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg">
+        <img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg" title="Par : Anonyme">
 
         <h3 class="titreCreation">Les compétences</h3>
         <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage en fonction de sa classe.<br /> 
-            Le nombre de points à investir est de 4+2d4+modificateur d'intelligence.<br /> 
+            Le nombre de points à investir est de 4+2d4.<br /> 
             Le maximum de points par compétence est 3 au niveau 1; 
             pour les compétences spécifiques à la classe, un point supplémentaire déjà affiché sur la fiche de personnage est attribué.</p>
     </div>
-
 
 </div>
 

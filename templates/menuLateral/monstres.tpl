@@ -67,6 +67,7 @@
     <h3>Les monstres personnalisés</h3>
     <p>Il est également possible de créer n'importe quel monstre imaginaire.</p>
     <p>Il faut cependant faire attention à ce que ses caractéristiques amènent à une difficulté appropriée par rapport au niveau des joueurs.</p>
+    <p>La page des humanoïdes est une bonne base pour créer un monstre personnalisé avec une difficulté appropriée.</p>
     <br />
     <p>Voici l'ensemble des caractéristiques à définir pour un monstre personnalisé :</p>
 

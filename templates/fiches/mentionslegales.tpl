@@ -11,14 +11,12 @@
     sont sous licence CC-by-nc-sa 3.0 .</p>
 
 <br />
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target=_blank">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target=_blank" style="margin-left:20px;">
     <img alt="Creative Commons License"  src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
 <br /><br />
 
 <p>Textes : François Ripp.</p>
-<p>Illustrations de la page d'accueil : Fa11eng0d/Deviant art, Wikimedia</p>
-<p>Illustrations des personnages : Jérôme Rotfarb.</p>
-<p>Carte du monde : Geoffrey Vallin.</p>
+<p>Illustrations : un survol avec la souris de chaque image permet de voir son auteur.</p>
 
 
 <br /><br />

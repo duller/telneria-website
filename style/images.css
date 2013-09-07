@@ -96,6 +96,12 @@
     margin: -9px 10px 20px 10px
 }
 
+.imagePaysageRace
+{
+    float:left;
+    margin-right: 2%;
+}
+
 /* CSS pour les images de la page d'alignement */
 .imageLogoAlignement
 {
@@ -176,6 +182,7 @@
     height:100px;
     float:right;
     margin-left:15px;
+    margin-top:15px;
 }
 
 
@@ -231,6 +238,7 @@
 .imageCombatJetToucher
 {
     max-width: 100%;
+    margin-top: 50px;
 }
 
 .imageCrane

@@ -2,7 +2,7 @@
 
 <div class="divEquip">
 
-    <p>Chaque joueur commence le jeu avec 100+1d100 po. Il choisit ensuite une arme de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
+    <p>Chaque joueur commence le jeu avec 10+1d100 po. Il choisit ensuite deux armes de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
     sa classe lui permet.</p>
 <p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main. Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.
     Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
