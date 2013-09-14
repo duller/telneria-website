@@ -28,10 +28,36 @@
     max-width: 900px;
 }
 
+.divEquipHaut
+{
+    margin: 20px 2% 30px 2%;
+    float:left;
+    text-align: center;
+}
+
 .divEquipGauche
 {
-    max-width:45%;
-    margin: 15px 2% 25px 2%;
+    width:35%;
+    margin: 0 0 0 0;
+    float:left;
+    text-align: center;
+}
+
+.divEquipCentre
+{
+    width:30%;
+    margin: 0 1% 0 1%;
+    float:left;
+    text-align: center;
+    padding:10px;
+    border-radius:20px;
+    box-shadow: 0px 0px 5px rgb(102, 102, 102);
+}
+
+.divEquipDroite
+{
+    width:30%;
+    margin: 0 0 0 0;
     float:left;
     text-align: center;
 }
@@ -39,12 +65,14 @@
 .pEquip
 {
     text-align: center;
+    font-size: 18px;
 }
 
-.divEquipDroite
+.divEquipBas
 {
-    max-width:50%;
-    margin: 10px 1% 10px 1%;
+    max-width:60%;
+    margin: 20px 1% 10px 7%;
+    float:left;
 }
 
 .tabTitreArmes

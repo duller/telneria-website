@@ -15,29 +15,18 @@
 
 /* CSS pour la page de creation */
 
-#divCreationClasseRace
+#divCreationHautGauche
 {
     width: 45%;
     float: left;
     margin-right: 20px;
 }
 
-#divCreationAlignementDons
+#divCreationHautDroite
 {
     width: 45%;
     float: left;
-}
-
-#divCreationEquipement
-{
-    width: 45%;
-    float: left;
-}
-
-#divCreationCaracCompe
-{
-    /*width: 45%;*/
-    /*float: left;*/
+    margin-left:2%;
 }
 
 #divCreationTableau

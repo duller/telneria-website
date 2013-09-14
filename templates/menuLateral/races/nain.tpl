@@ -1,69 +1,53 @@
 <div class="descriptionClasse">
-<h3>Les Nains</h3>
-<p>Les nains sont de robustes créatures des montagnes.</p>
-<h4>Traits raciaux</h4>
-<p>+1 en force, +1 en constitution, +1 au dé de toucher avec les haches et les masses, forte réssitance à l'alcool, taille moyenne.</p>
-<h4>Classes disponibles</h4>
-<p><a href="?Page=menuLateral/classes/clerc">Clerc</a>, <a href="?Page=menuLateral/classes/guerrier">guerrier</a>, <a href="?Page=menuLateral/classes/paladin">paladin</a>,
-    <a href="?Page=menuLateral/classes/rodeur">rôdeur</a>, <a href="?Page=menuLateral/classes/roublard">roublard</a>.</p>
-</div>
-
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/NainClerc.jpg"></p>
-    <p>Un nain clerc</p>
-</div>
-
-
-<div class="descriptionClasse">
     <div>
         <h2>Les Nains</h2>
         <img class="communImages" src="ressources/04-Races/PaysageNain.jpg" style="float:left;max-width:55%;margin-right:20px;">
 
-        <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de Ferestos.</p>
-        <p>Il y a 2000 ans, il existait encore en Ferestos des dragonides de toutes les ethnies. Chacune des cinq ethnies de ce peuple est originaire des cinq familles de dragons.
-            Les clans du dragon blanc et du dragon vert n'ont cependant pas survécu à l'animosité des clans ennemis des dragons noir, bleu et rouge.</p>
-        <p>À l'instar de leur ancêtres dragons, les dragonides adoptent un mode de vie en fonction de leur ethnie.</p>
-        <p>Les membres du clan du dragon noir empruntent ainsi la voie du sorcier et du sombregarde, avec un alignement à tendance chaotique mauvais.</p>
-        <p>Les membres du clan du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivant la voie du magicien. 
-            Leur alignement est habituellement loyal mauvais.</p>
-        <p>Enfin, les membres du clan du dragon rouge ne pratiquent aucune magie et deviennent de puissants guerriers, neutres en toute circonstance.</p>
+        <p>Originaires de Ferestos, les Nains vivent aux pieds des grandes montagnes de l'île et sur les côtes.</p>
+        <p>Peuple de forgerons et de guerriers, les Nains vivent principalement du commerce avec les Humains de Veldris.</p>
+        <p>L'île de Ferestos abrite également les Dragonides, humanoïdes belliqueux et particulièrement friands de chair naine.
+            Face à cette menace, les Nains sont constamment sur le pied de guerre et forment leurs enfants au combat dès le plus jeune âge.</p>
+        <p>Ce état de conflit permanent engendre souvent des incidents diplomatiques avec les Elfes habitant au nord du continent. 
+            Ces derniers ne goûtent en effet guère les fréquentes intrusions des Nains sur leur territoire lors d'opérations contre les Dragonides.</p>
+        <p>La ville de Tendris au sud, ancienne cité elfe, est également un point d'achoppement fréquent, car les Nains refusent de rendre la ville à leurs antiques fondateurs.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
-            <p>Aucune capitale définie.</p>
-            <p>Les clans dragonides sont souvent en conflit et vivent en petits groupes isolés.</p>
+            <p>Feresbourg est la capitale politique et économique des Nains.</p>
+            <p>Peuple soudé et social, les Nains vivent dans des villes de taille importante au pied des montagnes.</p>
         </div>
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Langues</h4>
-            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Anglais</p>
-            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -.</p>
+            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Allemand</p>
+            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
-            <p>+1 à la force, +1 à la constitution, +1 à la dextérité</p>
-            <p>-1 à la sagesse</p>
-            <br /><p><span class="titreDebutLigne">Clan du dragon noir : </span>Réduit les effets subis des sorts de chaos d'un quart. Vice versa pour ceux de sacré.</p>
-            <br /><p><span class="titreDebutLigne">Clan du dragon bleu : </span>Réduit les effets subis des sorts des arcanes d'un quart. Vice versa pour ceux de nature.</p>
-            <br /><p><span class="titreDebutLigne">Clan du dragon rouge : </span>Réduit les effets subis de tous les sorts d'un quart.</p>
+            <p>+1 à la force, +1 à la constitution</p>
+            <p>-1 à l'intelligence</p>
+            <p>+1 aux jets de toucher en mêlée</p>
         </div>
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Physique</h4>
-            <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 à 7 pieds (1m80 à 2m10)</p>
-            <p><span class="titreDebutLigne">Poids</span> &nbsp: 220 à 260 livres (110kg à 130kg)</p>
+            <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 4 pieds à 4 pieds et demi (1m20 à 1m30)</p>
+            <p><span class="titreDebutLigne">Poids</span> &nbsp: 100 à 140 livres (50kg à 70kg)</p>
+            <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 70 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
-        <p>Triées par la population de chaque classe. Un guerrier dragonide est assez commun, tandis qu'un magicien est plutôt rare.</p> 
+        <p>Triées par la population de chaque classe. Un guerrier nain est assez commun, tandis qu'un paladin est plutôt rare.</p> 
         <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"></img>
             <p class="pClassesDispo">Guerrier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sombregarde"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sombregarde.png"></img>
-            <p class="pClassesDispo">Sombregarde</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"></img>
-            <p class="pClassesDispo">Sorcier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"></img>
-            <p class="pClassesDispo">Magicien</p></a>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"></img>
+            <p class="pClassesDispo">Roublard</p></a>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"></img>
+            <p class="pClassesDispo">Rôdeur</p></a>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Clerc.png"></img>
+            <p class="pClassesDispo">Clerc</p></a>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/paladin"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Paladin.png"></img>
+            <p class="pClassesDispo">Paladin</p></a>
 
     </div>
 

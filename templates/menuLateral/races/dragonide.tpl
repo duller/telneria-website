@@ -11,6 +11,7 @@
         <p>Les membres du clan du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivant la voie du magicien. 
             Leur alignement est habituellement loyal mauvais.</p>
         <p>Enfin, les membres du clan du dragon rouge ne pratiquent aucune magie et deviennent de puissants guerriers, neutres en toute circonstance.</p>
+        <p>La nature violente des dragonides et les dissensions entre les clans ont toujours empêché les contacts diplomatiques et commerciaux avec les autres peuples.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
@@ -22,7 +23,7 @@
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Langues</h4>
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Anglais</p>
-            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -.</p>
+            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche">
@@ -37,6 +38,7 @@
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 à 7 pieds (1m80 à 2m10)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 220 à 260 livres (110kg à 130kg)</p>
+            <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 40 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un guerrier dragonide est assez commun, tandis qu'un magicien est plutôt rare.</p> 

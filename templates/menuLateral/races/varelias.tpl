@@ -6,7 +6,8 @@
         <p>Originaires de la Forêt Touffue du nord de Veldris, les Varelias se sont exilés il y a deux siècles sur l'île d'Istnor, terre d'origine des Chepteg.</p>
         <p>Peuple ancien et sage, les Varelias sont d'imposants humanoïdes dont l'épiderme s'apparente à l'écorce des arbres.</p>
         <p>Proche de la nature, la société varelias reste très empreinte de druidisme, même si nombreux sont les individus à ne maîtriser aucune forme de magie.</p>
-        <p>Leurs relations commerciales avec l'extérieur sont rares, bien qu'il leur arrive d'échanger avec les Neltariens et les Humains.</p>
+        <p>Leurs relations commerciales avec l'extérieur sont rares, bien qu'il leur arrive d'échanger avec les Neltariens et les Humains, 
+            peuples dont ils maîtrisent les langues.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
@@ -32,6 +33,7 @@
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Grande, 7 à 8 pieds (2m10 à 2m40)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 320 à 400 livres (160kg à 200kg)</p>
+            <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 400 ans.</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un rôdeur varelias est assez commun, tandis qu'un chaman est plutôt rare.</p> 
