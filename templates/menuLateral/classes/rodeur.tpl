@@ -1,6 +1,6 @@
 <h1>Le rôdeur</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 	<h4>Description</h4>
 	<p>Le rôdeur est un tireur habile ainsi qu'un grand connaisseur des bêtes et des forêts.
 	</p>
@@ -24,14 +24,13 @@
     <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheRodeur.pdf">Fiche de personnage au format pdf</a>
 </div>
 
-
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/ElfeRodeuse.jpg"></p>
-    <p>Une rôdeuse elfe</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/ElfeRodeuse.jpg"></p>
+    <p class="pImageRace">Une rôdeuse elfe</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
 
     <h4>Flèche puissante</h4>
@@ -42,10 +41,10 @@
     <p>Soigne le familier du rôdeur des dégâts principaux qu'il a pu subir</p>
 </div>
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
 
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -63,9 +62,9 @@
 			</td>
 		</tr>
 	</table>
-        
+        <br />
 	<h4>Caractéristiques</h4>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -117,7 +116,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le nimrod</h3>
     
     <p>Le nimrod est un rôdeur expert en archerie et au combat à distance. Il permet d'utiliser les sorts et techniques suivantes : </p>
@@ -130,7 +129,7 @@
 </div>
 
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'animalier</h3>
 
     <p>L'animalier est un rôdeur très proche de son familier et des animaux sauvages. Il permet d'utiliser les sorts et techniques suivantes :</p>

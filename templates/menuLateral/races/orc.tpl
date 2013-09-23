@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Orcs</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Orcs</h2>
+        
         <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.WolfgangStaudt.jpg" style="max-width:65%;">
 
         <p>Originaires des plaines arides du nord de Veldris, les Orcs ont conquis l'ensemble de la région aux dépens des Trolls et des Varelias.
@@ -51,7 +53,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/OrcGuerrier.jpg"></p>
     <p class="pImageRace">Un orc guerrier</p>
 </div>

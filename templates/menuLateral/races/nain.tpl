@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Nains</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Nains</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageNain.jpg" style="float:left;max-width:55%;margin-right:20px;">
 
         <p>Originaires de Ferestos, les Nains vivent aux pieds des grandes montagnes de l'île et sur les côtes.</p>
@@ -53,7 +55,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainClerc.jpg"></p>
     <p class="pImageRace">Un nain clerc</p>
 </div>

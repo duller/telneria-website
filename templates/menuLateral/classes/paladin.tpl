@@ -1,6 +1,6 @@
 <h1>Le paladin</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 	<h4>Description</h4>
 	<p>Le paladin est un héraut de la lumière, c'est un combattant qui s'est dévoué à combattre le mal.
 	</p>
@@ -24,13 +24,13 @@
     <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FichePaladin.pdf">Fiche de personnage au format pdf</a>
 </div>
         
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/HumainPaladin.jpg"></p>
-    <p>Un paladin humain</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/HumainPaladin.jpg"></p>
+    <p class="pImageRace">Un paladin humain</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
 		<h3>Sorts et techniques</h3>
     <h4>Frappe sacrée</h4>
     <p>Frappe l'ennemi avec l'arme du paladin infusée de puissance sacrée. Inflige des dégâts physiques et magiques.</p>
@@ -40,11 +40,11 @@
     <p>Attaque puissante infligeant de lourds dégâts aux morts-vivants et aux démons, et réduisant leur capacité de mouvement.</p>
 </div>
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
     
 	<p>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -62,9 +62,9 @@
 			</td>
 		</tr>
 	</table>
-
+        <br />
         <h4>Caractéristiques</h4>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -117,7 +117,7 @@
 
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le templier</h3>
 
     <p>Le templier est un paladin dévolue à la protection d'autrui, portant armure lourde et bouclier. Il permet d'utiliser les sorts et techniques suivantes : </p>
@@ -130,7 +130,7 @@
 </div>
 
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'inquisiteur</h3>
     <p>L'inquisiteur est un paladin obnubilé par la traque et l'élimination des êtres impies. Il permet d'utiliser les sorts et techniques suivantes :</p>
     <h4>Marteau béni</h4>

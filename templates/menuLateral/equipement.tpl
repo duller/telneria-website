@@ -13,7 +13,7 @@
             <p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main. Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.
                 Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
 
-            <p>L'équipement est classé en trois catégories, on trouve les armes, les armures, et l'équipement commun.</p>
+            <p>L'équipement est classé en trois catégories : les armes, les armures, et l'équipement commun.</p>
         </div>
 
         <div class="divEquipDroite">

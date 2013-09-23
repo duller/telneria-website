@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Murviens</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Murviens</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageMurvien.jpg" style="float:left;max-width:50%;margin-right:2%;">
 
         <p>Les Murviens étaient le premier peuple à apparaître sur le continent de Mestrhune. 
@@ -51,7 +53,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/MurvienSorcier.jpg"></p>
     <p class="pImageRace">Un murvien sorcier</p>
 </div>

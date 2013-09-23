@@ -63,8 +63,8 @@
                 <ul>
                     <li>Se déplacer de 10m</li>
                     <li>Utiliser une compétence</li>
-                    <li>Attaquer</li>
-                    <li>Lancer un sort</li>
+                    <li>Attaque simple</li>
+                    <li>Lancer un sort / Utiliser une technique</li>
                     <li>Charger : jet d'équilibre, suivi d'un jet de toucher avec un malus de 2.</li>
                     <li>Faire un jet de premiers secours.</li>
                 </ul>
@@ -100,13 +100,13 @@
                 <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé de toucher pour savoir si son attaque est un succès ou un échec. 
                     Selon le type d'attaque, une caractéristique différente est utilisée pour pondérer le jet.</p>
                 <ul>
-                    <li>Corps-à-corps : Force</li>
-                    <li>Distance : Dextérité</li>
+                    <li>Corps-à-corps (attaque simple & technique) : Force</li>
+                    <li>Distance (attaque simple & technique) : Dextérité</li>
                     <li>Sort offensif : Intelligence</li>
-                    <li>Sort de soin : Sagesse</li>
+                    <li>Sort de soin & défensif : Sagesse</li>
                 </ul>
-                <p>Une réussite critique peut être obtenue lorsque le score au d20 est de 20, ce qui se traduit par une réussite assurée et un doublement de l'effet.</p>
-                <p>Un échec critique est obtenu lorsque le score au d20 est de 1, c'est nécessairement un échec et qui a des conséquences néfastes.</p>
+                <p>Une réussite critique peut être obtenue lorsque le score au dé est de 20, ce qui se traduit par une réussite assurée et un doublement de l'effet.</p>
+                <p>Un échec critique est obtenu lorsque le score au dé est de 1, c'est nécessairement un échec et qui a des conséquences néfastes.</p>
 
             </div>
 
@@ -117,13 +117,13 @@
             <div class="div30">
                 <h3>Sorts et techniques</h3>
                 <p>Les sorts et techniques sont détaillés pour chacune des classes de personnages. Ils ont un coût en mana défini auquel s'ajoute le niveau du personnage.</p>
-                <p>Les sorts de soins ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet de dés :</p>
+                <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet de dés, pondéré par la sagesse :</p>
                 <ul>
-                    <li>Score de 20 : réussite critique, effet du soin doublé</li>
+                    <li>Score de 20 (au dé) : réussite critique, effet du soin doublé</li>
                     <li>Score entre 10 et 19 : réussite, effet normal</li>
                     <li>Score entre 5 et 9 : réussite partielle, effet diminué de moitié (arrondi au supérieur)</li>
                     <li>Score entre 1 et 4 : échec, effet nul</li>
-                    <li>Score de 1 : échec critique, le soigneur subit 1+niveau points de dégâts</li>
+                    <li>Score de 1 (au dé) : échec critique, le soigneur subit 1+niveau points de dégâts</li>
                 </ul>
             </div>
 
@@ -272,6 +272,12 @@
                     </tr>
 
                 </table>
+            </div>
+            
+            <div style="float:left;max-width:500px; margin:10px 2%;">
+                <h3>Attaques et sorts de zone</h3>
+                <p>Pour déterminer le succès d'une attaque ou d'un sort de zone, le fonctionnement est le même que pour les attaques simples et seul un jet de dé est effectué.</p>
+                <p>Pour chaque monstre ou joueur visé, si le jet est supérieur à leur EP ou EM, ce protagoniste est affecté par l'effet.</p>
             </div>
 
         </div>

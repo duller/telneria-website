@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Dragonides</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Dragonides</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageDragonide.jpg" style="float:left;max-width:50%;margin-right:20px;">
 
         <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de Ferestos.</p>
@@ -55,7 +57,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.jpg"></p>
     <p class="pImageRace">Un dragonide sombregarde</p>
 </div>

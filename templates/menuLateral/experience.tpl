@@ -1,4 +1,4 @@
-<h1>L'expérience</h1> 
+<h1>L'expérience et la magie</h1> 
 
 <div class="divMoitieGauche">
     <img class="communImages imageExpGuerrier" src="ressources/13-Experience/ExpKnight.FantasyArt.jpg">

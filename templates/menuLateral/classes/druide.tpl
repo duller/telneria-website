@@ -1,6 +1,6 @@
 <h1>Le druide</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 	<h4>Description</h4>
 	<p>Le druide communie avec la nature, il peut se transformer en animal et contrôler les forêts.
 	</p>
@@ -25,13 +25,13 @@
 </div>
     
 
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/VareliasDruide.jpg"></p>
-    <p>Un druide varelias</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/VareliasDruide.jpg"></p>
+    <p class="pImageRace">Un druide varelias</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
     
     <h4>Toucher guérisseur</h4>
@@ -42,10 +42,10 @@
     <p>Le druide se transforme en un ours redoutable, augmentant sa force brute et sa résistance.</p>
 </div>
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
 
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -63,10 +63,10 @@
 			</td>
 		</tr>
 	</table>
-
+    <br />
     <h4>Caractéristiques</h4>
     
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -118,7 +118,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le naturaliste</h3>
     
     <p> Le naturaliste est un druide spécialisé dans la communion avec la nature. Il permet d'utiliser les sorts et techniques suivantes :</p>
@@ -130,7 +130,7 @@
     <p>Invoque une tempête très intense repoussant les ennemis et leur infligeant des dégâts de chute.</p>
 </div>
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
      <h3>Classe de prestige : Le farouche</h3>
      
      <p>Le farouche est un druide spécialisé dans le changement de forme animale. Il permet d'utiliser les sorts et techniques suivantes :</p>

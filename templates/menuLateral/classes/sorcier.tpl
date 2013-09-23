@@ -1,6 +1,6 @@
 <h1>Le sorcier</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 	<h4>Description</h4>
 	<p>Le sorcier est un être de pouvoir qui utilise la magie noire pour arriver à ses fins.
 	</p>
@@ -25,13 +25,13 @@
 </div>
 
 
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/MurvienSorcier.jpg"></p>
-    <p>Un sorcier murvien</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/MurvienSorcier.jpg"></p>
+    <p class="pImageRace">Un sorcier murvien</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
 
     <h4>Main d'ombre</h4>
@@ -42,10 +42,10 @@
     <p>Le sorcier adresse un rire démoniaque à un ennemi, réduisant son esquive physique et ses chances de toucher.</p>
 </div>
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
     
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -63,9 +63,9 @@
 			</td>
 		</tr>
 	</table>
-        
+        <br />
 	<h4>Caractéristiques</h4>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -117,7 +117,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le nécromant</h3>
 
     <p>Le nécromant est un sorcier versé dans l'art de communier avec les morts-vivants. Il permet d'utiliser les sorts et techniques suivantes : </p>
@@ -129,7 +129,7 @@
     <p>Permet de prendre le contrôle d'un squelette ou d'un zombie ennemi.</p>
 </div>
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
      <h3>Classe de prestige : Le démoniste </h3>
      
     <p>Le démoniste est un sorcier spécialisé dans la communion avec les créatures démoniaques. Il permet d'utiliser les sorts et techniques suivantes :</p>

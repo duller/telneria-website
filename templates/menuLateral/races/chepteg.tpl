@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Chepteg</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Chepteg</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageChepteg.jpg" style="float:left;max-width:50%;margin-right:20px;">
 
         <p>Originaires de l'île reculée d'Istnor, les Chepteg vivent en petites tribus dans les forêts enneigées du nord de la péninsule.</p>
@@ -53,7 +55,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/CheptegChaman.jpg"></p>
     <p class="pImageRace">Un chepteg chaman</p>
 </div>

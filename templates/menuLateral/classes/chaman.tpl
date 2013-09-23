@@ -1,7 +1,7 @@
 <h1>Le chaman</h1>
 
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 <h4>Description</h4>
     <p>Le chaman est un guide spirituel. Il communique avec les éléments et les esprits.</p>
     
@@ -24,14 +24,13 @@
     <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheChaman.pdf">Fiche de personnage au format pdf</a>
 </div>
 
-
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/CheptegChaman.jpg"></p>
-    <p>Un chaman chepteg</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/CheptegChaman.jpg"></p>
+    <p class="pImageRace">Un chaman chepteg</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
     
     <h4>Vague de soins</h4>
@@ -42,10 +41,10 @@
     <p>Imprègne l'arme de puissance élémentaire, infligeant des dégâts plus importants et des dégâts de type magique.</p>
 </div>
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
     
-    <table>
+    <table class="tableauxPointsClasse">
             <tr>
                     <td>
                             <p class="ptab">Base de points de vie</p>
@@ -64,10 +63,10 @@
             </tr>
     </table>
 
-    
+    <br />
     <h4>Caractéristiques</h4>
     
-    <table>
+    <table class="tableauxPointsClasse">
             <tr>
                     <td>
                             <p class="ptab">Force</p>
@@ -119,7 +118,7 @@
     </table>
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le totémiste</h3>
     
     <p>Le totémiste est un chaman versé dans les arts mystiques des totems. Il permet d'utiliser les sorts et techniques suivantes :</p>
@@ -132,7 +131,7 @@
 </div>
 
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le mentaliste</h3>
     
     <p>Le mentaliste est un chaman adepte de la maîtrise des esprits mortels. Il permet d'utiliser les sorts et techniques suivantes :</p>

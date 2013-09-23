@@ -1,6 +1,6 @@
 <h1>Le roublard</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 	<h4>Description</h4>
 	<p>Le roublard est un combattant agile et pernicieux, il attaquera habituellement en traître et se faufile dans l'ombre comme personne.
 	</p>
@@ -24,14 +24,13 @@
     <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheRoublard.pdf">Fiche de personnage au format pdf</a>
 </div>
 
-
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/NeltarienneRoublarde.jpg"></p>
-    <p>Une roublarde neltarienne</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/NeltarienneRoublarde.jpg"></p>
+    <p class="pImageRace">Une roublarde neltarienne</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>  
 
     <h4>Frappe pernicieuse</h4>
@@ -42,10 +41,10 @@
     <p>Nécessite d'être de dos, frappe l'ennemi au point le plus sensible, l'étourdissant pour un court laps de temps.</p>
 </div>
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
     
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -63,9 +62,9 @@
 			</td>
 		</tr>
 	</table>
-
+        <br />
         <h4>Caractéristiques</h4>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -118,7 +117,7 @@
 
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'assassin</h3>
 
     <p>L'assassin est un roublard spécialisé dans le meurtre et la tuerie. Il permet d'utiliser les sorts et techniques suivantes : </p>
@@ -131,7 +130,7 @@
 </div>
 
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le fourbe</h3>
     <p>Le fourbe est un roublard spécialisé dans la discrétion et la tromperie. Il permet d'utiliser les sorts et techniques suivantes :</p>
     <h4>Poudre aux yeux</h4>

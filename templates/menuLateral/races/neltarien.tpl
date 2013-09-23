@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Neltariens</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Neltariens</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageNeltarien.jpg" style="float:left;max-width:65%;margin-right:20px;">
 
         <p>Descendants de la même lignée que les Elfes, les Neltariens sont un des peuples les plus âgés de Telneria.</p>
@@ -55,7 +57,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NeltarienneRoublarde.jpg"></p>
     <p class="pImageRace">Une neltarienne roublarde</p>
 </div>

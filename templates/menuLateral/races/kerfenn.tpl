@@ -1,15 +1,17 @@
-<div class="descriptionClasse">
+<h2>Les Kerfenn</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Kerfenn</h2>
+        
         <img class="communImages" src="ressources/04-Races/Paysage.Kerfenn.PeterFries.jpg" style="float:left;max-width:55%;margin-right:20px;">
 
         <p>Humanoïdes de petite taille, les Kerfenn vivent dans de grandes villes sur les côtes ouest de Mestrhune.</p>
         <p>Peuple ingénieux et pacifique, les Kerfenn vivent dans une société orientée vers l'artisanat et le commerce. 
             Ils compensent leur petite taille par leur habileté à concevoir des objets fort pratiques dans la vie courante. 
-            Leurs inventions ont un grand succès auprès des acheteurs Humains de Mestrhune et de Veldris.</p>
+            Leurs inventions ont un grand succès auprès des acheteurs humains de Mestrhune et de Veldris.</p>
         <p>Leur langue maternelle est le hollandais, mais la majorité des Kerfenn a également appris l'espagnol et le français, dans le but de commercer avec les Humains.</p>
-        <p>Les villes Kerfenn se trouvent pour la plupart le long des côtes, les déserts arides de Mestrhune n'ont attiré presque aucun habitant. 
-            Ils fournissent également aux peuples voisins des navires de guerre et commerce. 
+        <p>Les villes Kerfenn se trouvent pour la plupart le long des côtes, les déserts arides de Mestrhune n'attirant presque aucun habitant. 
+            Les Kerfenn fournissent également aux peuples voisins des navires de guerre et commerce. 
             Bien que pacifiques et neutres, ils possèdent une flotte capable de se défendre contre les conquérants marins et les pirates.</p>
     </div>
     <div class="divDescrRace">
@@ -35,6 +37,7 @@
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Petite, 3 pieds à 3 pieds et demi (90 cm à 1m)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 220 à 260 livres (110kg à 130kg)</p>
+            <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 120 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un roublard kerfenn est assez commun, tandis qu'un clerc est plutôt rare.</p> 
@@ -51,7 +54,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.jpg"></p>
     <p class="pImageRace">Un kerfenn magicien</p>
 </div>

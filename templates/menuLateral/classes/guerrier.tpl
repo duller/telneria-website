@@ -1,6 +1,6 @@
 <h1>Le guerrier</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 	<h4>Description</h4>
 	<p>Le guerrier est un combattant polyvalent et résistant. Il est apte à manier tout type d'arme pour tout combat.
 	</p>
@@ -24,13 +24,13 @@
         
 </div>
 
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/OrcGuerrier.jpg"></p>
-    <p>Un guerrier orc</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/OrcGuerrier.jpg"></p>
+    <p class="pImageRace">Un guerrier orc</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
     
     <h4>Frappe perçante</h4>
@@ -42,10 +42,10 @@
     
 </div>    
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
     
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -63,9 +63,9 @@
 			</td>
 		</tr>
 	</table>
-
+        <br />
         <h4>Caractéristiques</h4>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -117,7 +117,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le barbare</h3>
 
     <p> Le barbare est un guerrier brutal orienté vers un type de combat primitif. Il permet d'utiliser les sorts et techniques suivantes :</p>
@@ -131,7 +131,7 @@
 </div>
 
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le gardien</h3>
 
     <p>Le gardien est un guerrier spécialisé dans le combat à l'armure lourde et au bouclier. Il permet d'utiliser les sorts et techniques suivantes :</p>

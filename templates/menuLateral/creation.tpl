@@ -405,16 +405,16 @@
 
 <div style="clear:both; margin:20px; float:left; width:60%;">
     <h3>Créer directement un personnage de plus haut niveau</h3>
-    <p>Lorsqu'un nouveau joueur intègre un groupe existant, il peut être intéressant de créer directement un personnage de niveau supérieur à 1.</p>
-    <p>Pour la <a href="?Page=menuLateral/classes">classe</a>, la <a href="?Page=menuLateral/races">race</a>, l'<a href="?Page=menuLateral/alignement">alignement</a>
+    <p>Lorsqu'un nouveau joueur intègre un groupe existant, il peut être intéressant de créer directement un personnage de niveau supérieur à 1. 
+        Pour la <a href="?Page=menuLateral/classes">classe</a>, la <a href="?Page=menuLateral/races">race</a>, l'<a href="?Page=menuLateral/alignement">alignement</a>
         et les <a href="?Page=menuLateral/dons">dons</a> : les étapes à suivre sont les mêmes que lors de la création d'un personnage de niveau 1.</p><br />
     <p><span class="titreDebutLigne">Les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> : </span>&nbsp [niveau]x10 + 1d4 points à répartir 
         équitablement entre toutes les caractéristiques, en supplément des points de bases de chaque caractéristique définie par la classe de personnage.</p><br />
     <p><span class="titreDebutLigne">Les <a href="?Page=menuLateral/competences">compétences</a> : </span>&nbsp 10 + [niveau]x2 + 1d4 points à répartir 
         équitablement entre les compétences.
-         Se reporter à la page <a href="?Page=menuLateral/experience">d'expérience</a> (section Les niveaux)
-         pour connaître le maximum de chaque compétence en fonction du niveau.</p><br />
+        Se reporter à la page <a href="?Page=menuLateral/experience">d'expérience</a> (section Les niveaux)
+        pour connaître le maximum de chaque compétence en fonction du niveau.</p><br />
     <p><span class="titreDebutLigne">L'<a href="?Page=menuLateral/equipement">équipement</a>: </span>&nbsp Entre les niveaux 1 et 4, les règles sont les mêmes que pour la création
-    d'un personnage de niveau 1. Entre les niveaux 5 et 6, le joueur peut choisir un équipement de qualité moyenne.
-    Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p>
+        d'un personnage de niveau 1. Entre les niveaux 5 et 6, le joueur peut choisir un équipement de qualité moyenne.
+        Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p>
 </div>

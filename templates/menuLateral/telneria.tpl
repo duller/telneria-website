@@ -18,7 +18,7 @@
         <p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'ouest jusqu'à l'île de Ferestos à l'est.</p>
         <p>Le nord-ouest du continent est peuplé par les Neltariens, avec Norska comme ville-sanctuaire.</p>
         <p>Au centre-nord, se trouvent de nombreuses tribus d'Orcs inféodées au suzerain orc de la cité de Trollnordh, cité bâtie sur les restes des derniers refuges des trolls sauvages.</p>
-        <p>Au nord-est, on trouve la cité sylvaine de Prenence, capitale des Elfes des forêts.</p>
+        <p>Au nord-est, se trouve la cité sylvaine de Prenence, capitale des Elfes des forêts.</p>
         <p>Le sud du continent se compose des belliqueuses baronnies humaines veldriennes. Vesnoth, à l'ouest, est la capitale des baronnies et le siège du prince régnant ; 
             se trouvent également dans cette baronnie la cité des telnastres de Maldaran ainsi que la grande cité commerciale de Brill. 
             Les autres baronnies sont inféodées au souverain de Vesnoth : ce sont les baronnies de Vilnus, Temberg, Valmer

@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Humains</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Humains</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageHumain.jpg" style="float:left;max-width:55%;margin-right:20px;">
 
         <p>Les Humains sont une des races les plus jeunes de Telneria. Originaires du continent de Mestrhune, 
@@ -54,7 +56,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/HumainPaladin.jpg"></p>
     <p class="pImageRace">Un humain paladin</p>
 </div>

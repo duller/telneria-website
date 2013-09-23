@@ -1,6 +1,6 @@
 <h1>Le magicien</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 	<h4>Description</h4>
 	<p>Le magicien maîtrise la magie élémentaire et des arcanes comme personne.</p>
 
@@ -24,13 +24,13 @@
         
 </div>
 
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/KerfennMagicien.jpg"></p>
-    <p>Un kerfenn magicien</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/KerfennMagicien.jpg"></p>
+    <p class="pImageRace">Un kerfenn magicien</p>
 </div>
   
 
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
 	<h3>Sorts et techniques</h3>
     <h4>Boule de feu</h4>
     <p>Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts.</p>
@@ -41,9 +41,9 @@
 
 </div>
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -61,9 +61,9 @@
 			</td>
 		</tr>
 	</table>
-        
+        <br />
 	<h4>Caractéristiques</h4>
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -116,7 +116,7 @@
 
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'arcaniste</h3>
     
     <p>L'arcaniste est un magicien focalisé sur les arcanes, la forme de magie la plus pure. Il permet d'utiliser les sorts et techniques suivantes : </p>
@@ -130,7 +130,7 @@
 </div>
 
 
- <div class="classePrestige2">
+ <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'élémentaliste</h3>
     <p>L'élémentaliste est un magicien spécialisé dans les magies élémentaires de la glace et du feu. Il permet d'utiliser les sorts et techniques suivantes :</p>
     <h4>Invocation élémentaire</h4>

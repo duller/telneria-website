@@ -24,7 +24,7 @@
 <br />
 <span class="menuParent">Le jeu</span>
 <a href="?Page=menuLateral/preparation"><span class="menuElement">Préparation</span></a>
-<a href="?Page=menuLateral/experience"><span class="menuElement">Expérience</span></a>
+<a href="?Page=menuLateral/experience"><span class="menuElement">Magexpérience</span></a>
 <a href="?Page=menuLateral/combat"><span class="menuElement">Combat</span></a>
 </p>
 

@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Elfes</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Elfes</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageElfe.jpg" style="float:left;max-width:55%;margin-right:20px;">
 
         <p>Peuple le plus ancien de Telneria, les Elfes vivent dans les grandes forêts du nord-ouest de Veldris et du nord de Ferestos.</p>
@@ -41,7 +43,7 @@
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un rôdeur elfe est assez commun, tandis qu'un sombregarde est plutôt rare.</p> 
         <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"></img>
-            <p class="pClassesDispo">Rodeur</p></a>
+            <p class="pClassesDispo">Rôdeur</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"></img>
             <p class="pClassesDispo">Roublard</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"></img>
@@ -57,7 +59,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/ElfeRodeuse.jpg"></p>
     <p class="pImageRace">Une elfe rôdeuse</p>
 </div>

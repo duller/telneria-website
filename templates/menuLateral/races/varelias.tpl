@@ -1,6 +1,8 @@
-<div class="descriptionClasse">
+<h2>Les Varelias</h2>
+
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        <h2>Les Varelias</h2>
+        
         <img class="communImages" src="ressources/04-Races/PaysageVarelias.jpg" style="float:left;max-width:65%;margin-right:20px;">
 
         <p>Originaires de la Forêt Touffue du nord de Veldris, les Varelias se sont exilés il y a deux siècles sur l'île d'Istnor, terre d'origine des Chepteg.</p>
@@ -50,7 +52,7 @@
 
 </div>
 
-<div class="classeImage divImageRace">
+<div class="classeImage communDivClasseMarges">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasDruide.jpg"></p>
     <p class="pImageRace">Un varelias druide</p>
 </div>

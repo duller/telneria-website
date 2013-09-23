@@ -1,6 +1,6 @@
 <h1>Le clerc</h1>
 
-<div class="descriptionClasse">
+<div class="descriptionClasse communDivClasseMarges communDivClasseContour">
 <h4>Description</h4>
     <p>Le clerc est un homme saint, il cherche à porter assistance à autrui et à transmettre la parole divine.</p>
     
@@ -24,12 +24,12 @@
 </div>
 
 
-<div class="classeImage">
-    <p><img class="imagePersonnage" src="ressources/ImagesRaces/NainClerc.jpg"></p>
-    <p>Un clerc nain</p>
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/NainClerc.jpg"></p>
+    <p class="pImageRace">Un clerc nain</p>
 </div>
   
-<div class="sortsClasse">
+<div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
     
     <h4>Châtiment céleste</h4>
@@ -41,10 +41,10 @@
 </div>
 
 
-<div class="classeTableaux">
+<div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4>Points de vie et de mana</h4>
     
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Base de points de vie</p>
@@ -63,10 +63,10 @@
 		</tr>
 	</table>
 
-    
+        <br />
         <h4>Caractéristiques</h4>
     
-	<table>
+	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
 				<p class="ptab">Force</p>
@@ -118,7 +118,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1">
+<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classes de prestige : Le prêtre</h3>
     
     <p>Le prêtre est un clerc dévolu à la transmission de la parole de la lumière sacrée. Il permet d'utiliser les sorts et techniques suivantes :</p>
@@ -130,7 +130,7 @@
     <p>Soigne le personnage-joueur choisi de toutes ses blessures mortelles.</p>
 </div>
     
-<div class="classePrestige2">
+<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le moine</h3>
     
     <p>Le moine est un clerc spécialisé dans le combat au corps-à-corps. Il permet d'utiliser les sorts et techniques suivantes :</p>
