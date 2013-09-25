@@ -13,7 +13,7 @@
 
 </p>
 
-<img class="communImages imageChoixRaces" src="ressources/04-Races/ToutesRacesSite.jpg">
+<img class="communImages imageChoixRaces" src="ressources/04-Races/ToutesRacesSite.jpg" title="Illustration : Jérôme Rotfarb">
 
 <p class="ligneRacesChoix">
     <span class="lienRacesChoix"><a href="?Page=menuLateral/races/humain">Humain&nbsp&nbsp&nbsp</a></span>

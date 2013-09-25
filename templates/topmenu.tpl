@@ -19,5 +19,5 @@
 <a onclick="var _window = window.open('iframeaudio.html'/*, '_blank'*/);_window.blur();window.focus();alert('Bonne écoute !');" 
    style="float:right;margin-right:20px;">
     <img src="ressources/audio/logoplay.svg" style="max-height:35px; float:left;margin-top: -7px;">
-    <p style="display: inline;font-size: 20px;">Musique</p>
+    <p style="display: inline;font-size: 20px;">Musique,<span style="font-size:14px;"> de Butterfly Tea</span></p>
 </a>

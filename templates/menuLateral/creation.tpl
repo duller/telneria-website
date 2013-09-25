@@ -3,7 +3,7 @@
 <div id="divCreationHautGauche">
 
     <div style="text-align:center;">
-        <img class="communImages imageClassesRaces" src="ressources/02-Creation/Races.WillDan.DA.Small.jpg" title="Par : Will Dan, Deviant Art">
+        <img class="communImages imageClassesRaces" src="ressources/02-Creation/Races.WillDan.DA.Small.jpg" title="Illustration : Will Dan, Deviant Art">
     </div>
     <h3 class="titreCreation">La race et la classe</h3>
     <p>Le joueur doit choisir une <a href="?Page=menuLateral/races">race</a> et une <a href="?Page=menuLateral/classes">classe</a>, 
@@ -11,7 +11,7 @@
         Le choix de la classe et de la race sont dépendants, car toutes les races ne sont pas compatibles avec toutes les classes.
         Un tableau de correspondance est disponible au bas de cette page.</p><br />
 
-    <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Par : Dark Fang, Deviant Art">
+    <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
 
     <h3 class="titreCreation">L'alignement</h3>
     <p>Le joueur doit déterminer son <a href="?Page=menuLateral/alignement">alignement</a>, il faut choisir la composante éthique et la composante morale.
@@ -26,7 +26,7 @@
 <div id="divCreationHautDroite">
 
     <div style="">
-        <img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg" title="Par : Anonyme">
+        <img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Anonyme">
 
         <h3 class="titreCreation">Les caractéristiques</h3>
         <p>Le joueur détermine au début du jeu les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> de son personnage, 
@@ -45,7 +45,7 @@
 
     <div style="">
 
-        <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.SansFond.png" title="Par : Flare Rpg, Open Game Art">
+        <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.SansFond.png" title="Illustration : Flare Rpg, Open Game Art">
 
         <h3 class="titreCreation">L'équipement</h3>
         <p>Chaque joueur commence le jeu avec 10+1d100 po. Il choisit ensuite deux armes de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
@@ -408,13 +408,14 @@
     <p>Lorsqu'un nouveau joueur intègre un groupe existant, il peut être intéressant de créer directement un personnage de niveau supérieur à 1. 
         Pour la <a href="?Page=menuLateral/classes">classe</a>, la <a href="?Page=menuLateral/races">race</a>, l'<a href="?Page=menuLateral/alignement">alignement</a>
         et les <a href="?Page=menuLateral/dons">dons</a> : les étapes à suivre sont les mêmes que lors de la création d'un personnage de niveau 1.</p><br />
-    <p><span class="titreDebutLigne">Les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> : </span>&nbsp [niveau]x10 + 1d4 points à répartir 
-        équitablement entre toutes les caractéristiques, en supplément des points de bases de chaque caractéristique définie par la classe de personnage.</p><br />
-    <p><span class="titreDebutLigne">Les <a href="?Page=menuLateral/competences">compétences</a> : </span>&nbsp 10 + [niveau]x2 + 1d4 points à répartir 
-        équitablement entre les compétences.
+    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;">Les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> : </span>&nbsp [niveau]x10
+        + 1d4 points à 
+        répartir équitablement entre toutes les caractéristiques, en supplément des points de bases de chaque caractéristique définie par la classe de personnage.</p><br />
+    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;">Les <a href="?Page=menuLateral/competences">compétences</a> : </span>&nbsp 10 + [niveau]x2 + 
+        1d4 points à répartir équitablement entre les compétences.
         Se reporter à la page <a href="?Page=menuLateral/experience">d'expérience</a> (section Les niveaux)
         pour connaître le maximum de chaque compétence en fonction du niveau.</p><br />
-    <p><span class="titreDebutLigne">L'<a href="?Page=menuLateral/equipement">équipement</a>: </span>&nbsp Entre les niveaux 1 et 4, les règles sont les mêmes que pour la création
-        d'un personnage de niveau 1. Entre les niveaux 5 et 6, le joueur peut choisir un équipement de qualité moyenne.
+    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;">L'<a href="?Page=menuLateral/equipement">équipement</a>: </span>&nbsp Entre les niveaux 1 et 4,
+        les règles sont les mêmes que pour la création d'un personnage de niveau 1. Entre les niveaux 5 et 6, le joueur peut choisir un équipement de qualité moyenne.
         Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p>
 </div>

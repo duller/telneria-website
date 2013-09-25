@@ -2,8 +2,8 @@
 
     <h1>Les compétences</h1>
 
-    <img class="communImages imageCompeGauche" src="ressources/08-Compe/Pioche.Small.png">
-    <img class="communImages imageCompeDroite" src="ressources/08-Compe/Book.Chasity.jpg">
+    <img class="communImages imageCompeGauche" src="ressources/08-Compe/Pioche.Small.png" title="Illustration : Anonyme">
+    <img class="communImages imageCompeDroite" src="ressources/08-Compe/Book.Chasity.jpg" title="Illustration : Chasity">
     <p>Chaque classe a des points de compétences à répartir, vous pouvez vous reporter à la création des personnages pour savoir combien de points investir au début.</p>
     <p>Au niveau 1, le maximum de points par compétence est 3.</p> 
     <p>Pour les compétences spécifiques à la classe, un point gratuit supplémentaire est attribué, déjà affiché sur la fiche de classe.</p><br/>

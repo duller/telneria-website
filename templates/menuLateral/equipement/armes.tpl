@@ -3,7 +3,7 @@
     <h1>Les armes</h1>
 
     <p>Le type d'arme influe sur les jets de toucher (noté JdT).</p>
-    <p>Aux dégâts de l'arme, il convient d'ajouter le niveau du personnage pour obtenir les dégâts infligés.</p>
+    <p>Pour les attaques simples, il convient d'ajouter le niveau du personnage pour obtenir les dégâts infligés.</p>
     <p>Les armes de qualité moyenne requièrent un personnage de niveau 3. Celles de qualité bonne un niveau 5.</p>
     <p>Les armes de qualité admirable ne peuvent être utilisées que par les personnages de niveau 7 et supérieur.</p>
 

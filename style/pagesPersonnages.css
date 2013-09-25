@@ -140,7 +140,7 @@
 {
     float:left;
     width:60%;
-    min-height:550px;
+    min-height:400px;
     clear: both;
 }
 
@@ -149,6 +149,11 @@
     float:left;
     width:46%;
     margin:2%;
+}
+
+.divSortTechniqueDescription
+{
+    margin:0 2%;
 }
 
 .divInterneClasse
@@ -162,14 +167,14 @@
 {
     float:right;
     width:30%;
-    min-height:550px;
+    min-height:450px;
 }
 
 .classeTableaux
 {
     float:right;
     width:30%;
-    min-height:550px;
+    min-height:450px;
     text-align: center;
 }
 
@@ -189,14 +194,14 @@
 {
     float:left;
     width:46%;
-    min-height:550px;
+    min-height:600px;
 }
 
 .classePrestige2
 {
     float:right;
     width:46%;
-    min-height:550px;
+    min-height:600px;
 }
 
 /* CSS pour la page des races de personnages */
