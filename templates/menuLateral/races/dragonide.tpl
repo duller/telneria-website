@@ -2,8 +2,8 @@
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        
-        <img class="communImages" src="ressources/04-Races/PaysageDragonide.jpg" style="float:left;max-width:50%;margin-right:20px;">
+
+        <img class="communImages" src="ressources/04-Races/PaysageDragonide.jpg" style="float:left;max-width:50%;margin-right:20px;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de Ferestos.</p>
         <p>Il y a 2000 ans, il existait encore en Ferestos des dragonides de toutes les ethnies. Chacune des cinq ethnies de ce peuple est originaire des cinq familles de dragons.
@@ -44,13 +44,17 @@
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un guerrier dragonide est assez commun, tandis qu'un magicien est plutôt rare.</p> 
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Guerrier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sombregarde"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sombregarde.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/sombregarde"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sombregarde.png"
+                                                                                  title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Sombregarde</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"
+                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Sorcier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Magicien</p></a>
 
     </div>
@@ -58,6 +62,6 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.jpg"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.jpg" title="Illustration : Jérôme Rotfab"></p>
     <p class="pImageRace">Un dragonide sombregarde</p>
 </div>

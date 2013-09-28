@@ -2,13 +2,13 @@
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.WolfgangStaudt.jpg" style="max-width:65%;">
+
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.WolfgangStaudt.jpg" style="max-width:65%;" title="Illustration : Wolfgang Staudt">
 
         <p>Originaires des plaines arides du nord de Veldris, les Orcs ont conquis l'ensemble de la région aux dépens des Trolls et des Varelias.
             Peuple belliqueux et conquérant, ces humanoïdes à la peau verte connaissent de nombreux conflits internes.</p>
         <p>Vaincus pendant des siècles par les Elfes et les Neltariens, les Orcs ne s'aventurent plus ni à l'est, ni à l'ouest de leur territoire.
-        Ils se disputent cependant toujours la Forêt Touffue avec les Humains et envoient de temps en temps des escouades dans les baronnies.</p>
+            Ils se disputent cependant toujours la Forêt Touffue avec les Humains et envoient de temps en temps des escouades dans les baronnies.</p>
         <p>Les Orcs parlent de nombreux dialectes locaux, mais ils ont appris à maîtriser le russe en combattant les Varelias. 
             Les classes éduquées ont également appris le polonais auprès des Elfes et des Neltariens.</p>
     </div>
@@ -40,13 +40,17 @@
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un guerrier orc est assez commun, tandis qu'un sorcier est plutôt rare.</p> 
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Guerrier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Chaman</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sombregarde"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sombregarde.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/sombregarde"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sombregarde.png"
+                                                                                  title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Sombregarde</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"
+                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Sorcier</p></a>
 
     </div>
@@ -54,6 +58,6 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/OrcGuerrier.jpg"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/OrcGuerrier.jpg" title="Illustration : Jérôme Rotfab"></p>
     <p class="pImageRace">Un orc guerrier</p>
 </div>

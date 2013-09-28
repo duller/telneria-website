@@ -20,7 +20,7 @@
     <h2>Épées</h2>
 
     <h3>À une main : JdT normal</h3>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Flare.Epee1M.png">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Flare.Epee1M.png" title="Illustration : Flare RPG">
 
     <table>
         <tr>
@@ -54,7 +54,7 @@
     </table>
 
     <h3>À deux mains (requiert niveau 2) : JdT-1</h3>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Epee2M.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Epee2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -90,7 +90,7 @@
     <h2>Haches</h2>
 
     <h3>À une main : JdT-1</h3>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache1M.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache1M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -124,7 +124,7 @@
     </table>
 
     <h3>À deux mains (requiert niveau 2) : JdT-2</h3>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache2M.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -158,10 +158,11 @@
     </table>
 
     <h2>Masses</h2>
-    <p style="margin:-5px 0 -5px 0;">En visant la tête de l'ennemi (-4 JdT), un coup porté avec une masse assomme l'ennemi pour 1 tour.</p>
+    <p style="margin: -5px 0 0 0;">En visant la tête de l'ennemi (JdT -3 1M, -4 2M), un coup porté avec une masse assomme l'ennemi pour 1 tour.</p>
+    <p style="margin: 0 0 -5px 0;">Si le coup assommant échoue mais que le score normal aurait touché, l'attaque porte avec -1 dégât sans assommer.</p>
     
     <h3>À une main : JdT normal</h3>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Masse1M.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Masse1M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -195,7 +196,7 @@
     </table>
 
     <h3>À deux mains (requiert niveau 2) : JdT -1</h3>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Masse2M.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Masse2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -228,8 +229,8 @@
         </tr>
     </table>
 
-    <h2>Armes d'hast (requiert niveau 2) : JdT-4</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hast.Caetis.jpg">
+    <h2>Armes d'hast (requiert niveau 2) : JdT-3</h2>
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hast.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -262,8 +263,8 @@
         </tr>
     </table>
 
-    <h2>Dagues : JdT+2</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Flare.Dague.png">
+    <h2>Dagues : JdT+1</h2>
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Flare.Dague.png" title="Illustration : Flare RPG">
 
     <table>
         <tr>
@@ -297,7 +298,7 @@
     </table>
 
     <h2>Bâtons : JdT normal</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Baton.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Baton.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -331,7 +332,7 @@
     </table>
 
     <h2>Baguettes : JdT normal</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Baguette.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Baguette.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -365,7 +366,7 @@
     </table>
 
     <h2>Arcs : JdT normal</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Arc.Nangeyi.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Arc.Nangeyi.jpg" title="Illustration : Nangeyi, Deviant Art">
 
     <table>
         <tr>
@@ -390,7 +391,7 @@
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
         <tr>
-            <td class="tdNomEquipement"><p class="ptab">Arc en corne de varelias</p></td>
+            <td class="tdNomEquipement"><p class="ptab">Arc en bois de varelias</p></td>
             <td class="tdEquipement"><p class="ptab">1d12</p></td>
             <td class="tdEquipement"><p class="ptab">30m</p></td>
             <td class="tdEquipement"><p class="ptab">90 po</p></td>
@@ -400,7 +401,7 @@
 
     <h2>Arbalètes (requiert niveau 2) : JdT+1</h2>
     <p style="margin:-5px 0 5px 0;">La recharge d'une arbalète correspond à une demi-action.</p>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Arbalete.Nangeyi.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Arbalete.Nangeyi.jpg" title="Illustration : Nangeyi, Deviant Art">
 
     <table>
         <tr>

@@ -3,7 +3,7 @@
 <p>Cette section s'adresse au maître du jeu (MJ).</p>
 
 <div class="divMoitieGauche">
-    <img class="communImages imagePrepTour" src="ressources/12-Preparation/Tour.png">
+    <img class="communImages imagePrepTour" src="ressources/12-Preparation/Tour.png" title="Illustration : Open Game Art">
     <h2>Le scénario</h2>
     <p>Pour s'assurer de proposer une aventure cohérente et intéressante, il est préférable de préparer à l'avance la trame principale de l'histoire et des histoires alternatives pour faire face
         au comportement naturellement imprévisible des joueurs.</p>
@@ -16,7 +16,7 @@
 </div>
 
 <div class="divMoitieDroite">
-    <img class="communImages imagePrepLanterne" src="ressources/12-Preparation/LanterneAccrochee.png">
+    <img class="communImages imagePrepLanterne" src="ressources/12-Preparation/LanterneAccrochee.png" title="Illustration : Open Game Art">
     <h2>Préparer les personnages</h2>
     <p>Chaque joueur doit préparer un personnage-joueur, ce qui est détaillé dans les sections précédentes.</p>
     <p>Pour tous les personnages non-joueurs de l'aventure, il est préférable de les créer avant le début de la partie pour garder un rythme de jeu fluide et captivant.</p>

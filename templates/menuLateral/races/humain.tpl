@@ -2,8 +2,8 @@
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        
-        <img class="communImages" src="ressources/04-Races/PaysageHumain.jpg" style="float:left;max-width:55%;margin-right:20px;">
+
+        <img class="communImages" src="ressources/04-Races/PaysageHumain.jpg" style="float:left;max-width:55%;margin-right:20px;" title="Illustration : Herman Saftleven, Wikimédia">
 
         <p>Les Humains sont une des races les plus jeunes de Telneria. Originaires du continent de Mestrhune, 
             ils se sont rapidement développés vers le continent de Veldris.</p>
@@ -39,17 +39,23 @@
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un guerrier humain est assez commun, tandis qu'un magicien est plutôt rare.</p>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Guerrier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Roublard</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Rôdeur</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Clerc.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Clerc.png"
+                                                                            title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Clerc</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/paladin"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Paladin.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/paladin"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Paladin.png"
+                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Paladin</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Magicien</p></a>
 
     </div>
@@ -57,6 +63,6 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/HumainPaladin.jpg"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/HumainPaladin.jpg" title="Illustration : Jérôme Rotfab"></p>
     <p class="pImageRace">Un humain paladin</p>
 </div>

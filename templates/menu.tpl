@@ -5,8 +5,8 @@
 <br />
 <span class="menuParent">Personnages</span>
 <a href="?Page=menuLateral/creation"><span class="menuElement">Création</span></a>
-<a href="?Page=menuLateral/classes"><span class="menuElement">Classes</span></a>
 <a href="?Page=menuLateral/races"><span class="menuElement">Races</span></a>
+<a href="?Page=menuLateral/classes"><span class="menuElement">Classes</span></a>
 
 <br />
 <span class="menuParent">Attributs</span>

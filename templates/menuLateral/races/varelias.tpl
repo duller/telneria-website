@@ -2,8 +2,8 @@
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        
-        <img class="communImages" src="ressources/04-Races/PaysageVarelias.jpg" style="float:left;max-width:65%;margin-right:20px;">
+
+        <img class="communImages" src="ressources/04-Races/PaysageVarelias.jpg" style="float:left;max-width:65%;margin-right:20px;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Originaires de la Forêt Touffue du nord de Veldris, les Varelias se sont exilés il y a deux siècles sur l'île d'Istnor, terre d'origine des Chepteg.</p>
         <p>Peuple ancien et sage, les Varelias sont d'imposants humanoïdes dont l'épiderme s'apparente à l'écorce des arbres.</p>
@@ -39,13 +39,17 @@
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un rôdeur varelias est assez commun, tandis qu'un chaman est plutôt rare.</p> 
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Rôdeur</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/druide"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Druide.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/druide"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Druide.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Druide</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Guerrier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Chaman</p></a>
 
     </div>
@@ -53,6 +57,6 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasDruide.jpg"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasDruide.jpg" title="Illustration : Jérôme Rotfab"></p>
     <p class="pImageRace">Un varelias druide</p>
 </div>

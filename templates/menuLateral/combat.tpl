@@ -83,7 +83,7 @@
                 </ul>
             </div>
             <div class="div40">
-                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.Asthenot.DA.jpg">
+                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.Asthenot.DA.jpg" title="Illustration : Asthenot, Deviant Art">
             </div>
 
         </div>
@@ -111,7 +111,7 @@
             </div>
 
             <div class="div40">
-                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.SilverlightDream.DA.jpg">
+                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.SilverlightDream.DA.jpg" title="Illustration : Silverlight, Deviant Art">
             </div>
 
             <div class="div30">
@@ -138,14 +138,14 @@
         <div id="divModificateurs" class="divPageCombat">
             <div class="divMoitieGauche">
                 <h3>Attaques physiques</h3>
-                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/hammer-drop.png">
+                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/hammer-drop.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec l'esquive physique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés en fonction de l'arme utilisée.</p>
                 <p>L'esquive physique est déterminée à partir de l'esquive physique de base, qui est de 10, des éventuelles pièces d'armure, de la dextérité et du modificateur de taille.</p>
             </div>
             <div class="divMoitieDroite">
                 <h3>Attaques magiques</h3>
-                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/unfriendly-fire.png">
+                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/unfriendly-fire.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque magique, il faut comparer le jet de toucher avec l'esquive magique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés par le sort utilisé.</p>
                 <p>L'esquive magique est déterminée à partir de l'esquive magique de base, qui est de 10, des éventuelles pièces d'armures magiques, du charisme et du modificateur de taille.</p>
@@ -289,7 +289,7 @@
         <h2 class="titreCombat">Incapacités et mort</h2>
         <div id="divIncapacite" class="divPageCombat">
             <div class="divEtroite">
-                <img class="communImages imageCrane" src="ressources/14-Combat/Crane.jpg">
+                <img class="communImages imageCrane" src="ressources/14-Combat/Crane.jpg" title="Illustration : Inconnu">
                 <h3>Mise hors de combat</h3>
                 <p>Lorsqu'un joueur ou un monstre voit ses points de vie atteindre 0, il devient inconscient et ne peut plus mener d'actions. Il perd ensuite 1 point de vie par tour.
                     Si les points de vie d'un joueur atteignent -10, l'intéressé est mort et ni la fin du combat ni des soins d'un autre joueur ne peuvent rétablir la victime.</p>
@@ -320,7 +320,7 @@
     <div class="divZoneCombatTitre">
         <h2 class="titreCombat">Le Telnas</h2>
         <div id="divTelnas" class="divPageCombat divEtroite">
-            <img class="communImages imageCombatTelnas" src="ressources/14-Combat/TelnasBleu.Demiruigi.DA.jpg">
+            <img class="communImages imageCombatTelnas" src="ressources/14-Combat/TelnasBleu.Demiruigi.DA.jpg" title="Illustration : Demiruigi, Deviant Art">
             <p>Le Telnas est la matérialisation physique d'une forme très pure de magie des arcanes.</p>
             <p>Elle permet au joueur d'invoquer une épaisse fumée bleue qu'il peut contrôler à sa guise.</p>
             <p>Voici quelques exemples de l'utilisation du Telnas par ordre de difficulté :</p>

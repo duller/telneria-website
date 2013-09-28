@@ -2,8 +2,8 @@
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        
-        <img class="communImages" src="ressources/04-Races/Paysage.Kerfenn.PeterFries.jpg" style="float:left;max-width:55%;margin-right:20px;">
+
+        <img class="communImages" src="ressources/04-Races/Paysage.Kerfenn.PeterFries.jpg" style="float:left;max-width:55%;margin-right:20px;" title="Illustration : Peter Fries">
 
         <p>Humanoïdes de petite taille, les Kerfenn vivent dans de grandes villes sur les côtes ouest de Mestrhune.</p>
         <p>Peuple ingénieux et pacifique, les Kerfenn vivent dans une société orientée vers l'artisanat et le commerce. 
@@ -41,13 +41,17 @@
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un roublard kerfenn est assez commun, tandis qu'un clerc est plutôt rare.</p> 
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Roublard</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Magicien</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"
+                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Sorcier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Clerc.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Clerc.png"
+                                                                            title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Clerc</p></a>
 
     </div>
@@ -55,6 +59,6 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.jpg"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.jpg" title="Illustration : Jérôme Rotfab"></p>
     <p class="pImageRace">Un kerfenn magicien</p>
 </div>

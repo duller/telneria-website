@@ -19,7 +19,7 @@
 
 
     <h2>Boucliers</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Bouclier.Caetis.jpg">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Bouclier.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
         <tr>
@@ -57,7 +57,7 @@
     </table>
 
     <h2>Tenues en tissu</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Tissu.png">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Tissu.png" title="Illustration : Flare RPG">
 
     <table>
         <tr>
@@ -95,7 +95,7 @@
     </table>
 
     <h2>Plastrons en cuir</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Cuir.png">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Cuir.png" title="Illustration : Flare RPG">
 
     <table>
         <tr>
@@ -133,7 +133,7 @@
     </table>
 
     <h2>Armures de maille (requiert niveau 2)</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Mailles.png">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Mailles.png" title="Illustration : Flare RPG">
 
     <table>
         <tr>
@@ -171,7 +171,7 @@
     </table>
 
     <h2>Cuirasses en plaques (requiert niveau 3)</h2>
-    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Plaques.png">
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Plaques.png" title="Illustration : Flare RPG">
 
     <table>
         <tr>

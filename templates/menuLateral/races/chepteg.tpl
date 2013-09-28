@@ -2,8 +2,8 @@
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
-        
-        <img class="communImages" src="ressources/04-Races/PaysageChepteg.jpg" style="float:left;max-width:50%;margin-right:20px;">
+
+        <img class="communImages" src="ressources/04-Races/PaysageChepteg.jpg" style="float:left;max-width:50%;margin-right:20px;" title="Illustration : Serendigity, Flickr">
 
         <p>Originaires de l'île reculée d'Istnor, les Chepteg vivent en petites tribus dans les forêts enneigées du nord de la péninsule.</p>
         <p>Les chepteg sont des humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite 
@@ -40,15 +40,20 @@
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un rôdeur chepteg est assez commun, tandis qu'un druide est plutôt rare.</p> 
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Rôdeur</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Guerrier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Chaman</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"
+                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Roublard</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/druide"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Druide.png"></img>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/druide"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Druide.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Druide</p></a>
 
     </div>
@@ -56,6 +61,6 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/CheptegChaman.jpg"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/CheptegChaman.jpg" title="Illustration : Jérôme Rotfab"></p>
     <p class="pImageRace">Un chepteg chaman</p>
 </div>

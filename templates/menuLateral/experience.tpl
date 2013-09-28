@@ -1,7 +1,7 @@
 <h1>L'expérience et la magie</h1> 
 
 <div class="divMoitieGauche">
-    <img class="communImages imageExpGuerrier" src="ressources/13-Experience/ExpKnight.FantasyArt.jpg">
+    <img class="communImages imageExpGuerrier" src="ressources/13-Experience/ExpKnight.FantasyArt.jpg" title="Illustration : Fantasy Art">
     <h2>Les points d'expérience</h2>
     <p>Les joueurs gagnent de l'expérience lorsqu'ils participent à un combat qui résulte en la mort d'une créature.</p>
     <p>Les points d'expérience octroyés sont à l'appréciation du MJ. Tous les joueurs commencent le jeu avec 100 points d'expérience.</p>
@@ -19,7 +19,7 @@
 </div>
 
 <div class="divMoitieDroite">
-    <img class="communImages imageExpTelnas" src="ressources/13-Experience/TelnasMagie.Candra.DA.jpg">
+    <img class="communImages imageExpTelnas" src="ressources/13-Experience/TelnasMagie.Candra.DA.jpg" title="Illustration : Candra, Deviant Art">
 
     <h2>La maîtrise du Telnas</h2>
     <p>À chaque gain de niveau par un personnage, celui-ci a une petite chance de progresser dans son niveau de maîtrise du Telnas.</p>

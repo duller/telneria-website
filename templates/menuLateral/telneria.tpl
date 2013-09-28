@@ -3,7 +3,7 @@
 <div class="zoneRegionsHaut">
 
     <div class="divMoitieGauche">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Istnor.Serendigity.Flickr.jpg">
+        <img class="communImages imageRegion" src="ressources/09-Monde/Istnor.Serendigity.Flickr.jpg" title="Illustration : Serendigity, Flickr">
         <h3>Istnor</h3>
         <p>Petite île au nord-ouest de Telneria, Istnor est une contrée froide et peu habitée.</p>
         <p>Elle est la terre d'origine des Chepteg dans les forêts au nord de l'île et des Varelias au sud. 
@@ -13,7 +13,7 @@
             la disposition de chacun des pierres formant l'édifice.</p>
     </div>
     <div class="divMoitieDroite">
-        <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Veldris.Phatpuppy.Flickr.Petit.jpg">
+        <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Veldris.Phatpuppy.Flickr.Petit.jpg" title="Illustration : Phatpuppy, Flickr">
         <h3>Veldris</h3>
         <p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'ouest jusqu'à l'île de Ferestos à l'est.</p>
         <p>Le nord-ouest du continent est peuplé par les Neltariens, avec Norska comme ville-sanctuaire.</p>
@@ -27,19 +27,19 @@
 </div>
 
 <div class="zoneCarte">
-    <img class="communImages imageCarte" src="ressources/09-Monde/CarteMonde.jpg">
+    <img class="communImages imageCarte" src="ressources/09-Monde/CarteMonde.jpg" title="Illustration : Geoffrey Vallin">
 </div>
 
 <div class="zoneRegionsBas">
     <div class="divMoitieGauche">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Ferestos.SkullDixon.DA.jpg">
+        <img class="communImages imageRegion" src="ressources/09-Monde/Ferestos.SkullDixon.DA.jpg" title="Illustration : Skull Dixon, Deviant Art">
         <h3>Ferestos</h3>
         <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des nains et des dragonides, le paysage est majoritairement montagnard et le climat y est rude.</p>
         <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains .</p>
         <p>L'intérieur des terres de l'île de Ferestos est constitué de hautes montagnes et de volcans qu'habitent quelques nains et les clans dragonides.</p>
     </div>
     <div class="divMoitieDroite">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg">
+        <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg" title="Illustration : Hilmar Wild">
         <h3>Mestrhune</h3>
         <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
         <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, se trouvent les terres des Kerfenn et leur capitale Kerbourg. 
@@ -68,7 +68,7 @@
 
     <h2>Les unités du monde de Telneria</h2>
     <div class="divMoitieGauche">
-        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/temps.png">
+        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/temps.png" title="Illustration : Lorc, Open Game Art">
         <h3>Les unités de temps</h3>
         <p>Le temps dans le monde de Telneria est basé sur le lever et le coucher du soleil. 
             Chaque jour est séparé en 24 heures réparties en 12 heures avant et après le zénith.</p>
@@ -76,16 +76,16 @@
         <p>Une lune est composée de 36 jours, tandis que 12 lunes forment un cycle. Le cycle est utilisé par les habitants pour indiquer leur âge ou les périodes de règne.</p>
     </div>
     <div class="divMoitieDroite">
-        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/mesure.png">
+        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/mesure.png" title="Illustration :  Lorc, Open Game Art">
         <h3>Les unités de mesure</h3>
         <p>L'utilisation du pied, de la toise et de la lieue est répandue sur l'ensemble des quatre continents, à l'exception de quelques tribus nomades de Mestrhune.</p>
         <p>Le pied correspond à la taille du pied d'un nain adulte. Pour les mesures plus petites, le pouce est parfois utilisé, il faut douze pouces pour faire un pied.</p>
         <p>La toise est utilisée pour mesurer les distances à l'intérieur d'un village et d'une ville, ou exceptionnellement pour les très grands édifices ; 
             il faut six pieds pour faire une toise.</p>
-        <p>Pour les grandes distances de déplacement ou pour le cadastre, c'est la lieue qui est utilisée. La lieue correspond à une heure de marche pour un nain adulte.</p>
+        <p>Pour les grandes distances de déplacement ou pour le cadastre, c'est la lieue qui est utilisée. Une lieue correspond à une heure de marche pour un nain adulte.</p>
     </div>
     <div class="divMoitieGauche">
-        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/monnaie.png">
+        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/monnaie.png" title="Illustration :  Lorc, Open Game Art">
         <h3>La monnaie</h3>
         <p>De nombreuses monnaies locales sont utilisées sur les quatre continents de Telneria, elles sont généralement en minerai rare, 
             et n'ont que rarement des effigies.
@@ -95,7 +95,7 @@
             Le taux de change entre les deux monnaies est très variable et reste essentiellement politique.</p>
     </div>
     <div class="divMoitieDroite">
-        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/poids.png">
+        <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/poids.png" title="Illustration :  Lorc, Open Game Art">
         <h3>Les unités de poids</h3>
         <p>L'unité de poids la plus courante dans le monde de Telneria est la livre. La livre correspond au poids d'une chope de bière naine.</p>
         <p>L'once est également utilisée pour indiquer des poids plus faibles. Une once correspond au poids d'un vescu d'or, 

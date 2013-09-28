@@ -8,7 +8,7 @@
     <h3 class="titreCreation">La race et la classe</h3>
     <p>Le joueur doit choisir une <a href="?Page=menuLateral/races">race</a> et une <a href="?Page=menuLateral/classes">classe</a>, 
         il ne peut en choisir qu'une seule de chaque.
-        Le choix de la classe et de la race sont dépendants, car toutes les races ne sont pas compatibles avec toutes les classes.
+        Ces choix sont inter-dépendants, car toutes les races ne sont pas compatibles avec toutes les classes.
         Un tableau de correspondance est disponible au bas de cette page.</p><br />
 
     <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
