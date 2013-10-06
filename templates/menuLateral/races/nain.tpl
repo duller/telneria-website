@@ -35,8 +35,8 @@
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 4 pieds à 4 pieds et demi (1m20 à 1m30)</p>
-            <p><span class="titreDebutLigne">Poids</span> &nbsp: 100 à 140 livres (50kg à 70kg)</p>
-            <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 70 ans</p>
+            <p><span class="titreDebutLigne">Poids</span> &nbsp: 120 à 160 livres (60kg à 80kg)</p>
+            <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 100 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
         <p>Triées par la population de chaque classe. Un guerrier nain est assez commun, tandis qu'un paladin est plutôt rare.</p> 

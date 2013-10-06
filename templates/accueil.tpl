@@ -1,5 +1,5 @@
 <div id="divAccueilGauche">
-<h1>Les légendes de Telneria</h1>
+<h1>Les contrées de Telneria</h1>
 
 <br />
 <p>Telneria est un monde médiéval de fantasy où la magie est l'apanage d'une minorité.</p>
@@ -17,7 +17,7 @@
     nobles à s'allier aux telnastres, les adeptes de cette discipline. Profitant de leur leur nouvelle puissance, ils ont ainsi pu mettre en place des sociétés 
     non plus électives mais aristocratiques.</p>
 <br />
-<p>Le jeu de rôle "Les légendes de Telneria" se déroule dans ce monde où les barons humains, épaulés par les puissants telnastres, passent plus de temps à se disputer 
+<p>Le jeu de rôle "Les contrées de Telneria" se déroule dans ce monde où les barons humains, épaulés par les puissants telnastres, passent plus de temps à se disputer 
     leurs frontières qu'à écouter les aspirations du bas peuple. La menace émergente des nations non-humaines voisines ne rencontre pas non plus d'écho auprès de ces
     belliqueux souverains.</p>
 
@@ -30,7 +30,7 @@
 
 <h2>Qu'est ce qu'un jeu de rôle ?</h2>
 <p>Le jeu de rôle consiste à vivre une aventure à plusieurs en s'imaginant la situation et en se mettant dans la peau de personnages fictifs.</p>
-<p>Les légendes de Telneria est un ensemble de règles, de descriptions et de fiches papiers permettant de mener à bien un tel jeu
+<p>Les contrées de Telneria est un ensemble de règles, de descriptions et de fiches papiers permettant de mener à bien un tel jeu
     dans un univers de fantasy médiévale.</p>
 
 <p>Pour commencer un jeu de rôle, il faut au préalable <a href="?Page=menuLateral/creation">créer les personnages</a>
@@ -60,7 +60,7 @@ de fantasy médiévale, ce qu'est le monde de Telneria.</p>
 <h2>Les romans de l'univers de Telneria</h2>
 <img class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/01-Accueil/Wikimedia-Books.jpg" title="Illustration : Wikimédia">
 
-<p>Pour les visiteurs qui ont été menés ici à partir des romans "Les légendes de Telneria", vous êtes invités à vous rendre dans la section
+<p>Pour les visiteurs qui ont été menés ici à partir des romans "Les contrées de Telneria", vous êtes invités à vous rendre dans la section
 détaillant <a href="?Page=menuLateral/telneria">le monde de Telneria</a> pour découvrir plus en détail l'univers des romans.</p>
 
 

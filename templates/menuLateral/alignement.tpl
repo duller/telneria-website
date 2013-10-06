@@ -1,6 +1,6 @@
 <h1>L'alignement</h1>
-<p class="pSousTitre">Chaque personnage doit choisir son alignement selon deux composantes : l'éthique et la morale. Le choix de l'une des composantes ne pose aucune limitation
-    quant au choix de la seconde.</p>   
+<p class="pSousTitre">Chaque personnage doit choisir son alignement selon deux composantes : l'éthique et la morale.</p>
+<p class="pSousTitre">Le choix de l'une des composantes ne pose aucune limitation quant au choix de la seconde.</p>   
 
 
 <div class="divMoitieGauche">

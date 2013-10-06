@@ -13,8 +13,8 @@
 
     <h2>Les niveaux</h2>
     <p>À chaque niveau, les joueurs gagnent 1d4+8 de points de caractéristiques et 2d2 points de compétences à distribuer. 
-        Pour chaque caractéristique, le nombre de points à distribuer est entre 0 et 2.
-        Pour chaque compétence, le nombre de points à distribuer est entre 0 et 1.</p>
+        Pour chaque caractéristique, le nombre de points à distribuer est au maximum 2.</p>
+    <p>Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.</p>
     <p>À chaque niveau, le nombre de points de vie et de mana augmente de 1d2 plus le modificateur du niveau précédent, respectivement de constitution et d'intelligence.</p>
 </div>
 
@@ -27,7 +27,7 @@
         pour inventer et faire apparaître des armes, des objets ou des sorts.</p>
     <p>À chaque tentative de matérialisation, ils augmentent les chances d'augmenter leur maîtrise du Telnas. À chaque passage de niveau,
         le joueur jette 1d20 auquel il rajoute chaque action de Telnas réussie pendant ce niveau.
-        Si le résultat dépasse 15, la maîtrise du Telnas progresse de 1.</p>
+        Si le résultat atteint au moins 15, la maîtrise du Telnas progresse de 1.</p>
 
 
     <h2>Les écoles de magie</h2>

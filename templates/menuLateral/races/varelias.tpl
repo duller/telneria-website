@@ -17,7 +17,7 @@
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <p>Istville, cité de taille modeste, abrite le Conseil des Anciens des Varelias ainsi que les édifices de commerce et de diplomatie. 
                 Bien que la société varelias soit peu centralisée, cette cité est vue comme la capitale politique de ce peuple.</p>
-            <p>Les Varelias habitant toujours la Forêt Touffue du nord de Veldris sont le plus souvent des hermites, ne participant pas à la vie commune.</p>
+            <p>Les Varelias habitant toujours la Forêt Touffue du nord de Veldris sont le plus souvent des ermites, ne participant pas à la vie commune.</p>
         </div>
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Langues</h4>

@@ -11,7 +11,7 @@ $smarty->compile_dir = 'templates_c/';
 $smarty->config_dir = 'configs/';
 $smarty->cache_dir = 'cache/';
 
-$smarty->assign("nom","Les légendes de Telneria");
+$smarty->assign("nom","Les contrées de Telneria");
 
 if(isset($_GET["Page"]) && is_file("templates/".$_GET["Page"].".tpl"))
 {

@@ -236,6 +236,11 @@ a:link
 
 .pSousTitre
 {
+    /*max-width:666px;*/
+}
+
+.pSousTitreCarac
+{
     max-width:666px;
 }
 

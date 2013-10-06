@@ -8,7 +8,8 @@
         <div class="divSortTechnique divSortTechniqueDescription">
 
             <h4>Description</h4>
-            <p>Le sombregarde est à l'instar du sorcier un adepte de la magie du chaos, il est cependant plus axé vers le combat à l'arme.
+            <p>Le sombregarde est à l'instar du sorcier un adepte du chaos, 
+            il est cependant plus axé vers le combat à l'arme. Les sombregardes sont d'anciens guerriers initiés aux sortilèges de magie noire.
             </p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription">
@@ -35,7 +36,7 @@
             <p>Sauvegarde, combat, magie.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription">
-            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Anonyme">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
             <h4>Compétences améliorées</h4>
             <p>Athlétisme, survie, tromperie.</p>
         </div>

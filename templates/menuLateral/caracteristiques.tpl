@@ -1,8 +1,8 @@
 <h1>Les caractéristiques</h1>
 
-<p class="pSousTitre">Lors de l'utilisation d'une caractéristique pour une action, son modificateur associé est utilisé pour déterminer sa réussite. 
+<p class="pSousTitre pSousTitreCarac">Lors de l'utilisation d'une caractéristique pour une action, son modificateur associé est utilisé pour déterminer sa réussite. 
     Le calcul du modificateur se trouve dans le tableau au bas de cette page.</p>
-<p class="pSousTitre">Les caractéristiques impactent les jets de dés lors de l'utilisation des compétences, 
+<p class="pSousTitre pSousTitreCarac">Les caractéristiques impactent les jets de dés lors de l'utilisation des compétences, 
     il faut se reporter à la section des compétences pour savoir quelle caractéristique est 
     utilisée pour quelle compétence. En dehors des compétences, les caractéristiques ont également une utilité propre détaillée sur cette page.</p>
 

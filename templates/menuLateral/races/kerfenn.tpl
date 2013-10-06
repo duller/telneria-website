@@ -36,7 +36,7 @@
         <div class="divMoitieGauche">
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Petite, 3 pieds à 3 pieds et demi (90 cm à 1m)</p>
-            <p><span class="titreDebutLigne">Poids</span> &nbsp: 220 à 260 livres (110kg à 130kg)</p>
+            <p><span class="titreDebutLigne">Poids</span> &nbsp: 40 à 60 livres (20kg à 30kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 120 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>

@@ -6,11 +6,12 @@
         <img class="communImages" src="ressources/04-Races/PaysageDragonide.jpg" style="float:left;max-width:50%;margin-right:20px;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de Ferestos.</p>
-        <p>Il y a 2000 ans, il existait encore en Ferestos des dragonides de toutes les ethnies. Chacune des cinq ethnies de ce peuple est originaire des cinq familles de dragons.
+        <p>Il y a 2000 ans, il existait encore en Ferestos des dragonides de toutes les ethnies. Chacune des cinq ethnies de ce peuple est originaire des cinq familles de 
+            <a href="?Page=menuLateral/monstres/dragons">dragons</a>.
             Les clans du dragon blanc et du dragon vert n'ont cependant pas survécu à l'animosité des clans ennemis des dragons noir, bleu et rouge.</p>
         <p>À l'instar de leur ancêtres dragons, les dragonides adoptent un mode de vie en fonction de leur ethnie.</p>
         <p>Les membres du clan du dragon noir empruntent ainsi la voie du sorcier et du sombregarde, avec un alignement à tendance chaotique mauvais.</p>
-        <p>Les membres du clan du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivant la voie du magicien. 
+        <p>Les membres du clan du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivent la voie du magicien. 
             Leur alignement est habituellement loyal mauvais.</p>
         <p>Enfin, les membres du clan du dragon rouge ne pratiquent aucune magie et deviennent de puissants guerriers, neutres en toute circonstance.</p>
         <p>La nature violente des dragonides et les dissensions entre les clans ont toujours empêché les contacts diplomatiques et commerciaux avec les autres peuples.</p>

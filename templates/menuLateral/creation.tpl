@@ -18,7 +18,7 @@
         L'alignement indique le caractère du personnage vis-à-vis des autres protagonistes du jeu, notamment son degré de loyauté ou sa propension à oeuvrer pour le mal.</p><br />
 
     <h3 class="titreCreation">Les dons</h3>
-    <p>Le joueur peut sélectionner deux <a href="?Page=menuLateral/dons">dons</a> au départ, les types de dons disponibles sont détaillées dans les descriptions de classes.
+    <p>Le joueur peut sélectionner deux <a href="?Page=menuLateral/dons">dons</a> au départ, les types de dons disponibles sont détaillés dans les descriptions de classes.
         Les dons peuvent être utilisés en combat pour améliorer temporairement les capacités du personnage, et faire face aux situations les plus périlleuses. </p>
 </div>
 
@@ -26,19 +26,19 @@
 <div id="divCreationHautDroite">
 
     <div style="">
-        <img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Anonyme">
+        <img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
 
         <h3 class="titreCreation">Les caractéristiques</h3>
         <p>Le joueur détermine au début du jeu les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> de son personnage, 
             la base de points pour chaque caractéristique dépend de la classe. 
-            Le joueur doit compléter ces bases en jetant 1d4+8, puis répartir le nombre obtenu de points entre les six caractéristiques, 
+            Le joueur doit compléter ces bases en jetant 8+1d4, puis répartir le nombre obtenu de points entre les six caractéristiques, 
             avec un maximum de 2 points supplémentaires par caractéristique.</p><br />
     </div>
 
     <div style="">
         <h3 class="titreCreation">Les compétences</h3>
         <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage en fonction de sa classe.<br /> 
-            Le nombre de points à investir est de 4+2d4.<br /> 
+            Le nombre de points à investir est de 8+1d4.<br /> 
             Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.
             Pour les compétences spécifiques à la classe, un point supplémentaire (non comptabilisé dans le maximum) déjà affiché sur la fiche de personnage est attribué.</p><br />
     </div>

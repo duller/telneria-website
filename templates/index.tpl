@@ -6,7 +6,7 @@
         <meta http-equiv="Content-Language" content="fr">
 
         <meta name="keywords" lang="fr" content="jeu de rôle, medieval, fantasy">
-        <meta name="description" content="Les légendes de Telneria - le site internet">
+        <meta name="description" content="Les contrées de Telneria - le site internet">
                 
         <link rel="stylesheet" href="style/layout.css">
         <link rel="stylesheet" href="style/style.css">
