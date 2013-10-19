@@ -1,7 +1,7 @@
 <h1>Les dons</h1>
 
 <p class="pSousTitre">Chaque don n'est utilisable qu'une seule fois par combat, c'est une demi-action.</p> 
-<p class="pSousTitre">Sachant qu'un joueur n'a que deux dons au total, il ne peut en utiliser que deux pendant un combat.</p>
+<p class="pSousTitre">Le nombre de dons accessibles dépend du niveau du joueur, celui-ci peut donc en utiliser un (niv.2) ou deux (niv.4) pendant un combat.</p>
 
 <div class="divTiersGauche">
     <h2>Les dons de sauvegarde</h2>

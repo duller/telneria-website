@@ -9,7 +9,8 @@
     <p>Le joueur doit choisir une <a href="?Page=menuLateral/races">race</a> et une <a href="?Page=menuLateral/classes">classe</a>, 
         il ne peut en choisir qu'une seule de chaque.
         Ces choix sont inter-dépendants, car toutes les races ne sont pas compatibles avec toutes les classes.
-        Un tableau de correspondance est disponible au bas de cette page.</p><br />
+        Un tableau de correspondance est disponible au bas de cette page.</p>
+    <p>À l'issue de cette étape, les joueurs peuvent utiliser leur fiche de personnage pour poursuivre la création de leur personnage.</p><br />
 
     <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
 
@@ -18,7 +19,8 @@
         L'alignement indique le caractère du personnage vis-à-vis des autres protagonistes du jeu, notamment son degré de loyauté ou sa propension à oeuvrer pour le mal.</p><br />
 
     <h3 class="titreCreation">Les dons</h3>
-    <p>Le joueur peut sélectionner deux <a href="?Page=menuLateral/dons">dons</a> au départ, les types de dons disponibles sont détaillés dans les descriptions de classes.
+    <p>Au départ, les joueurs n'ont pas accès aux <a href="?Page=menuLateral/dons">dons</a>. Le premier don est disponible au niveau 2, et le deuxième au niveau 4.</p>
+    <p>Une fois le niveau 2 atteint, il faut se reporter aux descriptions de classes pour voir les types de dons disponibles.
         Les dons peuvent être utilisés en combat pour améliorer temporairement les capacités du personnage, et faire face aux situations les plus périlleuses. </p>
 </div>
 
@@ -30,17 +32,17 @@
 
         <h3 class="titreCreation">Les caractéristiques</h3>
         <p>Le joueur détermine au début du jeu les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> de son personnage, 
-            la base de points pour chaque caractéristique dépend de la classe. 
-            Le joueur doit compléter ces bases en jetant 8+1d4, puis répartir le nombre obtenu de points entre les six caractéristiques, 
+            la base de points pour chaque caractéristique dépend de la classe (ces informations sont présentes sur les fiches de personnages). </p>
+            <p>Le joueur doit compléter ces bases en jetant 8+1d4, puis répartir le nombre obtenu de points entre les six caractéristiques, 
             avec un maximum de 2 points supplémentaires par caractéristique.</p><br />
     </div>
 
     <div style="">
         <h3 class="titreCreation">Les compétences</h3>
-        <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage en fonction de sa classe.<br /> 
-            Le nombre de points à investir est de 8+1d4.<br /> 
-            Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.
-            Pour les compétences spécifiques à la classe, un point supplémentaire (non comptabilisé dans le maximum) déjà affiché sur la fiche de personnage est attribué.</p><br />
+        <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage et les renseigne sur sa fiche.
+            Le nombre de points à investir est de 8+1d4. Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.</p>
+        <p>Pour les compétences spécifiques à la classe, un point supplémentaire (non comptabilisé dans le maximum) déjà affiché sur la fiche de personnage est attribué.</p>
+        <br />
     </div>
 
     <div style="">
@@ -408,14 +410,16 @@
     <p>Lorsqu'un nouveau joueur intègre un groupe existant, il peut être intéressant de créer directement un personnage de niveau supérieur à 1. 
         Pour la <a href="?Page=menuLateral/classes">classe</a>, la <a href="?Page=menuLateral/races">race</a>, l'<a href="?Page=menuLateral/alignement">alignement</a>
         et les <a href="?Page=menuLateral/dons">dons</a> : les étapes à suivre sont les mêmes que lors de la création d'un personnage de niveau 1.</p><br />
-    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;">Les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> : </span>&nbsp [niveau]x10
-        + 1d4 points à 
+    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">Les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> : </span>
+        &nbsp [niveau]x10 + 1d4 points à 
         répartir équitablement entre toutes les caractéristiques, en supplément des points de bases de chaque caractéristique définie par la classe de personnage.</p><br />
-    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;">Les <a href="?Page=menuLateral/competences">compétences</a> : </span>&nbsp 10 + [niveau]x2 + 
-        1d4 points à répartir équitablement entre les compétences.
+    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">Les <a href="?Page=menuLateral/competences">compétences</a> : </span>&nbsp 
+        10 + [niveau]x2 + 1d4 points à répartir équitablement entre les compétences.
         Se reporter à la page <a href="?Page=menuLateral/experience">d'expérience</a> (section Les niveaux)
         pour connaître le maximum de chaque compétence en fonction du niveau.</p><br />
-    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;">L'<a href="?Page=menuLateral/equipement">équipement</a>: </span>&nbsp Entre les niveaux 1 et 4,
-        les règles sont les mêmes que pour la création d'un personnage de niveau 1. Entre les niveaux 5 et 6, le joueur peut choisir un équipement de qualité moyenne.
-        Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p>
+    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">L'<a href="?Page=menuLateral/equipement">équipement</a> : </span>&nbsp 
+        Entre les niveaux 1 et 4, les règles sont les mêmes que pour la création d'un personnage de niveau 1. Entre les niveaux 5 et 6, 
+        le joueur peut choisir un équipement de qualité moyenne. Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p><br />
+    <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">Les <a href="?Page=menuLateral/experience">points de vie et de mana</a></span>
+         : &nbsp Bientôt</p>
 </div>

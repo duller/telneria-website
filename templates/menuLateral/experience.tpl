@@ -2,20 +2,22 @@
 
 <div class="divMoitieGauche">
     <img class="communImages imageExpGuerrier" src="ressources/13-Experience/ExpKnight.FantasyArt.jpg" title="Illustration : Fantasy Art">
-    <h2>Les points d'expérience</h2>
+    <h2>Gagner en expérience</h2>
     <p>Les joueurs gagnent de l'expérience lorsqu'ils participent à un combat qui résulte en la mort d'une créature.</p>
     <p>Les points d'expérience octroyés sont à l'appréciation du MJ. Tous les joueurs commencent le jeu avec 100 points d'expérience.</p>
     <p>Il faut acquérir 100 points d'expérience supplémentaires pour passer au niveau suivant. 
         Les points d'expérience continuent à augmenter, il faut attendre 300 points d'expériences pour passer 
         au niveau 3 et ainsi de suite. </p>
-    <p>Au niveau 5, le joueur doit choisir une classe de prestige.</p>
+    <p><span class="titreDebutLigne">Classe de prestige</span> :  Au niveau 5, le joueur doit choisir une classe de prestige parmi deux disponibles.</p>
+    <p><span class="titreDebutLigne">Dons</span> :  Le joueur reçoit son premier don au niveau 2, puis un deuxième au niveau 4.</p>
     <br />
 
-    <h2>Les niveaux</h2>
-    <p>À chaque niveau, les joueurs gagnent 1d4+8 de points de caractéristiques et 2d2 points de compétences à distribuer. 
+    <h2>La prise de niveau</h2>
+    <p><span class="titreDebutLigne">Caractéristiques</span> : À chaque niveau supplémentaire, les joueurs gagnent 1d4+8 de points de caractéristiques. 
         Pour chaque caractéristique, le nombre de points à distribuer est au maximum 2.</p>
-    <p>Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.</p>
-    <p>À chaque niveau, le nombre de points de vie et de mana augmente de 1d2 plus le modificateur du niveau précédent, respectivement de constitution et d'intelligence.</p>
+    <p><span class="titreDebutLigne">Compétences</span> : Les joueurs gagnent également 2d2 points de compétences à distribuer librement.
+        Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.</p>
+    <p><span class="titreDebutLigne">Points de vie et de mana</span> :  À chaque niveau, le nombre de points de vie et de mana augmente de 1d2 plus le modificateur du niveau précédent, respectivement de constitution et d'intelligence.</p>
 </div>
 
 <div class="divMoitieDroite">

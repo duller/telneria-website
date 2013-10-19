@@ -112,12 +112,6 @@
     margin-left:10px;
 }
 
-.imagesDescriptionClasseEquip
-{
-    height:100px;
-    width:100px;
-}
-
 .imageSortClasse
 {
     height:80px;
@@ -228,13 +222,6 @@
 .imageTousMonstres
 {
     max-width: 100%;
-}
-
-.imageMonstrePage
-{
-    width: 43%;
-    margin: 1%;
-    float:left;
 }
 
 /* CSS pour les images de la page de préparation des personnages */

@@ -1,6 +1,6 @@
 <h1>Les classes</h1>
 
-<p class="pSousTitre">Le joueur a le choix entre cinq voies principales pour choisir son personnage. Il faut ensuite choisir une classe de personnage.</p><br />
+<p class="pSousTitre">Le joueur a le choix entre cinq voies principales pour choisir son personnage. Il faut ensuite choisir une classe de personnage de la voie voulue.</p><br />
 
 <div style="float:left;">
 
@@ -17,7 +17,7 @@
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Magicien.png" title="Illustration : Horror Pen, Open Game Art">
         <h4>Le magicien</h4>
         <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/magicien">magicien</a> maîtrise la magie élémentaire et des arcanes comme personne.
-        Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastres.</p>
+            Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastres.</p>
         <br />
     </div>
 
@@ -36,7 +36,7 @@
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Paladin.png" title="Illustration : Horror Pen, Open Game Art">
         <h4>Le paladin</h4>
-        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/paladin">paladin</a> est un héraut de la lumière, combattant les ombres avec zèle et dévouement.
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/paladin">paladin</a> est un héraut de la lumière, combattant les ombres avec dévouement.
             Les paladins sont d'anciens clercs embrassant la voie des armes pour s'élever contre les adeptes du chaos.</p>
         <br />
     </div>
@@ -57,7 +57,7 @@
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Chaman.png" title="Illustration : Horror Pen, Open Game Art">
         <h4>Le chaman</h4>
         <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/chaman">chaman</a> est un guide spirituel et un professeur de magie.
-            Supplantés par les clercs dans les sociétés humaines, les chamans se concentrent à présent sur la maîtrise des éléments et de la magie naturelle.</p>
+            Supplantés par les clercs dans les sociétés humaines, les chamans se concentrent à présent sur la maîtrise des éléments et leur étude.</p>
         <br />
     </div>
 
@@ -70,7 +70,7 @@
         <h4>Le roublard</h4>
         <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/roublard">roublard</a> est un combattant agile et pernicieux, 
             il attaque le plus souvent en traître et se faufile dans l'ombre comme personne. Exécuteurs de basses oeuvres pour vivre, les roublards mettent un point d'honneur
-        à rester indépendants.</p>
+            à rester indépendants.</p>
         <br />
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Rodeur.png" title="Illustration : Horror Pen, Open Game Art">

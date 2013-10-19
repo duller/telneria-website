@@ -5,39 +5,42 @@
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
-        <div class="divSortTechnique divSortTechniqueDescription">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4>Description</h4>
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le sombregarde est à l'instar du sorcier un adepte du chaos, 
-            il est cependant plus axé vers le combat à l'arme. Les sombregardes sont d'anciens guerriers initiés aux sortilèges de magie noire.
+                il est cependant plus axé vers le combat à l'arme. Les sombregardes sont d'anciens guerriers initiés aux sortilèges de magie noire.
             </p>
         </div>
-        <div class="divSortTechnique divSortTechniqueDescription">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
-            <h4>Alignement possible</h4>
+            <h4 class="h4ClassePerso">Alignement possible</h4>
             <p>Habituellement chaotique mauvais, ne peut être ni loyal, ni bon.</p>
         </div>
     </div>
     <div class="divInterneClasse">
-        <div class="divSortTechnique divSortTechniqueDescription">
-            <img class="communImages imagesDescriptionClasse imagesDescriptionClasseEquip" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" 
-                 title="Illustration : Angelfire, Deviant Art">
-            <h4>Armures disponibles</h4>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
+                 title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Armures disponibles</h4>
             <p>Tissu, cuir, maille, plaque.</p>
         </div>
-        <div class="divSortTechnique divSortTechniqueDescription">
-            <h4>Armes disponibles</h4>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
+                 title="Illustration : Angelfire, Deviant Art">
+            <h4 class="h4ClassePerso">Armes disponibles</h4>
             <p>Toutes épées, toutes haches, armes d'hast, toutes masses.</p>
         </div>
     </div>
     <div class="divInterneClasse">
-        <div class="divSortTechnique divSortTechniqueDescription">
-            <h4>Dons disponibles</h4>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/06-Dons/MagieAffinite.Inverse.png" title="Illustration : Lorc, Open Game Art">
+            <h4 class="h4ClassePerso">Dons disponibles</h4>
             <p>Sauvegarde, combat, magie.</p>
         </div>
-        <div class="divSortTechnique divSortTechniqueDescription">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche divSortTechniqueDescriptionBas">
             <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
-            <h4>Compétences améliorées</h4>
+            <h4 class="h4ClassePerso">Compétences améliorées</h4>
             <p>Athlétisme, survie, tromperie.</p>
         </div>
     </div>
@@ -56,40 +59,59 @@
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
     <div class="divInterneClasse">
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Frappe des ténèbres (niveau 1)</h4>
-            <p>Frappe infusée de puissance sombre infligeant de lourds dégâts, réduit les chances de toucher de l'ennemi.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Arme +2 (+niveau) de dégâts de chaos, -2 (-niveau) au score de toucher de l'ennemi</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 2 mana + niveau</p>
+            <p>Frappe infusée de puissance sombre infligeant de lourds dégâts, réduit les chances de toucher de l'ennemi.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 (-niveau) au score de toucher de l'ennemi</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Sombre menace (niveau 2)</h4>
-            <p>Le sombregarde use de son affinité avec le Chaos pour soumettre un interlocuteur réticent.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique - Hors combat</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: +5 (+niveau) au jet de diplomatie.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 2 mana + niveau</p>
-                  
+            <p>Le sombregarde use de son affinité avec le Chaos pour soumettre un interlocuteur réticent.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">+5 (+niveau) au jet de diplomatie.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
     </div>
     <div class="divInterneClasse">
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Vocifération chaotique (niveau 3)</h4>
-            <p>Hurlement démoniaque réduisant les chances de toucher et la défense des ennemis affectés.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique - Zone</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: -2 (-niveau) au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 2 mana + niveau</p>  
+            <p>Hurlement démoniaque réduisant les chances de toucher et la défense des ennemis affectés.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">-2 (-niveau) au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+            </div>
         </div>
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Porte de l'ombre (niveau 4)</h4>
-            <p>Permet au sombregarde d'invoquer des portails qu'il peut traverser pour apparaître ailleurs sur le champ de bataille.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Sort défensif</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Permet de se téléporter, puis de se mettre en posture défensive.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 2 mana + niveau</p>
+            <p>Permet au sombregarde d'invoquer des portails qu'il peut traverser pour apparaître ailleurs sur le champ de bataille.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
     </div>
 </div>
@@ -176,40 +198,60 @@
 
 
     <div class="divInterneClasse">
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Frappe du chaos (niveau 5)</h4>
-            <p>Puissante frappe de l'arme accompagnée de puissance chaotique, infligeant des dégâts physiques et magiques.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau</p>
+            <p>Puissante frappe de l'arme accompagnée de puissance chaotique, infligeant des dégâts physiques et magiques.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Trait du chaos (niveau 6)</h4>
-            <p>Sort jeté à un ennemi lui infligeant de lourds dégâts de type chaotique.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Sort offensif</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: 2d4+2(+niveau) de dégâts de chaos.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau</p>
+            <p>Sort jeté à un ennemi lui infligeant de lourds dégâts de type chaotique.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
     </div>
 
     <div class="divInterneClasse">
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Poigne chaotique (niveau 7)</h4>
-            <p>Le funeste attrape l'ennemi de sa puissante poigne et lui assène un coup qui ne peut être esquivé.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Dégâts de l'arme (+niveau), pas de jet de toucher requis.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau</p>
+            <p>Le funeste attrape l'ennemi de sa puissante poigne et lui assène un coup qui ne peut être esquivé.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Déluge chaotique (niveau 8)</h4>
-            <p>Le funeste libère une violente vague d'énergie chaotique infligeant de lourds dégâts à tous les monstres et personnages alentours.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Sort offensif - Zone</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: 1d6(+niveau) de dégâts de chaos à tout le monde</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau</p>
+            <p>Le funeste libère une violente vague d'énergie chaotique infligeant de lourds dégâts à tous les monstres et personnages alentours.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
     </div>
 </div>
@@ -221,40 +263,61 @@
     <p>Le vampiriste est un sombregarde puisant sa force dans la vigueur de ses ennemis.</p>
 
     <div class="divInterneClasse">
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Frappe de sang (niveau 5)</h4>
-            <p>Puissante frappe infligeant de lourds dégâts à l'ennemi et lui volant de la vie.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau</p>
+            <p>Puissante frappe infligeant de lourds dégâts à l'ennemi et lui volant de la vie.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Percée hémophile (niveau 6)</h4>
-            <p>Coup de taille porté à un ennemi le faisant saigner abondamment jusqu'au trépas.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau</p>
+            <p>Coup de taille porté à un ennemi le faisant saigner abondamment jusqu'au trépas.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+
+            </div>
         </div>
     </div>
 
     <div class="divInterneClasse">
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Morsure débilitante (niveau 7)</h4>
-            <p>Le vampiriste plante ses crocs dans la chair de l'ennemi afin de l'immobiliser et de lui voler de la vie.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Technique</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau</p>
+            <p>Le vampiriste plante ses crocs dans la chair de l'ennemi afin de l'immobiliser et de lui voler de la vie.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
         </div>
-        <div class="divSortTechnique">
+        <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Sacrifice du sang (niveau 8)</h4>
-            <p>Le vampiriste puise dans sa propre force vitale pour meurtrir son adversaire.</p><br />
-            <p><span class="titreDebutLigne">Type</span> &nbsp: Sort offensif</p>
-            <p><span class="titreDebutLigne">Effet</span> &nbsp: Arme(+niveau)+1d12 de dégâts physique.</p>
-            <p><span class="titreDebutLigne">Coût</span> &nbsp: 4 mana + niveau. La moitié du 1d12 en vie.</p>
+            <p>Le vampiriste puise dans sa propre force vitale pour meurtrir son adversaire.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+            </div>
         </div>
     </div>
 </div>

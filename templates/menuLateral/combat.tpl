@@ -97,7 +97,7 @@
 
             <div class="div30">
                 <h3>Jet de toucher</h3>
-                <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé de toucher pour savoir si son attaque est un succès ou un échec. 
+                <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé 20 de toucher pour savoir si son attaque est un succès ou un échec. 
                     Selon le type d'attaque, une caractéristique différente est utilisée pour pondérer le jet.</p>
                 <ul>
                     <li>Corps-à-corps (attaque simple & technique) : Force</li>
@@ -117,7 +117,7 @@
             <div class="div30">
                 <h3>Sorts et techniques</h3>
                 <p>Les sorts et techniques sont détaillés pour chacune des classes de personnages. Ils ont un coût en mana défini auquel s'ajoute le niveau du personnage.</p>
-                <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet de dés, pondéré par la sagesse :</p>
+                <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par la sagesse :</p>
                 <ul>
                     <li>Score de 20 (au dé) : réussite critique, effet du soin doublé</li>
                     <li>Score entre 10 et 19 : réussite, effet normal</li>

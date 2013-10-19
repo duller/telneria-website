@@ -147,13 +147,79 @@
 .divSortTechnique
 {
     float:left;
-    width:46%;
+    width:44%;
     margin:2%;
+    border-radius: 10px;
+    padding:1%;
+}
+
+.h4ClassePerso
+{
+    margin-top:10px;
+}
+
+.divSortTechniqueSansOmbre
+{
+    box-shadow: none;
+}
+
+.divSortTechniqueBasDroite
+{
+    /*border-radius: 0 0 10px 0;*/
+    box-shadow: 1px 1px 1px 0px grey;
+}
+
+.divDescriptionRaceOmbre
+{
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 0px grey;
+    padding: 1%;
+    width:44%;
+}
+
+.divSortTechniqueHautGauche
+{
+    /*border-radius: 10px 0 0 0;*/
+    box-shadow: -1px -1px 1px 0px grey;
+    /*0px 3px 3px -3px black (en bas)*/
+    /*0px -3px 3px -3px black (en haut)*/
+    /*3px 0px 3px -3px black (à droite)*/
+    /*-3px 0px 3px -3px black (à gauche)*/
+}
+
+.divSortTechniqueHautDroite
+{
+    /*border-radius: 0 10px 0 0;*/
+    box-shadow: 1px -1px 1px 0px grey;
+}
+
+.divSortTechniqueHaut
+{
+    border-radius: 10px;
+    box-shadow: 0px -3px 1px -2px grey;
+}
+
+.divSortTechniqueDroite
+{
+    border-radius: 10px;
+    box-shadow: 3px 0px 1px -2px grey;
+}
+
+.divSortTechniqueGauche
+{
+    border-radius: 10px;
+    box-shadow: -3px 0px 1px -2px grey;
 }
 
 .divSortTechniqueDescription
 {
-    margin:0 2%;
+    margin:1% 2% 1% 2%;
+    min-height: 130px;
+}
+
+.divSortTechniqueDescriptionBas
+{
+    min-height: 100px;
 }
 
 .divInterneClasse
@@ -161,6 +227,31 @@
     float:left;
     clear:both;
     width:100%;
+}
+
+.divSortTechniqueDetails
+{
+    /*box-shadow: 1px 1px 1px 1px grey;
+    border-radius: 10px;*/
+    padding:5px;
+    margin-top:10px;
+}
+
+.titreDebutLigneSort
+{
+    margin-left: -15px;
+}
+    
+.sousTitreEffetSort
+{
+    display: table-cell;
+    text-indent: 5px;
+}
+
+.detailsEffetSort
+{
+    display: table-cell;
+    text-indent: 0px;
 }
 
 .classeImage
@@ -194,14 +285,14 @@
 {
     float:left;
     width:46%;
-    min-height:600px;
+    min-height:650px;
 }
 
 .classePrestige2
 {
     float:right;
     width:46%;
-    min-height:600px;
+    min-height:650px;
 }
 
 /* CSS pour la page des races de personnages */

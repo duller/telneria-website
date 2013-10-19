@@ -8,15 +8,52 @@
     <table class="tabTitreArmes">
         <tr>
             <td class="tdNomEquipement"><p class="ptabstrong">Nom</p></td>
-            <td class="tdEquipement"><p class="ptabstrong">Bonus EP</p></td>
-            <td class="tdEquipementReduc"><p class="ptabstrong">Réduction dégâts physiques subis</p></td>
+            <td class="tdEquipement"><p class="ptabstrong">Bonus EP|EM</p></td>
+            <td class="tdEquipementReduc"><p class="ptabstrong">Réduction dégâts subis (phys. ou mag.)</p></td>
             <td class="tdEquipement"><p class="ptabstrong">Bonus carac</p></td>
             <td class="tdEquipement"><p class="ptabstrong">Valeur</p></td>
             <td class="tdEquipement"><p class="ptabstrong">Qualité</p></td>
         </tr>
     </table>
 
+    <h2>Amulettes</h2>
+    <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Amulette.png" title="Illustration : Flare RPG"
+         style="width:80px;height:80px;margin:25px 10px 0 25px;">
 
+    <table>
+        <tr>
+            <td class="tdNomEquipement"><p class="ptab">Pendentif en lierre</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 EM</p></td>
+            <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">40 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
+        </tr>
+        <tr>
+            <td class="tdNomEquipement"><p class="ptab">Anneau enchanté</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
+            <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">80 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
+        </tr>
+        <tr>
+            <td class="tdNomEquipement"><p class="ptab">Amulette sacrée en or</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
+            <td class="tdEquipementReduc"><p class="ptab">-2 dégâts m. subis</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">120 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Bonne</p></td>
+        </tr>
+        <tr>
+            <td class="tdNomEquipement"><p class="ptab">Amulette divine incrustée</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
+            <td class="tdEquipementReduc"><p class="ptab">-2 dégâts m. subis</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">160 po</p></td>
+            <td class="tdEquipement"><p class="ptab">Admirable</p></td>
+        </tr>
+    </table>
 
     <h2>Boucliers</h2>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Bouclier.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
