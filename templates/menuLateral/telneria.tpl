@@ -6,7 +6,8 @@
         <img class="communImages imageRegion" src="ressources/09-Monde/Istnor.Serendigity.Flickr.jpg" title="Illustration : Serendigity, Flickr">
         <h3>Istnor</h3>
         <p>Petite île au nord-ouest de Telneria, Istnor est une contrée froide et peu habitée.</p>
-        <p>Elle est la terre d'origine des Chepteg dans les forêts au nord de l'île et des Varelias au sud. 
+        <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> dans les forêts au nord de l'île et des 
+            <a href="?Page=menuLateral/races/varelias">Varelias</a> au sud. 
             La plus grande cité de l'île est Istville, une ville de taille moyenne abritant les aînés des Varelias.</p>
         <p>La mer environnante est gelée la plupart des temps, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
             cromlech des transports pour les rares qui en connaissant l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé symbolisant
@@ -16,10 +17,12 @@
         <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Veldris.Phatpuppy.Flickr.Petit.jpg" title="Illustration : Phatpuppy, Flickr">
         <h3>Veldris</h3>
         <p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'ouest jusqu'à l'île de Ferestos à l'est.</p>
-        <p>Le nord-ouest du continent est peuplé par les Neltariens, avec Norska comme ville-sanctuaire.</p>
-        <p>Au centre-nord, se trouvent de nombreuses tribus d'Orcs inféodées au suzerain orc de la cité de Trollnordh, cité bâtie sur les restes des derniers refuges des trolls sauvages.</p>
-        <p>Au nord-est, se trouve la cité sylvaine de Prenence, capitale des Elfes des forêts.</p>
-        <p>Le sud du continent se compose des belliqueuses baronnies humaines veldriennes. Vesnoth, à l'ouest, est la capitale des baronnies et le siège du prince régnant ; 
+        <p>Le nord-ouest du continent est peuplé par les <a href="?Page=menuLateral/races/neltarien">Neltariens</a>, avec Norska comme ville-sanctuaire.</p>
+        <p>Au centre-nord, se trouvent de nombreuses tribus d'<a href="?Page=menuLateral/races/orc">Orcs</a> inféodées au suzerain orc de la cité de Trollnordh, 
+            cité bâtie sur les restes des derniers refuges des trolls sauvages.</p>
+        <p>Au nord-est, se trouve la cité sylvaine de Prenence, capitale des <a href="?Page=menuLateral/races/elfe">Elfes</a> des forêts.</p>
+        <p>Le sud du continent se compose des belliqueuses baronnies <a href="?Page=menuLateral/races/humain">humaines</a> veldriennes. 
+            Vesnoth, à l'ouest, est la capitale des baronnies et le siège du prince régnant ; 
             se trouvent également dans cette baronnie la cité des telnastres de Maldaran ainsi que la grande cité commerciale de Brill. 
             Les autres baronnies sont inféodées au souverain de Vesnoth : ce sont les baronnies de Vilnus, Temberg, Valmer
             et Estrhan.</p>
@@ -34,7 +37,8 @@
     <div class="divMoitieGauche">
         <img class="communImages imageRegion" src="ressources/09-Monde/Ferestos.SkullDixon.DA.jpg" title="Illustration : Skull Dixon, Deviant Art">
         <h3>Ferestos</h3>
-        <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des nains et des dragonides, le paysage est majoritairement montagnard et le climat y est rude.</p>
+        <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des <a href="?Page=menuLateral/races/nain">Nains</a> et des 
+            <a href="?Page=menuLateral/races/dragonide">Dragonides</a>, le paysage est majoritairement montagnard et le climat y est rude.</p>
         <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains .</p>
         <p>L'intérieur des terres de l'île de Ferestos est constitué de hautes montagnes et de volcans qu'habitent quelques nains et les clans dragonides.</p>
     </div>
@@ -42,9 +46,10 @@
         <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg" title="Illustration : Hilmar Wild">
         <h3>Mestrhune</h3>
         <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
-        <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, se trouvent les terres des Kerfenn et leur capitale Kerbourg. 
-            Au centre se trouve le royaume humain de Carnum ;
-            le souverain de Carnum est un ancien rival des barons de Veldris. À l'est, se trouve la république des Murviens et leur capitale Golnan.</p>
+        <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, se trouvent les terres des <a href="?Page=menuLateral/races/kerfenn">Kerfenn</a>
+            et leur capitale Kerbourg.  Au centre se trouve le royaume <a href="?Page=menuLateral/races/humain">humain</a> de Carnum ;
+            le souverain de Carnum est un ancien rival des barons de Veldris. À l'est, se trouve la république des <a href="?Page=menuLateral/races/murvien">Murviens</a>
+            et leur capitale Golnan.</p>
     </div>
 </div>
 
