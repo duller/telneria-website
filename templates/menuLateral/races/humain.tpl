@@ -15,23 +15,23 @@
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <p>La capitale des Humains sur le continent de Veldris est Vesnoth. Tandis que la capitale humaine de Mestrhune est Carnum.</p>
             <p>En Veldris, les Humains vivent sous l'égide des barons, eux-mêmes sous l'égide du prince de Vesnoth.</p>
             <p>En Mestrhune, le système politique est de type monarchique, l'autorité du souverain de Carnum s'étend sur tout son territoire.</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Français (Veldris), Espagnol (Mestrhune)</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <p>+1 aux jets de toucher pour les sorts de soin.</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 5 à 6 pieds (1m50 à 1m80)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 100 à 160 livres (50kg à 80kg)</p>

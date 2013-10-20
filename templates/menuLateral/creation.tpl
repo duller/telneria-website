@@ -28,6 +28,13 @@
 <div id="divCreationHautDroite">
 
     <div style="">
+        <h3 class="titreCreation">La fiche de personnage</h3>
+        <p>Une fois le personange choisi, le joueur doit remplir sa fiche en commençant par le cadre haut de la feuille. Il est libre de donner les attributs qu'il
+        souhaite à son personnage, en respectant cependant les limites de la race sélectionnée. Pour l'expérience, les points de vie et les points de mana, les 
+        valeurs au niveau 1 sont celles indiquées de base.</p><br />
+    </div>
+    
+    <div style="">
         <img class="communImages imageCompeCarac" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
 
         <h3 class="titreCreation">Les caractéristiques</h3>
@@ -50,10 +57,8 @@
         <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.SansFond.png" title="Illustration : Flare Rpg, Open Game Art">
 
         <h3 class="titreCreation">L'équipement</h3>
-        <p>Chaque joueur commence le jeu avec 10+1d100 po. Il choisit ensuite deux armes de qualité médiocre ainsi qu'une armure de qualité médiocre en fonction de ce que
-            sa classe lui permet.</p>
-        <p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main. Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.
-            Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
+        <p>Chaque joueur commence le jeu avec 10+1d100 pièces d'or. Ensuite, en fonction de ce que sa classe lui permet, il choisit deux armes de qualité médiocre, 
+            ainsi qu'une armure de torse de qualité médiocre. S'il le peut, il peut également choisir une amulette ou un bouclier de qualité médiocre.</p>
         <p>L'équipement se trouve dans la section des <a href="?Page=menuLateral/equipement">armes et armures</a>.</p><br />
 
     </div>

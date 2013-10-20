@@ -9,11 +9,9 @@
                 <p class="pEquip">Les armes </p></a>
         </div>
         <div  class="divEquipCentre">
-            <p>Chaque joueur commence le jeu avec 10+1d100 po. Il choisit ensuite deux armes de qualité médiocre, ainsi qu'une armure de qualité médiocre en fonction de ce que
-                sa classe lui permet.</p>
-            <p>Les classes pouvant porter un bouclier peuvent choisir un bouclier en plus d'une arme à une main. Les rôdeurs peuvent choisir une arme à distance et une arme de mêlée.
-                Les clercs, les magiciens et les sorciers peuvent choisir une baguette en plus d'une autre arme.</p>
-
+            <p>Chaque joueur commence le jeu avec 10+1d100 pièces d'or.</p> <p>Ensuite, en fonction de ce que sa classe lui permet, il choisit deux armes de qualité médiocre, 
+                ainsi qu'une armure de torse de qualité médiocre.</p> <p>S'il le peut, il peut également choisir une amulette ou un bouclier de qualité médiocre.</p>
+            <br />
             <p>L'équipement est classé en trois catégories : les armes, les armures, et l'équipement commun.</p>
         </div>
 

@@ -106,7 +106,7 @@
                     <li>Sort de soin & défensif : Sagesse</li>
                 </ul>
                 <p>Une réussite critique peut être obtenue lorsque le score au dé est de 20, ce qui se traduit par une réussite assurée et un doublement de l'effet.</p>
-                <p>Un échec critique est obtenu lorsque le score au dé est de 1, c'est nécessairement un échec et qui a des conséquences néfastes.</p>
+                <p>Un échec critique est obtenu lorsque le score au dé est de 1, c'est nécessairement un échec ayant des conséquences néfastes.</p>
 
             </div>
 
@@ -296,15 +296,15 @@
                 <p>Pour ramener un personnage à la vie, il faut utiliser un sort de résurrection ou trouver un PNJ capable de le faire.</p>
             </div>
             <div class="divMoitieGauche">
-                <h3>Regagner conscience : jet de sauvegarde</h3>
+                <h3>Regagner conscience : jet de Dernier espoir</h3>
                 <p>Lorsqu'un joueur voit ses points de vie descendre sous la barre des 1 points de vie, il perd conscience et ne peut plus effectuer d'action. 
-                    Cependant, à chaque tour, il peut tenter de regagner conscience avec un jet de sauvegarde.</p>
-                <p>Un jet de sauvegarde nécessite de faire 10 avec 1d20, si tel est le cas, le joueur peut alors effectuer une action pour ce tour. 
+                    Cependant, à chaque tour, il peut tenter de regagner conscience avec un jet de Dernier espoir.</p>
+                <p>Un jet de Dernier espoir nécessite de faire 10 avec 1d20, si tel est le cas, le joueur peut alors effectuer une action pour ce tour. 
                     Regagner conscience ne soigne pas des dégâts subis, ce qui résulte en une perte de conscience une fois l'action effectuée.</p>
                 <p>Ce regain de conscience peut être tenté à chaque début de tour pour le personnage en question.</p>
             </div>
             <div class="divMoitieDroite">
-                <h3>Récupération des blessures : jet de premiers secours</h3>
+                <h3>Récupération des blessures : jet de Premiers secours</h3>
                 <p>Les points de vie peuvent être regagnés par les sorts de soins, les potions de vie ou les premiers secours. 
                     Les premiers secours permettent à un joueur de porter assitance à un coéquipier afin qu'il reprenne le combat.
                 <p>Un dé à 20 faces est lancé, si le jet atteint moins de 5, les premiers secours échouent. 
@@ -333,7 +333,7 @@
             <br />
 
             <p>Lors de l'utilisation du Telnas, le joueur décrit en détails ce qu'il essaye de faire. Le MJ estime ensuite le score
-                nécessaire au dé 20 pour réussir l'action, ce score est pondéré par le niveau de maîtrise du Telnas du joueur.</p>
+                nécessaire au dé 20 pour réussir l'action, ce score est ensuite pondéré par le niveau de maîtrise du Telnas du joueur.</p>
 
         </div>
 

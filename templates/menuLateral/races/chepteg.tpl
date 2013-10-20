@@ -15,24 +15,24 @@
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <p>Aucune capitale définie.</p>
             <p>Les chepteg vivent en petites tribus isolées, ils n'ont pas de gouvernement central ni d'autorité religieuse.</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Russe</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <p>+1 à la dextérité</p>
             <p>+1 au dé de toucher avec les attaques de mêlée et à distance</p>
             <p>+1d2 de dégâts lors d'une attaque à mains nues</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 à 7 pieds (1m80 à 2m10)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 180 à 240 livres (90kg à 120kg)</p>

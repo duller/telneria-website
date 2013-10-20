@@ -40,7 +40,7 @@
         <tr>
             <td class="tdNomEquipement"><p class="ptab">Amulette sacrée en or</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
-            <td class="tdEquipementReduc"><p class="ptab">-2 dégâts m. subis</p></td>
+            <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
             <td class="tdEquipement"><p class="ptab">+2 SAG</p></td>
             <td class="tdEquipement"><p class="ptab">120 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>

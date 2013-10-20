@@ -11,28 +11,28 @@
             Face à cette menace, les Nains sont constamment sur le pied de guerre et forment leurs enfants au combat dès le plus jeune âge.</p>
         <p>Ce état de conflit permanent engendre souvent des incidents diplomatiques avec les Elfes habitant au nord du continent. 
             Ces derniers ne goûtent en effet guère les fréquentes intrusions des Nains sur leur territoire lors d'opérations contre les Dragonides.</p>
-        <p>La ville de Tendris au sud, ancienne cité elfe, est également un point d'achoppement fréquent, car les Nains refusent de rendre la ville à leurs antiques fondateurs.</p>
+        <p>La ville de Tendris au sud, ancienne cité elfe, est également un point d'achoppement fréquent, car les Nains refusent de rendre la ville à ses antiques fondateurs.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <p>Feresbourg est la capitale politique et économique des Nains.</p>
             <p>Peuple soudé et social, les Nains vivent dans des villes de taille importante au pied des montagnes.</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Allemand</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <p>+1 à la force, +1 à la constitution</p>
             <p>-1 à l'intelligence</p>
             <p>+1 aux jets de toucher en mêlée</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 4 pieds à 4 pieds et demi (1m20 à 1m30)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 120 à 160 livres (60kg à 80kg)</p>

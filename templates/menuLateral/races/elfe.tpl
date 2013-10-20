@@ -16,24 +16,24 @@
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <p>Prenence, au nord-est de Veldris, est la capitale politique des Elfes.</p>
             <p>Les Elfes vivent au coeur des forêts dans des petites villes disséminées autour de Prenence en Veldris et de Dilnis au nord de Ferestos.</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Polonais</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Russe, Allemand, Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <p>+1 au charisme, +1 à la dextérité, +1 à la sagesse</p>
             <p>-1 à la force, -1 à la constitution</p>
             <p>Bonus de 1 aux jets de détection et de discrétion.</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 5 pieds à 5 pieds et demi (1m50 à 1m60)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 80 à 100 livres (40kg à 50kg)</p>

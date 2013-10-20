@@ -88,7 +88,7 @@
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Guerrier.png" title="Illustration : Horror Pen, Open Game Art">
         <h4>Le guerrier</h4>
         <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/guerrier">guerrier</a> est un combattant polyvalent et résistant,
-            apte à manier tout type d'armes. Les guerriers peuvent devenir soldats, mais restent souvent solitaires, proposant leurs services en tant que mercenaires.</p>
+            apte à manier tout type d'arme. Les guerriers peuvent devenir soldats, mais restent souvent solitaires, proposant leurs services en tant que mercenaires.</p>
         <br />
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Sombregarde.png" title="Illustration : Horror Pen, Open Game Art">

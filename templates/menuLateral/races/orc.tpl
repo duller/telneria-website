@@ -14,25 +14,25 @@
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <p>Trollnordh, siège du suzerain, est la capitale politique et économique des Orcs.</p>
             <p>Ce peuple est divisé en de nombreux clans rivaux, dont les chefs combattent continuellement pour le titre de suzerain.</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Russe</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Polonais</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <p>+1 à la force, +1 à la constitution</p>
             <p>-1 à la sagesse</p>
             <p>+1 aux jets de toucher en mếlée</p>
             <p>-1 aux dégâts physiques subis</p>
         </div>
-        <div class="divMoitieGauche">
+        <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 pieds à 6 pieds et demi (1m80 à 2m)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 200 à 240 livres (100kg à 120kg)</p>
