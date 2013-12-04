@@ -17,7 +17,7 @@
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Magicien.png" title="Illustration : Horror Pen, Open Game Art">
         <h4>Le magicien</h4>
         <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/magicien">magicien</a> maîtrise la magie élémentaire et des arcanes comme personne.
-            Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastres.</p>
+            Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.</p>
         <br />
     </div>
 
@@ -31,7 +31,7 @@
         <h4>Le clerc</h4>
         <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/clerc">clerc</a> est un homme saint, il cherche à honorer les divinités du sacré et à 
             transmettre ses préceptes à autrui. 
-            Les clercs ont accompagné les telnastres dans leur conquête du pouvoir, mais se cantonnent à un rôle plus spirituel que temporel.</p>
+            Les clercs ont accompagné les telnastes dans leur conquête du pouvoir, mais se cantonnent à un rôle plus spirituel que temporel.</p>
         <br />
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Paladin.png" title="Illustration : Horror Pen, Open Game Art">

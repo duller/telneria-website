@@ -5,7 +5,7 @@
 
         <img class="communImages" src="ressources/04-Races/PaysageElfe.jpg" style="float:left;max-width:55%;margin-right:20px;" title="Illustration : Phatpuppy, Flickr">
 
-        <p>Peuple le plus ancien de Telneria, les Elfes vivent dans les grandes forêts du nord-ouest de Veldris et du nord de Ferestos.</p>
+        <p>Peuple le plus ancien de Telneria, les Elfes vivent dans les grandes forêts du nord-est de Veldris et du nord de Ferestos.</p>
         <p>Anciennement maîtres du continent de Veldris avec les Neltariens, les Elfes vivent aujourd'hui en autarcie dans leurs forêts majestueuses.</p>
         <p>En Veldris, les Orcs, les Humains et les Varelias vivent en paix avec les Elfes et respectent les frontières sanctuarisées. 
             Ce n'est cependant pas le cas en Ferestos, où les Nains empiètent souvent sur les territoires elfes lors de leurs incursions contre les Dragonides.
@@ -41,7 +41,7 @@
 
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
-        <p>Triées par la population de chaque classe. Un rôdeur elfe est assez commun, tandis qu'un sombregarde est plutôt rare.</p> 
+        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un rôdeur elfe est assez commun, tandis qu'un sombregarde est plutôt rare.</p> 
         <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"
                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Rôdeur</p></a>

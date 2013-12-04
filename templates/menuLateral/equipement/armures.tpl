@@ -16,7 +16,7 @@
         </tr>
     </table>
 
-    <h2>Amulettes</h2>
+    <h2>Amulettes (requiert niveau 3)</h2>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armures/Flare.Amulette.png" title="Illustration : Flare RPG"
          style="width:80px;height:80px;margin:25px 10px 0 25px;">
 

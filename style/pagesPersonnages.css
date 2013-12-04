@@ -347,6 +347,11 @@
     display: inline;
 }
 
+.pDescriptionClassesDispo
+{
+    margin-top: 8px;
+}
+
 .pImageRace
 {
     text-align: center;

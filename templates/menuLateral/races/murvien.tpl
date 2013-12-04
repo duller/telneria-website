@@ -39,7 +39,7 @@
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 100 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
-        <p>Triées par la population de chaque classe. Un rôdeur murvien est assez commun, tandis qu'un magicien est plutôt rare.</p> 
+        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un rôdeur murvien est assez commun, tandis qu'un magicien est plutôt rare.</p> 
         <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"
                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Rôdeur</p></a>

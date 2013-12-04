@@ -73,7 +73,13 @@
 
 </div>
 
-<div style="float:left;">
+<div style="float:left; max-width:500px;margin:10px;clear:left;">
+    <h3>Le butin des monstres</h3>
+    <p>À l'issue du combat, tous les joueurs ayant participé au combat se partagent un nombre de points d'expérience déterminé à partir de la formule suivante :
+    (Points de vie du monstre / Niveau du monstre) x 10 arrondi au supérieur.</p>
+</div>
+
+<div style="float:left;margin:10px;">
     <h3>Les monstres personnalisés</h3>
     <p>Il est également possible de créer n'importe quel monstre imaginaire.</p>
     <p>Il faut cependant faire attention à ce que ses caractéristiques amènent à une difficulté appropriée par rapport au niveau des joueurs.</p>

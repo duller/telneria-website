@@ -63,6 +63,7 @@ table
         border-spacing : 0;
         border: 1px;
 	border-radius:10px 10px 10px 10px;
+        box-shadow: 1px 1px 1px 0px grey;
 }
 
 td

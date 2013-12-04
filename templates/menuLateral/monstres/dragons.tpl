@@ -32,7 +32,7 @@
     <p>Une cinquième famille de dragons existe, mais n'est affiliée à aucune école de magie. Les Dragons Rouges sont les seules
         créatures draconiques à ne pas recourir aux sortilèges. Ils sont extrêmement résistants à toute attaque magique et jouissent d'une force physique sans égale.
         <span class="titreDebutLigne">Neutre strict.</span></p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts magiques subis réduits de moitié. Dégâts physiques infligés augmentés de 10.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts magiques subis réduits de moitié. Dégâts physiques infligés augmentés de [niveau].</p>
     <p><span class="titreDebutLigne">Souffle du dragon : </span>&nbsp Les dragons rouges décollent et déversent leur fureur sur l'ensemble du champ de bataille.</p>
 </div>
 
@@ -81,22 +81,22 @@
                 <p class="ptab">4</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">4o+1d8</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">16</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">16</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+2</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">4+1d1o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+2</p>
             </td>
             <td>
                 <p class="ptab">Grand</p>
@@ -110,22 +110,22 @@
                 <p class="ptab">6</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">8o+1d1o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">18</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">18</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+4</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">8+1d12</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+4</p>
             </td>
             <td>
                 <p class="ptab">Énorme</p>
@@ -139,22 +139,22 @@
                 <p class="ptab">8</p>
             </td>
             <td>
-                <p class="ptab">8</p>
+                <p class="ptab">120+1d2o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">2o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">2o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+6</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">1o+1d2o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+6</p>
             </td>
             <td>
                 <p class="ptab">Gigantesque</p>
@@ -168,22 +168,22 @@
                 <p class="ptab">10</p>
             </td>
             <td>
-                <p class="ptab">180+2d8</p>
+                <p class="ptab">180+1d2o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">24</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">24</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+1o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">12+2d2o</p>
             </td>
             <td>
-                <p class="ptab">O</p>
+                <p class="ptab">+1o</p>
             </td>
             <td>
                 <p class="ptab">Colossal</p>
@@ -191,10 +191,4 @@
         </tr>
     </table>
 
-</div>
-
-<div style="float:left; max-width:500px;margin:20px;">
-    <h3>Le butin des monstres</h3>
-    <p>À l'issue du combat, tous les joueurs ayant participé au combat se partagent un nombre de points d'expérience déterminé à partir de la formule suivante :
-    (Points de vie du monstre / Niveau du monstre) x 10 arrondi au supérieur.</p>
 </div>

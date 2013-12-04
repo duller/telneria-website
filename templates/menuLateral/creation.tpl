@@ -29,7 +29,7 @@
 
     <div style="">
         <h3 class="titreCreation">La fiche de personnage</h3>
-        <p>Une fois le personange choisi, le joueur doit remplir sa fiche en commençant par le cadre haut de la feuille. Il est libre de donner les attributs qu'il
+        <p>Une fois le personange choisi, le joueur doit remplir sa fiche en commençant par le cadre haut de la feuille. Il est libre de donner les attributs physiques qu'il
         souhaite à son personnage, en respectant cependant les limites de la race sélectionnée. Pour l'expérience, les points de vie et les points de mana, les 
         valeurs au niveau 1 sont celles indiquées de base.</p><br />
     </div>
@@ -411,7 +411,7 @@
 </div>
 
 <div style="clear:both; margin:20px; float:left; width:60%;">
-    <h3>Créer directement un personnage de plus haut niveau</h3>
+    <h3>Créer directement un personnage de haut niveau</h3>
     <p>Lorsqu'un nouveau joueur intègre un groupe existant, il peut être intéressant de créer directement un personnage de niveau supérieur à 1. 
         Pour la <a href="?Page=menuLateral/classes">classe</a>, la <a href="?Page=menuLateral/races">race</a>, l'<a href="?Page=menuLateral/alignement">alignement</a>
         et les <a href="?Page=menuLateral/dons">dons</a> : les étapes à suivre sont les mêmes que lors de la création d'un personnage de niveau 1.</p><br />
@@ -426,5 +426,8 @@
         Entre les niveaux 1 et 4, les règles sont les mêmes que pour la création d'un personnage de niveau 1. Entre les niveaux 5 et 6, 
         le joueur peut choisir un équipement de qualité moyenne. Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p><br />
     <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">Les <a href="?Page=menuLateral/experience">points de vie et de mana</a></span>
-         : &nbsp Bientôt</p>
+         : &nbsp Pour les points de vie, il faut prendre le modificateur de départ de constitution, puis y ajouter tous les modificateurs suivants du tableau des caractéristiques
+    jusqu'à ce qu'on se soit déplacé [niveau] fois dans le tableau. Notez bien, si un modificateur est négatif, il faut le remplacer par 0 pour le calcul. À cette première somme, 
+    il convient d'ajouter la base de points de vie présente sur la fiche de personnage, puis y rajouter [niveau], puis y soustraire 4, puis y rajouter 1d4.</p>
+    <p>Pour les points de mana, le principe est le même, mais c'est avec le modificateur d'intelligence qu'il faut faire le calcul.</p>
 </div>
