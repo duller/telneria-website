@@ -57,22 +57,33 @@
 <div class="zoneMondeUnites">
     <h2>Chronologie du monde de Telneria</h2>
 
-    <div class="divMoitieGauche">
-        <p>-2000 : Partage de Veldris entre les Elfes et les Neltariens.</p>
-        <p>-2000 à -754 : Paix des Elfes.</p>
-        <p>-754 : Extermination des derniers trolls par les Orcs. Regroupement des Humains en villages fortifiés.</p>
-        <p>-509 : Traité de paix entre les Humains et les clans orcs. Fondation des cités humaines.</p>
-        <p>0 : Proclamation de l'empire humain de Carnum en Mestrhune et Veldris.</p>
-    </div>
-    <div class="divMoitieDroite" style="margin-bottom:40px;">
-        <p>470 : Découverte du Telnas par la mage Nitria.</p>
-        <p>470-476 : Rébellion des Humains de Veldris contre Carnum</p>
-        <p>476 : Renversement de l'empire de Carnum et proclamation des baronnies en Veldris.</p>
-        <p>476-511 : Guerre du Telnas et avènement de l'ordre des Telnastes.</p>
-        <p>782 : Aujourd'hui.</p>
-    </div>
+    <ul class="events">
+        <li style="width: 64%; left: 0;"><span class="spanChronologie">-900 à 476 : </span> Paix&nbsp;des&nbsp;Elfes&nbsp;et&nbsp;des&nbsp;Neltariens</li>
+        <li style="width: 20%; left: 0;"><span class="spanChronologie">-900 à -509 : </span>Extermination des Trolls par les Orcs</li>
+        <li style="width: 10%; left: 0;"><span class="spanChronologie">-900 à -754 : </span>Apparition des villages fortifiés humains en Veldris</li>
+        <li style="width: 10%; left: 10%;"><span class="spanChronologie">-754 à -509 : </span>Fondation des cités humaines en Mestrhune</li>
+        <li style="width: 22%; left: 20%;"><span class="spanChronologie">-509 à 0 : </span>Paix&nbsp;des&nbsp;Humains&nbsp;et&nbsp;des&nbsp;Orcs</li>
+        <li style="width: 19%; left: 42%;"><span class="spanChronologie">0 à 476 : </span>Empire humain de Carnum en Mestrhune et Veldris</li>
+        <li style="width:0.5%; left: 61%;"><span class="spanChronologie">469&nbsp;:&nbsp;</span>Découverte&nbsp;du&nbsp;Telnas</li>
+        <li style="width: 02%; left: 61%;"><span class="spanChronologie">470&nbsp;à&nbsp;476&nbsp;:&nbsp;</span>Rébellion&nbsp;de&nbsp;Veldris&nbsp;contre&nbsp;Carnum</li>
+        <li style="width:0.5%; left: 63%;"><span class="spanChronologie">476&nbsp;:&nbsp;</span>Proclamation&nbsp;des&nbsp;baronnies&nbsp;en&nbsp;Veldris</li>
+        <li style="width: 03%; left: 64%;"><span class="spanChronologie">476&nbsp;à&nbsp;511&nbsp;:&nbsp;</span>Guerre&nbsp;du&nbsp;Telnas</li>
+        <li style="width: 11%; left: 67%;"><span class="spanChronologie">Depuis 511&nbsp;:&nbsp;</span>Avènement de l'ordre des Telnastes</li>
+        <li style="width:0.5%; left: 78%;"><span class="spanChronologie">782&nbsp;:&nbsp;</span>Aujourd'hui</li>
+    </ul>
 
-    <h2>Les unités du monde de Telneria</h2>
+    <ul class="intervals">
+        <li class="first">-900</li>
+        <li>-600</li>
+        <li>-300</li>
+        <li>0</li>
+        <li>+300</li>
+        <li>+600</li>
+        <li class="last">+900</li>
+    </ul>
+    
+
+    <h2 style="clear:both;padding-top:30px;">Les unités du monde de Telneria</h2>
     <div class="divMoitieGauche">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/temps.png" title="Illustration : Lorc, Open Game Art">
         <h3>Les unités de temps</h3>

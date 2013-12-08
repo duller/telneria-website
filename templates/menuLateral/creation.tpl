@@ -19,6 +19,8 @@
         L'alignement indique le caractère du personnage vis-à-vis des autres protagonistes du jeu, notamment son degré de loyauté ou sa propension à oeuvrer pour le mal.</p><br />
 
     <h3 class="titreCreation">Les dons</h3>
+    <img class="communImages imageAlignementCreation" style="margin-top:0px;max-height:80px;float:left;" src="ressources/02-Creation/MagieAffinite.Inverse.png" 
+         title="Illustration : Lorc, Open Game Art">
     <p>Au départ, les joueurs n'ont pas accès aux <a href="?Page=menuLateral/dons">dons</a>. Le premier don est disponible au niveau 2, et le deuxième au niveau 4.</p>
     <p>Une fois le niveau 2 atteint, il faut se reporter aux descriptions de classes pour voir les types de dons disponibles.
         Les dons peuvent être utilisés en combat pour améliorer temporairement les capacités du personnage, et faire face aux situations les plus périlleuses. </p>
@@ -29,6 +31,9 @@
 
     <div style="">
         <h3 class="titreCreation">La fiche de personnage</h3>
+        <img class="communImages imageAlignementCreation" style="max-height:80px;float:left;margin-top:10px;" src="ressources/02-Creation/FichePerso.Inverse.png" 
+             title="Illustration : Lorc, Open Game Art">
+        
         <p>Une fois le personange choisi, le joueur doit remplir sa fiche en commençant par le cadre haut de la feuille. Il est libre de donner les attributs physiques qu'il
         souhaite à son personnage, en respectant cependant les limites de la race sélectionnée. Pour l'expérience, les points de vie et les points de mana, les 
         valeurs au niveau 1 sont celles indiquées de base.</p><br />
@@ -46,6 +51,9 @@
 
     <div style="">
         <h3 class="titreCreation">Les compétences</h3>
+        <img class="communImages imageAlignementCreation" style="max-height:80px;float:left;margin-top:10px;" src="ressources/02-Creation/Competences.Inverse.png" 
+             title="Illustration : Lorc, Open Game Art">
+        
         <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage et les renseigne sur sa fiche.
             Le nombre de points à investir est de 8+1d4. Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.</p>
         <p>Pour les compétences spécifiques à la classe, un point supplémentaire (non comptabilisé dans le maximum) déjà affiché sur la fiche de personnage est attribué.</p>
@@ -54,7 +62,7 @@
 
     <div style="">
 
-        <img class="communImages imageEquipementCreation" src="ressources/02-Creation/ChemiseGrise.SansFond.png" title="Illustration : Flare Rpg, Open Game Art">
+        <img class="communImages imageEquipementCreation" style="margin-top:40px;" src="ressources/02-Creation/ChemiseGrise.SansFond.png" title="Illustration : Flare Rpg, Open Game Art">
 
         <h3 class="titreCreation">L'équipement</h3>
         <p>Chaque joueur commence le jeu avec 10+1d100 pièces d'or. Ensuite, en fonction de ce que sa classe lui permet, il choisit deux armes de qualité médiocre, 
@@ -411,10 +419,12 @@
 </div>
 
 <div style="clear:both; margin:20px; float:left; width:60%;">
+    
     <h3>Créer directement un personnage de haut niveau</h3>
     <p>Lorsqu'un nouveau joueur intègre un groupe existant, il peut être intéressant de créer directement un personnage de niveau supérieur à 1. 
         Pour la <a href="?Page=menuLateral/classes">classe</a>, la <a href="?Page=menuLateral/races">race</a>, l'<a href="?Page=menuLateral/alignement">alignement</a>
         et les <a href="?Page=menuLateral/dons">dons</a> : les étapes à suivre sont les mêmes que lors de la création d'un personnage de niveau 1.</p><br />
+    <img class="communImages" style="max-height:80px;float:right;margin: 10px;" src="ressources/02-Creation/pyromaniac.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">Les <a href="?Page=menuLateral/caracteristiques">caractéristiques</a> : </span>
         &nbsp [niveau]x10 + 1d4 points à 
         répartir équitablement entre toutes les caractéristiques, en supplément des points de bases de chaque caractéristique définie par la classe de personnage.</p><br />
@@ -425,6 +435,7 @@
     <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">L'<a href="?Page=menuLateral/equipement">équipement</a> : </span>&nbsp 
         Entre les niveaux 1 et 4, les règles sont les mêmes que pour la création d'un personnage de niveau 1. Entre les niveaux 5 et 6, 
         le joueur peut choisir un équipement de qualité moyenne. Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p><br />
+    <img class="communImages" style="max-height:80px;float:left;margin: 10px;" src="ressources/02-Creation/beard.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">Les <a href="?Page=menuLateral/experience">points de vie et de mana</a></span>
          : &nbsp Pour les points de vie, il faut prendre le modificateur de départ de constitution, puis y ajouter tous les modificateurs suivants du tableau des caractéristiques
     jusqu'à ce qu'on se soit déplacé [niveau] fois dans le tableau. Notez bien, si un modificateur est négatif, il faut le remplacer par 0 pour le calcul. À cette première somme, 

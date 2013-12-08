@@ -8,25 +8,27 @@
     <h3>Dragons Noirs</h3>
     <p>Affiliés à la magie du Chaos, les dragons noirs sont des créatures malfaisantes et destructrices. <span class="titreDebutLigne">Chaotique mauvais.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Chaos.</p>
-    <p><span class="titreDebutLigne">Sorts : </span>&nbsp Trait du chaos, 2 cibles, 2d8+(niveau*2) de dégâts de chaos par joueur.</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Trait du chaos</span>&nbsp : 2 cibles, 2d8+(niveau*2) de dégâts de chaos par joueur.</p>
     <h3>Dragons Blancs</h3>
     <p>Affiliés à la magie du Sacré, les dragons blancs sont d'impitoyables gardiens de la lumière contre le chaos. <span class="titreDebutLigne">Loyal bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Sacré.</p>
-    <p><span class="titreDebutLigne">Sorts : </span>&nbsp Rugissement prosélyte, convertit un personnage-joueur à la cause du dragon blanc pour deux tours.</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Rugissement prosélyte</span>&nbsp : 
+        convertit un personnage-joueur à la cause du dragon blanc pour deux tours.</p>
     <h3>Dragons Verts</h3>
     <p>Affiliés à la magie de la Nature, les dragons verts sont les protecteurs des terres et des mers. <span class="titreDebutLigne">Chaotique bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Nature.</p>
-    <p><span class="titreDebutLigne">Sorts : </span>&nbsp Toucher revigorant, le dragon vert regagne 2d8+(niveau*2) de vie.</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Toucher revigorant</span>&nbsp : le dragon vert regagne 2d8+(niveau*2) de vie.</p>
     <h3>Dragons Bleus</h3>
     <p>Affiliés à la magie des Arcanes, les dragons bleus sont des créatures cruelles et dominatrices. <span class="titreDebutLigne">Loyal mauvais.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs des Arcanes.</p>
-    <p><span class="titreDebutLigne">Sorts : </span>&nbsp Rugissement déstabilisant, réduit les jets de toucher de tous les opposants de 1d8+niveau.</p>
-    <br />
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Rugissement déstabilisant</span>&nbsp : 
+        réduit les jets de toucher de tous les opposants de 1d8+niveau.</p>
 
 </div>
 
 <div style="width: 43%; margin: 1%; float:left;">
     <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Dragon.Rewan.DA.jpg" title="Illustration : Rewan, Deviant Art">
+    <p class="pImageRace">Un dragon adulte</p>
 
     <h3>Dragons Rouges</h3>
     <p>Une cinquième famille de dragons existe, mais n'est affiliée à aucune école de magie. Les Dragons Rouges sont les seules
@@ -40,7 +42,7 @@
 <div style="float:left;">
 
     <br />
-    <h2>Tableau des différentes niveaux de monstres :</h2>
+    <h2>Tableau des différents niveaux de monstres :</h2>
     <br />
 
     <table>
@@ -99,7 +101,7 @@
                 <p class="ptab">+2</p>
             </td>
             <td>
-                <p class="ptab">Grand</p>
+                <p class="ptab">Grande</p>
             </td>
         </tr>
         <tr>
@@ -186,7 +188,7 @@
                 <p class="ptab">+1o</p>
             </td>
             <td>
-                <p class="ptab">Colossal</p>
+                <p class="ptab">Colossale</p>
             </td>
         </tr>
     </table>

@@ -70,6 +70,10 @@
                 </ul>
             </div>
             <div class="div30">
+                <h3>Tour de jeu</h3>
+                <p>Un tour de jeu est écoulé lorsque tous les protagonistes ont accompli leur action, s'ils ne sont pas évanouis ou décédés.</p>
+                <p>Le maître du jeu peut modifier le tour de jeu en faisant intervenir un protagoniste, il fait alors un jet d'initiative pour le nouvel arrivant.</p>
+                
                 <h3>Demi-actions</h3>
                 <p>Le joueur peut également effectuer plusieurs actions pendant un tour si elles ne sont pas complètes.</p><br />
                 <p>Sont considérés comme des demi-actions :</p>
@@ -276,13 +280,13 @@
             
             <div style="float:left;max-width:500px; margin:10px 2%;">
                 <h3>Attaques et sorts de zone</h3>
+                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/arrow-flights.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque ou d'un sort de zone, le fonctionnement est le même que pour les attaques simples et seul un jet de dé est effectué.</p>
                 <p>Pour chaque monstre ou joueur visé, si le jet est supérieur à leur EP ou EM, ce protagoniste est affecté par l'effet.</p>
             </div>
 
         </div>
     </div>
-
 
 
     <div class="divZoneCombatTitre">
@@ -297,6 +301,7 @@
             </div>
             <div class="divMoitieGauche">
                 <h3>Regagner conscience : jet de Dernier espoir</h3>
+                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/back-pain.png" title="Illustration : Lorc, Open Game Art">
                 <p>Lorsqu'un joueur voit ses points de vie descendre sous la barre des 1 points de vie, il perd conscience et ne peut plus effectuer d'action. 
                     Cependant, à chaque tour, il peut tenter de regagner conscience avec un jet de Dernier espoir.</p>
                 <p>Un jet de Dernier espoir nécessite de faire 10 avec 1d20, si tel est le cas, le joueur peut alors effectuer une action pour ce tour. 
@@ -305,6 +310,7 @@
             </div>
             <div class="divMoitieDroite">
                 <h3>Récupération des blessures : jet de Premiers secours</h3>
+                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/cut-palm.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les points de vie peuvent être regagnés par les sorts de soins, les potions de vie ou les premiers secours. 
                     Les premiers secours permettent à un joueur de porter assitance à un coéquipier afin qu'il reprenne le combat.
                 <p>Un dé à 20 faces est lancé, si le jet atteint moins de 5, les premiers secours échouent. 

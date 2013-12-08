@@ -77,6 +77,8 @@
     <h3>Le butin des monstres</h3>
     <p>À l'issue du combat, tous les joueurs ayant participé au combat se partagent un nombre de points d'expérience déterminé à partir de la formule suivante :
     (Points de vie du monstre / Niveau du monstre) x 10 arrondi au supérieur.</p>
+    <p>En plus des pièces d'or et des points d'expérience, tuer des monstres permet aux joueurs de récupérer de l'équipement de qualité.
+    Le maître du jeu peut également introduire dans le butin des monstres des objets spécifiques au scénario ou à la campagne en cours.</p>
 </div>
 
 <div style="float:left;margin:10px;">
@@ -88,12 +90,14 @@
     <p>Voici l'ensemble des caractéristiques à définir pour un monstre personnalisé :</p>
 
     <ul>
-        <li>Les points de vie (20 au niveau 1 pour un monstre solitaire pour une difficulté modérée...)</li>
-        <li>L'esquive physique (10 au niveau 1 pour une difficulté modérée...)</li>
-        <li>L'esquive magique (valeur similaire à l'esquive physique...)</li>
-        <li>La taille (P pour un loup, M pour un zombie...)</li>
-        <li>Les dégâts infligés (1d6 au niveau 1 pour une difficulté modérée...)</li>
-        <li>Les sorts (boule de feu 1d6 de dégâts, contrôle mental d'un joueur pour 1 tour...)</li>
-        <li>Le butin (10 pièces d'or, un anneau magique...)</li>
+        <li>Les points de vie</li>
+        <li>L'esquive physique</li>
+        <li>L'esquive magique</li>
+        <li>Le toucher physique</li>
+        <li>Les dégâts infligés</li>
+        <li>Le toucher magique</li>
+        <li>La taille</li>
+        <li>Les sorts et techniques (facultatif)</li>
+        <li>Le butin spécial (en plus des pièces d'or, facultatif)</li>
     </ul>
 </div>

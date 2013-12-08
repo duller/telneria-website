@@ -29,7 +29,7 @@
         <div id="menu">{include file="menu.tpl"}</div>
         <div id="content">{include file=$page}</div>
     	<div id="footer">{include file="footer.tpl"}</div>
-        <div style="font-family: 'Orthoventional'; font-size:16px;padding-bottom: 10px;"id="hidden">
+        <div style="font-family:'Orthoventional'; font-size:16px; padding-bottom:10px;" id="hidden">
             François Ripp : Creative Commons by-nc-sa & GPL</div>
     </body>
 </html>
