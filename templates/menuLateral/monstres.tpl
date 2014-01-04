@@ -75,29 +75,39 @@
 
 <div style="float:left; max-width:500px;margin:10px;clear:left;">
     <h3>Le butin des monstres</h3>
-    <p>À l'issue du combat, tous les joueurs ayant participé au combat se partagent un nombre de points d'expérience déterminé à partir de la formule suivante :
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/creation-or.png" title="Illustration : Lorc, Open Game Art">
+    <p>À l'issue du combat, tous les joueurs ayant participé au combat se partagent un nombre de points d'expérience et de pièces d'or déterminé à partir de la formule suivante :
     (Points de vie du monstre / Niveau du monstre) x 10 arrondi au supérieur.</p>
     <p>En plus des pièces d'or et des points d'expérience, tuer des monstres permet aux joueurs de récupérer de l'équipement de qualité.
-    Le maître du jeu peut également introduire dans le butin des monstres des objets spécifiques au scénario ou à la campagne en cours.</p>
+    Le maître du jeu peut également introduire dans le butin des monstres des objets spécifiques au scénario et à la campagne en cours.</p>
 </div>
 
-<div style="float:left;margin:10px;">
+<div style="float:left;max-width:500px;margin:10px;">
     <h3>Les monstres personnalisés</h3>
-    <p>Il est également possible de créer n'importe quel monstre imaginaire.</p>
-    <p>Il faut cependant faire attention à ce que ses caractéristiques amènent à une difficulté appropriée par rapport au niveau des joueurs.</p>
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/creation-monstre.png" title="Illustration : Lorc, Open Game Art">
+    <p>Il est également possible de créer n'importe quel monstre imaginaire.
+        Il faut cependant faire attention à ce que ses caractéristiques amènent à une difficulté appropriée par rapport au niveau des joueurs.</p>
     <p>La page des humanoïdes est une bonne base pour créer un monstre personnalisé avec une difficulté appropriée.</p>
     <br />
     <p>Voici l'ensemble des caractéristiques à définir pour un monstre personnalisé :</p>
 
-    <ul>
-        <li>Les points de vie</li>
-        <li>L'esquive physique</li>
-        <li>L'esquive magique</li>
-        <li>Le toucher physique</li>
-        <li>Les dégâts infligés</li>
-        <li>Le toucher magique</li>
-        <li>La taille</li>
-        <li>Les sorts et techniques (facultatif)</li>
-        <li>Le butin spécial (en plus des pièces d'or, facultatif)</li>
-    </ul>
+    <div class="divMoitieGauche">
+        <ul>
+            <li>L'alignement</li>
+            <li>Les points de vie</li>
+            <li>L'esquive physique</li>
+            <li>L'esquive magique</li>
+            <li>Le toucher physique</li>
+        </ul>
+    </div>
+    <div class="divMoitieGauche">
+        <ul>
+            <li>Les dégâts infligés</li>
+            <li>Le toucher magique</li>
+            <li>La taille</li>
+            <li>Les sorts et techniques</li>
+            <li>Le butin spécial</li>
+        </ul>
+    </div>
+
 </div>

@@ -51,7 +51,7 @@
 				<p class="ptab">Base de points de vie</p>
 			</td>
 			<td>
-				<p class="ptab">6</p>
+				<p class="ptab">7</p>
 			</td>
 		</tr>
                 <tr>
@@ -59,7 +59,7 @@
 				<p class="ptab">Base de points de mana</p>
 			</td>
 			<td>
-				<p class="ptab">2</p>
+				<p class="ptab">3</p>
 			</td>
 		</tr>
 	</table>

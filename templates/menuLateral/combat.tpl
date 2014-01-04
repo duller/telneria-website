@@ -52,6 +52,7 @@
 
             <div class="div30">
                 <h3>Initiative</h3>
+                <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art">
                 <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu.</p>
                 <p>L'initiative peut être modifiée négativement si un protagoniste est pris par surprise ou est affairé à autre chose, c'est au MJ de le décider.</p>
 
@@ -71,6 +72,7 @@
             </div>
             <div class="div30">
                 <h3>Tour de jeu</h3>
+                <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/cycle.png" title="Illustration : Lorc, Open Game Art">
                 <p>Un tour de jeu est écoulé lorsque tous les protagonistes ont accompli leur action, s'ils ne sont pas évanouis ou décédés.</p>
                 <p>Le maître du jeu peut modifier le tour de jeu en faisant intervenir un protagoniste, il fait alors un jet d'initiative pour le nouvel arrivant.</p>
                 
@@ -101,6 +103,7 @@
 
             <div class="div30">
                 <h3>Jet de toucher</h3>
+                <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/diving-dagger.png" title="Illustration : Lorc, Open Game Art">
                 <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé 20 de toucher pour savoir si son attaque est un succès ou un échec. 
                     Selon le type d'attaque, une caractéristique différente est utilisée pour pondérer le jet.</p>
                 <ul>
@@ -120,6 +123,7 @@
 
             <div class="div30">
                 <h3>Sorts et techniques</h3>
+                <img class="communImages" style="max-height:80px;float:right;margin:0 0 0 10px;" src="ressources/14-Combat/dripping-goo.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les sorts et techniques sont détaillés pour chacune des classes de personnages. Ils ont un coût en mana défini auquel s'ajoute le niveau du personnage.</p>
                 <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par la sagesse :</p>
                 <ul>
@@ -155,134 +159,143 @@
                 <p>L'esquive magique est déterminée à partir de l'esquive magique de base, qui est de 10, des éventuelles pièces d'armures magiques, du charisme et du modificateur de taille.</p>
                 <p>Les classes magiques les plus puissantes, à savoir clerc, sorcier, magicien et druide, ont un bonus de +1 à l'esquive magique.</p>
             </div>
-            <div style="float:left;margin-left:1%;">
-                <h4>Tableau du modificateur de taille :</h4>
-                <table>
-                    <tr>
-                        <td style="height: 30px">
-                            <p class="ptabstrong">Taille</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Infime</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Minuscule</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Petit</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Moyen</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Grand</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Énorme</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Gigantesque</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Colossal</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p class="ptabstrong">Modificateur</p>
-                        </td>
-                        <td>
-                            <p class="ptab">+3</p>
-                        </td>
-                        <td>
-                            <p class="ptab">+2</p>
-                        </td>
-                        <td>
-                            <p class="ptab">+1</p>
-                        </td>
-                        <td>
-                            <p class="ptab">0</p>
-                        </td>
-                        <td>
-                            <p class="ptab">-1</p>
-                        </td>
-                        <td>
-                            <p class="ptab">-2</p>
-                        </td>
-                        <td>
-                            <p class="ptab">-3</p>
-                        </td>
-                        <td>
-                            <p class="ptab">-4</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p class="ptabstrong">Échelle</p>
-                        </td>
-                        <td>
-                            <p class="ptab">< 10 cm</p>
-                        </td>
-                        <td>
-                            <p class="ptab">10 cm - 50 cm</p>
-                        </td>
-                        <td>
-                            <p class="ptab">50 cm - 1 m</p>
-                        </td>
-                        <td>
-                            <p class="ptab">1 m - 2 m</p>
-                        </td>
-                        <td>
-                            <p class="ptab">2 m - 3 m</p>
-                        </td>
-                        <td>
-                            <p class="ptab">3 m - 5 m</p>
-                        </td>
-                        <td>
-                            <p class="ptab">5 m - 10 m</p>
-                        </td>
-                        <td>
-                            <p class="ptab">> 10 m</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <p class="ptabstrong">Exemple</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Rat</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Faucon</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Gobelin</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Elfe</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Varelias</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Ogre </p>
-                        </td>
-                        <td>
-                            <p class="ptab">Ancien Troll des collines</p>
-                        </td>
-                        <td>
-                            <p class="ptab">Dragon vénérable</p>
-                        </td>
-                    </tr>
-
-                </table>
+            <div style="text-align:center;">
+                <div style="display:inline-block;">
+                    <h4>Tableau du modificateur de taille :</h4>
+                    <table>
+                        <tr>
+                            <td style="height: 30px">
+                                <p class="ptabstrong">Taille</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Infime</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Minuscule</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Petit</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Moyen</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Grand</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Énorme</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Gigantesque</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Colossal</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="ptabstrong">Modificateur</p>
+                            </td>
+                            <td>
+                                <p class="ptab">+3</p>
+                            </td>
+                            <td>
+                                <p class="ptab">+2</p>
+                            </td>
+                            <td>
+                                <p class="ptab">+1</p>
+                            </td>
+                            <td>
+                                <p class="ptab">0</p>
+                            </td>
+                            <td>
+                                <p class="ptab">-1</p>
+                            </td>
+                            <td>
+                                <p class="ptab">-2</p>
+                            </td>
+                            <td>
+                                <p class="ptab">-3</p>
+                            </td>
+                            <td>
+                                <p class="ptab">-4</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="ptabstrong">Échelle</p>
+                            </td>
+                            <td>
+                                <p class="ptab">< 10 cm</p>
+                            </td>
+                            <td>
+                                <p class="ptab">10 cm - 50 cm</p>
+                            </td>
+                            <td>
+                                <p class="ptab">50 cm - 1 m</p>
+                            </td>
+                            <td>
+                                <p class="ptab">1 m - 2 m</p>
+                            </td>
+                            <td>
+                                <p class="ptab">2 m - 3 m</p>
+                            </td>
+                            <td>
+                                <p class="ptab">3 m - 5 m</p>
+                            </td>
+                            <td>
+                                <p class="ptab">5 m - 10 m</p>
+                            </td>
+                            <td>
+                                <p class="ptab">> 10 m</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="ptabstrong">Exemple</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Rat</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Faucon</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Gobelin</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Elfe</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Varelias</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Ogre </p>
+                            </td>
+                            <td>
+                                <p class="ptab">Ancien Troll des collines</p>
+                            </td>
+                            <td>
+                                <p class="ptab">Dragon vénérable</p>
+                            </td>
+                        </tr>
+                        
+                    </table>
+                </div>
             </div>
             
-            <div style="float:left;max-width:500px; margin:10px 2%;">
+            <div class="divMoitieGauche">
                 <h3>Attaques et sorts de zone</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/arrow-flights.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque ou d'un sort de zone, le fonctionnement est le même que pour les attaques simples et seul un jet de dé est effectué.</p>
                 <p>Pour chaque monstre ou joueur visé, si le jet est supérieur à leur EP ou EM, ce protagoniste est affecté par l'effet.</p>
+            </div>
+            
+            <div class="divMoitieDroite">
+                <h3>Dégâts infligés</h3>
+                <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/broken-bone.png" title="Illustration : Lorc, Open Game Art">
+                <p>Lorsqu'une attaque est un succès, les dégâts infligés sont ceux du sort lancé ou de l'arme utilisée. À ces dégâts, il convient d'ajouter le niveau du joueur.</p>
+                <p>Il est également possible d'attaquer à mains nues, les dégâts infligés sont alors de 1d1 plus le niveau.</p>
             </div>
 
         </div>

@@ -11,7 +11,7 @@
 <br />
 <img class="imageDecoAccueil" src="ressources/01-Accueil/Dragon-Fa11eng0d-DeviantArt.jpg" title="Illustration : Fa11eng0d, Deviant Art">
 
-<p>Il y a deux siècles, la mage Nitria découvrit le telnas, une discipline permettant de matérialiser en une épaisse fumée bleuâtre la magie des arcanes.
+<p>Il y a trois siècles, la mage Nitria découvrit le telnas, une discipline permettant de matérialiser en une épaisse fumée bleuâtre la magie des arcanes.
      Cette discipline permettait au conjureur de contrôler cette fumée en sort offensif, en arme ou en mur de protection, octroyant une puissance sans égale.</p>
 <p>La découverte de Nitria a bouleversé les sociétés claniques de Telneria. La magie du telnas, autrement plus dévastatrice que les énergies naturelles des druides, poussa certains 
     nobles à s'allier aux telnastes, les adeptes de cette discipline. Profitant de leur nouvelle puissance, ils ont mis en place des sociétés 

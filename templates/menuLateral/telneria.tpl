@@ -59,17 +59,18 @@
 
     <ul class="events">
         <li style="width: 64%; left: 0;"><span class="spanChronologie">-900 à 476 : </span> Paix&nbsp;des&nbsp;Elfes&nbsp;et&nbsp;des&nbsp;Neltariens</li>
-        <li style="width: 20%; left: 0;"><span class="spanChronologie">-900 à -509 : </span>Extermination des Trolls par les Orcs</li>
-        <li style="width: 10%; left: 0;"><span class="spanChronologie">-900 à -754 : </span>Apparition des villages fortifiés humains en Veldris</li>
+        <li style="width: 10%; left: 5%;"><span class="spanChronologie">-800 à -600 : </span>Extermination des Trolls par les Orcs</li>
+        <li style="width: 8%; left: 2%;"><span class="spanChronologie">-850 à -754 : </span>Apparition des villages fortifiés humains en Veldris</li>
+        <li style="width: 32%; left: 10%;"><span class="spanChronologie">-754 à 0 : </span>Paix entre les clans humains et orcs en Veldris</li>
         <li style="width: 10%; left: 10%;"><span class="spanChronologie">-754 à -509 : </span>Fondation des cités humaines en Mestrhune</li>
-        <li style="width: 22%; left: 20%;"><span class="spanChronologie">-509 à 0 : </span>Paix&nbsp;des&nbsp;Humains&nbsp;et&nbsp;des&nbsp;Orcs</li>
-        <li style="width: 19%; left: 42%;"><span class="spanChronologie">0 à 476 : </span>Empire humain de Carnum en Mestrhune et Veldris</li>
-        <li style="width:0.5%; left: 61%;"><span class="spanChronologie">469&nbsp;:&nbsp;</span>Découverte&nbsp;du&nbsp;Telnas</li>
+        <li style="width: 22%; left: 20%;"><span class="spanChronologie">-509 à 0 : </span>République humaine de Mestrhune</li>
+        <li style="width: 21%; left: 42%;"><span class="spanChronologie">0 à 476 : </span>Empire humain de Carnum en Mestrhune et Veldris</li>
+        <li style="width:0.5%; left: 60%;"><span class="spanChronologie">469&nbsp;:&nbsp;</span>Découverte&nbsp;du&nbsp;Telnas</li>
         <li style="width: 02%; left: 61%;"><span class="spanChronologie">470&nbsp;à&nbsp;476&nbsp;:&nbsp;</span>Rébellion&nbsp;de&nbsp;Veldris&nbsp;contre&nbsp;Carnum</li>
-        <li style="width:0.5%; left: 63%;"><span class="spanChronologie">476&nbsp;:&nbsp;</span>Proclamation&nbsp;des&nbsp;baronnies&nbsp;en&nbsp;Veldris</li>
-        <li style="width: 03%; left: 64%;"><span class="spanChronologie">476&nbsp;à&nbsp;511&nbsp;:&nbsp;</span>Guerre&nbsp;du&nbsp;Telnas</li>
-        <li style="width: 11%; left: 67%;"><span class="spanChronologie">Depuis 511&nbsp;:&nbsp;</span>Avènement de l'ordre des Telnastes</li>
-        <li style="width:0.5%; left: 78%;"><span class="spanChronologie">782&nbsp;:&nbsp;</span>Aujourd'hui</li>
+        <li style="width:0.5%; left: 62.5%;"><span class="spanChronologie">476&nbsp;:&nbsp;</span>Proclamation&nbsp;des&nbsp;baronnies&nbsp;en&nbsp;Veldris</li>
+        <li style="width: 03%; left: 63%;"><span class="spanChronologie">476&nbsp;à&nbsp;511&nbsp;:&nbsp;</span>Guerre&nbsp;du&nbsp;Telnas</li>
+        <li style="width: 12%; left: 66%;"><span class="spanChronologie">Depuis 511&nbsp;:&nbsp;</span>Avènement de l'ordre des Telnastes</li>
+        <li style="width: 01%; left: 77%;"><span class="spanChronologie">782&nbsp;:&nbsp;</span>Aujourd'hui</li>
     </ul>
 
     <ul class="intervals">
