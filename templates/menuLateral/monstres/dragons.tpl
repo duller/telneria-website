@@ -5,9 +5,9 @@
         Toutes les familles de dragons ont cependant en commun leur souffle de feu.</p>
     <p><span class="titreDebutLigne">Souffle du dragon : </span>&nbsp Crache du feu sous forme de cône, et inflige 1d20+niveau de dégâts de nature à tous les personnages
         et monstres présents dans la zone d'effet. Les dégâts sont calculés par joueur et par monstre. Deux tours de recharge.</p>
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/dragon-head.inverse.png" title="Illustration : Lorc, Open Game Art">
     
     <h3>Dragons Noirs</h3>
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/dragon-head.inverse.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Chaos, les dragons noirs sont des créatures malfaisantes et destructrices. <span class="titreDebutLigne">Chaotique mauvais.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Chaos. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Trait du chaos</span>&nbsp : 2 cibles, 2d8+(niveau*2) de dégâts de chaos par joueur.</p>
@@ -22,9 +22,10 @@
     <p>Affiliés à la magie de la Nature, les dragons verts sont les protecteurs des terres et des mers. <span class="titreDebutLigne">Chaotique bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Nature. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Toucher revigorant</span>&nbsp : le dragon vert regagne 2d8+(niveau*2) de vie.</p>
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/dragon-head.png" title="Illustration : Lorc, Open Game Art">
+    
     
     <h3>Dragons Blancs</h3>
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/dragon-head.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Sacré, les dragons blancs sont d'impitoyables gardiens de la lumière contre le chaos. <span class="titreDebutLigne">Loyal bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Sacré. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Rugissement prosélyte</span>&nbsp : 

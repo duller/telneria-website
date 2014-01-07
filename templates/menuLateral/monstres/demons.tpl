@@ -6,7 +6,7 @@
         mythes que ces derniers aiment entretenir. Les premiers démons ont été convoqués par des sorciers neltariens en Telneria. Seuls des portails magiques ou des sorts d'invocation
         permettent de transiter entre Telneria et Demonos.</p>
     <p>Les sociétés démoniques de Demonos sont fortement hiérarchisées et tournées vers le combat et la connaissance. L'ingestion de cerveau humain confère aux démons sagacité et perspicacité,
-        poussant nombre de créatures démoniaques à attaquer les humains. Ces pratiques cervophages contribuent à leur réputation sanguinaire et malveillante dans les sociétés humaines.</p>
+        poussant nombre de créatures démoniaques à attaquer les humains. Ces pratiques céphalophages contribuent à leur réputation sanguinaire et malveillante dans les sociétés humaines.</p>
     <br />
     
     <p><span class="titreDebutLigne">Nature impie : </span>&nbsp Tous les démons subissent 50% de dégâts de chaos en moins et 50% de dégâts de sacré en plus.</p>
@@ -20,8 +20,8 @@
         le diablotin lance sur ses ennemis une boule infligeant 3+1d4 de dégâts de chaos.</p>
     
     <h3 style="clear:both;padding-top:20px;">Molosse chaotique</h3>
-    <p>Imposantes bêtes quadrupèdes, les molosses chaotiques sont l'incarnation des monstres des contes pour enfant. Les démons les ont dressé pour la protection et le combat.
-        Dôtés d'une mâchoire dévastatrice et entourés de feu, ces créatures démoniaques sont très agressives.</p>
+    <p>Imposantes bêtes quadrupèdes, les molosses chaotiques sont l'incarnation des monstres des contes pour enfant. Les démons les ont dressées pour la protection et le combat.
+        Dôtées d'une mâchoire dévastatrice et entourées de feu, ces créatures démoniaques sont très agressives.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Leur aura de feu inflige à chaque ennemi les attaquant 1d6 de dégâts de chaos.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     

@@ -1,48 +1,47 @@
 <h1>Les élémentaires</h1>
 
 <div style="width:68%;margin:1%;float:left;">
-    <p>Les humanoïdes sont le type de monstres intelligents le plus répandu de Telneria. <br />Pour créer un monstre de type humanoïde, il faut choisir une race et un niveau de monstre.<br />
-        Le tableau en bas de cette page présente les combinaisons les plus courantes, mais il est possible de créer des humanoïdes personnalisés (se reporter à la page des monstres).</p>
+    <p>Les élémentaires sont la manifestation physique des quatre éléments majeurs : l'eau, l'air, le feu et la terre. D'intelligence médiocre, ces créatures sont généralement
+    invoquées par les mages et possèdent une autonomie assez faible.</p>
     <br />
     
-    <p><span class="titreDebutLigne">Bouclier : </span>&nbsp À l'exception des trolls et des ogres, il est possible de rajouter à tout monstre humanoïde un bouclier. <br />
-        Il voit alors ses dégâts subis et infligés réduits de [niveau]/2 (arrondi au supérieur).</p><br />
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/elem-crystal.png" title="Illustration : Lorc, Open Game Art">
-    <p><span class="titreDebutLigne">Attaque à distance : </span>&nbsp Il est également possible de faire porter aux monstres humanoïdes des armes à distance,
-        avec les mêmes limitations de race que pour les boucliers.<br />
-        Le port d'un arc, 30 mètres de portée, augmente le dé de toucher de 2 et réduit les dégâts infligés de 2.<br />
-        Le port d'une arbalète, 40 mètres de portée, augmente le dé de toucher de 4 et les dégâts infligés de 6 ; par contre un coup ne peut être tiré que tous les deux tours.</p>
+    <p><span class="titreDebutLigne">Fureur élémentaire : </span>&nbsp Les élémentaires n'ont pas d'attaques physiques, leurs sorts représentent leurs attaques normales,
+        infligeant des dégâts de nature.</p>
+    <br />
+    <p><span class="titreDebutLigne">Nature élémentaire : </span>&nbsp Réduit tous les dégâts de nature subis de moitié.</p>
+    <br />
+        
+    <h3>Élémentaires d'eau</h3>
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/elem-crystal.png" title="Illustration : Lorc, Open Game Art">
+    <p>Incarnations de l'eau, ces élémentaires deviennent très résistants dans les zones aquatiques.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Tous les dégâts subis réduits de [niveau] si le combat a lieu dans une zone humide.</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Maelström</span>&nbsp :
+        L'élémentaire d'eau invoque un puissant maelström, infligeant des dégâts à tous les joueurs présents.</p>
     
-    <h3>Races jouables</h3>
-    <p>N'importe quelle des dix races jouables peut être utilisée en tant que monstre. <span class="titreDebutLigne">Alignement dépendant de la race.</span></p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
-    <p><span class="titreDebutLigne">Sorts : </span>&nbsp Tous les sorts détaillés dans les classes de personnage peuvent être utilisés.</p>
+    <h3 style="clear:both;padding-top:20px;">Élémentaires d'air</h3>
+    <p>Incarnations de l'air, ces élémentaires peuvent se déplacer très rapidement dans toutes les directions.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Déplacement porté à 60 mètres au lieu de 10, et peut enchaîner immédiatement une attaque.</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Cyclone</span>&nbsp : 
+        l'élémentaire d'air repousse violemment tous les ennemis présents au corps-à-corps à 10 mètres de lui, leur infligeant des dégâts.</p>
     
-    <h3>Gobelins</h3>
-    <p>Créatures de petite taille, les gobelins sont des êtres sournois et cupides. <span class="titreDebutLigne">Ni loyal, ni bon.</span></p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles au contrôle mental. Prennent facilement la fuite.</p>
-    <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Malversation</span>&nbsp : 
-        soulage la bourse d'un personnage-joueur de [niveau]x20 pièces d'or.</p>
-    
-    <h3 style="margin-bottom:10px;">Minotaures</h3>
+    <h3>Élémentaires de feu</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/elem-ifrit.png" title="Illustration : Lorc, Open Game Art">
-    <p>Humanoïdes bipèdes de grande taille à tête de taureau, les minotaures affectionnent les larges haches à deux mains.<span class="titreDebutLigne">Tout alignement.</span></p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
-    <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Fureur taurine</span>&nbsp : le coup de hache de ce tour touche jusqu'à trois ennemis.
-    Trois tours de recharge.</p>
+    <p>Incarnations du feu, ces élémentaires peuvent immoler les chairs et les armures les plus résistantes.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts infligés doublés par rapport aux autres élémentaires.</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Immolation</span>&nbsp : 
+        l'élémentaire immole deux adversaires, le plus proche et le plus éloigné de lui.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Centaures</h3>
-    <p>Créatures de grande taille, les centaures possèdent 4 bras et 4 jambes. La partie basse de leur corps abritent également un autre torse avec l'ensemble des organes vitaux.
-        <span class="titreDebutLigne">Ni chaotique, ni mauvais.</span></p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp Les deux parties du corps d'un centaure doivent être frappées pour achever le monstre.</p>
-    <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Montée d'adrénaline</span>&nbsp : le centaure peut enchaîner deux actions ce même tour.
-    Trois tours de recharge.</p>
+    <h3 style="clear:both;padding-top:20px;">Élémentaires de terre</h3>
+    <p>Incarnations de la terre, ces élémentaires sont résistants aux attaques physiques et utilisent leur masse pour vaincre ses adversaires.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts physiques subis réduits de [niveau].</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Choc terrestre</span>&nbsp :
+        l'élémentaire de terre fait trembler la terre sur 10 mètres autour de lui, infligeant des dégâts à tous les ennemis proches.</p>
 
 </div>
 
 <div style="width: 28%; margin: 1%; float:left;">
     <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Elementaire.Jimcleaveland.DA.jpg" title="Illustration : Jimcleaveland, Deviant Art">
-    <p class="pImageRace">Un élémentaire hybride</p>
+    <p class="pImageRace">Un élémentaire instable</p>
 </div>
 
 
@@ -73,7 +72,7 @@
                 <p class="ptabstrong">Toucher physique</p>
             </td>
             <td>
-                <p class="ptabstrong">Dégâts physiques</p>
+                <p class="ptabstrong">Dégâts magiques</p>
             </td>
             <td>
                 <p class="ptabstrong">Toucher magique</p>
@@ -84,57 +83,28 @@
         </tr>
         <tr>
             <td>
-                <p class="ptab">Brigand gobelin</p>
+                <p class="ptab">Éléméntaire mineur</p>
             </td>
             <td>
-                <p class="ptab">2</p>
+                <p class="ptab">4</p>
             </td>
             <td>
-                <p class="ptab">1+1d4</p>
+                <p class="ptab">28+1d8</p>
             </td>
             <td>
-                <p class="ptab">11</p>
+                <p class="ptab">14</p>
             </td>
             <td>
-                <p class="ptab">11</p>
-            </td>
-            <td>
-                <p class="ptab">+1</p>
-            </td>
-            <td>
-                <p class="ptab">1+1d4</p>
+                <p class="ptab">14</p>
             </td>
             <td>
                 <p class="ptab">0</p>
             </td>
             <td>
-                <p class="ptab">Petite</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p class="ptab">Garde humain</p>
+                <p class="ptab">4+1d6</p>
             </td>
             <td>
-                <p class="ptab">3</p>
-            </td>
-            <td>
-                <p class="ptab">4+1d4</p>
-            </td>
-            <td>
-                <p class="ptab">12</p>
-            </td>
-            <td>
-                <p class="ptab">12</p>
-            </td>
-            <td>
-                <p class="ptab">+2</p>
-            </td>
-            <td>
-                <p class="ptab">2+1d6</p>
-            </td>
-            <td>
-                <p class="ptab">0</p>
+                <p class="ptab">+4</p>
             </td>
             <td>
                 <p class="ptab">Moyenne</p>
@@ -142,57 +112,57 @@
         </tr>
         <tr>
             <td>
-                <p class="ptab">Défenseur centaure</p>
+                <p class="ptab">Élémentaire médium</p>
             </td>
             <td>
-                <p class="ptab">5</p>
+                <p class="ptab">7</p>
             </td>
             <td>
-                <p class="ptab">14+1d8</p>
+                <p class="ptab">56+1d12</p>
             </td>
             <td>
-                <p class="ptab">15</p>
+                <p class="ptab">17</p>
             </td>
             <td>
-                <p class="ptab">15</p>
-            </td>
-            <td>
-                <p class="ptab">+5</p>
-            </td>
-            <td>
-                <p class="ptab">4+1d10</p>
+                <p class="ptab">17</p>
             </td>
             <td>
                 <p class="ptab">0</p>
             </td>
             <td>
-                <p class="ptab">Grande</p>
+                <p class="ptab">10+1d10</p>
+            </td>
+            <td>
+                <p class="ptab">+7</p>
+            </td>
+            <td>
+                <p class="ptab">Moyenne</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p class="ptab">Sentinelle minotaure</p>
+                <p class="ptab">Élémentaire majeur</p>
             </td>
             <td>
-                <p class="ptab">6</p>
+                <p class="ptab">9</p>
             </td>
             <td>
-                <p class="ptab">20+1d10</p>
+                <p class="ptab">72+1d20</p>
             </td>
             <td>
-                <p class="ptab">16</p>
+                <p class="ptab">19</p>
             </td>
             <td>
-                <p class="ptab">16</p>
-            </td>
-            <td>
-                <p class="ptab">+6</p>
-            </td>
-            <td>
-                <p class="ptab">6+1d12</p>
+                <p class="ptab">19</p>
             </td>
             <td>
                 <p class="ptab">0</p>
+            </td>
+            <td>
+                <p class="ptab">20+1d20</p>
+            </td>
+            <td>
+                <p class="ptab">+9</p>
             </td>
             <td>
                 <p class="ptab">Grande</p>
