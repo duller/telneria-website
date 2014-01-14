@@ -1,49 +1,123 @@
-<h1>Le guerrier</h1>
+<div class="divTitreClasse">
+    <h1 class="titreClasse">Le guerrier</h1>
+    <img class="communImages imageLogoClasseFiche" src="ressources/03-Classes/Guerrier.png" title="Illustration : Horror Pen, Open Game Art">
+</div>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
-	<h4>Description</h4>
-	<p>Le guerrier est un combattant polyvalent et résistant. Il est apte à manier tout type d'arme pour tout combat.
-	</p>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-	<h4>Armures</h4>
-	<p>Tissu, cuir, maille, plaque, bouclier.</p>
-
-	<h4>Armes</h4>
-	<p>Toutes les armes sauf les baguettes.</p>
-
-	<h4>Alignement</h4>
-	<p>Habituellement neutre strict.</p>
-	<h4>Dons</h4>
-	<p>Sauvegarde, combat.</p>
-
-	<h4>Compétences</h4>
-	<p>Intimidation, saut, escalade.</p>
-    
-    <br /><br />
-    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheGuerrier.pdf">Fiche de personnage au format pdf</a>
-        
+            <h4 class="h4ClassePerso">Description</h4>
+            <p>Le guerrier est un combattant polyvalent et résistant,
+            apte à manier tout type d'arme. Les guerriers peuvent devenir soldats, mais restent souvent solitaires, proposant leurs services en tant que mercenaires.
+            </p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
+            <h4 class="h4ClassePerso">Alignement possible</h4>
+            <p>Habituellement neutre strict.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
+                 title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <p>Tissu, cuir, maille, plaque, bouclier.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
+                 title="Illustration : Angelfire, Deviant Art">
+            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <p>Toutes les armes sauf les baguettes.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/06-Dons/MagieAffinite.Inverse.png" title="Illustration : Lorc, Open Game Art">
+            <h4 class="h4ClassePerso">Dons disponibles</h4>
+            <p>Sauvegarde, combat.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Compétences améliorées</h4>
+            <p>Athlétisme, équilibre, survie.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheGuerrier.pdf">Fiche de personnage au format pdf</a>
+    </div>
 </div>
 
-<div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/OrcGuerrier.jpg"></p>
+
+<div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/OrcGuerrier.jpg" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un guerrier orc</p>
 </div>
-  
+
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
-    
-    <h4>Frappe perçante</h4>
-    <p>Frappe l'ennemi en ignorant ses protections, technique épuisante qui ne peut être utilisée plusieurs fois.</p>
-    <h4>Désarmement</h4>
-    <p>Désarme complètement l'adversaire pour un court laps de temps.</p>
-    <h4>Brise-genou</h4>
-    <p>Coup puissant porté au genou de l'ennemi réduisant fortement sa vitesse de déplacement.</p>
-    
-</div>    
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Frappe perçante (niveau 1)</h4>
+            <p>Frappe l'ennemi en ignorant ses protections, technique épuisante qui ne peut être utilisée plusieurs fois.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Désarmement (niveau 2)</h4>
+            <p>Désarme complètement l'adversaire pour un court laps de temps.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Brise-genou (niveau 3)</h4>
+            <p>Coup puissant porté au genou de l'ennemi réduisant fortement sa vitesse de déplacement.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Porte de l'ombre (niveau 4)</h4>
+            <p>Permet au sombregarde d'invoquer des portails qu'il peut traverser pour apparaître ailleurs sur le champ de bataille.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4>Points de vie et de mana</h4>
+    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
     
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -120,25 +194,130 @@
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le barbare</h3>
 
-    <p> Le barbare est un guerrier brutal orienté vers un type de combat primitif. Il permet d'utiliser les sorts et techniques suivantes :</p>
-    <h4>Fureur sanguinaire</h4>
-    <p>Permet trois frappes simultanées, mais réduit fortement la défense du barbare pour un court laps de temps.</p>
-    <h4>Frappe ambidextre</h4>
-    <p>Frappe puissante portée avec les deux mains du combattant, infligeant le double des dégâts normaux. Nécessite de se tenir en posture de défense.</p>
-    <h4>Cri de guerre</h4>
-    <p>Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégas infligés par les alliés.</p>
+    <p>Le barbare est un guerrier brutal orienté vers un type de combat primitif.</p>
 
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Fureur sanguinaire (niveau 5)</h4>
+            <p>Permet trois frappes simultanées, mais réduit fortement la défense du barbare pour un court laps de temps.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Frappe puissante (niveau 6)</h4>
+            <p>Frappe puissante portée avec les deux mains du combattant, infligeant le double des dégâts normaux. Nécessite de se tenir en posture d'attaque.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Cri de guerre (niveau 7)</h4>
+            <p>Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégas infligés par les alliés.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Déluge chaotique (niveau 8)</h4>
+            <p>Le funeste libère une violente vague d'énergie chaotique infligeant de lourds dégâts à tous les monstres et personnages alentours.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 
- <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le gardien</h3>
 
-    <p>Le gardien est un guerrier spécialisé dans le combat à l'armure lourde et au bouclier. Il permet d'utiliser les sorts et techniques suivantes :</p>
-    <h4>Coup de bouclier</h4>
-    <p>Puissant coup porté avec le bouclier déstabilisant l'ennemi.</p>
-    <h4>Coup railleur</h4>
-    <p>Frappe violente portée sur un ennemi l'incitant à attaquer le gardien.</p>
-    <h4>Coup incapacitant</h4>
-    <p>Puissante frappe portée sur un ennemi réduisant sa défense et sa capacité de déplacement.</p>
+    <p>Le gardien est un guerrier spécialisé dans le combat à l'armure lourde et au bouclier.</p>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Coup de bouclier (niveau 5)</h4>
+            <p>Puissant coup porté avec le bouclier, déstabilisant l'ennemi.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Coup railleur (niveau 6)</h4>
+            <p>Frappe violente portée à un ennemi, l'incitant à attaquer le gardien.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Coup incapacitant (niveau 7)</h4>
+            <p>Puissante frappe portée à un ennemi réduisant sa défense et sa capacité de déplacement.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Sacrifice du sang (niveau 8)</h4>
+            <p>Le vampiriste puise dans sa propre force vitale pour meurtrir son adversaire.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+            </div>
+        </div>
+    </div>
 </div>

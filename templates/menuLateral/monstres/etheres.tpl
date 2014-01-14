@@ -15,7 +15,7 @@
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
     <h3 style="clear:both;padding-top:20px;">Telnaculaire</h3>
-    <p>Manifestation informe de magie arcanique, les telnaculaires se déplacent pataudement avec leurs très nombreuses tentacules.</p>
+    <p>Manifestations informes de magie arcanique, les telnaculaires se déplacent pataudement à l'aide de leurs très nombreuses tentacules.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Créature lente et maladroite, le telnaculaire ne se déplace que de 5 mètres par tour.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Étreinte telnaculaire</span>&nbsp : le telnaculaire s'enroule autour de l'ennemi le plus proche
     s'il est resté à proximité plus d'un tour, l'asphyxiant instantanément.</p>

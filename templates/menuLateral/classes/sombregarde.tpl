@@ -114,7 +114,7 @@
             </div>
         </div>
     </div>
-</div>
+</div><!--  style="margin-top:10px;" (pour le h4 Points de vie et de mana)-->
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4 style="margin-top:10px;">Points de vie et de mana</h4>
@@ -138,6 +138,7 @@
         </tr>
     </table>
 
+    <br />
     <h4>Caractéristiques</h4>        
     <table class="tableauxPointsClasse">
         <tr>

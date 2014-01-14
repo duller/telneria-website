@@ -1,49 +1,123 @@
-<h1>Le druide</h1>
+<div class="divTitreClasse">
+    <h1 class="titreClasse">Le druide</h1>
+    <img class="communImages imageLogoClasseFiche" src="ressources/03-Classes/Druide.png" title="Illustration : Horror Pen, Open Game Art">
+</div>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
-	<h4>Description</h4>
-	<p>Le druide communie avec la nature, il peut se transformer en animal et contrôler les forêts.
-	</p>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-	<h4>Armures</h4>
-	<p>Tissu, cuir.</p>
-
-	<h4>Armes</h4>
-	<p>Dagues, toutes masses, bâtons.</p>
-
-	<h4>Alignement</h4>
-	<p>Habituellement loyal neutre, ne peut être mauvais.</p>
-
-        <h4>Dons</h4>
-	<p>Sauvegarde, combat, magie.</p>
-
-	<h4>Compétences</h4>
-	<p>Détection, premiers secours, concentration.</p>
-    
-    <br /><br />
-    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheDruide.pdf">Fiche de personnage au format pdf</a>
+            <h4 class="h4ClassePerso">Description</h4>
+            <p>Le druide communie avec la nature, il dévoue sa vie à celle-ci et 
+            y puise sa puissance magique. Les druides vivent en harmonie avec les animaux des forêts, avec lesquels ils peuvent communiquer en prenant leur forme.
+            </p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
+            <h4 class="h4ClassePerso">Alignement possible</h4>
+            <p>Habituellement loyal neutre, ne peut être mauvais.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
+                 title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <p>Tissu, cuir.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
+                 title="Illustration : Angelfire, Deviant Art">
+            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <p>Dagues, toutes masses, bâtons.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/06-Dons/MagieAffinite.Inverse.png" title="Illustration : Lorc, Open Game Art">
+            <h4 class="h4ClassePerso">Dons disponibles</h4>
+            <p>Sauvegarde, combat, magie.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Compétences améliorées</h4>
+            <p>Concentration, Diplomatie, Animaphilie.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheDruide.pdf">Fiche de personnage au format pdf</a>
+    </div>
 </div>
-    
 
-<div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/VareliasDruide.jpg"></p>
+
+<div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasDruide.jpg" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un druide varelias</p>
 </div>
-  
+
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
-    
-    <h4>Toucher guérisseur</h4>
-    <p>Soigne un personnage-joueur choisi et procure un léger soin aux autres alliés autour de la cible.</p>
-    <h4>Sarments</h4>
-    <p>Enracine un ennemi au sol en extérieur, l'empêchant de se mouveoir.</p>
-    <h4>Forme d'ursidé</h4>
-    <p>Le druide se transforme en un ours redoutable, augmentant sa force brute et sa résistance.</p>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Toucher guérisseur (niveau 1)</h4>
+            <p>Soigne un personnage-joueur choisi et procure un léger soin aux autres alliés autour de la cible.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Sarments (niveau 2)</h4>
+            <p>Enracine un ennemi au sol en extérieur, l'empêchant de se mouveoir.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Forme d'ursidé (niveau 3)</h4>
+            <p>Le druide se transforme en un ours redoutable, augmentant sa force brute et sa résistance.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Porte de l'ombre (niveau 4)</h4>
+            <p>Permet au sombregarde d'invoquer des portails qu'il peut traverser pour apparaître ailleurs sur le champ de bataille.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4>Points de vie et de mana</h4>
+    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
 
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -120,24 +194,131 @@
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le naturaliste</h3>
-    
-    <p> Le naturaliste est un druide spécialisé dans la communion avec la nature. Il permet d'utiliser les sorts et techniques suivantes :</p>
-    <h4>Tréants</h4>
-    <p>Invoque des arbres animés pour assister le druide au combat et au soin.</p>
-    <h4>Colère de la nature</h4>
-    <p>Lance un sort de nature sur un ennemi, lui infligeant des dégâts et ralentissant son mouvement.</p>
-    <h4>Tempête orageuse</h4>
-    <p>Invoque une tempête très intense repoussant les ennemis et leur infligeant des dégâts de chute.</p>
+
+    <p>Le naturaliste est un druide spécialisé dans la communion avec la nature.</p>
+
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Tréants (niveau 5)</h4>
+            <p>Invoque des arbres animés pour assister le druide au combat et au soin.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Colère de la nature (niveau 6)</h4>
+            <p>Lance un sort de nature sur un ennemi, lui infligeant des dégâts et ralentissant son mouvement.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Tempête orageuse (niveau 7)</h4>
+            <p>Invoque une tempête très intense repoussant les ennemis et leur infligeant des dégâts de chute.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Déluge chaotique (niveau 8)</h4>
+            <p>Le funeste libère une violente vague d'énergie chaotique infligeant de lourds dégâts à tous les monstres et personnages alentours.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
 </div>
 
- <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-     <h3>Classe de prestige : Le farouche</h3>
-     
-     <p>Le farouche est un druide spécialisé dans le changement de forme animale. Il permet d'utiliser les sorts et techniques suivantes :</p>
-    <h4>Déluge de griffes</h4>
-    <p>Inflige trois violents coups de griffe successifs à un ou plusieurs ennemis.</p>
-    <h4>Morsure provocatrice</h4>
-    <p>Referme la mâchoire puissante de l'ursidé dans la chair d'un ennemi, l'incitant à concentrer ses attaques sur le druide.</p>
-    <h4>Coup de patte d'ours</h4>
-    <p>Assène un violent coup de patte à un ennemi, l'étourdissant pour un court laps de temps.</p>
- </div>
+
+<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+    <h3>Classe de prestige : Le farouche</h3>
+
+    <p>Le farouche est un druide spécialisé dans le changement de forme animale.</p>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Déluge de griffes (niveau 5)</h4>
+            <p>Inflige trois violents coups de griffe successifs à un ou plusieurs ennemis.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Morsure provocatrice (niveau 6)</h4>
+            <p>Referme la mâchoire puissante de l'ursidé dans la chair d'un ennemi, l'incitant à concentrer ses attaques sur le druide.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Coup de patte d'ours (niveau 7)</h4>
+            <p>Assène un violent coup de patte à un ennemi, l'étourdissant pour un court laps de temps.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Sacrifice du sang (niveau 8)</h4>
+            <p>Le vampiriste puise dans sa propre force vitale pour meurtrir son adversaire.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+            </div>
+        </div>
+    </div>
+</div>
