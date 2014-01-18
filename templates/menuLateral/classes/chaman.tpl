@@ -23,7 +23,7 @@
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
             <h4 class="h4ClassePerso">Armures disponibles</h4>
-            <p>Tissu, cuir, maille, bouclier.</p>
+            <p>Tissu, cuir, maille, bouclier, amulette.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
@@ -102,13 +102,13 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Porte de l'ombre (niveau 4)</h4>
-            <p>Permet au sombregarde d'invoquer des portails qu'il peut traverser pour apparaître ailleurs sur le champ de bataille.</p>
+            <h4>Voile des esprits (niveau 4)</h4>
+            <p>Le chaman fait appel aux esprits pour dissimuler son groupe au regard des ennemis.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                    <span class="detailsEffetSort">Discrétion +5 pour tout le monde.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
             </div>
@@ -232,7 +232,7 @@
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Totem de foudre (niveau 7)</h4>
-            <p>Invoque un totem de foudre permettant d'infliger des dégâts de foudre à plusieurs ennemis proches.</p>
+            <p>Invoque un totem de foudre permettant d'infliger des dégâts de foudre à trois ennemis proches. Le sort saute de monstre en monstre, perdant en intensité à chaque saut.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -245,7 +245,7 @@
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4>Totem de feu (niveau 8)</h4>
-            <p>Le funeste libère une violente vague d'énergie chaotique infligeant de lourds dégâts à tous les monstres et personnages alentours.</p>
+            <p>Invoque un totem de feu, infligeant des dégâts de feu tout autour du totem, même aux alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -310,8 +310,8 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Sacrifice du sang (niveau 8)</h4>
-            <p>Le vampiriste puise dans sa propre force vitale pour meurtrir son adversaire.</p>
+            <h4>Vague assommante (niveau 8)</h4>
+            <p>Le mentaliste projette une vague d'énergie mentale autour de lui, assommant tous les ennemis pour un tour.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>

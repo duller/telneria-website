@@ -102,8 +102,8 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Porte de l'ombre (niveau 4)</h4>
-            <p>Permet au sombregarde d'invoquer des portails qu'il peut traverser pour apparaître ailleurs sur le champ de bataille.</p>
+            <h4>Prosélytisme (niveau 4)</h4>
+            <p>Le clerc fait preuve de tact et de diplomatie pour apaiser un interlocuteur agressif ou récalcitrant.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -114,7 +114,7 @@
             </div>
         </div>
     </div>
-</div><!--  style="margin-top:10px;" (pour le h4 Points de vie et de mana)-->
+</div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
     <h4 style="margin-top:10px;">Points de vie et de mana</h4>
@@ -244,8 +244,8 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Déluge chaotique (niveau 8)</h4>
-            <p>Le funeste libère une violente vague d'énergie chaotique infligeant de lourds dégâts à tous les monstres et personnages alentours.</p>
+            <h4>Déferlement sacré (niveau 8)</h4>
+            <p>Le prêtre se concentre intensément, inondant le champ de bataille de lumière sacrée, infligeant des dégâts aux ennemis et soignant les alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -267,8 +267,8 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Bouclier spirituel (niveau 5)</h4>
-            <p>Le moine se concentre et protège un personnage-joueur choisi à l'aide d'un bouclier spirituel qui absorbe les dégâts de la prochaine attaque.</p>
+            <h4>Frappe inspirée (niveau 5)</h4>
+            <p>Le moine se concentre pour asséner un coup puissant à son adversaire. Le coup peut être porté avec une arme ou à mains nues.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -280,8 +280,8 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Déluge de coups (niveau 6)</h4>
-            <p>Le moine assène une série rapide de trois coups successifs à son adversaire.</p>
+            <h4>Bouclier spirituel (niveau 6)</h4>
+            <p>Le moine se concentre et protège un personnage-joueur choisi à l'aide d'un bouclier spirituel qui absorbe les dégâts de la prochaine attaque.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -297,8 +297,8 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe inspirée (niveau 7)</h4>
-            <p>Le moine se concentre pour asséner un coup puissant à son adversaire.</p>
+            <h4>Déluge de coups (niveau 7)</h4>
+            <p>Le moine assène une série rapide de trois coups successifs à son adversaire.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -310,8 +310,8 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Sacrifice du sang (niveau 8)</h4>
-            <p>Le vampiriste puise dans sa propre force vitale pour meurtrir son adversaire.</p>
+            <h4>Frappe impétueuse (niveau 8)</h4>
+            <p>Le moine frappe avec une agressivité non maîtrisée, abaissant sa défense.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>

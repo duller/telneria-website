@@ -1,48 +1,123 @@
-<h1>Le rôdeur</h1>
+<div class="divTitreClasse">
+    <h1 class="titreClasse">Le rôdeur</h1>
+    <img class="communImages imageLogoClasseFiche" src="ressources/03-Classes/Rodeur.png" title="Illustration : Horror Pen, Open Game Art">
+</div>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
-	<h4>Description</h4>
-	<p>Le rôdeur est un tireur habile ainsi qu'un grand connaisseur des bêtes et des forêts.
-	</p>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-	<h4>Armures</h4>
-	<p>Tissu, cuir.</p>
-
-	<h4>Armes</h4>
-	<p>Toutes les armes sauf les baguettes.</p>
-
-	<h4>Alignement</h4>
-	<p>Habituellement neutre strict.</p>
-
-        <h4>Dons</h4>
-	<p>Sauvegarde, combat.</p>
-
-	<h4>Compétences</h4>
-	<p>Dressage, perception auditive, renseignements.</p>
-    
-    <br /><br />
-    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheRodeur.pdf">Fiche de personnage au format pdf</a>
+            <h4 class="h4ClassePerso">Description</h4>
+            <p>Le rôdeur est un tireur habile ainsi qu'un grand connaisseur 
+            des bêtes et des forêts. Experts des arcs et arbalètes, les rôdeurs partent à l'aventure avec leur fidèle familier à leurs côtés.
+            </p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
+            <h4 class="h4ClassePerso">Alignement possible</h4>
+            <p>Habituellement neutre strict.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
+                 title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <p>Tissu, cuir.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
+                 title="Illustration : Angelfire, Deviant Art">
+            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <p>Toutes les armes sauf les baguettes.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/06-Dons/MagieAffinite.Inverse.png" title="Illustration : Lorc, Open Game Art">
+            <h4 class="h4ClassePerso">Dons disponibles</h4>
+            <p>Sauvegarde, combat.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Compétences améliorées</h4>
+            <p>Équilibre, discrétion, animaphilie.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheRodeur.pdf">Fiche de personnage au format pdf</a>
+    </div>
 </div>
 
-<div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/ElfeRodeuse.jpg"></p>
-    <p class="pImageRace">Une rôdeuse elfe</p>
+
+<div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/ElfeRodeuse.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Un rôdeuse elfe</p>
 </div>
-  
+
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
     <h3>Sorts et techniques</h3>
-
-    <h4>Flèche puissante</h4>
-    <p>Un tir de flèche qui frappe sa cible avec beaucoup de puissance, mais avec une précision réduite.</p>
-    <h4>Flèche précise</h4>
-    <p>Un tir de flèche qui augmente sensiblement les chances de toucher, mais avec une puissance réduite.</p>
-    <h4>Soin du familier</h4>
-    <p>Soigne le familier du rôdeur des dégâts principaux qu'il a pu subir</p>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Attaque du familier (niveau 1)</h4>
+            <p>Le rôdeur fait attaquer son loup gris (Points de vie : moitié de ceux du rôdeur).</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Flèche précise (niveau 2)</h4>
+            <p>Un tir de flèche qui augmente sensiblement les chances de toucher, mais avec une puissance réduite.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Flèche puissante (niveau 3)</h4>
+            <p>Un tir de flèche qui frappe sa cible avec beaucoup de puissance, mais avec une précision réduite.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Éclaireur bestial (niveau 4)</h4>
+            <p>Le rôdeur envoie son familier en éclaireur.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4>Points de vie et de mana</h4>
+    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
 
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -118,25 +193,131 @@
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : Le nimrod</h3>
-    
-    <p>Le nimrod est un rôdeur expert en archerie et au combat à distance. Il permet d'utiliser les sorts et techniques suivantes : </p>
-    <h4>Flèches multiples</h4>
-    <p>Permet de tirer jusqu'à trois flèches simultanément. Il est possible de tirer sur trois ennmis distincts mais avec une difficulté accrue.</p>
-    <h4>Flèche guidée</h4>
-    <p>Tir de flèche courbé qui permet d'atteindre une cible en mouvement et de s'adapter à ses changements de direction.</p>
-    <h4>Flèche magique</h4>
-    <p>Tir de flèche enchanté qui permet d'infliger des dégâts de type magique aux créatures les plus puissantes.</p>
+
+    <p>Le nimrod est un rôdeur expert en archerie et au combat à distance.</p>
+
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Flèches multiples (niveau 5)</h4>
+            <p>Permet de tirer jusqu'à trois flèches simultanément. Il est possible de tirer sur trois ennemis distincts mais avec une difficulté accrue.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Flèche guidée (niveau 6)</h4>
+            <p>Tir de flèche courbé qui permet d'atteindre une cible en mouvement et de s'adapter à ses changements de direction.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Flèche magique (niveau 7)</h4>
+            <p>Tir de flèche enchanté qui permet d'infliger des dégâts de type magique aux créatures les plus puissantes.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Flèche vénéneuse (niveau 8)</h4>
+            <p>Tir de flèche affaiblissant l'ennemi et réduisant ses réflexes.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 
- <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'animalier</h3>
 
-    <p>L'animalier est un rôdeur très proche de son familier et des animaux sauvages. Il permet d'utiliser les sorts et techniques suivantes :</p>
-    <h4>Fusion animale</h4>
-    <p>Permet un contrôle total sur le familier comme si le rôdeur fusionnait son esprit avec icelui.</p>
-    <h4>Compassion animale</h4>
-    <p>Le rôdeur partage avec son familier l'ensemble des dégâts et des soins subis par l'un ou par l'autre.</p>
-    <h4>Apaisement animal</h4>
-    <p>Apaise une bête ennemie, lui enlevant toute aggressivité et animosité à l'égard du rôdeur ou de ses alliés.</p>
+    <p>L'animalier est un rôdeur très proche de son familier et des animaux sauvages.</p>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Motivation du familier (niveau 5)</h4>
+            <p>L'animalier concentre son esprit sur son familier, augmentant la combativité et les réflexes d'icelui.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Compassion animale (niveau 6)</h4>
+            <p>Le rôdeur partage avec son familier l'ensemble des dégâts et des soins subis pendant 3 tours.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Apaisement animal (niveau 7)</h4>
+            <p>Apaise une bête ennemie, lui enlevant toute agressivité et animosité à l'égard du rôdeur ou de ses alliés.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Appel de la nature (niveau 8)</h4>
+            <p>À proximité des forêts et des collines, le rôdeur peut appeler un ours sauvage pour l'aider au combat.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+            </div>
+        </div>
+    </div>
 </div>

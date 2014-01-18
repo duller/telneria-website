@@ -1,48 +1,123 @@
-<h1>Le magicien</h1>
+<div class="divTitreClasse">
+    <h1 class="titreClasse">Le magicien</h1>
+    <img class="communImages imageLogoClasseFiche" src="ressources/03-Classes/Magicien.png" title="Illustration : Horror Pen, Open Game Art">
+</div>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
-	<h4>Description</h4>
-	<p>Le magicien maîtrise la magie élémentaire et des arcanes comme personne.</p>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-	<h4>Armures</h4>
-	<p>Tissu.</p>
-
-	<h4>Armes</h4>
-	<p>Bâtons, dagues, épées à une mains, baguettes.</p>
-
-	<h4>Alignement</h4>
-	<p>Habituellement loyal neutre.</p>
-
-	<h4>Dons</h4>
-	<p>Magie.</p>
-
-	<h4>Compétences</h4>
-	<p>Concentration, connaissances, psychologie</p>
-    
-    <br /><br />
-    <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheMagicien.pdf">Fiche de personnage au format pdf</a>
-        
+            <h4 class="h4ClassePerso">Description</h4>
+            <p>Le magicien maîtrise la magie élémentaire et des arcanes comme personne.
+            Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.
+            </p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
+            <h4 class="h4ClassePerso">Alignement possible</h4>
+            <p>Habituellement loyal neutre.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
+                 title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <p>Tissu, amulette.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
+                 title="Illustration : Angelfire, Deviant Art">
+            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <p>Bâtons, dagues, baguettes.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/06-Dons/MagieAffinite.Inverse.png" title="Illustration : Lorc, Open Game Art">
+            <h4 class="h4ClassePerso">Dons disponibles</h4>
+            <p>Magie.</p>
+        </div>
+        <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche divSortTechniqueDescriptionBas">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
+            <h4 class="h4ClassePerso">Compétences améliorées</h4>
+            <p>Découverte, création, concentration.</p>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <a class="pdfFichePerso" href="ressources/PdfFichesPerso/FicheMagicien.pdf">Fiche de personnage au format pdf</a>
+    </div>
 </div>
 
-<div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/ImagesRaces/KerfennMagicien.jpg"></p>
-    <p class="pImageRace">Un kerfenn magicien</p>
+
+<div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Un magicien kerfenn</p>
 </div>
-  
+
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-	<h3>Sorts et techniques</h3>
-    <h4>Boule de feu</h4>
-    <p>Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts.</p>
-    <h4>Doigt de givre</h4>
-    <p>Envoie un doigt de givre sur un ennemi, lui infligeant des dégâts et le ralentissant.</p>
-    <h4>Vélocité</h4>
-    <p>Infuse un allié du magicien avec la vélocité des arcanes, lui permettant de se mouveoir plus rapidement.</p>
-
+    <h3>Sorts et techniques</h3>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/boule-de-feu.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Boule de feu (niveau 1)</h4>
+            <p>Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/doigt-givre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Doigt de givre (niveau 2)</h4>
+            <p>Envoie un doigt de givre sur un ennemi, lui infligeant des dégâts et le ralentissant.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/velocite.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Vélocité (niveau 3)</h4>
+            <p>Infuse un allié du magicien avec la vélocité des arcanes, lui permettant de se mouveoir plus rapidement.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/invocation-regenerante.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Invocation régénérante (niveau 4)</h4>
+            <p>Le magicien invoque de la nourriture magique, permettant à ses alliés de regagner des points de vie et de mana.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4>Points de vie et de mana</h4>
+    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
 	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
@@ -118,25 +193,131 @@
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'arcaniste</h3>
-    
-    <p>L'arcaniste est un magicien focalisé sur les arcanes, la forme de magie la plus pure. Il permet d'utiliser les sorts et techniques suivantes : </p>
-    <h4>Divination</h4>
-    <p>Permet de prévoir le mouvement d'un ennemi afin de le toucher à coup sûr ou de permettre à un allié d'éviter un coup mortel.</p>
-    <h4>Contrôle du temps</h4>
-    <p>Permet de figer le présent, seul l'arcaniste peut agir.</p>
-    <h4>Explosion des arcanes</h4>
-    <p>Invoque une concentration de magie à un point précis afin de surcharger l'espace confiné et d'infliger des dégâts à toute la zone.</p>
 
+    <p>L'arcaniste est un magicien focalisé sur les arcanes, la forme de magie la plus pure.</p>
+
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/divination.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Divination (niveau 5)</h4>
+            <p>Permet de prévoir le mouvement d'un ennemi afin de le toucher à coup sûr ou de permettre à un allié d'éviter un coup mortel.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/controle-temps.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Contrôle du temps (niveau 6)</h4>
+            <p>Permet de figer le présent, seul l'arcaniste peut agir.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/explosion-arcanes.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Explosion des arcanes (niveau 7)</h4>
+            <p>Invoque une concentration de magie à un point précis afin de surcharger l'espace confiné et d'infliger des dégâts à toute la zone.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/ouragan-arcanes.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Ouragan des arcanes (niveau 8)</h4>
+            <p>L'arcaniste sature l'air de magie des arcanes, désorientant tous les joueurs et ennemis.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 
- <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3>Classe de prestige : L'élémentaliste</h3>
-    <p>L'élémentaliste est un magicien spécialisé dans les magies élémentaires de la glace et du feu. Il permet d'utiliser les sorts et techniques suivantes :</p>
-    <h4>Invocation élémentaire</h4>
-    <p>L'élémentaliste invoque un élémentaire de feu ou de glace qui se bat pour son invocateur.</p>
-    <h4>Pluie de feu</h4>
-    <p>Fait tomber une pluie de feu dévastatrice dans une zone modérée.</p>
-    <h4>Nova de glace</h4>
-    <p>Génère une explosion de glace à un endroit donné, infligeant des dégâts et gelant les victimes.</p>
+
+    <p>L'élémentaliste est un magicien spécialisé dans les magies élémentaires de la glace et du feu.</p>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueBasDroite">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/invocation-elementaire.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Invocation élémentaire (niveau 5)</h4>
+            <p>L'élémentaliste invoque un élémentaire de feu ou de glace qui se bat pour son invocateur.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/pluie-feu.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Pluie de feu (niveau 6)</h4>
+            <p>Fait tomber une pluie de feu dévastatrice dans une zone modérée.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueSansOmbre">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/nova-glace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Nova de glace (niveau 7)</h4>
+            <p>Génère une explosion de glace à un endroit donné, infligeant des dégâts et gelant les victimes.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+            </div>
+        </div>
+        <div class="divSortTechnique divSortTechniqueHautGauche">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/forteresse-feu.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4>Forteresse de feu (niveau 8)</h4>
+            <p>L'élémentaliste invoque des murs de flammes ravageuses autour de ses ennemis ou de ses alliés.</p>
+            <div class="divSortTechniqueDetails">
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span>
+                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+            </div>
+        </div>
+    </div>
 </div>
