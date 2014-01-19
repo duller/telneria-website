@@ -12,20 +12,20 @@
     <p><span class="titreDebutLigne">Nature impie : </span>&nbsp Tous les démons subissent 50% de dégâts de chaos en moins et 50% de dégâts de sacré en plus.</p>
     <br />
     
-    <h3>Diablotin</h3>
+    <h3 class="h3region">Diablotin</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/demon-tete.png" title="Illustration : Lorc, Open Game Art">
     <p>Démons de petite taille, les diablotins sont des maléficieurs sournois et blagueurs.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp En danger de mort, les diablotins peuvent se téléporter sur de courtes distances.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Boule de chaos</span>&nbsp : 
         le diablotin lance sur ses ennemis une boule infligeant 3+1d4 de dégâts de chaos.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Molosse chaotique</h3>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Molosse chaotique</h3>
     <p>Imposantes bêtes quadrupèdes, les molosses chaotiques sont l'incarnation des monstres des contes pour enfant. Les démons les ont dressées pour la protection et le combat.
         Dôtées d'une mâchoire dévastatrice et entourées de feu, ces créatures démoniaques sont très agressives.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Leur aura de feu inflige à chaque ennemi les attaquant 1d6 de dégâts de chaos.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3 style="margin-bottom:10px;">Asservisseur funeste</h3>
+    <h3 class="h3region">Asservisseur funeste</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/demon-oeil.png" title="Illustration : Lorc, Open Game Art">
     <p>Les asservisseurs funestes sont des démons adeptes de la magie du chaos. Maîtres de la tromperie, ils peuvent intégrer les sociétés humanoïdes et sont à l'origine des possessions
     démoniaques qu'exécrent la populace superstitieuse.</p>
@@ -35,7 +35,7 @@
         <br /><span style="font-style:italic;">Trait du chaos</span>&nbsp : Inflige 10+1d10 de dégâts de chaos à un joueur.
         <br /><span style="font-style:italic;">Possession démoniaque</span>&nbsp : Pénètre l'esprit d'un ennemi et le soumet à sa volonté pour deux tours. Deux tours de recharge.</p>
     
-    <h3>Seigneur démon</h3>
+    <h3 class="h3region">Seigneur démon</h3>
     <p>Les seigneurs démons font partie de la caste dirigeante de la lune Demonos. Êtres dominateurs, ces démons sont de redoutables adversaires ne refusant jamais le combat.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Leur aura démoniaque inflige chaque tour à tous les ennemis 1d10 de dégâts de chaos.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Pyromanie démoniaque</span>&nbsp : 

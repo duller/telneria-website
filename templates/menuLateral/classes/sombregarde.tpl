@@ -7,7 +7,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4 class="h4ClassePerso">Description</h4>
+            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
             <p>Le sombregarde est à l'instar du sorcier un adepte du chaos, 
                 il est cependant plus axé vers le combat à l'arme. Les sombregardes sont d'anciens guerriers initiés aux sortilèges de magie noire.
             </p>
@@ -22,13 +22,13 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
-            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu, cuir, maille, plaque.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
-            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Toutes épées, toutes haches, armes d'hast, toutes masses.</p>
         </div>
     </div>
@@ -57,11 +57,11 @@
 
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-    <h3>Sorts et techniques</h3>
+    <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe des ténèbres (niveau 1)</h4>
+            <h4 class="h4ClassePersoSort">Frappe des ténèbres (niveau 1)</h4>
             <p>Frappe infusée de puissance sombre infligeant de lourds dégâts, réduit les chances de toucher de l'ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -74,7 +74,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Sombre menace (niveau 2)</h4>
+            <h4 class="h4ClassePersoSort">Sombre menace (niveau 2)</h4>
             <p>Le sombregarde use de son affinité avec le Chaos pour soumettre un interlocuteur réticent.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
@@ -89,7 +89,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Vocifération chaotique (niveau 3)</h4>
+            <h4 class="h4ClassePersoSort">Vocifération chaotique (niveau 3)</h4>
             <p>Hurlement démoniaque réduisant les chances de toucher et la défense des ennemis affectés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Porte de l'ombre (niveau 4)</h4>
+            <h4 class="h4ClassePersoSort">Porte de l'ombre (niveau 4)</h4>
             <p>Permet au sombregarde d'invoquer des portails qu'il peut traverser pour apparaître ailleurs sur le champ de bataille.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
@@ -114,10 +114,10 @@
             </div>
         </div>
     </div>
-</div><!--  style="margin-top:10px;" (pour le h4 Points de vie et de mana)-->
+</div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
+    <h4 class="h4ClassePersoPV">Points de vie et de mana</h4>
 
     <table class="tableauxPointsClasse">
         <tr>
@@ -139,7 +139,7 @@
     </table>
 
     <br />
-    <h4>Caractéristiques</h4>        
+    <h4 class="h4ClassePersoCarac">Caractéristiques</h4>        
     <table class="tableauxPointsClasse">
         <tr>
             <td>
@@ -193,7 +193,7 @@
 </div>
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le funeste</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le funeste</h3>
 
     <p>Le funeste est un sombregarde adepte de la puissance du chaos.</p>
 
@@ -201,7 +201,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe du chaos (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Frappe du chaos (niv 5)</h4>
             <p>Puissante frappe de l'arme accompagnée de puissance chaotique, infligeant des dégâts physiques et magiques.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -214,7 +214,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Trait du chaos (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Trait du chaos (niv 6)</h4>
             <p>Sort jeté à un ennemi lui infligeant de lourds dégâts de type chaotique.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
@@ -230,7 +230,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Poigne chaotique (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Poigne chaotique (niv 7)</h4>
             <p>Le funeste attrape l'ennemi de sa puissante poigne et lui assène un coup qui ne peut être esquivé.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -243,7 +243,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Déluge chaotique (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Déluge chaotique (niv 8)</h4>
             <p>Le funeste libère une violente vague d'énergie chaotique infligeant de lourds dégâts à tous les monstres et personnages alentours.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
@@ -259,14 +259,14 @@
 
 
 <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le vampiriste</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le vampiriste</h3>
 
     <p>Le vampiriste est un sombregarde puisant sa force dans la vigueur de ses ennemis.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe de sang (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Frappe de sang (niv 5)</h4>
             <p>Puissante frappe infligeant de lourds dégâts à l'ennemi et lui volant de la vie.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -279,7 +279,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Percée hémophile (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Percée hémophile (niv 6)</h4>
             <p>Coup de taille porté à un ennemi le faisant saigner abondamment jusqu'au trépas.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -296,8 +296,8 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Morsure débilitante (niveau 7)</h4>
-            <p>Le vampiriste plante ses crocs dans la chair de l'ennemi afin de l'immobiliser et de lui voler de la vie.</p>
+            <h4 class="h4ClassePersoSort">Morsure débilitante (niv 7)</h4>
+            <p>Le vampiriste plante ses crocs dans la chair de l'ennemi afin de l'immobiliser et lui voler de la vie.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -309,7 +309,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Sacrifice du sang (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Sacrifice du sang (niv 8)</h4>
             <p>Le vampiriste puise dans sa propre force vitale pour meurtrir son adversaire.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>

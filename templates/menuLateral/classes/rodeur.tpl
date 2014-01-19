@@ -7,7 +7,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4 class="h4ClassePerso">Description</h4>
+            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
             <p>Le rôdeur est un tireur habile ainsi qu'un grand connaisseur 
             des bêtes et des forêts. Experts des arcs et arbalètes, les rôdeurs partent à l'aventure avec leur fidèle familier à leurs côtés.
             </p>
@@ -22,13 +22,13 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
-            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu, cuir.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
-            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Toutes les armes sauf les baguettes.</p>
         </div>
     </div>
@@ -57,11 +57,11 @@
 
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-    <h3>Sorts et techniques</h3>
+    <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Attaque du familier (niveau 1)</h4>
+            <h4 class="h4ClassePersoSort">Attaque du familier (niveau 1)</h4>
             <p>Le rôdeur fait attaquer son loup gris (Points de vie : moitié de ceux du rôdeur).</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -74,7 +74,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Flèche précise (niveau 2)</h4>
+            <h4 class="h4ClassePersoSort">Flèche précise (niveau 2)</h4>
             <p>Un tir de flèche qui augmente sensiblement les chances de toucher, mais avec une puissance réduite.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
@@ -89,7 +89,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Flèche puissante (niveau 3)</h4>
+            <h4 class="h4ClassePersoSort">Flèche puissante (niveau 3)</h4>
             <p>Un tir de flèche qui frappe sa cible avec beaucoup de puissance, mais avec une précision réduite.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Éclaireur bestial (niveau 4)</h4>
+            <h4 class="h4ClassePersoSort">Éclaireur bestial (niveau 4)</h4>
             <p>Le rôdeur envoie son familier en éclaireur.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
+    <h4 class="h4ClassePersoPV">Points de vie et de mana</h4>
 
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -138,7 +138,7 @@
 		</tr>
 	</table>
         <br />
-	<h4>Caractéristiques</h4>
+	<h4 class="h4ClassePersoCarac">Caractéristiques</h4>
 	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
@@ -192,7 +192,7 @@
 </div>
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le nimrod</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le nimrod</h3>
 
     <p>Le nimrod est un rôdeur expert en archerie et au combat à distance.</p>
 
@@ -200,7 +200,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Flèches multiples (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Flèches multiples (niv 5)</h4>
             <p>Permet de tirer jusqu'à trois flèches simultanément. Il est possible de tirer sur trois ennemis distincts mais avec une difficulté accrue.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -213,7 +213,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Flèche guidée (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Flèche guidée (niv 6)</h4>
             <p>Tir de flèche courbé qui permet d'atteindre une cible en mouvement et de s'adapter à ses changements de direction.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
@@ -229,7 +229,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Flèche magique (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Flèche magique (niv 7)</h4>
             <p>Tir de flèche enchanté qui permet d'infliger des dégâts de type magique aux créatures les plus puissantes.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -242,7 +242,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Flèche vénéneuse (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Flèche vénéneuse (niv 8)</h4>
             <p>Tir de flèche affaiblissant l'ennemi et réduisant ses réflexes.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
@@ -258,14 +258,14 @@
 
 
 <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : L'animalier</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : L'animalier</h3>
 
     <p>L'animalier est un rôdeur très proche de son familier et des animaux sauvages.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Motivation du familier (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Motivation du familier (niv 5)</h4>
             <p>L'animalier concentre son esprit sur son familier, augmentant la combativité et les réflexes d'icelui.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -278,7 +278,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Compassion animale (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Compassion animale (niv 6)</h4>
             <p>Le rôdeur partage avec son familier l'ensemble des dégâts et des soins subis pendant 3 tours.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -295,7 +295,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Apaisement animal (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Apaisement animal (niv 7)</h4>
             <p>Apaise une bête ennemie, lui enlevant toute agressivité et animosité à l'égard du rôdeur ou de ses alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -308,7 +308,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Appel de la nature (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Appel de la nature (niv 8)</h4>
             <p>À proximité des forêts et des collines, le rôdeur peut appeler un ours sauvage pour l'aider au combat.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>

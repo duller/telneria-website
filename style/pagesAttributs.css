@@ -20,6 +20,16 @@
     min-height: 140px;
 }
 
+.h3Alignement{
+    margin-left: 80px;
+    text-indent: 10px;
+}
+
+.h3Carac{
+    margin-left: 70px;
+    text-indent: 10px;
+}
+
 /* CSS pour la page des dons */
 .divTiersGauche
 {

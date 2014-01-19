@@ -4,29 +4,29 @@
     <p>Monstres les plus communs des quatre continents de Telneria, les bêtes jouissent d'une intelligence plutôt faible et attaquent allègrement les voyageurs isolés.</p>
     <br />
         
-    <h3>Loup gris</h3>
+    <h3 class="h3region">Loup gris</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/bete-loup.png" title="Illustration : Lorc, Open Game Art">
     <p>Terreurs des villageois, les loups gris se trouvent sur les trois continents du nord à proximité des forêts et des collines.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Tigre blanc</h3>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Tigre blanc</h3>
     <p>Gracieux félins, les tigres blancs sont de redoutables adversaires avec leurs mâchoires puissantes et leurs griffes acérées.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3>Yéti des montagnes</h3>
+    <h3 class="h3region">Yéti des montagnes</h3>
     <p>Bêtes à mi-chemin entre un ours et un humain, les yétis jouissent d'une intelligence remarquable pour des animaux sauvages. Peu agressifs, ils se défendront cependant sans hésiter.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3>Ours brun</h3>
+    <h3 class="h3region">Ours brun</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/bete-patte.png" title="Illustration : Lorc, Open Game Art">
     <p>Imposantes bêtes caniformes, les ours bruns peuvent être croisés dans les forêts et les collines de tous les continents.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Serpent géant</h3>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Serpent géant</h3>
     <p>Énormes créatures reptiliennes, les serpents géants ne sont que légendes pour nombre de Veldriens. Pouvant dépasser les 20 mètres de long, les serpents géants sont de redoutables
     adversaires.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp les serpents géants subissent des dégâts réduits de moitié sur l'ensemble de leur corps. 

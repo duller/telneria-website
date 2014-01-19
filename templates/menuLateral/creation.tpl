@@ -12,7 +12,8 @@
         Un tableau de correspondance est disponible au bas de cette page.</p>
     <p>À l'issue de cette étape, les joueurs peuvent utiliser leur fiche de personnage pour poursuivre la création de leur personnage.</p><br />
 
-    <img class="communImages imageAlignementCreation" src="ressources/02-Creation/Alignement.DarkFang.DA.png" title="Illustration : Dark Fang, Deviant Art">
+    <img class="communImages imageAlignementCreation" style="margin-top:50px;" src="ressources/02-Creation/Alignement.DarkFang.DA.png" 
+         title="Illustration : Dark Fang, Deviant Art">
 
     <h3 class="titreCreation">L'alignement</h3>
     <p>Le joueur doit déterminer son <a href="?Page=menuLateral/alignement">alignement</a>, il faut choisir la composante éthique et la composante morale.

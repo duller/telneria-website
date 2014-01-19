@@ -7,7 +7,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4 class="h4ClassePerso">Description</h4>
+            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
             <p>Le guerrier est un combattant polyvalent et résistant,
             apte à manier tout type d'arme. Les guerriers peuvent devenir soldats, mais restent souvent solitaires, proposant leurs services en tant que mercenaires.
             </p>
@@ -22,13 +22,13 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
-            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu, cuir, maille, plaque, bouclier.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
-            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Toutes les armes sauf les baguettes.</p>
         </div>
     </div>
@@ -57,11 +57,11 @@
 
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-    <h3>Sorts et techniques</h3>
+    <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe perçante (niveau 1)</h4>
+            <h4 class="h4ClassePersoSort">Frappe perçante (niveau 1)</h4>
             <p>Frappe l'ennemi en ignorant ses protections, technique épuisante qui ne peut être utilisée plusieurs fois.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -74,7 +74,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Désarmement (niveau 2)</h4>
+            <h4 class="h4ClassePersoSort">Désarmement (niveau 2)</h4>
             <p>Désarme complètement l'adversaire pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
@@ -89,7 +89,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Brise-genou (niveau 3)</h4>
+            <h4 class="h4ClassePersoSort">Brise-genou (niveau 3)</h4>
             <p>Coup puissant porté au genou de l'ennemi, réduisant fortement sa vitesse de déplacement.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Rudesse de la guerre (niveau 4)</h4>
+            <h4 class="h4ClassePersoSort">Rudesse de la guerre (niveau 4)</h4>
             <p>Le guerrier, habitué aux rudes conditions des campagnes guerrières, se tient prêt à affronter les situations les plus périlleuses.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
+    <h4 class="h4ClassePersoPV">Points de vie et de mana</h4>
     
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -138,7 +138,7 @@
 		</tr>
 	</table>
         <br />
-        <h4>Caractéristiques</h4>
+        <h4 class="h4ClassePersoCarac">Caractéristiques</h4>
 	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
@@ -192,7 +192,7 @@
 </div>
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le barbare</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le barbare</h3>
 
     <p>Le barbare est un guerrier brutal orienté vers un type de combat primitif.</p>
 
@@ -200,7 +200,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Fureur sanguinaire (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Fureur sanguinaire (niv 5)</h4>
             <p>Permet trois frappes simultanées, mais réduit fortement la défense du barbare pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -213,7 +213,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe puissante (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Frappe puissante (niv 6)</h4>
             <p>Frappe puissante portée avec les deux mains du combattant, infligeant le double des dégâts normaux. Nécessite de se tenir en posture d'attaque.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
@@ -229,7 +229,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Cri de guerre (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Cri de guerre (niv 7)</h4>
             <p>Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégas infligés par les alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -242,7 +242,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Charge bestiale (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Charge bestiale (niv 8)</h4>
             <p>Le perd tout contrôle et charge comme un forcené sur son ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
@@ -258,14 +258,14 @@
 
 
 <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le gardien</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le gardien</h3>
 
     <p>Le gardien est un guerrier spécialisé dans le combat à l'armure lourde et au bouclier.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Coup de bouclier (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Coup de bouclier (niv 5)</h4>
             <p>Puissant coup porté avec le bouclier, déstabilisant l'ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -278,7 +278,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Coup railleur (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Coup railleur (niv 6)</h4>
             <p>Frappe violente portée à un ennemi, l'incitant à attaquer le gardien.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -295,7 +295,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Coup incapacitant (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Coup incapacitant (niv 7)</h4>
             <p>Puissante frappe portée à un ennemi réduisant sa défense et sa capacité de déplacement.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -308,7 +308,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Maîtrise héroïque (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Maîtrise héroïque (niv 8)</h4>
             <p>Le gardien se rue sur un ennemi et l'enlace fermement, permettant à ses alliés de frapper plus aisément. Un échec met en grand danger le gardien.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>

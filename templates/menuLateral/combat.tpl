@@ -46,52 +46,62 @@
 
 <div style="max-width:1600px;">
 
-    <div class="divZoneCombatTitre">
+    <div class="divZoneCombatTitre"  style="max-width: 100%;">
         <h2 class="titreCombat">Initiative et actions</h2>
-        <div id="divInitiative" class="divPageCombat">
-
-            <div class="div30">
-                <h3>Initiative</h3>
-                <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art">
-                <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu.</p>
-                <p>L'initiative peut être modifiée négativement si un protagoniste est pris par surprise ou est affairé à autre chose, c'est au MJ de le décider.</p>
-
-
-                <h3>Actions</h3>
-                <p>Les joueurs, ainsi que les monstres et pnj joués par le MJ, peuvent faire une action complète par tour.</p>
-                <br />
-                <p>Sont considérées comme des actions complètes :</p>
-                <ul>
-                    <li>Se déplacer de 10m</li>
-                    <li>Utiliser une compétence</li>
-                    <li>Attaque simple</li>
-                    <li>Lancer un sort / Utiliser une technique</li>
-                    <li>Charger : jet d'équilibre, suivi d'un jet de toucher avec un malus de 2.</li>
-                    <li>Faire un jet de premiers secours.</li>
-                </ul>
-            </div>
-            <div class="div30">
-                <h3>Tour de jeu</h3>
-                <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/cycle.png" title="Illustration : Lorc, Open Game Art">
-                <p>Un tour de jeu est écoulé lorsque tous les protagonistes ont accompli leur action, s'ils ne sont pas évanouis ou décédés.</p>
-                <p>Le maître du jeu peut modifier le tour de jeu en faisant intervenir un protagoniste, il fait alors un jet d'initiative pour le nouvel arrivant.</p>
-                
-                <h3>Demi-actions</h3>
-                <p>Le joueur peut également effectuer plusieurs actions pendant un tour si elles ne sont pas complètes.</p><br />
-                <p>Sont considérés comme des demi-actions :</p>
-                <ul>
-                    <li>Utiliser un don</li>
-                    <li>Sortir son arme ou en changer</li>
-                    <li>Se déplacer de 5m</li>
-                    <li>Se mettre en position de défense, ce qui donne +1 à l'EP (esquive physique).</li>
-                    <li>Se concentrer spirituellement, ce qui donne +1 à l'EM (esquive magique).</li>
-                    <li>Se mettre en position d'attaque, ce qui donne +1 au prochain jet de toucher.</li>
-                </ul>
-            </div>
-            <div class="div40">
+        <div id="divInitiative" class="divPageCombat" style="max-width: 100%;">
+            
+            <div class="div40" style="float:right;">
                 <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.Asthenot.DA.jpg" title="Illustration : Asthenot, Deviant Art">
             </div>
-
+            
+            <div class="div60">
+                <div class="divMoitieGauche">
+                    <h3 class="h3region">Initiative</h3>
+                    <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art">
+                    <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu.</p>
+                    <p>L'initiative peut être modifiée négativement si un protagoniste est pris par surprise ou est affairé à autre chose, c'est au MJ de le décider.</p>
+                </div>
+                <div class="divMoitieGauche">
+                    <h3 class="h3region">Tour de jeu</h3>
+                    <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/cycle.png" title="Illustration : Lorc, Open Game Art">
+                    <p>Un tour de jeu est écoulé lorsque tous les protagonistes ont accompli leur action, s'ils ne sont pas évanouis ou décédés.</p>
+                    <p>Le maître du jeu peut modifier le tour de jeu en faisant intervenir un protagoniste, il fait alors un jet d'initiative pour le nouvel arrivant.</p>
+                </div>
+                    
+            </div>
+                
+            <div class="div60">
+                <div class="divMoitieGauche">
+                    <h3 class="h3region">Actions</h3>
+                    <p>Les joueurs, ainsi que les monstres et pnj joués par le MJ, peuvent faire une action complète par tour.</p>
+                    <br />
+                    <p>Sont considérées comme des actions complètes :</p>
+                    <ul>
+                        <li>Se déplacer de 10m</li>
+                        <li>Utiliser une compétence</li>
+                        <li>Attaque simple</li>
+                        <li>Lancer un sort / Utiliser une technique</li>
+                        <li>Charger : jet d'équilibre, suivi d'un jet de toucher avec un malus de 2.</li>
+                        <li>Faire un jet de premiers secours.</li>
+                    </ul>
+                </div>
+                <div class="divMoitieGauche">
+                    <h3 class="h3region">Demi-actions</h3>
+                    <p>Le joueur peut également effectuer plusieurs actions pendant un tour si elles ne sont pas complètes.</p><br />
+                    <p>Sont considérés comme des demi-actions :</p>
+                    <ul>
+                        <li>Utiliser un don</li>
+                        <li>Sortir son arme ou en changer</li>
+                        <li>Se déplacer de 5m</li>
+                        <li>Se mettre en position de défense, ce qui donne +1 à l'EP (esquive physique).</li>
+                        <li>Se concentrer spirituellement, ce qui donne +1 à l'EM (esquive magique).</li>
+                        <li>Se mettre en position d'attaque, ce qui donne +1 au prochain jet de toucher.</li>
+                    </ul>
+                </div>
+            </div>
+            
+            
+                
         </div>
     </div>
 
@@ -102,7 +112,7 @@
         <div id="divAttaque" class="divPageCombat">
 
             <div class="div30">
-                <h3>Jet de toucher</h3>
+                <h3 class="h3region">Jet de toucher</h3>
                 <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/diving-dagger.png" title="Illustration : Lorc, Open Game Art">
                 <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé 20 de toucher pour savoir si son attaque est un succès ou un échec. 
                     Selon le type d'attaque, une caractéristique différente est utilisée pour pondérer le jet.</p>
@@ -122,7 +132,7 @@
             </div>
 
             <div class="div30">
-                <h3>Sorts et techniques</h3>
+                <h3 class="h3region">Sorts et techniques</h3>
                 <img class="communImages" style="max-height:80px;float:right;margin:0 0 0 10px;" src="ressources/14-Combat/dripping-goo.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les sorts et techniques sont détaillés pour chacune des classes de personnages. Ils ont un coût en mana défini auquel s'ajoute le niveau du personnage.</p>
                 <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par la sagesse :</p>
@@ -145,14 +155,14 @@
         <h2 class="titreCombat">Modificateurs de toucher : esquive physique (EP) et esquive magique (EM)</h2>
         <div id="divModificateurs" class="divPageCombat">
             <div class="divMoitieGauche">
-                <h3>Attaques physiques</h3>
+                <h3 class="h3region">Attaques physiques</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/hammer-drop.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec l'esquive physique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés en fonction de l'arme utilisée.</p>
                 <p>L'esquive physique est déterminée à partir de l'esquive physique de base, qui est de 10, des éventuelles pièces d'armure, de la dextérité et du modificateur de taille.</p>
             </div>
             <div class="divMoitieDroite">
-                <h3>Attaques magiques</h3>
+                <h3 class="h3region">Attaques magiques</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/unfriendly-fire.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque magique, il faut comparer le jet de toucher avec l'esquive magique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés par le sort utilisé.</p>
@@ -161,7 +171,7 @@
             </div>
             <div style="text-align:center;">
                 <div style="display:inline-block;">
-                    <h4>Tableau du modificateur de taille :</h4>
+                    <h4 style="box-shadow: none;">Tableau du modificateur de taille :</h4>
                     <table>
                         <tr>
                             <td style="height: 30px">
@@ -285,14 +295,14 @@
             </div>
             
             <div class="divMoitieGauche">
-                <h3>Attaques et sorts de zone</h3>
+                <h3 class="h3region">Attaques et sorts de zone</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/arrow-flights.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque ou d'un sort de zone, le fonctionnement est le même que pour les attaques simples et seul un jet de dé est effectué.</p>
                 <p>Pour chaque monstre ou joueur visé, si le jet est supérieur à leur EP ou EM, ce protagoniste est affecté par l'effet.</p>
             </div>
             
             <div class="divMoitieDroite">
-                <h3>Dégâts infligés</h3>
+                <h3 class="h3region">Dégâts infligés</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/broken-bone.png" title="Illustration : Lorc, Open Game Art">
                 <p>Lorsqu'une attaque est un succès, les dégâts infligés sont ceux du sort lancé ou de l'arme utilisée. À ces dégâts, il convient d'ajouter le niveau du joueur.</p>
                 <p>Il est également possible d'attaquer à mains nues, les dégâts infligés sont alors de 1d1 plus le niveau.</p>
@@ -307,13 +317,13 @@
         <div id="divIncapacite" class="divPageCombat">
             <div class="divEtroite">
                 <img class="communImages imageCrane" src="ressources/14-Combat/Crane.jpg" title="Illustration : Inconnu">
-                <h3>Mise hors de combat</h3>
+                <h3 class="h3region" style="margin-right:180px;">Mise hors de combat</h3>
                 <p>Lorsqu'un joueur ou un monstre voit ses points de vie atteindre 0, il devient inconscient et ne peut plus mener d'actions. Il perd ensuite 1 point de vie par tour.
                     Si les points de vie d'un joueur atteignent -10, l'intéressé est mort et ni la fin du combat ni des soins d'un autre joueur ne peuvent rétablir la victime.</p>
                 <p>Pour ramener un personnage à la vie, il faut utiliser un sort de résurrection ou trouver un PNJ capable de le faire.</p>
             </div>
             <div class="divMoitieGauche">
-                <h3>Regagner conscience : jet de Dernier espoir</h3>
+                <h3 class="h3region">Regagner conscience : jet de Dernier espoir</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/back-pain.png" title="Illustration : Lorc, Open Game Art">
                 <p>Lorsqu'un joueur voit ses points de vie descendre sous la barre des 1 points de vie, il perd conscience et ne peut plus effectuer d'action. 
                     Cependant, à chaque tour, il peut tenter de regagner conscience avec un jet de Dernier espoir.</p>
@@ -322,7 +332,7 @@
                 <p>Ce regain de conscience peut être tenté à chaque début de tour pour le personnage en question.</p>
             </div>
             <div class="divMoitieDroite">
-                <h3>Récupération des blessures : jet de Premiers secours</h3>
+                <h3 class="h3region">Récupération des blessures : jet de Premiers secours</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/cut-palm.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les points de vie peuvent être regagnés par les sorts de soins, les potions de vie ou les premiers secours. 
                     Les premiers secours permettent à un joueur de porter assitance à un coéquipier afin qu'il reprenne le combat.

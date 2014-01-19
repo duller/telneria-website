@@ -19,7 +19,7 @@
 
     <h2>Épées</h2>
 
-    <h3>À une main : JdT normal</h3>
+    <h3 class="h3equipement">À une main : JdT normal</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Flare.Epee1M.png" title="Illustration : Flare RPG">
 
     <table>
@@ -53,7 +53,7 @@
         </tr>
     </table>
 
-    <h3>À deux mains (requiert niveau 2) : JdT-1</h3>
+    <h3 class="h3equipement">À deux mains (requiert niveau 2) : JdT-1</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Epee2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -89,7 +89,7 @@
 
     <h2>Haches</h2>
 
-    <h3>À une main : JdT-1</h3>
+    <h3 class="h3equipement">À une main : JdT-1</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache1M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -123,7 +123,7 @@
         </tr>
     </table>
 
-    <h3>À deux mains (requiert niveau 2) : JdT-2</h3>
+    <h3 class="h3equipement">À deux mains (requiert niveau 2) : JdT-2</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -161,7 +161,7 @@
     <p style="margin: -5px 0 0 0;">En visant la tête de l'ennemi (JdT -3 1M, -4 2M), un coup porté avec une masse assomme l'ennemi pour 1 tour.</p>
     <p style="margin: 0 0 -5px 0;">Si le coup assommant échoue mais que le score normal aurait touché, l'attaque porte avec -1 dégât sans assommer.</p>
     
-    <h3>À une main : JdT normal</h3>
+    <h3 class="h3equipement">À une main : JdT normal</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Masse1M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -195,7 +195,7 @@
         </tr>
     </table>
 
-    <h3>À deux mains (requiert niveau 2) : JdT -1</h3>
+    <h3 class="h3equipement">À deux mains (requiert niveau 2) : JdT -1</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Masse2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>

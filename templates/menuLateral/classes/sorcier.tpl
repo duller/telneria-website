@@ -7,9 +7,9 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4 class="h4ClassePerso">Description</h4>
-            <p>Le sorcier est un sectateur de magie noire, il cherche continuellement à gagner en 
-            puissance et à s'affirmer face à ses compétiteurs. Adeptes du chaos, les sorciers contrôlent les morts-vivants et les démons pour dominer leurs ennemis.
+            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <p>Le sorcier est un adepte de magie noire, il cherche continuellement à gagner en 
+            puissance et à s'affirmer face à ses compétiteurs. Sectateurs du chaos, les sorciers contrôlent les morts-vivants et les démons pour dominer leurs ennemis.
             </p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">
@@ -22,13 +22,13 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
-            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu, amulette.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
-            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Bâtons, dagues, baguettes.</p>
         </div>
     </div>
@@ -57,11 +57,11 @@
 
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-    <h3>Sorts et techniques</h3>
+    <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/main-ombre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Main d'ombre (niveau 1)</h4>
+            <h4 class="h4ClassePersoSort">Main d'ombre (niveau 1)</h4>
             <p>Frappe l'ennemi avec un sort de ténèbre, lui infligeant des dégâts et réduisant ses chances de toucher.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -74,7 +74,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/voile-terreur.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Voile de terreur (niveau 2)</h4>
+            <h4 class="h4ClassePersoSort">Voile de terreur (niveau 2)</h4>
             <p>Ensevelit l'ennemi sous un voile de ténèbres, lui infligeant des dégâts et l'incitant à fuir brièvement.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
@@ -89,7 +89,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/rire-demoniaque.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Rire sadique (niveau 3)</h4>
+            <h4 class="h4ClassePersoSort">Rire sadique (niveau 3)</h4>
             <p>Le sorcier adresse un rire démoniaque à un ennemi, réduisant son esquive physique et ses chances de toucher.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/moisson-ame.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Moisson d'âme (niveau 4)</h4>
+            <h4 class="h4ClassePersoSort">Moisson d'âme (niveau 4)</h4>
             <p>Le sorcier puise dans l'âme de trois ennemis présents, transférant leur énergie au sorcier ou à ses alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
+    <h4 class="h4ClassePersoPV">Points de vie et de mana</h4>
     
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -138,7 +138,7 @@
 		</tr>
 	</table>
         <br />
-	<h4>Caractéristiques</h4>
+	<h4 class="h4ClassePersoCarac">Caractéristiques</h4>
 	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
@@ -192,7 +192,7 @@
 </div>
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le nécromant</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le nécromant</h3>
 
     <p>Le nécromant est un sorcier versé dans l'art de communier avec les morts-vivants.</p>
 
@@ -200,7 +200,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/reanimation-morbide.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Réanimation morbide (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Réanimation morbide (niv 5)</h4>
             <p>Réanime le corps sans vie d'un personnage-joueur ou d'un monstre décédé.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -213,8 +213,8 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/mur-dossements.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Mur d'ossement (niveau 6)</h4>
-            <p>Dresse sur la longueur ou en cercle à l'emplacement désiré un mur d'ossement très résistant.</p>
+            <h4 class="h4ClassePersoSort">Mur d'ossements (niv 6)</h4>
+            <p>Dresse sur la longueur ou en cercle à l'emplacement désiré un mur d'ossements très résistant.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -229,7 +229,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/controle-morts-vivants.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Contrôle des morts-vivants (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Contrôle des morts-vivants (niv 7)</h4>
             <p>Permet de prendre le contrôle d'un squelette ou d'un zombie ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -242,7 +242,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/necrose-infectieuse.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Nécrose infectieuse (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Nécrose infectieuse (niv 8)</h4>
             <p>Le nécromant accentue la nécrose d'une plaie ennemie, empêche sa guérison et accélère ses effets délétères.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
@@ -258,14 +258,14 @@
 
 
 <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le démoniste</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le démoniste</h3>
 
     <p>Le démoniste est un sorcier spécialisé dans la communion avec les créatures démoniaques.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/invocation-demoniaque.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Invocation démoniaque (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Invocation démoniaque (niv 5)</h4>
             <p>Permet d'invoquer un démon mineur qui se bat pour le démoniste.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -278,7 +278,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/preeminence-occulte.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Prééminence occulte (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Prééminence occulte (niv 6)</h4>
             <p>Puise dans sa supériorité magique pour réduire au silence un lanceur de sorts ennemi et obtenir un bonus de dégâts magique pour le prochain sort.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -295,7 +295,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/controle-demons.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Contrôle des démons (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Contrôle des démons (niv 7)</h4>
             <p>Permet de prendre le contrôle d'un démon inférieur ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -308,7 +308,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/1-Sorcier/terreur-demoniaque.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Terreur démoniaque (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Terreur démoniaque (niv 8)</h4>
             <p>Le démoniste prend une apparence terrifiante, faisant déserter les créatures de petite et moyenne taille.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>

@@ -1,7 +1,7 @@
 <h1>Les monstres</h1>
 
 <div style="margin-bottom:10px;">
-    <h3>Préparer et gérer les monstres en combat</h3>
+    <h3 class="h3region">Préparer et gérer les monstres en combat</h3>
     <p>Pour chaque monstre utilisé lors d'un combat, il faut préparer un  ensemble de caractéristiques. 
         Ces caractéristiques dépendent du type de monstre et sont décrites dans les pages spécifiques ci-dessous.</p>
 </div>
@@ -74,7 +74,7 @@
 </div>
 
 <div style="float:left; max-width:500px;margin:10px;clear:left;">
-    <h3>Le butin des monstres</h3>
+    <h3 class="h3region">Le butin des monstres</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/creation-or.png" title="Illustration : Lorc, Open Game Art">
     <p>À l'issue du combat, tous les joueurs ayant participé au combat se partagent un nombre de points d'expérience et de pièces d'or déterminé à partir de la formule suivante :
     (Points de vie du monstre / Niveau du monstre) x 10 arrondi au supérieur.</p>
@@ -83,7 +83,7 @@
 </div>
 
 <div style="float:left;max-width:500px;margin:10px;">
-    <h3>Les monstres personnalisés</h3>
+    <h3 class="h3region">Les monstres personnalisés</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/creation-monstre.png" title="Illustration : Lorc, Open Game Art">
     <p>Il est également possible de créer n'importe quel monstre imaginaire.
         Il faut cependant faire attention à ce que ses caractéristiques amènent à une difficulté appropriée par rapport au niveau des joueurs.</p>

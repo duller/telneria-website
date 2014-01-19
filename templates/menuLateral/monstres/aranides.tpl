@@ -7,19 +7,19 @@
     
     <p><span class="titreDebutLigne">Nature insectoïde : </span>&nbsp les aranides régénèrent [niveau] points de vie à chaque tour.</p>
     
-    <h3>Ouvrier aranide</h3>
+    <h3 class="h3region">Ouvrier aranide</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/aran-tete.png" title="Illustration : Lorc, Open Game Art">
     <p>Type d'aranides le plus répandu, les ouvriers creusent les tunnels et transportent les oeufs pondus par les reines couveuses. Piètres combattants, les ouvriers tentent tout de même 
     de se défendre contre les attaquants.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Gardien des tunnels</h3>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Gardien des tunnels</h3>
     <p>Accompagnant les ouvriers dans les zones découvertes ou postés aux entrées des tunnels aranides, les gardiens des tunnels protègent les colonies des intrus et des prédateurs.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3>Protecteur des oeufs</h3>
+    <h3 class="h3region">Protecteur des oeufs</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/aran-mandib.png" title="Illustration : Lorc, Open Game Art">
     <p>Garde rapprochée des reines couveuses, les protecteurs aranides sont prêts à se sacrifier pour défendre leur reine et ses oeufs. Robustes créatures, les protecteurs
     sont taillées pour le combat et sont très difficiles à terrasser.</p>
@@ -27,7 +27,7 @@
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Régénération aranide</span>&nbsp : le protecteur peut faire repousser un de ses membres coupés
     et regagne 2d20 de vie. Deux tours de recharge.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Reine couveuse</h3>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Reine couveuse</h3>
     <p>Colossales créatures résidant au plus profond des terriers aranides, les reines couveuses pondent les oeufs pour toute sa colonie. Casanières, les reines couveuses ne sortent 
     jamais de leur terrier pour attaquer les autres espèces, mais elles se défendent ardemment face aux intrus.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp La régénération insectoïde des reines couveuses est triplée.</p>

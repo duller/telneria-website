@@ -7,7 +7,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4 class="h4ClassePerso">Description</h4>
+            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
             <p>Le magicien maîtrise la magie élémentaire et des arcanes comme personne.
             Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.
             </p>
@@ -22,13 +22,13 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
-            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu, amulette.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
-            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Bâtons, dagues, baguettes.</p>
         </div>
     </div>
@@ -57,11 +57,11 @@
 
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-    <h3>Sorts et techniques</h3>
+    <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/boule-de-feu.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Boule de feu (niveau 1)</h4>
+            <h4 class="h4ClassePersoSort">Boule de feu (niveau 1)</h4>
             <p>Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -74,7 +74,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/doigt-givre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Doigt de givre (niveau 2)</h4>
+            <h4 class="h4ClassePersoSort">Doigt de givre (niveau 2)</h4>
             <p>Envoie un doigt de givre sur un ennemi, lui infligeant des dégâts et le ralentissant.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
@@ -89,7 +89,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/velocite.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Vélocité (niveau 3)</h4>
+            <h4 class="h4ClassePersoSort">Vélocité (niveau 3)</h4>
             <p>Infuse un allié du magicien avec la vélocité des arcanes, lui permettant de se mouveoir plus rapidement.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/invocation-regenerante.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Invocation régénérante (niveau 4)</h4>
+            <h4 class="h4ClassePersoSort">Invocation régénérante (niveau 4)</h4>
             <p>Le magicien invoque de la nourriture magique, permettant à ses alliés de regagner des points de vie et de mana.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
+    <h4 class="h4ClassePersoPV">Points de vie et de mana</h4>
 	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
@@ -137,7 +137,7 @@
 		</tr>
 	</table>
         <br />
-	<h4>Caractéristiques</h4>
+	<h4 class="h4ClassePersoCarac">Caractéristiques</h4>
 	<table class="tableauxPointsClasse">
 		<tr>
 			<td>
@@ -192,7 +192,7 @@
 </div>
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : L'arcaniste</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : L'arcaniste</h3>
 
     <p>L'arcaniste est un magicien focalisé sur les arcanes, la forme de magie la plus pure.</p>
 
@@ -200,7 +200,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/divination.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Divination (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Divination (niv 5)</h4>
             <p>Permet de prévoir le mouvement d'un ennemi afin de le toucher à coup sûr ou de permettre à un allié d'éviter un coup mortel.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -213,7 +213,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/controle-temps.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Contrôle du temps (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Contrôle du temps (niv 6)</h4>
             <p>Permet de figer le présent, seul l'arcaniste peut agir.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
@@ -229,7 +229,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/explosion-arcanes.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Explosion des arcanes (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Explosion des arcanes (niv 7)</h4>
             <p>Invoque une concentration de magie à un point précis afin de surcharger l'espace confiné et d'infliger des dégâts à toute la zone.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -242,7 +242,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/ouragan-arcanes.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Ouragan des arcanes (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Ouragan des arcanes (niv 8)</h4>
             <p>L'arcaniste sature l'air de magie des arcanes, désorientant tous les joueurs et ennemis.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
@@ -258,14 +258,14 @@
 
 
 <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : L'élémentaliste</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : L'élémentaliste</h3>
 
     <p>L'élémentaliste est un magicien spécialisé dans les magies élémentaires de la glace et du feu.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/invocation-elementaire.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Invocation élémentaire (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Invocation élémentaire (niv 5)</h4>
             <p>L'élémentaliste invoque un élémentaire de feu ou de glace qui se bat pour son invocateur.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -278,7 +278,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/pluie-feu.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Pluie de feu (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Pluie de feu (niv 6)</h4>
             <p>Fait tomber une pluie de feu dévastatrice dans une zone modérée.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -295,7 +295,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/nova-glace.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Nova de glace (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Nova de glace (niv 7)</h4>
             <p>Génère une explosion de glace à un endroit donné, infligeant des dégâts et gelant les victimes.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -308,7 +308,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/forteresse-feu.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Forteresse de feu (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Forteresse de feu (niv 8)</h4>
             <p>L'élémentaliste invoque des murs de flammes ravageuses autour de ses ennemis ou de ses alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>

@@ -9,7 +9,7 @@
         au comportement naturellement imprévisible des joueurs.</p>
     <p>Voici un description sommaire d'un scénario possible pour une partie de "Les légendes de Telneria".</p>
 
-    <h3>La tour maudite</h3>
+    <h3 style="text-indent:20px;margin-right:150px;">La tour maudite</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/12-Preparation/prep-chateau.png" title="Illustration : Lorc, Open Game Art">
     <p>Les personnages-joueurs se connaissent déjà et se rendent dans la cité d'Estrhan à l'est de Veldris (tous les lieux évoqués ici sont situés sur la carte du monde dans la section Monde). Le bruit court qu'une ancienne tour abandonnée au nord du fleuve est le repère
         d'un groupe de fanatiques qui sacrifient des humains pour apaiser la colère des esprits des forêts.</p>

@@ -11,27 +11,27 @@
     <p><span class="titreDebutLigne">Nature élémentaire : </span>&nbsp Réduit tous les dégâts de nature subis de moitié.</p>
     <br />
         
-    <h3>Élémentaires d'eau</h3>
+    <h3 class="h3region">Élémentaires d'eau</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/elem-crystal.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations de l'eau, ces élémentaires deviennent très résistants dans les zones aquatiques.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Tous les dégâts subis réduits de [niveau] si le combat a lieu dans une zone humide.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Maelström</span>&nbsp :
         L'élémentaire d'eau invoque un puissant maelström, infligeant des dégâts à tous les joueurs présents.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Élémentaires d'air</h3>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Élémentaires d'air</h3>
     <p>Incarnations de l'air, ces élémentaires peuvent se déplacer très rapidement dans toutes les directions.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Déplacement porté à 60 mètres au lieu de 10, et peut enchaîner immédiatement une attaque.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Cyclone</span>&nbsp : 
         l'élémentaire d'air repousse violemment tous les ennemis présents au corps-à-corps à 10 mètres de lui, leur infligeant des dégâts.</p>
     
-    <h3>Élémentaires de feu</h3>
+    <h3 class="h3region">Élémentaires de feu</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/elem-ifrit.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations du feu, ces élémentaires peuvent immoler les chairs et les armures les plus résistantes.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts infligés doublés par rapport aux autres élémentaires.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Immolation</span>&nbsp : 
         l'élémentaire immole deux adversaires, le plus proche et le plus éloigné de lui.</p>
     
-    <h3 style="clear:both;padding-top:20px;">Élémentaires de terre</h3>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Élémentaires de terre</h3>
     <p>Incarnations de la terre, ces élémentaires sont résistants aux attaques physiques et utilisent leur masse pour vaincre ses adversaires.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts physiques subis réduits de [niveau].</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Choc terrestre</span>&nbsp :

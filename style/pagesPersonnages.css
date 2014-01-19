@@ -68,7 +68,7 @@
     float:left;
     width:25%;
     min-height:408px;
-    box-shadow: 0 0 5px #666;
+    box-shadow: 0 0 3px #666;
 
     margin-top:10px;
     margin-left:1%;
@@ -111,6 +111,11 @@
 .classesGuerre
 {
     margin-left: 3%;
+}
+
+.h4choixClasse{
+    margin-left: 65px;
+    text-indent: 10px;
 }
 
 
@@ -156,6 +161,46 @@
 .h4ClassePerso
 {
     margin-top:10px;
+    text-indent:10px;
+    margin-right:90px;
+}
+
+.h4ClassePersoSort{
+    margin-right:0px;
+    text-indent:5px;
+    margin-left:80px;
+}
+
+.h4ClassePersoDescription
+{
+    margin-right:10px;
+}
+
+.h4ClassePersoArmure
+{
+    margin-right:75px;
+}
+
+.h4ClassePersoArmes
+{
+    margin-right:110px;
+}
+
+.h4ClassePersoPV
+{
+    box-shadow:none;
+    margin-top:10px;
+}
+
+.h4ClassePersoCarac
+{
+    box-shadow:none;
+}
+
+.h3ClassesPerso
+{
+    /*margin-right:20%;*/
+    text-indent:20px;
 }
 
 .divSortTechniqueSansOmbre
@@ -166,21 +211,23 @@
 .divSortTechniqueBasDroite
 {
     /*border-radius: 0 0 10px 0;*/
-    box-shadow: 1px 1px 1px 0px grey;
+    /*box-shadow: 1px 1px 1px 0px grey;*/
 }
 
 .divDescriptionRaceOmbre
 {
     border-radius: 10px;
-    box-shadow: 1px 1px 1px 0px grey;
+    /*box-shadow: 1px 1px 1px 0px grey;*/
     padding: 1%;
     width:44%;
 }
 
 .divSortTechniqueHautGauche
 {
+    
+    /*box-shadow: -1px -1px 1px 0px grey;*/
+    
     /*border-radius: 10px 0 0 0;*/
-    box-shadow: -1px -1px 1px 0px grey;
     /*0px 3px 3px -3px black (en bas)*/
     /*0px -3px 3px -3px black (en haut)*/
     /*3px 0px 3px -3px black (à droite)*/
@@ -190,25 +237,25 @@
 .divSortTechniqueHautDroite
 {
     /*border-radius: 0 10px 0 0;*/
-    box-shadow: 1px -1px 1px 0px grey;
+    /*box-shadow: 1px -1px 1px 0px grey;*/
 }
 
 .divSortTechniqueHaut
 {
     border-radius: 10px;
-    box-shadow: 0px -3px 1px -2px grey;
+    /*box-shadow: 0px -3px 1px -2px grey;*/
 }
 
 .divSortTechniqueDroite
 {
     border-radius: 10px;
-    box-shadow: 3px 0px 1px -2px grey;
+    /*box-shadow: 3px 0px 1px -2px grey;*/
 }
 
 .divSortTechniqueGauche
 {
     border-radius: 10px;
-    box-shadow: -3px 0px 1px -2px grey;
+    /*box-shadow: -3px 0px 1px -2px grey;*/
 }
 
 .divSortTechniqueDescription
@@ -252,6 +299,7 @@
 {
     display: table-cell;
     text-indent: 0px;
+    text-align: left;
 }
 
 .classeImage
@@ -326,6 +374,7 @@
 .sousTitre4Race
 {
     margin-top:0px;
+    text-indent:10px;
 }
 
 .sousTitre3Race
@@ -334,6 +383,8 @@
     margin-top:20px;
     margin-bottom: 0px;
     padding-top:20px;
+    box-shadow: 0px 4px 2px -4px gray;
+    text-indent:10px;
 }
 
 .aClasseDispo
@@ -358,6 +409,6 @@
     font-size: 16px;
     font-weight: bold;
     color : #B9121B;
-    text-shadow: 0.1em 0.1em 0.9em #555;
+    text-shadow: 0.1em 0.1em 0.9em #777;
     margin-top: 5px;
 }

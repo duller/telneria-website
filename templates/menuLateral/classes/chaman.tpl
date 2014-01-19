@@ -7,7 +7,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4 class="h4ClassePerso">Description</h4>
+            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
             <p>Le chaman est un guide spirituel et un professeur de magie.
             Supplantés par les clercs dans les sociétés humaines, les chamans se concentrent à présent sur la maîtrise des éléments et leur étude.
             </p>
@@ -22,13 +22,13 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
-            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu, cuir, maille, bouclier, amulette.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
-            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Dagues, toutes haches, bâtons, toutes masses.</p>
         </div>
     </div>
@@ -57,11 +57,11 @@
 
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-    <h3>Sorts et techniques</h3>
+    <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe imprégnée (niveau 1)</h4>
+            <h4 class="h4ClassePersoSort">Frappe imprégnée (niveau 1)</h4>
             <p>Imprègne l'arme de puissance élémentaire, infligeant des dégâts plus importants et des dégâts de type magique.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -74,7 +74,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Trait de foudre (niveau 2)</h4>
+            <h4 class="h4ClassePersoSort">Trait de foudre (niveau 2)</h4>
             <p>Un puissant sort permettant d'infliger des dégâts de foudre à un ennemi unique.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
@@ -89,7 +89,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Vague de soins (niveau 3)</h4>
+            <h4 class="h4ClassePersoSort">Vague de soins (niveau 3)</h4>
             <p>Soins canalisé qui permet de soigner jusqu'à trois alliés par rebond.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
@@ -102,7 +102,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Voile des esprits (niveau 4)</h4>
+            <h4 class="h4ClassePersoSort">Voile des esprits (niveau 4)</h4>
             <p>Le chaman fait appel aux esprits pour dissimuler son groupe au regard des ennemis.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
+    <h4 class="h4ClassePersoPV">Points de vie et de mana</h4>
     
     <table class="tableauxPointsClasse">
             <tr>
@@ -139,7 +139,7 @@
     </table>
 
     <br />
-    <h4>Caractéristiques</h4>
+    <h4 class="h4ClassePersoCarac">Caractéristiques</h4>
     
     <table class="tableauxPointsClasse">
             <tr>
@@ -194,7 +194,7 @@
 </div>
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le totémiste</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le totémiste</h3>
 
     <p>Le totémiste est un chaman versé dans les arts mystiques des totems.</p>
 
@@ -202,7 +202,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Totem de terre (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Totem de terre (niv 5)</h4>
             <p>Invoque un totem de terre apportant protection au chaman et ses alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -215,7 +215,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Totem d'eau (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Totem d'eau (niv 6)</h4>
             <p>Invoque un totem d'eau permettant de soigner le chaman et ses alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
@@ -231,7 +231,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Totem de foudre (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Totem de foudre (niv 7)</h4>
             <p>Invoque un totem de foudre permettant d'infliger des dégâts de foudre à trois ennemis proches. Le sort saute de monstre en monstre, perdant en intensité à chaque saut.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -244,7 +244,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Totem de feu (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Totem de feu (niv 8)</h4>
             <p>Invoque un totem de feu, infligeant des dégâts de feu tout autour du totem, même aux alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
@@ -260,14 +260,14 @@
 
 
 <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le mentaliste</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le mentaliste</h3>
 
     <p>Le mentaliste est un chaman adepte de la maîtrise des esprits mortels.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Immobilisation (niveau 5)</h4>
+            <h4 class="h4ClassePersoSort">Immobilisation (niv 5)</h4>
             <p>Pénètre l'esprit d'un ennemi afin de l'empêcher de faire tout mouvement.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -280,7 +280,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Lévitation des armes (niveau 6)</h4>
+            <h4 class="h4ClassePersoSort">Lévitation des armes (niv 6)</h4>
             <p>Contrôle psychique des armes du chaman à distance, permettant d'infliger des dégâts sans se mettre en danger.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -297,7 +297,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Contrôle mental (niveau 7)</h4>
+            <h4 class="h4ClassePersoSort">Contrôle mental (niv 7)</h4>
             <p>Contrôle total de l'esprit d'un ennemi, permettant de le faire agir selon la volonté du mentaliste.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -310,7 +310,7 @@
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Vague assommante (niveau 8)</h4>
+            <h4 class="h4ClassePersoSort">Vague assommante (niv 8)</h4>
             <p>Le mentaliste projette une vague d'énergie mentale autour de lui, assommant tous les ennemis pour un tour.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>

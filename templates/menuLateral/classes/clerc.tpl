@@ -7,7 +7,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
-            <h4 class="h4ClassePerso">Description</h4>
+            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
             <p>Le clerc est un homme saint, il cherche à honorer les divinités du sacré et à transmettre ses préceptes à autrui. 
             Les clercs ont accompagné les telnastes dans leur conquête du pouvoir, mais se cantonnent à un rôle plus spirituel que temporel.
             </p>
@@ -22,13 +22,13 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
-            <h4 class="h4ClassePerso">Armures disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
-            <h4 class="h4ClassePerso">Armes disponibles</h4>
+            <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Bâtons, dagues, masses à une main, baguettes.</p>
         </div>
     </div>
@@ -57,11 +57,11 @@
 
 
 <div class="sortsClasse communDivClasseMarges communDivClasseContour">
-    <h3>Sorts et techniques</h3>
+    <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Châtiment céleste (niveau 1)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/chatiment-celeste.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Châtiment céleste (niveau 1)</h4>
             <p>Frappe l'ennemi avec un jet de lumière sacrée.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -73,8 +73,8 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Soins de lien (niveau 2)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/priere-lien.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Soins de lien (niveau 2)</h4>
             <p>Soigne un personnage au choix ainsi qu'un deuxième personnage pour un montant plus faible.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
@@ -88,8 +88,8 @@
     </div>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Adjuration (niveau 3)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/adjuration.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Adjuration (niveau 3)</h4>
             <p>Frappe un mort-vivant ou un démon avec un jet de lumière sacrée, lui inflige des dégâts et le ralentit.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
@@ -101,8 +101,8 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Prosélytisme (niveau 4)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/proselytisme.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Prosélytisme (niveau 4)</h4>
             <p>Le clerc fait preuve de tact et de diplomatie pour apaiser un interlocuteur agressif ou récalcitrant.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
@@ -117,7 +117,7 @@
 </div>
 
 <div class="classeTableaux communDivClasseMarges communDivClasseContour">
-    <h4 style="margin-top:10px;">Points de vie et de mana</h4>
+    <h4 class="h4ClassePersoPV">Points de vie et de mana</h4>
     
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -139,7 +139,7 @@
 	</table>
 
         <br />
-        <h4>Caractéristiques</h4>
+        <h4 class="h4ClassePersoCarac">Caractéristiques</h4>
     
 	<table class="tableauxPointsClasse">
 		<tr>
@@ -194,15 +194,15 @@
 </div>
 
 <div class="classePrestige1 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le prêtre</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le prêtre</h3>
 
     <p>Le prêtre est un clerc dévolu à la transmission de la parole de la lumière sacrée.</p>
 
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Résurrection (niveau 5)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/resurrection.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Résurrection (niv 5)</h4>
             <p>Ressucite un personnage-joueur mort, peut être utilisé en combat.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -214,8 +214,8 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Prière de soins (niveau 6)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/soins-priere.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Prière de soins (niv 6)</h4>
             <p>Soigne l'ensemble des personnages-joueurs qui accompagnent le prêtre.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
@@ -230,8 +230,8 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Soins majeurs (niveau 7)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/soins-majeurs.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Soins majeurs (niv 7)</h4>
             <p>Soigne le personnage-joueur choisi de toutes ses blessures mortelles.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -243,8 +243,8 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Déferlement sacré (niveau 8)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/deferlement.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Déferlement sacré (niv 8)</h4>
             <p>Le prêtre se concentre intensément, inondant le champ de bataille de lumière sacrée, infligeant des dégâts aux ennemis et soignant les alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
@@ -260,14 +260,14 @@
 
 
 <div class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3>Classe de prestige : Le moine</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : Le moine</h3>
 
     <p>Le moine est un clerc spécialisé dans le combat au corps-à-corps.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe inspirée (niveau 5)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/frappe-inspiree.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Frappe inspirée (niv 5)</h4>
             <p>Le moine se concentre pour asséner un coup puissant à son adversaire. Le coup peut être porté avec une arme ou à mains nues.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -279,8 +279,8 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Bouclier spirituel (niveau 6)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/bouclier-spirituel.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Bouclier spirituel (niv 6)</h4>
             <p>Le moine se concentre et protège un personnage-joueur choisi à l'aide d'un bouclier spirituel qui absorbe les dégâts de la prochaine attaque.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -296,8 +296,8 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Déluge de coups (niveau 7)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/deluge-coups.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Déluge de coups (niv 7)</h4>
             <p>Le moine assène une série rapide de trois coups successifs à son adversaire.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
@@ -309,8 +309,8 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4>Frappe impétueuse (niveau 8)</h4>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/frappe-impetueuse.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Frappe impétueuse (niv 8)</h4>
             <p>Le moine frappe avec une agressivité non maîtrisée, abaissant sa défense.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>

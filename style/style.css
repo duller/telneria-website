@@ -176,7 +176,7 @@ h1
     font-size: 23px;
     font-weight: bold;
     color : #C03000;
-    text-shadow: 0.15em 0.15em 0.3em #777;
+    text-shadow: 0.15em 0.15em 0.3em rgb(135, 135, 135);/*#777;*/
 }
 
 h2 a:visited
@@ -212,7 +212,7 @@ h2
     font-size: 20px;
     font-weight: bold;
     color : #B9121B;
-    text-shadow: 0.1em 0.1em 0.5em #555;
+    text-shadow: 0.1em 0.1em 0.5em rgb(145, 145, 145);/*#555;*/
 }
 
 h3
@@ -220,17 +220,19 @@ h3
     font-size: 18px;
     font-weight: bold;
     color : #4A1A2C;
-    text-shadow: 0.1em 0.1em 0.2em #888;
+    text-shadow: 0.1em 0.1em 0.2em rgb(175, 175, 175);;/*#888;*/
+    box-shadow: 0 4px 2px -3px gray;
 }
 
 h4
 {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: bold;
     color : #4C1B1B;
-    text-shadow: 0.1em 0.1em 0.5em #999;
+    text-shadow: 0.1em 0.1em 0.5em rgb(185, 185, 185);/*#999;*/
     margin-top: 30px;
     margin-bottom: 10px;
+    box-shadow: 0 4px 2px -3px gray;
 }
 
 
