@@ -60,7 +60,7 @@
     <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/frappe-impregnee.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe imprégnée (niveau 1)</h4>
             <p>Imprègne l'arme de puissance élémentaire, infligeant des dégâts plus importants et des dégâts de type magique.</p>
             <div class="divSortTechniqueDetails">
@@ -73,7 +73,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/trait-foudre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Trait de foudre (niveau 2)</h4>
             <p>Un puissant sort permettant d'infliger des dégâts de foudre à un ennemi unique.</p>
             <div class="divSortTechniqueDetails">
@@ -88,7 +88,7 @@
     </div>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/vague-soins.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Vague de soins (niveau 3)</h4>
             <p>Soins canalisé qui permet de soigner jusqu'à trois alliés par rebond.</p>
             <div class="divSortTechniqueDetails">
@@ -101,7 +101,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/voile-esprits.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Voile des esprits (niveau 4)</h4>
             <p>Le chaman fait appel aux esprits pour dissimuler son groupe au regard des ennemis.</p>
             <div class="divSortTechniqueDetails">
@@ -201,9 +201,9 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-terre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Totem de terre (niv 5)</h4>
-            <p>Invoque un totem de terre apportant protection au chaman et ses alliés.</p>
+            <p>Invoque un totem de terre apportant protection au chaman et à ses alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -214,7 +214,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-eau.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Totem d'eau (niv 6)</h4>
             <p>Invoque un totem d'eau permettant de soigner le chaman et ses alliés.</p>
             <div class="divSortTechniqueDetails">
@@ -230,7 +230,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-foudre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Totem de foudre (niv 7)</h4>
             <p>Invoque un totem de foudre permettant d'infliger des dégâts de foudre à trois ennemis proches. Le sort saute de monstre en monstre, perdant en intensité à chaque saut.</p>
             <div class="divSortTechniqueDetails">
@@ -243,7 +243,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-feu.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Totem de feu (niv 8)</h4>
             <p>Invoque un totem de feu, infligeant des dégâts de feu tout autour du totem, même aux alliés.</p>
             <div class="divSortTechniqueDetails">
@@ -266,7 +266,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/immobilisation.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Immobilisation (niv 5)</h4>
             <p>Pénètre l'esprit d'un ennemi afin de l'empêcher de faire tout mouvement.</p>
             <div class="divSortTechniqueDetails">
@@ -279,7 +279,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/levitation-armes.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Lévitation des armes (niv 6)</h4>
             <p>Contrôle psychique des armes du chaman à distance, permettant d'infliger des dégâts sans se mettre en danger.</p>
             <div class="divSortTechniqueDetails">
@@ -296,7 +296,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/controle-mental.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Contrôle mental (niv 7)</h4>
             <p>Contrôle total de l'esprit d'un ennemi, permettant de le faire agir selon la volonté du mentaliste.</p>
             <div class="divSortTechniqueDetails">
@@ -309,7 +309,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/vague-assommante.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Vague assommante (niv 8)</h4>
             <p>Le mentaliste projette une vague d'énergie mentale autour de lui, assommant tous les ennemis pour un tour.</p>
             <div class="divSortTechniqueDetails">

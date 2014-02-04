@@ -60,7 +60,7 @@
     <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/frappe-percante.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe perçante (niveau 1)</h4>
             <p>Frappe l'ennemi en ignorant ses protections, technique épuisante qui ne peut être utilisée plusieurs fois.</p>
             <div class="divSortTechniqueDetails">
@@ -73,7 +73,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/desarmement.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Désarmement (niveau 2)</h4>
             <p>Désarme complètement l'adversaire pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
@@ -88,7 +88,7 @@
     </div>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/brise-genou.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Brise-genou (niveau 3)</h4>
             <p>Coup puissant porté au genou de l'ennemi, réduisant fortement sa vitesse de déplacement.</p>
             <div class="divSortTechniqueDetails">
@@ -101,7 +101,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/rudesse-guerre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Rudesse de la guerre (niveau 4)</h4>
             <p>Le guerrier, habitué aux rudes conditions des campagnes guerrières, se tient prêt à affronter les situations les plus périlleuses.</p>
             <div class="divSortTechniqueDetails">
@@ -199,7 +199,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/fureur-sanguinaire.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Fureur sanguinaire (niv 5)</h4>
             <p>Permet trois frappes simultanées, mais réduit fortement la défense du barbare pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
@@ -212,7 +212,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/frappe-puissante.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe puissante (niv 6)</h4>
             <p>Frappe puissante portée avec les deux mains du combattant, infligeant le double des dégâts normaux. Nécessite de se tenir en posture d'attaque.</p>
             <div class="divSortTechniqueDetails">
@@ -228,9 +228,9 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/cri-guerre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Cri de guerre (niv 7)</h4>
-            <p>Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégas infligés par les alliés.</p>
+            <p>Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégâts infligés par les alliés.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -241,9 +241,9 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/charge-bestiale.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Charge bestiale (niv 8)</h4>
-            <p>Le perd tout contrôle et charge comme un forcené sur son ennemi.</p>
+            <p>Le barbare perd tout contrôle et charge comme un forcené sur son ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -264,7 +264,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/coup-bouclier.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Coup de bouclier (niv 5)</h4>
             <p>Puissant coup porté avec le bouclier, déstabilisant l'ennemi.</p>
             <div class="divSortTechniqueDetails">
@@ -277,7 +277,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/coup-railleur.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Coup railleur (niv 6)</h4>
             <p>Frappe violente portée à un ennemi, l'incitant à attaquer le gardien.</p>
             <div class="divSortTechniqueDetails">
@@ -294,9 +294,9 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/coup-incapacitant.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Coup incapacitant (niv 7)</h4>
-            <p>Puissante frappe portée à un ennemi réduisant sa défense et sa capacité de déplacement.</p>
+            <p>Puissante frappe portée à un ennemi réduisant sa défense et ses capacités de combat.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -307,7 +307,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/9-Guerrier/maitrise-heroique.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Maîtrise héroïque (niv 8)</h4>
             <p>Le gardien se rue sur un ennemi et l'enlace fermement, permettant à ses alliés de frapper plus aisément. Un échec met en grand danger le gardien.</p>
             <div class="divSortTechniqueDetails">

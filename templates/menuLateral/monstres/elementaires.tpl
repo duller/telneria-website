@@ -32,7 +32,7 @@
         l'élémentaire immole deux adversaires, le plus proche et le plus éloigné de lui.</p>
     
     <h3 class="h3region" style="clear:both;padding-top:20px;">Élémentaires de terre</h3>
-    <p>Incarnations de la terre, ces élémentaires sont résistants aux attaques physiques et utilisent leur masse pour vaincre ses adversaires.</p>
+    <p>Incarnations de la terre, ces élémentaires sont résistants aux attaques physiques et utilisent leur masse pour vaincre leurs adversaires.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts physiques subis réduits de [niveau].</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Choc terrestre</span>&nbsp :
         l'élémentaire de terre fait trembler la terre sur 10 mètres autour de lui, infligeant des dégâts à tous les ennemis proches.</p>

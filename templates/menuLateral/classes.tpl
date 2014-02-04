@@ -16,7 +16,7 @@
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Magicien.png" title="Illustration : Horror Pen, Open Game Art">
         <h4 class="h4choixClasse">Le magicien</h4>
-        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/magicien">magicien</a> maîtrise la magie élémentaire et des arcanes comme personne.
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/magicien">magicien</a> est un maître inégalé de la magie élémentaire et arcanique.
             Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.</p>
         <br />
     </div>

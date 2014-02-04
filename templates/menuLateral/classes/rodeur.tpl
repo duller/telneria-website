@@ -60,7 +60,7 @@
     <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/attaque-familier.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Attaque du familier (niveau 1)</h4>
             <p>Le rôdeur fait attaquer son loup gris (Points de vie : moitié de ceux du rôdeur).</p>
             <div class="divSortTechniqueDetails">
@@ -73,7 +73,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/fleche-precise.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Flèche précise (niveau 2)</h4>
             <p>Un tir de flèche qui augmente sensiblement les chances de toucher, mais avec une puissance réduite.</p>
             <div class="divSortTechniqueDetails">
@@ -88,7 +88,7 @@
     </div>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/fleche-puissante.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Flèche puissante (niveau 3)</h4>
             <p>Un tir de flèche qui frappe sa cible avec beaucoup de puissance, mais avec une précision réduite.</p>
             <div class="divSortTechniqueDetails">
@@ -101,7 +101,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/eclaireur-bestial.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Éclaireur bestial (niveau 4)</h4>
             <p>Le rôdeur envoie son familier en éclaireur.</p>
             <div class="divSortTechniqueDetails">
@@ -199,7 +199,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/fleches-multiples.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Flèches multiples (niv 5)</h4>
             <p>Permet de tirer jusqu'à trois flèches simultanément. Il est possible de tirer sur trois ennemis distincts mais avec une difficulté accrue.</p>
             <div class="divSortTechniqueDetails">
@@ -212,7 +212,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/fleche-guidee.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Flèche guidée (niv 6)</h4>
             <p>Tir de flèche courbé qui permet d'atteindre une cible en mouvement et de s'adapter à ses changements de direction.</p>
             <div class="divSortTechniqueDetails">
@@ -228,7 +228,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/fleche-magique.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Flèche magique (niv 7)</h4>
             <p>Tir de flèche enchanté qui permet d'infliger des dégâts de type magique aux créatures les plus puissantes.</p>
             <div class="divSortTechniqueDetails">
@@ -241,7 +241,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/fleche-veneneuse.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Flèche vénéneuse (niv 8)</h4>
             <p>Tir de flèche affaiblissant l'ennemi et réduisant ses réflexes.</p>
             <div class="divSortTechniqueDetails">
@@ -264,7 +264,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/motivation-familier.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Motivation du familier (niv 5)</h4>
             <p>L'animalier concentre son esprit sur son familier, augmentant la combativité et les réflexes d'icelui.</p>
             <div class="divSortTechniqueDetails">
@@ -277,7 +277,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/compassion-animale.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Compassion animale (niv 6)</h4>
             <p>Le rôdeur partage avec son familier l'ensemble des dégâts et des soins subis pendant 3 tours.</p>
             <div class="divSortTechniqueDetails">
@@ -294,7 +294,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/apaisement-animal.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Apaisement animal (niv 7)</h4>
             <p>Apaise une bête ennemie, lui enlevant toute agressivité et animosité à l'égard du rôdeur ou de ses alliés.</p>
             <div class="divSortTechniqueDetails">
@@ -307,7 +307,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/appel-nature.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Appel de la nature (niv 8)</h4>
             <p>À proximité des forêts et des collines, le rôdeur peut appeler un ours sauvage pour l'aider au combat.</p>
             <div class="divSortTechniqueDetails">

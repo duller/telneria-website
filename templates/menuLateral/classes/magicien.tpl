@@ -8,7 +8,7 @@
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
 
             <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
-            <p>Le magicien maîtrise la magie élémentaire et des arcanes comme personne.
+            <p>Le magicien est un maître inégalé de la magie élémentaire et arcanique.
             Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.
             </p>
         </div>
@@ -62,7 +62,7 @@
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/boule-de-feu.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Boule de feu (niveau 1)</h4>
-            <p>Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts.</p>
+            <p>Envoie une puissante boule de feu sur un ennemi, lui infligeant des dégâts de nature.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -75,7 +75,7 @@
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/doigt-givre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Doigt de givre (niveau 2)</h4>
-            <p>Envoie un doigt de givre sur un ennemi, lui infligeant des dégâts et le ralentissant.</p>
+            <p>Envoie un doigt de givre sur un ennemi, lui infligeant des dégâts de nature et le ralentissant.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -279,7 +279,7 @@
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/2-Magicien/pluie-feu.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Pluie de feu (niv 6)</h4>
-            <p>Fait tomber une pluie de feu dévastatrice dans une zone modérée.</p>
+            <p>Fait tomber une pluie de feu dévastatrice dans une zone d'étendue modérée.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>

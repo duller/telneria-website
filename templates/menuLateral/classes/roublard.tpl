@@ -60,7 +60,7 @@
     <h3 class="h3ClassesPerso">Sorts et techniques</h3>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeTenebres.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/echauffement-ambidextre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Échauffement ambidextre (niveau 1)</h4>
             <p>Pour ce combat, permet au roublard d'infliger des dégâts avec l'arme de sa main secondaire en plus d'une autre attaque. 
                 Cette attaque supplémentaire inflige la moitié des dégâts d'un coup normal.</p>
@@ -74,7 +74,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/menace.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/frappe-pernicieuse.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe pernicieuse (niveau 2)</h4>
             <p>Nécessite d'être de dos, frappe l'ennemi au point le plus fragile, lui infligeant de lourds dégâts.</p>
             <div class="divSortTechniqueDetails">
@@ -89,7 +89,7 @@
     </div>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/vociferation.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/frappe-etourdissante.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe étourdissante (niveau 3)</h4>
             <p>Nécessite d'être de dos, frappe l'ennemi au point le plus sensible, l'étourdissant pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
@@ -102,7 +102,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/porteOmbre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/pas-ombre.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Pas de l'ombre (niveau 4)</h4>
             <p>Le roublard se faufile dans l'ombre et fait preuve d'une discrétion exemplaire.</p>
             <div class="divSortTechniqueDetails">
@@ -201,7 +201,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/tranche-gorge.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Tranche-gorge (niv 5)</h4>
             <p>Nécessite d'être de dos et d'être camouflé, c'est-à-dire ne pas avoir été vu par les ennemis au début du combat. 
                 Tranche la gorge de l'ennemi avec l'arme et le fait se vider de son sang.</p>
@@ -215,7 +215,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/traitChaos.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/frappe-point.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe au point faible (niv 6)</h4>
             <p>Inflige de lourds dégâts à un ennemi sans nécessiter de frapper par derrière.</p>
             <div class="divSortTechniqueDetails">
@@ -231,7 +231,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/poigne.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/fracture-cheville.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Fracture-cheville (niv 7)</h4>
             <p>Inflige un violent coup à la cheville de l'ennemi, le faisant trébucher lors de sa prochaine tentative de déplacement.</p>
             <div class="divSortTechniqueDetails">
@@ -244,7 +244,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/deluge.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/dechainement-cruel.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Déchaînement cruel (niv 8)</h4>
             <p>L'assassin inflige deux violents coups de taille à l'ennemi, sans chercher la précision.</p>
             <div class="divSortTechniqueDetails">
@@ -267,7 +267,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/frappeSang.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/poudre-yeux.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Poudre aux yeux (niv 5)</h4>
             <p>Jette de la poudre très fine au visage des ennemis, les aveuglant pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
@@ -280,7 +280,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/percee.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/illusion.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Illusion (niv 6)</h4>
             <p>Le fourbe se confond dans le paysage et peut faire croire à ses ennemis qu'il est présent à un autre endroit.</p>
             <div class="divSortTechniqueDetails">
@@ -297,7 +297,7 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/morsure.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/retrait-precaution.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Retrait de précaution (niv 7)</h4>
             <p>Permet au fourbe de se mettre rapidement hors de portée de ses ennemis.</p>
             <div class="divSortTechniqueDetails">
@@ -310,7 +310,7 @@
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/10-Sombregarde/sacrifice.png" title="Illustration : Eleazzaar, Deviant Art">
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/provocation-horripilante.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Provocation horripilante (niv 8)</h4>
             <p>Le fourbe pousse son ennemi à perdre son sang-froid, l'incitant à l'attaquer avec énervement et une précision amoindrie.</p>
             <div class="divSortTechniqueDetails">

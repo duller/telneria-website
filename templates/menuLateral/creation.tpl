@@ -12,7 +12,7 @@
         Un tableau de correspondance est disponible au bas de cette page.</p>
     <p>À l'issue de cette étape, les joueurs peuvent utiliser leur fiche de personnage pour poursuivre la création de leur personnage.</p><br />
 
-    <img class="communImages imageAlignementCreation" style="margin-top:50px;" src="ressources/02-Creation/Alignement.DarkFang.DA.png" 
+    <img class="communImages imageAlignementCreation" style="margin-top:60px;" src="ressources/02-Creation/Alignement.DarkFang.DA.png" 
          title="Illustration : Dark Fang, Deviant Art">
 
     <h3 class="titreCreation">L'alignement</h3>
@@ -32,7 +32,7 @@
 
     <div style="">
         <h3 class="titreCreation">La fiche de personnage</h3>
-        <img class="communImages imageAlignementCreation" style="max-height:80px;float:left;margin-top:10px;" src="ressources/02-Creation/FichePerso.Inverse.png" 
+        <img class="communImages imageAlignementCreation" style="max-height:80px;float:left;margin-top:0px;" src="ressources/02-Creation/FichePerso.Inverse.png" 
              title="Illustration : Lorc, Open Game Art">
         
         <p>Une fois le personange choisi, le joueur doit remplir sa fiche en commençant par le cadre haut de la feuille. Il est libre de donner les attributs physiques qu'il
@@ -52,7 +52,7 @@
 
     <div style="">
         <h3 class="titreCreation">Les compétences</h3>
-        <img class="communImages imageAlignementCreation" style="max-height:80px;float:left;margin-top:10px;" src="ressources/02-Creation/Competences.Inverse.png" 
+        <img class="communImages imageAlignementCreation" style="max-height:80px;float:left;margin-top:0px;" src="ressources/02-Creation/Competences.Inverse.png" 
              title="Illustration : Lorc, Open Game Art">
         
         <p>Le joueur détermine les <a href="?Page=menuLateral/competences">compétences</a> de son personnage et les renseigne sur sa fiche.

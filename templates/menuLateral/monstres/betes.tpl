@@ -22,12 +22,12 @@
     
     <h3 class="h3region">Ours brun</h3>
     <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/bete-patte.png" title="Illustration : Lorc, Open Game Art">
-    <p>Imposantes bêtes caniformes, les ours bruns peuvent être croisés dans les forêts et les collines de tous les continents.</p>
+    <p>Imposantes bêtes caniformes, les ours bruns peuvent être croisés dans les forêts et collines boisées de tous les continents.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
     <h3 class="h3region" style="clear:both;padding-top:20px;">Serpent géant</h3>
-    <p>Énormes créatures reptiliennes, les serpents géants ne sont que légendes pour nombre de Veldriens. Pouvant dépasser les 20 mètres de long, les serpents géants sont de redoutables
+    <p>Énormes créatures reptiliennes, les serpents géants ne sont que légende pour nombre de Veldriens. Pouvant dépasser les 20 mètres de long, ces imposants reptiles sont de redoutables
     adversaires.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp les serpents géants subissent des dégâts réduits de moitié sur l'ensemble de leur corps. 
         Viser la tête implique un malus de toucher de [niveau].</p>

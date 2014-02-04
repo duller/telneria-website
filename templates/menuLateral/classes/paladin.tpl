@@ -245,7 +245,7 @@
         <div class="divSortTechnique divSortTechniqueHautGauche">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/4-Paladin/intervention-salutaire.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Intervention salutaire (niv 8)</h4>
-            <p>Le templier se rue entre un ennemi et un allié, encaissant le coup destiné à son compagnon. Peut être utilisé sans indépendamment du tour d'initiative.</p>
+            <p>Le templier se rue entre un ennemi et un allié, encaissant le coup destiné à son compagnon. Peut être utilisé indépendamment du rang d'initiative.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>

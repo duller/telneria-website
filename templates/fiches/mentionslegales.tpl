@@ -3,7 +3,6 @@
 <h2>Le code source</h2>
 <p>Le code source de ce site web, à savoir le code html, css, javascript et php, est sous licence <a href="http://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPL V3</a>.</p>
 <p>Code source : François Ripp.</p>
-<p>Basé sur une architecture développée par David Winckel.</p>
 <p>Le code source peut être trouvé sur <a href="https://github.com/duller/telneria-website" target="_blank">github</a>.</p>
 
 <h2>Le contenu</h2>

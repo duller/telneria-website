@@ -9,7 +9,7 @@
     
     <h3 class="h3region">Méduse de mana</h3>
     <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/ether-jellyfish.png" title="Illustration : Lorc, Open Game Art">
-    <p>Gelées vagabondes, les méduses de mana errent sans but plusieurs semaines après leur invocation accidentelle. Dénuées d'intelligences, ces émanations arcaniques s'attaquent parfois
+    <p>Gelées vagabondes, les méduses de mana errent sans but plusieurs semaines après leur invocation accidentelle. Dénuées d'intelligence, ces émanations arcaniques s'attaquent parfois
     aux aventuriers imprudents.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
