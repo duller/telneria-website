@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/Paysage.Kerfenn.PeterFries.jpg" style="float:left;max-width:55%;margin-right:20px;" title="Illustration : Peter Fries">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Kerfenn.PeterFries.jpg" style="max-width:55%;" title="Illustration : Peter Fries">
 
         <p>Humanoïdes de petite taille, les Kerfenn vivent dans de grandes villes sur les côtes ouest de Mestrhune.</p>
         <p>Peuple ingénieux et pacifique, les Kerfenn vivent dans une société orientée vers l'artisanat et le commerce. 
@@ -18,23 +18,27 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Kerbourg est la capitale politique et économique des Kerfenn.</p>
             <p>Peuple de marchands, les Kerfenn vivent essentiellement à Kerbourg et dans les grandes cités commerçantes de la côte ouest de Metrhune.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Hollandais</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Espagnol, Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à l'intelligence, +1 à la sagesse</p>
             <p>-1 à la force, -1 à la constitution</p>
             <p>+1 aux jets de toucher avec tous les sorts</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Petite, 3 pieds à 3 pieds et demi (90 cm à 1m)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 40 à 60 livres (20kg à 30kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 120 ans</p>

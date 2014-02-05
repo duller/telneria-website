@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/PaysageElfe.jpg" style="float:left;max-width:55%;margin-right:20px;" title="Illustration : Phatpuppy, Flickr">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageElfe.jpg" style="max-width:55%;" title="Illustration : Phatpuppy, Flickr">
 
         <p>Peuple le plus ancien de Telneria, les Elfes vivent dans les grandes forêts du nord-est de Veldris et du nord de Ferestos.</p>
         <p>Anciennement maîtres du continent de Veldris avec les Neltariens, les Elfes vivent aujourd'hui en autarcie dans leurs forêts majestueuses.</p>
@@ -18,23 +18,27 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Prenence, au nord-est de Veldris, est la capitale politique des Elfes.</p>
             <p>Les Elfes vivent au coeur des forêts dans des petites villes disséminées autour de Prenence en Veldris et de Dilnis au nord de Ferestos.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Polonais</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Russe, Allemand, Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 au charisme, +1 à la dextérité, +1 à la sagesse</p>
             <p>-1 à la force, -1 à la constitution</p>
             <p>Bonus de 1 aux jets de détection et de discrétion.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 5 pieds à 5 pieds et demi (1m50 à 1m60)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 80 à 100 livres (40kg à 50kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 300 ans</p>

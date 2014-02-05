@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/PaysageNain.jpg" style="float:left;max-width:55%;margin-right:20px;" title="Illustration : Skull Dixon, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageNain.jpg" style="max-width:55%;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Originaires de Ferestos, les Nains vivent aux pieds des grandes montagnes de l'île et sur les côtes.</p>
         <p>Peuple de forgerons et de guerriers, les Nains vivent principalement du commerce avec les Humains de Veldris.</p>
@@ -17,23 +17,27 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Feresbourg est la capitale politique et économique des Nains.</p>
             <p>Peuple soudé et social, les Nains vivent dans des villes de taille importante au pied des montagnes.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Allemand</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la constitution</p>
             <p>-1 à l'intelligence</p>
             <p>+1 aux jets de toucher en mêlée</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 4 pieds à 4 pieds et demi (1m20 à 1m30)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 120 à 160 livres (60kg à 80kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 100 ans</p>

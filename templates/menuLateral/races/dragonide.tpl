@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/PaysageDragonide.jpg" style="float:left;max-width:50%;margin-right:20px;" title="Illustration : Skull Dixon, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageDragonide.jpg" style="max-width:50%;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de Ferestos.</p>
         <p>Il y a 2000 ans, il existait encore en Ferestos des dragonides de toutes les ethnies. Chacune des cinq ethnies de ce peuple est originaire d'une des cinq familles de 
@@ -20,17 +20,20 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Aucune capitale définie.</p>
             <p>Les clans dragonides sont souvent en conflit et vivent en petits groupes isolés.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Anglais</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la constitution, +1 à la dextérité</p>
             <p>-1 à la sagesse</p>
             <br /><p><span class="titreDebutLigne">Clan du dragon noir : </span>Réduit les effets subis des sorts de chaos d'un quart. Vice versa pour ceux de sacré.</p>
@@ -39,6 +42,7 @@
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 à 7 pieds (1m80 à 2m10)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 220 à 260 livres (110kg à 130kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 40 ans</p>

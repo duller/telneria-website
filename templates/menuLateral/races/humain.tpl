@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/PaysageHumain.jpg" style="float:left;max-width:55%;margin-right:20px;" title="Illustration : Herman Saftleven, Wikimédia">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageHumain.jpg" style="max-width:55%;" title="Illustration : Herman Saftleven, Wikimédia">
 
         <p>Les Humains sont une des races les plus jeunes de Telneria. Originaires du continent de Mestrhune, 
             ils se sont rapidement développés vers le continent de Veldris.</p>
@@ -17,22 +17,26 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>La capitale des Humains sur le continent de Veldris est Vesnoth. Tandis que la capitale humaine de Mestrhune est Carnum.</p>
             <p>En Veldris, les Humains vivent sous l'égide des barons, eux-mêmes sous l'égide du prince de Vesnoth.</p>
             <p>En Mestrhune, le système politique est de type monarchique, l'autorité du souverain de Carnum s'étend sur tout son territoire.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Français (Veldris), Espagnol (Mestrhune)</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 aux jets de toucher pour les sorts de soin.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 5 à 6 pieds (1m50 à 1m80)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 100 à 160 livres (50kg à 80kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 80 ans</p>

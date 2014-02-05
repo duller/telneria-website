@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/PaysageVarelias.jpg" style="float:left;max-width:65%;margin-right:20px;" title="Illustration : Skull Dixon, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageVarelias.jpg" style="max-width:65%;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Originaires de la Forêt Touffue du nord de Veldris, les Varelias se sont exilés il y a deux siècles sur l'île d'Istnor, terre d'origine des Chepteg.</p>
         <p>Peuple ancien et sage, les Varelias sont d'imposants humanoïdes dont l'épiderme s'apparente à l'écorce des arbres.</p>
@@ -15,24 +15,28 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Istville, cité de taille modeste, abrite le Conseil des Anciens des Varelias ainsi que les édifices de commerce et de diplomatie. 
                 Bien que la société varelias soit peu centralisée, cette cité est vue comme la capitale politique de ce peuple.</p>
             <p>Les Varelias habitant toujours la Forêt Touffue du nord de Veldris sont le plus souvent des ermites, ne participant pas à la vie commune.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Russe</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Polonais, Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la constitution, +1 à la sagesse</p>
             <p>-1 à la dextérité</p>
             <p>Peut regagner 2d4 de points de vie une fois par combat, si celui-ci a lieu a proximité d'une forêt.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Grande, 7 à 8 pieds (2m10 à 2m40)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 320 à 400 livres (160kg à 200kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 400 ans.</p>

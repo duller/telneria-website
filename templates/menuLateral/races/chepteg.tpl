@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/PaysageChepteg.jpg" style="float:left;max-width:50%;margin-right:20px;" title="Illustration : Serendigity, Flickr">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageChepteg.jpg" style="max-width:50%;" title="Illustration : Serendigity, Flickr">
 
         <p>Originaires de l'île reculée d'Istnor, les Chepteg vivent en petites tribus dans les forêts enneigées du nord de la péninsule.</p>
         <p>Les chepteg sont des humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite 
@@ -17,23 +17,27 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Aucune capitale définie.</p>
             <p>Les chepteg vivent en petites tribus isolées, ils n'ont pas de gouvernement central ni d'autorité religieuse.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Russe</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la dextérité</p>
             <p>+1 au dé de toucher avec les attaques de mêlée et à distance</p>
             <p>+1d2 de dégâts lors d'une attaque à mains nues</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 à 7 pieds (1m80 à 2m10)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 180 à 240 livres (90kg à 120kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 100 ans</p>

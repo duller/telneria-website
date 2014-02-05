@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages" src="ressources/04-Races/PaysageNeltarien.jpg" style="float:left;max-width:65%;margin-right:20px;" title="Illustration : Skull Dixon, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageNeltarien.jpg" style="max-width:65%;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Descendants de la même lignée que les Elfes, les Neltariens sont un des peuples les plus âgés de Telneria.</p>
         <p>Anciens rivaux de leurs cousins des forêts, les Neltariens vivent désormais en autarcie dans les hautes montagnes au nord-ouest de Veldris.</p>
@@ -17,23 +17,27 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Norska, ville-sanctuaire des Neltariens, fait office de capitale politique pour ce peuple.</p>
             <p>Les Neltariens sont un peuple uni et solidaire, ils vivent dans des villages de taille moyenne en haute montagne.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Polonais</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Russe</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 au charisme, +1 à la dextérité</p>
             <p>-1 à la force</p>
             <p>Bonus de 1 aux jets de détection et de discrétion.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
+            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 à 7 pieds (1m80 à 2m10)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 140 à 180 livres (70kg à 90kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 300 ans</p>
