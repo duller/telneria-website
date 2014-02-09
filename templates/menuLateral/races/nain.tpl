@@ -65,6 +65,11 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainClerc.jpg" title="Illustration : Jérôme Rotfab"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainClerc.jpg" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un nain clerc</p>
+</div>
+
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/cartes/nain.jpg" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>

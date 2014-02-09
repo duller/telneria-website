@@ -1,6 +1,6 @@
 <h1>Les humanoïdes</h1>
 
-<div style="width:68%;margin:1%;float:left;">
+<div style="width:66%;margin:1%;float:left;">
     <p>Les humanoïdes sont le type de monstres intelligents le plus répandu de Telneria. <br />Pour créer un monstre de type humanoïde, il faut choisir une race et un niveau de monstre.<br />
         Le tableau en bas de cette page présente les combinaisons les plus courantes, mais il est possible de créer des humanoïdes personnalisés (se reporter à la page des monstres).</p><br />
     
@@ -54,9 +54,14 @@
 
 </div>
 
-<div style="width: 28%; margin: 1%; float:left;">
+<div style="width: 30%; margin: 1%; float:left;">
     <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Humanoid.Shiprock.DA.jpg" title="Illustration : Shiprock, Deviant Art">
     <p class="pImageRace">Un brigand gobelin</p>
+</div>
+
+<div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/humanoides.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>
 
 

@@ -66,8 +66,8 @@
         <img class="communImages imageEquipementCreation" style="margin-top:40px;" src="ressources/02-Creation/ChemiseGrise.SansFond.png" title="Illustration : Flare Rpg, Open Game Art">
 
         <h3 class="titreCreation">L'équipement</h3>
-        <p>Chaque joueur commence le jeu avec 10+1d100 pièces d'or. Ensuite, en fonction de ce que sa classe lui permet, il choisit deux armes de qualité médiocre, 
-            ainsi qu'une armure de torse de qualité médiocre. S'il le peut, il peut également choisir une amulette ou un bouclier de qualité médiocre.</p>
+        <p>Chaque joueur commence le jeu avec 10+1d100 pièces d'or. Ensuite, en fonction de ce que la fiche de classe indique, il choisit deux armes de qualité médiocre, 
+            ainsi qu'une armure de torse de qualité médiocre. Si sa classe le lui permet, il peut également choisir une amulette ou un bouclier de qualité médiocre, à la place d'une des armes.</p>
         <p>L'équipement se trouve dans la section des <a href="?Page=menuLateral/equipement">armes et armures</a>.</p><br />
 
     </div>

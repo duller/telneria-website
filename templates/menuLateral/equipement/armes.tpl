@@ -3,7 +3,6 @@
     <h1>Les armes</h1>
 
     <p>Le type d'arme influe sur les jets de toucher (noté JdT).</p>
-    <p>Pour les attaques simples, il convient d'ajouter le niveau du personnage pour obtenir les dégâts infligés.</p>
     <p>Les armes de qualité moyenne requièrent un personnage de niveau 3. Celles de qualité bonne un niveau 5.</p>
     <p>Les armes de qualité admirable ne peuvent être utilisées que par les personnages de niveau 7 et supérieur.</p>
 
@@ -190,7 +189,7 @@
             <td class="tdNomEquipement"><p class="ptab">Masse en canines d'acier</p></td>
             <td class="tdEquipement"><p class="ptab">1d8</p></td>
             <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
-            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">80 po</p></td>
             <td class="tdEquipement"><p class="ptab">Admirable</p></td>
         </tr>
     </table>
@@ -408,28 +407,28 @@
             <td class="tdNomEquipement"><p class="ptab">Arbalète légère</p></td>
             <td class="tdEquipement"><p class="ptab">2d4</p></td>
             <td class="tdEquipement"><p class="ptab">30m</p></td>
-            <td class="tdEquipement"><p class="ptab">20 po</p></td>
+            <td class="tdEquipement"><p class="ptab">25 po</p></td>
             <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
         </tr>
         <tr>
             <td class="tdNomEquipement"><p class="ptab">Arbalète lourde</p></td>
             <td class="tdEquipement"><p class="ptab">2d6</p></td>
             <td class="tdEquipement"><p class="ptab">35m</p></td>
-            <td class="tdEquipement"><p class="ptab">35 po</p></td>
+            <td class="tdEquipement"><p class="ptab">40 po</p></td>
             <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
         </tr>
         <tr>
             <td class="tdNomEquipement"><p class="ptab">Arbalète lourde renforcée</p></td>
             <td class="tdEquipement"><p class="ptab">2d8</p></td>
             <td class="tdEquipement"><p class="ptab">40m</p></td>
-            <td class="tdEquipement"><p class="ptab">60 po</p></td>
+            <td class="tdEquipement"><p class="ptab">70 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
         <tr>
             <td class="tdNomEquipement"><p class="ptab">Arbalète en tendons de troll</p></td>
             <td class="tdEquipement"><p class="ptab">2d10</p></td>
             <td class="tdEquipement"><p class="ptab">40m</p></td>
-            <td class="tdEquipement"><p class="ptab">100 po</p></td>
+            <td class="tdEquipement"><p class="ptab">110 po</p></td>
             <td class="tdEquipement"><p class="ptab">Admirable</p></td>
         </tr>
     </table>

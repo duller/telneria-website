@@ -118,7 +118,7 @@
             <td class="tdEquipement"><p class="ptab">+1 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-</p></td>
             <td class="tdEquipement"><p class="ptab">+2 INT</p></td>
-            <td class="tdEquipement"><p class="ptab">30 po</p></td>
+            <td class="tdEquipement"><p class="ptab">50 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
         <tr>

@@ -36,7 +36,7 @@
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la constitution, +1 à la dextérité</p>
             <p>-1 à la sagesse</p>
-            <br /><p><span class="titreDebutLigne">Clan du dragon noir : </span>Réduit les effets subis des sorts de chaos d'un quart. Vice versa pour ceux de sacré.</p>
+            <br /><p style="clear:left;"><span class="titreDebutLigne">Clan du dragon noir : </span>Réduit les effets subis des sorts de chaos d'un quart. Vice versa pour ceux de sacré.</p>
             <br /><p><span class="titreDebutLigne">Clan du dragon bleu : </span>Réduit les effets subis des sorts des arcanes d'un quart. Vice versa pour ceux de nature.</p>
             <br /><p><span class="titreDebutLigne">Clan du dragon rouge : </span>Réduit les effets subis de tous les sorts d'un quart.</p>
         </div>
@@ -67,6 +67,11 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.jpg" title="Illustration : Jérôme Rotfab"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.jpg" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un dragonide sombregarde</p>
+</div>
+
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/cartes/dragonide.jpg" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>

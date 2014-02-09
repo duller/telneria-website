@@ -1,6 +1,6 @@
 <h1>Les élémentaires</h1>
 
-<div style="width:68%;margin:1%;float:left;">
+<div style="width:66%;margin:1%;float:left;">
     <p>Les élémentaires sont la manifestation physique des quatre éléments majeurs : l'eau, l'air, le feu et la terre. D'intelligence médiocre, ces créatures sont généralement
     invoquées par les mages et possèdent une autonomie assez faible.</p>
     <br />
@@ -39,9 +39,14 @@
 
 </div>
 
-<div style="width: 28%; margin: 1%; float:left;">
+<div style="width: 30%; margin: 1%; float:left;">
     <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Elementaire.Jimcleaveland.DA.jpg" title="Illustration : Jimcleaveland, Deviant Art">
     <p class="pImageRace">Un élémentaire instable</p>
+</div>
+
+<div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/elementaires.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>
 
 

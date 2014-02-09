@@ -125,6 +125,10 @@ table tr:last-child td
 	width: 260px;
         padding: 5px;
 }
+.tdNomEquipementCommun
+{
+	font-weight:bold;
+}
 .tdEquipementReduc
 {
 	width: 200px;

@@ -62,6 +62,11 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/OrcGuerrier.jpg" title="Illustration : Jérôme Rotfab"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/OrcGuerrier.jpg" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un orc guerrier</p>
+</div>
+
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/cartes/orc.jpg" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>

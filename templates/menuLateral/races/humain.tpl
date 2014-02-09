@@ -67,6 +67,11 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/HumainPaladin.jpg" title="Illustration : Jérôme Rotfab"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/HumainPaladin.jpg" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un humain paladin</p>
+</div>
+
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/cartes/humain.jpg" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>

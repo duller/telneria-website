@@ -48,6 +48,11 @@
     <p class="pImageRace">Un seigneur démon</p>
 </div>
 
+<div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/demons.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
+</div>
+
 
 <div style="float:left;">
 

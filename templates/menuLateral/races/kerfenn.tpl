@@ -63,6 +63,11 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.jpg" title="Illustration : Jérôme Rotfab"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.jpg" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un kerfenn magicien</p>
+</div>
+
+<div class="classeImage communDivClasseMarges">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/cartes/kerfenn.jpg" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>

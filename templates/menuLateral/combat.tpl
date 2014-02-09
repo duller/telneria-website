@@ -39,9 +39,12 @@
 
 <h1>Le combat</h1>
 
-<p>Cliquez sur les titres pour dérouler le contenu. Vous pouvez également tout 
+<p style="font-style: italic;">Cliquez sur les titres pour dérouler le contenu. Vous pouvez également tout 
     <a href="#" id="show">dérouler</a> ou tout <a href="#" id="hide">
         <!--<a href="javascript:hideAll();"-->cacher.</a></p>
+        <br />
+        <p><span class="titreDebutLigne">Points de vie et de mana</span> : 
+            Hors combat, les points de vie et de mana sont regagnés par les personnages-joueurs au rythme de [niveau] points par heure.</p>
 
 
 <div style="max-width:1600px;">
@@ -155,14 +158,14 @@
         <h2 class="titreCombat">Modificateurs de toucher : esquive physique (EP) et esquive magique (EM)</h2>
         <div id="divModificateurs" class="divPageCombat">
             <div class="divMoitieGauche">
-                <h3 class="h3region">Attaques physiques</h3>
+                <h3 class="h3region">Attaques physiques (mêlée et distance)</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/hammer-drop.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec l'esquive physique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés en fonction de l'arme utilisée.</p>
                 <p>L'esquive physique est déterminée à partir de l'esquive physique de base, qui est de 10, des éventuelles pièces d'armure, de la dextérité et du modificateur de taille.</p>
             </div>
             <div class="divMoitieDroite">
-                <h3 class="h3region">Attaques magiques</h3>
+                <h3 class="h3region">Attaques magiques (30 mètres de portée)</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/unfriendly-fire.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque magique, il faut comparer le jet de toucher avec l'esquive magique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés par le sort utilisé.</p>
@@ -304,8 +307,10 @@
             <div class="divMoitieDroite">
                 <h3 class="h3region">Dégâts infligés</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/broken-bone.png" title="Illustration : Lorc, Open Game Art">
-                <p>Lorsqu'une attaque est un succès, les dégâts infligés sont ceux du sort lancé ou de l'arme utilisée. À ces dégâts, il convient d'ajouter le niveau du joueur.</p>
-                <p>Il est également possible d'attaquer à mains nues, les dégâts infligés sont alors de 1d1 plus le niveau.</p>
+                <p>Lorsqu'une attaque est un succès, les dégâts infligés sont ceux du sort lancé ou de l'arme utilisée. 
+                    À ces dégâts, il convient d'ajouter le niveau du joueur pour les attaques simples. 
+                    Pour les sorts et les attaques spéciales, les dégâts sont spécifiés sur la fiche de classe du personnage.</p>
+                <p>Dans le cas d'une attaque simple, il est également possible de frapper à mains nues, les dégâts infligés sont alors de 1d1 plus le niveau.</p>
             </div>
 
         </div>
@@ -335,7 +340,7 @@
                 <h3 class="h3region">Récupération des blessures : jet de Premiers secours</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/cut-palm.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les points de vie peuvent être regagnés par les sorts de soins, les potions de vie ou les premiers secours. 
-                    Les premiers secours permettent à un joueur de porter assitance à un coéquipier afin qu'il reprenne le combat.
+                    Les premiers secours permettent à un joueur de porter assitance à un coéquipier évanoui afin qu'il reprenne le combat.
                 <p>Un dé à 20 faces est lancé, si le jet atteint moins de 5, les premiers secours échouent. 
                     Si le jet atteint entre 5 et 9, la victime se relève mais s'écroule à nouveau une fois son action effectuée. 
                     Si le jet est au moins de 10, la victime regagne 5pv et peut effectuer une action. 

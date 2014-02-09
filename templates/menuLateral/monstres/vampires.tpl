@@ -1,6 +1,6 @@
 <h1>Les vampires</h1>
 
-<div style="width:65%;margin:1%;float:left;">
+<div style="width:64%;margin:1%;float:left;">
     <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/vampir-aile.png" title="Illustration : Lorc, Open Game Art">
     <p>Les vampires sont des humanoïdes immortels écumant les forêts épaisses de Veldris. <br />
         Mordus par des chauve-souris, leur affinité avec la magie du chaos permet aux vampires de se transformer en guerriers de l'ombre la nuit venue. </p>
@@ -20,9 +20,14 @@
 
 </div>
 
-<div style="width: 31%; margin: 1%; float:left;">
+<div style="width: 32%; margin: 1%; float:left;">
     <img class="communImages imageTousMonstres" style="box-shadow:none;" src="ressources/11-Monstres/Vampire.png" title="Illustration : Inconnu">
     <p class="pImageRace">Un seigneur vampire</p>
+</div>
+
+<div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/vampires.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>
 
 

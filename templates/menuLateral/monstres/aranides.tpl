@@ -1,6 +1,6 @@
 <h1>Les aranides</h1>
 
-<div style="width:68%;margin:1%;float:left;">
+<div style="width:66%;margin:1%;float:left;">
     <p>Race insectoïde vivant dans les sous-sols de Veldris et Mestrhune, les aranides restent fort méconnus des habitants de Telneria. Ne s'aventurant presque jamais à la surface, 
     ces créatures d'intelligence moyenne creusent d'innombrables tunnels et protègent les oeufs pondus chaque année par les reines couveuses.</p>
     <br />
@@ -36,9 +36,14 @@
 
 </div>
 
-<div style="width: 28%; margin: 1%; float:left;">
+<div style="width: 30%; margin: 1%; float:left;">
     <img class="communImages imageTousMonstres" style="width:100%;" src="ressources/11-Monstres/Aranide.Zerengi.DA.jpg" title="Illustration : Zerengi, Deviant Art">
     <p class="pImageRace">Un gardien des tunnels aranide</p>
+</div>
+
+<div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/aranides.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>
 
 

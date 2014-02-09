@@ -1,6 +1,6 @@
 <h1>Les garous</h1>
 
-<div style="width:68%;margin:1%;float:left;">
+<div style="width:66%;margin:1%;float:left;">
     <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/garou-loup.png" title="Illustration : Lorc, Open Game Art">
     <p>Les garous sont des humains présentant naturellement des dispositions à la transformation s'étant fait mordre par une créature sauvage. <br />
         La morsure leur permet de prendre à loisir une forme à mi-chemin entre l'animal associé et l'humain. 
@@ -20,9 +20,14 @@
     
 </div>
 
-<div style="width: 28%; margin: 1%; float:left;">
+<div style="width: 30%; margin: 1%; float:left;">
     <img class="communImages imageTousMonstres" style="width:100%;" src="ressources/11-Monstres/Garou.Clarkson.gif" title="Illustration : Clarkson">
     <p class="pImageRace">Un loup-garou</p>
+</div>
+
+<div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/garous.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>
 
 

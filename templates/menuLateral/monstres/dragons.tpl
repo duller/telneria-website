@@ -7,7 +7,8 @@
         et monstres présents dans la zone d'effet. Les dégâts sont calculés par joueur et par monstre. Deux tours de recharge.</p>
     
     <h3 class="h3region">Dragons Noirs</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/dragon-head.inverse.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;border-radius:20px 20px 20px 7px;" 
+         src="ressources/11-Monstres/Icones/dragon-head.inverse.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Chaos, les dragons noirs sont des créatures malfaisantes et destructrices. <span class="titreDebutLigne">Chaotique mauvais.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Chaos. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Trait du chaos</span>&nbsp : 2 cibles, 2d8+(niveau*2) de dégâts de chaos par joueur.</p>
@@ -25,7 +26,8 @@
     
     
     <h3 class="h3region">Dragons Blancs</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/dragon-head.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;border-radius:20px 20px 20px 7px;" 
+         src="ressources/11-Monstres/Icones/dragon-head.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Sacré, les dragons blancs sont d'impitoyables gardiens de la lumière contre le chaos. <span class="titreDebutLigne">Loyal bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Sacré. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Rugissement prosélyte</span>&nbsp : 
@@ -43,6 +45,11 @@
         <span class="titreDebutLigne">Neutre strict.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts magiques subis réduits de moitié. Dégâts physiques infligés augmentés de [niveau].</p>
     <p><span class="titreDebutLigne">Souffle du dragon : </span>&nbsp Les dragons rouges décollent et déversent leur fureur sur l'ensemble du champ de bataille.</p>
+</div>
+
+<div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:7%">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/dragons.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
 </div>
 
 

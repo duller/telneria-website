@@ -41,6 +41,11 @@
     <p class="pImageRace">Un yéti primitif</p>
 </div>
 
+<div class="classeImageCarteMonstre divCarteMonstre">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/betes.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
+</div>
+
 
 <div style="float:left;">
 

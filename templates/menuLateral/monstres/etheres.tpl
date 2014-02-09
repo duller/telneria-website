@@ -34,6 +34,11 @@
     <p class="pImageRace">Un loup de mana</p>
 </div>
 
+<div class="classeImageCarteMonstre divCarteMonstre">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/etheres.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
+</div>
+
 
 <div style="float:left;">
 

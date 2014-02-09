@@ -30,6 +30,11 @@
     <p class="pImageRace">Un squelette incantateur</p>
 </div>
 
+<div class="classeImageCarteMonstre divCarteMonstre">
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/morts-vivants.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace">Répartition géographique</p>
+</div>
+
 
 <div style="float:left;">
 
