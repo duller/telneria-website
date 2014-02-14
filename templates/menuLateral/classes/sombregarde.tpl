@@ -67,7 +67,7 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +1 (+niveau) de dégâts physiques et de chaos, -2 au score de toucher de l'ennemi</span></p>
+                    <span class="detailsEffetSort">Arme +1 (+niveau) de dégâts physiques et de chaos, -2 au score de toucher de l'ennemi pour sa prochaine attaque.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>

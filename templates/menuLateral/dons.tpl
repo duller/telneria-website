@@ -15,7 +15,7 @@
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/SauvegardeEsquive.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Esquive améliorée</h3>
-        <p>Augmente l'esquive physique de 5+niveau pour les deux prochaines attaques subies.</p>
+        <p>Augmente l'esquive physique de 3 pour les deux prochaines attaques subies.</p>
     </div>
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/SauvegardeResistance.png" title="Illustration : Lorc, Open Game Art">
@@ -29,17 +29,17 @@
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/CombatAigle.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Précision de l'aigle</h3>
-        <p>Augmente le score obtenu au d20 de toucher de mếlée et à distance de 3 pour les deux prochaines attaques.</p>
+        <p>Augmente le score obtenu au d20 de toucher de mêlée et à distance de 3 pour les deux prochaines attaques.</p>
     </div>
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/CombatOurs.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Force de l'ours</h3>
-        <p>Augmente les dégâts infligés en mêlée ou à distance de 3+niveau pour les deux prochaines attaques.</p>
+        <p>Augmente les dégâts infligés en mêlée ou à distance de 3 pour les deux prochaines attaques.</p>
     </div>
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/CombatDetection.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Détection du point faible</h3>
-        <p>Augmente les chances d'infliger un coup critique en réduisant le niveau de critique à 15 pour les deux prochaines attaques.</p>
+        <p>Augmente les chances d'infliger un coup critique en réduisant le niveau de critique à 16 pour les deux prochaines attaques.</p>
 
     </div>
 </div>
@@ -51,12 +51,12 @@
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/MagieAugmentation.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Augmentation du mana</h3>
-        <p>Augmente le total des points de mana de 5+niveau pendant deux tours.</p>
+        <p>Augmente le total des points de mana de 6 pendant deux tours.</p>
     </div>
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/MagieReduction.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Réduction du coût en mana</h3>
-        <p>Réduit le coût des sorts de 2+niveau pour les deux prochains sorts.</p>
+        <p>Réduit le coût des sorts de 3 pour les deux prochains sorts.</p>
     </div>
     <div class="zoneDons">
         <img class="communImages imageLogoDon" src="ressources/06-Dons/MagieAffinite.png" title="Illustration : Lorc, Open Game Art">

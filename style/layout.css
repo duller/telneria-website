@@ -8,8 +8,8 @@ html
 body
 {
 	/*background-color:#E9E79E;*/
-        background-image:url('../ressources/FondParcheminBody.jpg');
-        background-size: 20%;
+        background-image:url('../ressources/00-Page/fond.general.jpg');
+        background-size: cover;
         /*background-repeat:no-repeat;
 	background-position:left;
         background-position:100% 100%;*/
@@ -76,7 +76,7 @@ a:link
 	margin-bottom:0px;
         
 	text-align:center;
-        text-shadow: 0.5em 0.5em 0.3em #777;
+        /*text-shadow: 0.5em 0.5em 0.3em #777;*/
 	/*background-color:#AE803C;*/
         /*background-image: url('../ressources/FondParcheminFonce.jpg');*/
 }
@@ -85,52 +85,85 @@ a:link
 #menu
 {
 	/*border: 1px solid #000;*/
-        border-radius: 10px;
+        /*border-radius: 10px;*/
 	float:left;
 	width:10%;
 	min-height: 655px;
-        box-shadow: 0 0 5px #666;
+        /*box-shadow: 0 0 5px #666;*/
         
 	padding-top:10px;
         padding-left:1%;
         padding-right:1%;
 	padding-bottom:10px;
 	
-	margin-top:10px;
+	margin-top:-90px;
 	margin-left:1%;
 	margin-right:0%;
 	margin-bottom:10px;
         
 	/*background-color: #D06E3D;*/
-        background-image: url('../ressources/FondParcheminRouge.jpg');
+        /*background-image: url('../ressources/FondParcheminRouge.jpg');*/
+}
+
+#content_top
+{
+	/*float:left;
+	width:83%;
+        height:50px;
+        
+        padding-left:2%;
+        padding-right:1%;
+	
+	margin-top:40px;
+	margin-left:0%;
+	margin-right:0%;
+        
+        background-image:url('../ressources/00-Page/parchemin.haut.png');
+        background-size: 100% auto;*/
 }
 
 /* La zone centrale à droite du menu principal */
 #content
 {
-	/*border: 1px solid #000;*/
-        border-radius: 10px;
-        box-shadow: 0 0 10px #666;
-	
 	float:left;
-	width:83%;
+	width:80%;
 	
 	min-height:655px;
 	
-	padding-top:10px;
-        padding-left:1%;
+	/*padding-top:50px;
+        padding-left:2%;
         padding-right:1%;
-	padding-bottom:10px;
+	padding-bottom:70px;*/
+        padding : 50px 3% 70px 4%;
 	
-	margin-top:10px;
-	margin-left:1%;
+	margin-left:0%;
+	margin-right:0%;
+	
+        /*background-image: url('../ressources/00-Page/parchemin.repeat.png');
+        background-repeat: repeat-y;
+        background-size: 100% auto;*/
+        
+        margin-top:70px;
+        background-image: url('../ressources/00-Page/parchemin.entier.png');
+        background-size: 100% 100%;
+
+}
+
+#content_bottom
+{
+	/*float:left;
+	width:83%;
+        height:50px;
+        
+        padding-left:2%;
+        padding-right:1%;
+	
+	margin-left:13%;
 	margin-right:0%;
 	margin-bottom:10px;
 	
-	/*background-color:#FFFFFF;*/
-        background-image: url('../ressources/FondParchClair.jpg');
-        background-size: 100%;
-
+        background-image:url('../ressources/00-Page/parchemin.bas.png');
+        background-size: 100% auto;*/
 }
 
 /* Le pied de page (mentions légales...) */
@@ -138,7 +171,7 @@ a:link
 {
 	/*border: 1px solid #000;*/
         border-radius: 10px;
-        box-shadow: 0 0 5px black;
+        /*box-shadow: 0 0 5px black;*/
 	
         float:left;
 	width:96%;
@@ -154,7 +187,7 @@ a:link
 	margin-bottom:10px;
 	
         /*background-color:#AE803C;*/
-        background-image: url('../ressources/FondParcheminFonce.jpg');
+        /*background-image: url('../ressources/FondParcheminFonce.jpg');*/
         
         text-align: center;
 }
@@ -164,7 +197,7 @@ a:link
 	text-align:center;
         text-indent: 0px;
 	position:relative;
-	height:25px;
+	height:30px;
 	width:100%;
         
         overflow : hidden ;
@@ -180,16 +213,20 @@ a:link
         text-shadow: 0.1em 0.3em 0.3em  #222;
         color: #FEEDAA;
         
+        background-size: 90%;
+        background-position:center; 
+        background-repeat:no-repeat;
+        
 }
 
 .menuElement
 {
-        color:#000;
+        color:white;
 	/*border: 1px solid #000;*/
-        border-radius: 6px;
+        /*border-radius: 6px;*/
 	text-align:center;
         text-indent: 0px;
-        box-shadow: 0 0 5px #666;
+        /*box-shadow: 0 0 5px #666;*/
         
         overflow : hidden ;
 	
@@ -201,13 +238,16 @@ a:link
         
         padding-bottom : 3px;
 	
-	background-color:#FFFFFF;
+	/*background-color:#FFFFFF;*/
         display:block;
         
         font-size: 14px;
-        text-shadow: 0.15em 0.15em 0.3em #999;
+        /*text-shadow: 0.15em 0.15em 0.3em #999;*/
         
-        background-image: url('../ressources/FondParcheminClair.jpg');
+        max-height:33px;
+        
+        background-image: url('../ressources/00-Page/bouton.menu.png');
+        background-size:100% 100%;
 }
 
 .menuElement:link
@@ -222,8 +262,13 @@ a:link
 
 .menuElement:hover
 {
-        color:#C03000;
-	background-color:#F6E497;
+        color:green;/*#C03000;*/
+	/*background-color:#F6E497;*/
+}
+
+.menuAccueil:hover
+{
+    color:red;
 }
 
 #hidden

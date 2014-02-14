@@ -1,6 +1,8 @@
 
-<p style="font-family: 'Orthoventional'; font-size: 40px; padding-top : 20px; font-style: italic; text-indent: 0px; text-align: center;   ">
-   ~ Les contrées de Telneria ~</p>
+
+
+<!-- p style="font-family: 'Orthoventional'; font-size: 40px; padding-top : 20px; font-style: italic; text-indent: 0px; text-align: center;   ">
+   ~ Les contrées de Telneria ~</p -->
 
 <form action="?Page=fiches/recherche" method="POST">
     <!--
@@ -17,7 +19,11 @@
 </form>
 
 <a onclick="var _window = window.open('iframeaudio.html'/*, '_blank'*/);_window.blur();window.focus();alert('Mettez en plein écran(F11) pour une immersion complète !');" 
-   style="float:right;margin-right:20px;margin-top:-10px;">
+   style="float:right;margin-right:20px;margin-top:60px;" title="Par Butterfly Tea">
     <img src="ressources/audio/clef-de-sol.png" style="max-height:65px; float:left;margin-top: -23px;">
-    <p style="display: inline;font-size: 20px;">Musique,<span style="font-size:14px;"> de Butterfly Tea</span></p>
+    <p style="display: inline;font-size: 20px;">Musique<span style="font-size:14px;"></span></p>
 </a>
+
+<!-- p style="text-align:center;text-indent:-50px;">
+    <img src="ressources/00-Page/grand.titre.png" style="max-width:100%;">
+</p-->

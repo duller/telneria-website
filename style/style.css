@@ -7,71 +7,71 @@
 .lienBlanc:link
 {
     color:#FFF;
-     text-shadow: 0.1em 0.1em 0.2em black;
+    text-shadow: 0.1em 0.1em 0.2em black;
 }
 
 .lienBlanc:hover
 {
     color:#f0ead8;
-     text-shadow: 0.1em 0.1em 0.2em black;
+    text-shadow: 0.1em 0.1em 0.2em black;
 }
 
 .lienBlanc:visited
 {
     color:#FFF;
-     text-shadow: 0.1em 0.1em 0.2em black;
+    text-shadow: 0.1em 0.1em 0.2em black;
 }
 
 input
 {
-	background-color:#CCC;
-	border: 1px solid #000;
+    background-color:#CCC;
+    border: 1px solid #000;
 }
 
 a:visited
 {
-	color:#9A783D;
-	text-decoration: none;	
-        text-shadow: none;
+    color:#9A783D;
+    text-decoration: none;	
+    text-shadow: none;
 }
 
 a:link
 {
-	color:#9A783D;
-	text-decoration: none;
-        text-shadow: none;
+    color:#9A783D;
+    text-decoration: none;
+    text-shadow: none;
 }
 
 a:hover
 {
-        color:#F00;
-        text-decoration: none;
-        text-shadow: none;
+    color:#F00;
+    text-decoration: none;
+    text-shadow: none;
 }
 
 a:active
 {
-        color:#9A783D;
-        text-decoration: none;
-        text-shadow: none;
+    color:#9A783D;
+    text-decoration: none;
+    text-shadow: none;
 }
 
 
 table
 {
-	border-collapse: separate;
-        border-spacing : 0;
-        border: 1px;
-	border-radius:10px 10px 10px 10px;
-        box-shadow: 1px 1px 1px 0px grey;
+    border-collapse: separate;
+    border-spacing : 0;
+    border: 1px;
+    border-radius:10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 0px grey;
 }
 
 td
 {
-	width: 80px;
-        border-top : 1px solid black;
-        border-left: 1px solid black;
-        padding: 5px;
+    width: 80px;
+    border-top : 1px solid black;
+    border-left: 1px solid black;
+    padding: 5px;
 }
 
 
@@ -91,7 +91,7 @@ table tr:last-child td:first-child
 {
     border-bottom-left-radius:10px;
 }
-	
+
 table tr:last-child td:last-child
 {
     border-right : 1px solid black;
@@ -116,47 +116,52 @@ table tr:last-child td
 
 .tdEquipement
 {
-	width: 100px;
-        padding: 5px;
+    width: 100px;
+    padding: 5px;
 }
 
 .tdNomEquipement
 {
-	width: 260px;
-        padding: 5px;
+    width: 260px;
+    padding: 5px;
 }
 .tdNomEquipementCommun
 {
-	font-weight:bold;
+    font-weight:bold;
+}
+.tdDescrEquipementCommun
+{
+    width: 200px;
+    padding: 5px;
 }
 .tdEquipementReduc
 {
-	width: 200px;
-        padding: 5px;
+    width: 200px;
+    padding: 5px;
 }
 
 .ptab
 {
-	text-align: center;
-        text-indent: 0px;
+    text-align: center;
+    text-indent: 0px;
 }
 
 .ptabstrong
 {
-	text-align: center;
-        font-weight: bold;
-        text-indent: 0px;
+    text-align: center;
+    font-weight: bold;
+    text-indent: 0px;
 }
 
 p
 {
     margin: 0px;
     padding: 0px;
-    
+
     font-family: 'Alegreya',Verdana, Geneva, sans-serif;
     font-size: 16px;
     line-height: 15pt;
-    
+
     text-indent: 20px;
     text-align: justify;   
 }
@@ -181,6 +186,7 @@ h1
     font-weight: bold;
     color : #C03000;
     text-shadow: 0.15em 0.15em 0.3em rgb(135, 135, 135);/*#777;*/
+    margin-left: 60px;
 }
 
 h2 a:visited

@@ -46,9 +46,11 @@
             <div id="topmenu">{include file="topmenu.tpl"}</div>
 
             <div id="menu">{include file="menu.tpl"}</div>
+            <div id="content_top"></div>
             <div id="content">{include file=$page}</div>
+            <div id="content_bottom"></div>
             <div id="footer">{include file="footer.tpl"}</div>
-            <div style="font-family:'Orthoventional'; font-size:16px; padding-bottom:10px;" id="hidden">
+            <div style="font-family:'Orthoventional'; font-size:16px; padding-bottom:10px;color:white;" id="hidden">
                 François Ripp : Creative Commons by-nc-sa & GPL</div>
         </div>
     </body>

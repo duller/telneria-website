@@ -9,9 +9,9 @@
         <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> dans les forêts au nord de l'île et des 
             <a href="?Page=menuLateral/races/varelias">Varelias</a> au sud. 
             La plus grande cité de l'île est Istville, une ville de taille moyenne abritant les aînés des Varelias.</p>
-        <p>La mer environnante est gelée la plupart des temps, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
-            cromlech des transports pour les rares qui en connaissant l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé symbolisant
-            la disposition de chacun des pierres formant l'édifice.</p>
+        <p>La mer environnante est gelée pendant presque toute l'année, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
+            cromlechs de transport pour les rares qui en connaissent l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé, symbolisant
+            la disposition de chacune des pierres formant l'édifice.</p>
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Veldris.Phatpuppy.Flickr.Petit.jpg" title="Illustration : Phatpuppy, Flickr">
