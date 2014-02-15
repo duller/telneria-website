@@ -21,7 +21,7 @@
         <br />
     </div>
 
-    <img class="communImages imageChoixClasses" src="ressources/03-Classes/Classes.WillDan.DA.Small.jpg" title="Illustration : Will Dan, Deviant Art">
+    <img class="communImages imageChoixClasses" src="ressources/03-Classes/Classes.WillDan.DA.Small.png" title="Illustration : Will Dan, Deviant Art" style="box-shadow:none;">
 
     <div class="divVoie classesFoi">
         <h3 class="titreVoie">La voie de la foi</h3>

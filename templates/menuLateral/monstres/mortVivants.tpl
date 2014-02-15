@@ -1,7 +1,7 @@
 <h1>Les mort-vivants</h1>
 
 <div style="width:60%;margin:1%;float:left;">
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/mort-corps.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/mort-corps.png" title="Illustration : Lorc, Open Game Art">
     <p>Les mort-vivants sont des humanoïdes ramenés à la vie par un sortilège de nécromancie.<br />
         Habituellement serviteurs gardiens du nécromant, les mort-vivants errent aussi parfois perdus à eux-mêmes à proximité des cimetières ou des temples. </p><br />
     <p><span class="titreDebutLigne">Chair réanimée : </span>&nbsp Les morts-vivants ne possèdent de volonté propre et leur autonomie est très faible. 
@@ -15,7 +15,7 @@
     leurs ennemis la magie chaotique emmagasinée lors de leur invocation. Les squelettes de niveau 3 infligent ainsi 3+1d6 de dégâts de chaos.</p>
     <br />
     
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/mort-crane.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/mort-crane.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne">Bouclier : </span>&nbsp À l'exception des horreurs recomposées, il est possible de rajouter à tout monstre mort-vivant un bouclier.
         Il voit alors ses dégâts subis et infligés réduits de [niveau]/2 (arrondi au supérieur).</p>
     <br />
@@ -26,8 +26,8 @@
 </div>
 
 <div style="width: 34%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Mortvivant.Lithomancer.DA.jpg" title="Illustration : Lithomancer, Deviant Art">
-    <p class="pImageRace">Un squelette incantateur</p>
+    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Skeleton.GeminiStranger.DA.png" title="Illustration : GeminiStranger, Deviant Art">
+    <p class="pImageRace">Un guerrier squelette</p>
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre">

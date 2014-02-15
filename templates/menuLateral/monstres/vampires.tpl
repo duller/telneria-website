@@ -1,7 +1,7 @@
 <h1>Les vampires</h1>
 
 <div style="width:64%;margin:1%;float:left;">
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/vampir-aile.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/vampir-aile.png" title="Illustration : Lorc, Open Game Art">
     <p>Les vampires sont des humanoïdes immortels écumant les forêts épaisses de Veldris. <br />
         Mordus par des chauve-souris, leur affinité avec la magie du chaos permet aux vampires de se transformer en guerriers de l'ombre la nuit venue. </p>
     <br />
@@ -10,7 +10,7 @@
     <p>De nature discrète, les vampires évitent de se faire remarquer. Cependant, les individus les plus avides de pouvoir prennent parfois des responsabilités temporelles locales.
     Les plus superstitieux vont jusqu'à dire que les barons de Veldris sont tous des vampires assez habiles pour ne pas trahir leur véritable nature.</p>
     <br />
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/vampir-skull.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/vampir-skull.png" title="Illustration : Lorc, Open Game Art">
     
     <p><span class="titreDebutLigne">Morsure vampirisante : </span>&nbsp La nuit, les vampires peuvent prendre leur forme de combat et sucer le sang de leurs victimes,
     volant 1d8+2*niveau points de vie à leur victime. Un tour de recharge.</p>
@@ -21,8 +21,8 @@
 </div>
 
 <div style="width: 32%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" style="box-shadow:none;" src="ressources/11-Monstres/Vampire.png" title="Illustration : Inconnu">
-    <p class="pImageRace">Un seigneur vampire</p>
+    <img class="communImages imageTousMonstres" style="box-shadow:none;" src="ressources/11-Monstres/Vampire.WheresPerry.DA.png" title="Illustration : WheresPerry">
+    <p class="pImageRace">Une terreur strygienne</p>
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%">

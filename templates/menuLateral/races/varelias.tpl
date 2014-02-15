@@ -1,4 +1,4 @@
-<h2>Les Varelias</h2>
+<h2 class="titreRace">Les Varelias</h2>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasDruide.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasDruide.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un varelias druide</p>
 </div>
 

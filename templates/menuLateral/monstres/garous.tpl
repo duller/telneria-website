@@ -1,7 +1,7 @@
 <h1>Les garous</h1>
 
 <div style="width:66%;margin:1%;float:left;">
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/garou-loup.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/garou-loup.png" title="Illustration : Lorc, Open Game Art">
     <p>Les garous sont des humains présentant naturellement des dispositions à la transformation s'étant fait mordre par une créature sauvage. <br />
         La morsure leur permet de prendre à loisir une forme à mi-chemin entre l'animal associé et l'humain. 
         Cette transformation leur confère force, agilité et une perception remarquable.</p>
@@ -11,7 +11,7 @@
     efficaces qu'un guerrier traditionnel.</p>
     <br />
     
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/garou-oeil.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/garou-oeil.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne">Forme animale : </span>&nbsp En forme animale, les garous se révèlent être de redoutables combattants. Ils conservent leur intelligence humaine et savent
         prendre la fuite si le combat tourne en leur défaveur. Les chat-garous sont de taille modeste, mais leur agilité compense leur gabarit.</p>
     <br />
@@ -21,7 +21,7 @@
 </div>
 
 <div style="width: 30%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" style="width:100%;" src="ressources/11-Monstres/Garou.Clarkson.gif" title="Illustration : Clarkson">
+    <img class="communImages imageTousMonstres" style="width:100%;" src="ressources/11-Monstres/Garou.Clarkson.png" title="Illustration : Clarkson">
     <p class="pImageRace">Un loup-garou</p>
 </div>
 

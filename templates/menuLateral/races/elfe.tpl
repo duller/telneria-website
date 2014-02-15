@@ -1,4 +1,4 @@
-<h2>Les Elfes</h2>
+<h2 class="titreRace">Les Elfes</h2>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
@@ -70,7 +70,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/ElfeRodeuse.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/ElfeRodeuse.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Une elfe rôdeuse</p>
 </div>
 

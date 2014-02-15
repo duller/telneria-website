@@ -20,13 +20,13 @@
     </div>
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautDroite">
-            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.jpg" style="height:100px;width:auto;"
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/Armure.png" style="height:100px;width:auto;"
                  title="Illustration : Inconnu">
             <h4 class="h4ClassePerso h4ClassePersoArmure">Armures disponibles</h4>
             <p>Tissu, amulette.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche">
-            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.jpg" style="height:100px;width:100px;"
+            <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.png" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
             <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
             <p>Bâtons, dagues, masses à une main, baguettes.</p>
@@ -39,7 +39,7 @@
             <p>Magie.</p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueHautGauche divSortTechniqueDescriptionBas">
-            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.jpg" title="Illustration : Inconnu">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/CaracCompe.png" title="Illustration : Inconnu">
             <h4 class="h4ClassePerso">Compétences améliorées</h4>
             <p>Découverte, concentration, diplomatie</p>
         </div>
@@ -51,7 +51,7 @@
 
 
 <div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainClerc.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainClerc.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un clerc nain</p>
 </div>
 

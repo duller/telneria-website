@@ -1,4 +1,4 @@
-<h2>Les Humains</h2>
+<h2 class="titreRace">Les Humains</h2>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
@@ -67,7 +67,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/HumainPaladin.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/HumainPaladin.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un humain paladin</p>
 </div>
 

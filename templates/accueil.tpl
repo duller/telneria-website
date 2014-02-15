@@ -66,7 +66,7 @@ de fantasy médiévale, ce qu'est le monde de Telneria.</p>
 
 
 <h2>Les romans de l'univers de Telneria</h2>
-<img class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/01-Accueil/Wikimedia-Books.jpg" title="Illustration : Wikimédia">
+<img class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/01-Accueil/Wikimedia-Books.png" title="Illustration : Wikimédia">
 
 <p>Pour les visiteurs arrivés sur ce site suite à la lecture des romans "Les contrées de Telneria", vous êtes invités à vous rendre dans la section
 détaillant <a href="?Page=menuLateral/telneria">le monde de Telneria</a>. Vous pourrez ainsi découvrir plus en détail l'univers des livres.</p>

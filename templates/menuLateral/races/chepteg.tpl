@@ -1,4 +1,4 @@
-<h2>Les Chepteg</h2>
+<h2 class="titreRace">Les Chepteg</h2>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
@@ -65,7 +65,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/CheptegChaman.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/CheptegChaman.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un chepteg chaman</p>
 </div>
 

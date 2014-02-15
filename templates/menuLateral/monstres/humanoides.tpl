@@ -1,4 +1,4 @@
-<h1>Les humanoïdes</h1>
+<h1 style="margin-top:35px;">Les humanoïdes</h1>
 
 <div style="width:66%;margin:1%;float:left;">
     <p>Les humanoïdes sont le type de monstres intelligents le plus répandu de Telneria. <br />Pour créer un monstre de type humanoïde, il faut choisir une race et un niveau de monstre.<br />
@@ -6,7 +6,7 @@
     
     <p><span class="titreDebutLigne">Bouclier : </span>&nbsp À l'exception des trolls et des ogres, il est possible de rajouter à tout monstre humanoïde un bouclier. <br />
         Il voit alors ses dégâts subis et infligés réduits de [niveau]/2 (arrondi au supérieur).</p><br />
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/human-bowman.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/human-bowman.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne">Attaque à distance : </span>&nbsp Il est également possible de faire porter aux monstres humanoïdes des armes à distance,
         avec les mêmes limitations de race que pour les boucliers.<br />
         Le port d'un arc, 30 mètres de portée, augmente le dé de toucher de 2 et réduit les dégâts infligés de 2.<br />
@@ -24,7 +24,7 @@
         soulage la bourse d'un personnage-joueur de [niveau]x20 pièces d'or.</p>
     
     <h3 class="h3region" style="margin-bottom:10px;">Minotaures</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/human-minotaur.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/human-minotaur.png" title="Illustration : Lorc, Open Game Art">
     <p>Humanoïdes bipèdes de grande taille à tête de taureau, les minotaures affectionnent les larges haches à deux mains.<span class="titreDebutLigne">Tout alignement.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Fureur taurine</span>&nbsp : le coup de hache de ce tour touche jusqu'à trois ennemis.
@@ -45,7 +45,7 @@
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp Aucun.</p>
     
     <h3 class="h3region" style="margin-bottom:10px;">Trolls</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/human-troll.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/human-troll.png" title="Illustration : Lorc, Open Game Art">
     <p>Les trolls sont les créatures les plus anciennes de Veldris. Humanoïdes gigantesques, les mâles adultes peuvent dépasser les sept mètres, les trolls se sont fait pratiquement 
         exterminer par les orcs. Les derniers individus subsistent dans les collines désertes du nord du continent.
         <span class="titreDebutLigne">Ni loyal, ni bon.</span></p>
@@ -55,8 +55,8 @@
 </div>
 
 <div style="width: 30%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Humanoid.Shiprock.DA.jpg" title="Illustration : Shiprock, Deviant Art">
-    <p class="pImageRace">Un brigand gobelin</p>
+    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Humanoid.Archerion.DA.png" title="Illustration : Archerion, Deviant Art">
+    <p class="pImageRace">Un adorateur humanoïde</p>
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">

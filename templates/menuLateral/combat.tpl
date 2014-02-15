@@ -37,7 +37,7 @@
     </script>
 {/literal}
 
-<h1>Le combat</h1>
+<h1 style ="margin-top:70px;">Le combat</h1>
 
 <p style="font-style: italic;">Cliquez sur les titres pour dérouler le contenu. Vous pouvez également tout 
     <a href="#" id="show">dérouler</a> ou tout <a href="#" id="hide">
@@ -54,19 +54,19 @@
         <div id="divInitiative" class="divPageCombat" style="max-width: 100%;">
             
             <div class="div40" style="float:right;">
-                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.Asthenot.DA.jpg" title="Illustration : Asthenot, Deviant Art">
+                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.Asthenot.DA.png" title="Illustration : Asthenot, Deviant Art">
             </div>
             
             <div class="div60">
                 <div class="divMoitieGauche">
                     <h3 class="h3region">Initiative</h3>
-                    <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art">
+                    <img class="communImages imageCombatInitiative" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art">
                     <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu.</p>
                     <p>L'initiative peut être modifiée négativement si un protagoniste est pris par surprise ou est affairé à autre chose, c'est au MJ de le décider.</p>
                 </div>
                 <div class="divMoitieGauche">
                     <h3 class="h3region">Tour de jeu</h3>
-                    <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/cycle.png" title="Illustration : Lorc, Open Game Art">
+                    <img class="communImages imageCombatInitiative" src="ressources/14-Combat/cycle.png" title="Illustration : Lorc, Open Game Art">
                     <p>Un tour de jeu est écoulé lorsque tous les protagonistes ont accompli leur action, s'ils ne sont pas évanouis ou décédés.</p>
                     <p>Le maître du jeu peut modifier le tour de jeu en faisant intervenir un protagoniste, il fait alors un jet d'initiative pour le nouvel arrivant.</p>
                 </div>
@@ -116,7 +116,7 @@
 
             <div class="div30">
                 <h3 class="h3region">Jet de toucher</h3>
-                <img class="communImages" style="max-height:80px;float:left;margin:0 10px 0 0;" src="ressources/14-Combat/diving-dagger.png" title="Illustration : Lorc, Open Game Art">
+                <img class="communImages imageCombatInitiative" src="ressources/14-Combat/diving-dagger.png" title="Illustration : Lorc, Open Game Art">
                 <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé 20 de toucher pour savoir si son attaque est un succès ou un échec. 
                     Selon le type d'attaque, une caractéristique différente est utilisée pour pondérer le jet.</p>
                 <ul>
@@ -131,12 +131,12 @@
             </div>
 
             <div class="div40">
-                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.SilverlightDream.DA.jpg" title="Illustration : Silverlight, Deviant Art">
+                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.SilverlightDream.DA.png" title="Illustration : Silverlight, Deviant Art">
             </div>
 
             <div class="div30">
                 <h3 class="h3region">Sorts et techniques</h3>
-                <img class="communImages" style="max-height:80px;float:right;margin:0 0 0 10px;" src="ressources/14-Combat/dripping-goo.png" title="Illustration : Lorc, Open Game Art">
+                <img class="communImages imageCombatInitiative" style="float:right;margin:0 0 0 10px;" src="ressources/14-Combat/dripping-goo.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les sorts et techniques sont détaillés pour chacune des classes de personnages. Ils ont un coût en mana défini auquel s'ajoute le niveau du personnage.</p>
                 <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par la sagesse :</p>
                 <ul>
@@ -354,7 +354,7 @@
     <div class="divZoneCombatTitre">
         <h2 class="titreCombat">Le Telnas</h2>
         <div id="divTelnas" class="divPageCombat divEtroite">
-            <img class="communImages imageCombatTelnas" src="ressources/14-Combat/TelnasBleu.Demiruigi.DA.jpg" title="Illustration : Demiruigi, Deviant Art">
+            <img class="communImages imageCombatTelnas" src="ressources/14-Combat/TelnasBleu.Demiruigi.DA.png" title="Illustration : Demiruigi, Deviant Art" style="margin-top:-30px;">
             <p>Le Telnas est la matérialisation physique d'une forme très pure de magie des arcanes.</p>
             <p>Elle permet au joueur d'invoquer une épaisse fumée bleue qu'il peut contrôler à sa guise.</p>
             <p>Voici quelques exemples de l'utilisation du Telnas par ordre de difficulté :</p>

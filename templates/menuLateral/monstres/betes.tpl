@@ -5,7 +5,7 @@
     <br />
         
     <h3 class="h3region">Loup gris</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/bete-loup.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/bete-loup.png" title="Illustration : Lorc, Open Game Art">
     <p>Terreurs des villageois, les loups gris se trouvent sur les trois continents du nord à proximité des forêts et des collines.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
@@ -21,7 +21,7 @@
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
     <h3 class="h3region">Ours brun</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/bete-patte.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/bete-patte.png" title="Illustration : Lorc, Open Game Art">
     <p>Imposantes bêtes caniformes, les ours bruns peuvent être croisés dans les forêts et collines boisées de tous les continents.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
@@ -37,7 +37,7 @@
 </div>
 
 <div style="width: 36%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Bete.Asanbonsam.DA.jpg" title="Illustration : Asanbonsam, Deviant Art">
+    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Bete.Asanbonsam.DA.png" title="Illustration : Asanbonsam, Deviant Art">
     <p class="pImageRace">Un yéti primitif</p>
 </div>
 

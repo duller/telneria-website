@@ -1,6 +1,6 @@
 <div style="max-width:840px;">
 
-    <h1>Les armes</h1>
+    <h1 style ="margin-top:40px;">Les armes</h1>
 
     <p>Le type d'arme influe sur les jets de toucher (noté JdT).</p>
     <p>Les armes de qualité moyenne requièrent un personnage de niveau 3. Celles de qualité bonne un niveau 5.</p>

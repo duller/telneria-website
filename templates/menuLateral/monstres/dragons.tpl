@@ -7,7 +7,7 @@
         et monstres présents dans la zone d'effet. Les dégâts sont calculés par joueur et par monstre. Deux tours de recharge.</p>
     
     <h3 class="h3region">Dragons Noirs</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;border-radius:20px 20px 20px 7px;" 
+    <img class="communImages imageLogoMonstres" style="border-radius:20px 20px 20px 7px;" 
          src="ressources/11-Monstres/Icones/dragon-head.inverse.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Chaos, les dragons noirs sont des créatures malfaisantes et destructrices. <span class="titreDebutLigne">Chaotique mauvais.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Chaos. Un tour de recharge.</p>
@@ -26,7 +26,7 @@
     
     
     <h3 class="h3region">Dragons Blancs</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;border-radius:20px 20px 20px 7px;" 
+    <img class="communImages imageLogoMonstres" style="border-radius:20px 20px 20px 7px;" 
          src="ressources/11-Monstres/Icones/dragon-head.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Sacré, les dragons blancs sont d'impitoyables gardiens de la lumière contre le chaos. <span class="titreDebutLigne">Loyal bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Sacré. Un tour de recharge.</p>
@@ -36,7 +36,7 @@
 </div>
 
 <div style="width: 43%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Dragon.Rewan.DA.jpg" title="Illustration : Rewan, Deviant Art">
+    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Dragon.Rewan.DA.png" title="Illustration : Rewan, Deviant Art">
     <p class="pImageRace">Un dragon adulte</p>
 
     <h3 class="h3region">Dragons Rouges</h3>

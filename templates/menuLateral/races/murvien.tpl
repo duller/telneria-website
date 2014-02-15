@@ -1,4 +1,4 @@
-<h2>Les Murviens</h2>
+<h2 class="titreRace">Les Murviens</h2>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/MurvienSorcier.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/MurvienSorcier.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un murvien sorcier</p>
 </div>
 

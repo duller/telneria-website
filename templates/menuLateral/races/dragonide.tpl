@@ -1,4 +1,4 @@
-<h2>Les Dragonides</h2>
+<h2 class="titreRace">Les Dragonides</h2>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
@@ -67,7 +67,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un dragonide sombregarde</p>
 </div>
 

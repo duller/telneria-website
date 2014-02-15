@@ -12,7 +12,7 @@
     <br />
         
     <h3 class="h3region">Élémentaires d'eau</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/elem-crystal.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/elem-crystal.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations de l'eau, ces élémentaires deviennent très résistants dans les zones aquatiques.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Tous les dégâts subis réduits de [niveau] si le combat a lieu dans une zone humide.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Maelström</span>&nbsp :
@@ -25,7 +25,7 @@
         l'élémentaire d'air repousse violemment tous les ennemis présents au corps-à-corps à 10 mètres de lui, leur infligeant des dégâts.</p>
     
     <h3 class="h3region">Élémentaires de feu</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/elem-ifrit.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/elem-ifrit.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations du feu, ces élémentaires peuvent immoler les chairs et les armures les plus résistantes.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts infligés doublés par rapport aux autres élémentaires.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Immolation</span>&nbsp : 
@@ -40,7 +40,7 @@
 </div>
 
 <div style="width: 30%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Elementaire.Jimcleaveland.DA.jpg" title="Illustration : Jimcleaveland, Deviant Art">
+    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Elementaire.Jimcleaveland.DA.png" title="Illustration : Jimcleaveland, Deviant Art">
     <p class="pImageRace">Un élémentaire instable</p>
 </div>
 

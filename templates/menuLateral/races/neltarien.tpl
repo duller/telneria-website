@@ -1,4 +1,4 @@
-<h2>Les Neltariens</h2>
+<h2 class="titreRace">Les Neltariens</h2>
 
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
@@ -68,7 +68,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NeltarienneRoublarde.jpg" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NeltarienneRoublarde.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Une neltarienne roublarde</p>
 </div>
 

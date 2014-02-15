@@ -8,7 +8,7 @@
     <p><span class="titreDebutLigne">Nature arcanique : </span>&nbsp les éthérés ne peuvent être endommagés que par la magie des arcanes et du telnas.</p>
     
     <h3 class="h3region">Méduse de mana</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/ether-jellyfish.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/ether-jellyfish.png" title="Illustration : Lorc, Open Game Art">
     <p>Gelées vagabondes, les méduses de mana errent sans but plusieurs semaines après leur invocation accidentelle. Dénuées d'intelligence, ces émanations arcaniques s'attaquent parfois
     aux aventuriers imprudents.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
@@ -21,7 +21,7 @@
     s'il est resté à proximité plus d'un tour, l'asphyxiant instantanément.</p>
     
     <h3 class="h3region">Arcanoeil</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin:10px;" src="ressources/11-Monstres/Icones/ether-cyclops.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/ether-cyclops.png" title="Illustration : Lorc, Open Game Art">
     <p>Issus d'une intense mais infructueuse concentration d'un mage, les arcanoeils ont développé un oeil central réceptif et perspicace. En manque de stimulation intellectuelle, 
     ces monstruosités oculaires attaquent allègrement les intrus afin de se distraire.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Concentration oculaire</span>&nbsp : l'arcanoeil concentre son regard sur un ennemi, 
@@ -30,8 +30,8 @@
 </div>
 
 <div style="width: 34%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Ethere.LinWolf.DA.jpg" title="Illustration : Linwolf, Deviant Art">
-    <p class="pImageRace">Un loup de mana</p>
+    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Ethere.SuzanneDzialo.png" title="Illustration : Suzanne Dzialo">
+    <p class="pImageRace">Formation de mana affamée</p>
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre">

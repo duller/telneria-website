@@ -1,6 +1,6 @@
 <div style="max-width:840px;margin-left:30px;">
 
-    <h1>L'équipement commun</h1>
+    <h1 style ="margin-top:40px;">L'équipement commun</h1>
 
     <p>L'équipement commun peut être acheté chez la plupart des marchands urbains.</p>
     <p>Au début du jeu, chaque joueur peut choisir gratuitement deux objets de chaque catégorie.</p>

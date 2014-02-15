@@ -1,7 +1,7 @@
-<h1>Les démons</h1>
+<h1 style="margin-top:25px;">Les démons</h1>
 
 <div style="width:65%;margin:1%;float:left;">
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/demon-lune.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/demon-lune.png" title="Illustration : Lorc, Open Game Art">
     <p>Les démons sont originaires de la lune Demonos, en orbite autour du monde de Telneria. Certains croyances populaires attribuent une origine souterraine ou infernale aux démons, 
         mythes que ces derniers aiment entretenir. Les premiers démons ont été convoqués par des sorciers neltariens en Telneria. Seuls des portails magiques ou des sorts d'invocation
         permettent de transiter entre Telneria et Demonos.</p>
@@ -13,7 +13,7 @@
     <br />
     
     <h3 class="h3region">Diablotin</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/demon-tete.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/demon-tete.png" title="Illustration : Lorc, Open Game Art">
     <p>Démons de petite taille, les diablotins sont des maléficieurs sournois et blagueurs.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp En danger de mort, les diablotins peuvent se téléporter sur de courtes distances.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Boule de chaos</span>&nbsp : 
@@ -26,7 +26,7 @@
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
     <h3 class="h3region">Asservisseur funeste</h3>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/11-Monstres/Icones/demon-oeil.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/demon-oeil.png" title="Illustration : Lorc, Open Game Art">
     <p>Les asservisseurs funestes sont des démons adeptes de la magie du chaos. Maîtres de la tromperie, ils peuvent intégrer les sociétés humanoïdes et sont à l'origine des possessions
     démoniaques qu'exécrent la populace superstitieuse.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
@@ -44,7 +44,7 @@
 </div>
 
 <div style="width: 31%; margin: 1%; float:left;">
-    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Demon.Abelbrata.DA.jpg" title="Illustration : Abelbrata, Deviant Art">
+    <img class="communImages imageTousMonstres" src="ressources/11-Monstres/Demon.Abelbrata.DA.png" title="Illustration : Abelbrata, Deviant Art">
     <p class="pImageRace">Un seigneur démon</p>
 </div>
 

@@ -13,7 +13,7 @@
     <br />
 
     <h2>La prise de niveau</h2>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/13-Experience/exp-livre.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;box-shadow:none;" src="ressources/13-Experience/exp-livre.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne">Caractéristiques</span> : À chaque niveau supplémentaire, les joueurs gagnent 1d4+8 de points de caractéristiques. 
         Pour chaque caractéristique, le nombre de points à distribuer est au maximum 2.</p>
     <p><span class="titreDebutLigne">Compétences</span> : Les joueurs gagnent également 2d2 points de compétences à distribuer librement.
@@ -35,7 +35,7 @@
 
 
     <h2>Les écoles de magie</h2>
-    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;" src="ressources/13-Experience/exp-magie.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages" style="max-height:80px;float:left;margin-right:10px;box-shadow:none;" src="ressources/13-Experience/exp-magie.png" title="Illustration : Lorc, Open Game Art">
     <p>Le Telnas permet de rendre palpable la magie des arcanes, mais ce n'est pas la seule école de magie. 
         Tout sort dépend d'une école de magie, son appartenance est utilisée pour déterminer les éventuels bonus ou malus en fonction du type de monstre ou de joueur.</p>
     <p>Les magies du Chaos et du Sacré sont en opposition, tout comme le sont celles de la Nature et des Arcanes.</p>
