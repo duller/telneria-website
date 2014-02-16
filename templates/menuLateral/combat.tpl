@@ -60,7 +60,7 @@
             <div class="div60">
                 <div class="divMoitieGauche">
                     <h3 class="h3region">Initiative</h3>
-                    <img class="communImages imageCombatInitiative" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art">
+                    <img class="communImages imageCombatInitiative" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art" style="border-radius: 0;">
                     <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu.</p>
                     <p>L'initiative peut être modifiée négativement si un protagoniste est pris par surprise ou est affairé à autre chose, c'est au MJ de le décider.</p>
                 </div>
@@ -116,14 +116,14 @@
 
             <div class="div30">
                 <h3 class="h3region">Jet de toucher</h3>
-                <img class="communImages imageCombatInitiative" src="ressources/14-Combat/diving-dagger.png" title="Illustration : Lorc, Open Game Art">
+                <img class="communImages imageCombatInitiative" src="ressources/14-Combat/diving-dagger.png" title="Illustration : Lorc, Open Game Art" style="border-radius: 20px 0 0 0 ;">
                 <p>Lorsqu'un protagoniste attaque un ennemi, il jette un dé 20 de toucher pour savoir si son attaque est un succès ou un échec. 
                     Selon le type d'attaque, une caractéristique différente est utilisée pour pondérer le jet.</p>
                 <ul>
                     <li>Corps-à-corps (attaque simple & technique) : Force</li>
-                    <li>Distance (attaque simple & technique) : Dextérité</li>
+                    <li>Distance (attaque simple & technique) : Habileté</li>
                     <li>Sort offensif : Intelligence</li>
-                    <li>Sort de soin & défensif : Sagesse</li>
+                    <li>Sort de soin & défensif : Esprit</li>
                 </ul>
                 <p>Une réussite critique peut être obtenue lorsque le score au dé est de 20, ce qui se traduit par une réussite assurée et un doublement de l'effet.</p>
                 <p>Un échec critique est obtenu lorsque le score au dé est de 1, c'est nécessairement un échec ayant des conséquences néfastes.</p>
@@ -131,14 +131,14 @@
             </div>
 
             <div class="div40">
-                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.SilverlightDream.DA.png" title="Illustration : Silverlight, Deviant Art">
+                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.SilverlightDream.DA.png" title="Illustration : Silverlight Dream, Deviant Art">
             </div>
 
             <div class="div30">
                 <h3 class="h3region">Sorts et techniques</h3>
                 <img class="communImages imageCombatInitiative" style="float:right;margin:0 0 0 10px;" src="ressources/14-Combat/dripping-goo.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les sorts et techniques sont détaillés pour chacune des classes de personnages. Ils ont un coût en mana défini auquel s'ajoute le niveau du personnage.</p>
-                <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par la sagesse :</p>
+                <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par l'esprit :</p>
                 <ul>
                     <li>Score de 20 (au dé) : réussite critique, effet du soin doublé</li>
                     <li>Score entre 10 et 19 : réussite, effet normal</li>
@@ -162,14 +162,14 @@
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/hammer-drop.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque physique, il faut comparer le jet de toucher avec l'esquive physique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés en fonction de l'arme utilisée.</p>
-                <p>L'esquive physique est déterminée à partir de l'esquive physique de base, qui est de 10, des éventuelles pièces d'armure, de la dextérité et du modificateur de taille.</p>
+                <p>L'esquive physique est déterminée à partir de l'esquive physique de base, qui est de 10, des éventuelles pièces d'armure, de l'habileté et du modificateur de taille.</p>
             </div>
             <div class="divMoitieDroite">
                 <h3 class="h3region">Attaques magiques (30 mètres de portée)</h3>
                 <img class="communImages imageCombatModificateurs" src="ressources/14-Combat/unfriendly-fire.png" title="Illustration : Lorc, Open Game Art">
                 <p>Pour déterminer le succès d'une attaque magique, il faut comparer le jet de toucher avec l'esquive magique de la cible. 
                     Si le résultat est supérieur ou égal, l'attaque touche et les dégâts infligés sont déterminés par le sort utilisé.</p>
-                <p>L'esquive magique est déterminée à partir de l'esquive magique de base, qui est de 10, des éventuelles pièces d'armures magiques, du charisme et du modificateur de taille.</p>
+                <p>L'esquive magique est déterminée à partir de l'esquive magique de base, qui est de 10, des éventuelles pièces d'armures magiques, de la prestance et du modificateur de taille.</p>
                 <p>Les classes magiques les plus puissantes, à savoir clerc, sorcier, magicien et druide, ont un bonus de +1 à l'esquive magique.</p>
             </div>
             <div style="text-align:center;">

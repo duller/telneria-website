@@ -35,7 +35,7 @@
 </div>
 <div id="divAccueilDroite">
 
-<h2>Qu'est ce qu'un jeu de rôle ?</h2>
+<h2 style="margin-top:60px;">Partir à l'aventure : le jeu de rôle</h2>
 <img class="communImages" style="max-height:80px;float:left;margin: 10px;" src="ressources/01-Accueil/Runes-Eleazzaar-DA.png" title="Illustration : Eleazzar, Deviant Art">
 <p>Le jeu de rôle consiste à vivre une aventure à plusieurs en s'imaginant la situation et en se mettant dans la peau de personnages fictifs.</p>
 <p>"Les contrées de Telneria" est un ensemble de règles, de descriptions et de fiches papiers permettant de mener à bien un tel jeu

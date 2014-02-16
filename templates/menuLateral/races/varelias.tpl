@@ -30,8 +30,8 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
-            <p>+1 à la force, +1 à la constitution, +1 à la sagesse</p>
-            <p>-1 à la dextérité</p>
+            <p>+1 à la force, +1 à la vigueur, +1 à l'esprit</p>
+            <p>-1 à l'habileté</p>
             <p>Peut regagner 2d4 de points de vie une fois par combat, si celui-ci a lieu a proximité d'une forêt.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">

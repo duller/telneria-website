@@ -31,7 +31,7 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
-            <p>+1 à la dextérité</p>
+            <p>+1 à l'habileté</p>
             <p>+1 au dé de toucher avec les attaques de mêlée et à distance</p>
             <p>+1d2 de dégâts lors d'une attaque à mains nues</p>
         </div>

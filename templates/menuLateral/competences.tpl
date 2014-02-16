@@ -44,7 +44,7 @@
                 <p class="ptab">Équilibre</p>
             </td>
             <td>
-                <p class="ptab">DEX</p>
+                <p class="ptab">HAB</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à garder son équilibre sur un terrain scabreux.</p>
@@ -55,7 +55,7 @@
                 <p class="ptab">Discrétion</p>
             </td>
             <td>
-                <p class="ptab">DEX</p>
+                <p class="ptab">HAB</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à se mouvoir sans bruit ou à se faire silencieux dans une situation qui le nécessite.</p>
@@ -66,7 +66,7 @@
                 <p class="ptab">Précision</p>
             </td>
             <td>
-                <p class="ptab">DEX</p>
+                <p class="ptab">HAB</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à manier de petits objets ou mécanismes avec délicatesse, notamment pour du crochetage ou du désamorçage.</p>
@@ -77,7 +77,7 @@
                 <p class="ptab">Survie</p>
             </td>
             <td>
-                <p class="ptab">CON</p>
+                <p class="ptab">VIG</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à résister dans un environnement hostile, notamment un milieu volcanique ou toxique.</p>
@@ -110,7 +110,7 @@
                 <p class="ptab">Concentration</p>
             </td>
             <td>
-                <p class="ptab">SAG</p>
+                <p class="ptab">ESP</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à résister aux distractions lors d'un travail intellectuel. 
@@ -122,7 +122,7 @@
                 <p class="ptab">Perception</p>
             </td>
             <td>
-                <p class="ptab">SAG</p>
+                <p class="ptab">ESP</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à détecter les sons, les lumières, même dans les situations les plus bruyantes et les pièces les plus sombres.</p>
@@ -133,7 +133,7 @@
                 <p class="ptab">Tromperie</p>
             </td>
             <td>
-                <p class="ptab">CHA</p>
+                <p class="ptab">ESP</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à se jouer de son interlocuteur ou de son adversaire pour l'amener à agir favorablement. 
@@ -145,7 +145,7 @@
                 <p class="ptab">Diplomatie</p>
             </td>
             <td>
-                <p class="ptab">CHA</p>
+                <p class="ptab">PRE</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à convaincre son interlocuteur par la raison ou la menace. 
@@ -157,7 +157,7 @@
                 <p class="ptab">Animaphilie</p>
             </td>
             <td>
-                <p class="ptab">CHA</p>
+                <p class="ptab">PRE</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à dresser des animaux sauvages et à monter sur une monture terrestre ou volante.</p>

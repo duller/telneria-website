@@ -149,7 +149,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Dexterité</p>
+				<p class="ptab">Habileté</p>
 			</td>
 			<td>
 				<p class="ptab">5</p>
@@ -157,7 +157,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Constitution</p>
+				<p class="ptab">Vigueur</p>
 			</td>
 			<td>
 				<p class="ptab">5</p>
@@ -173,7 +173,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Sagesse</p>
+				<p class="ptab">Esprit</p>
 			</td>
 			<td>
 				<p class="ptab">10</p>
@@ -181,7 +181,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Charisme</p>
+				<p class="ptab">Prestance</p>
 			</td>
 			<td>
 				<p class="ptab">8</p>

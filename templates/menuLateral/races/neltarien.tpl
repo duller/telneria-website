@@ -31,7 +31,7 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
-            <p>+1 au charisme, +1 à la dextérité</p>
+            <p>+1 à la prestance, +1 à l'habileté</p>
             <p>-1 à la force</p>
             <p>Bonus de 1 aux jets de détection et de discrétion.</p>
         </div>

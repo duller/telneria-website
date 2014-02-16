@@ -25,7 +25,7 @@
             <td class="tdNomEquipement"><p class="ptab">Pendentif en lierre</p></td>
             <td class="tdEquipement"><p class="ptab">+1 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 ESP</p></td>
             <td class="tdEquipement"><p class="ptab">40 po</p></td>
             <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
         </tr>
@@ -33,7 +33,7 @@
             <td class="tdNomEquipement"><p class="ptab">Anneau enchanté</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 ESP</p></td>
             <td class="tdEquipement"><p class="ptab">80 po</p></td>
             <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
         </tr>
@@ -41,7 +41,7 @@
             <td class="tdNomEquipement"><p class="ptab">Amulette sacrée en or</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+2 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 ESP</p></td>
             <td class="tdEquipement"><p class="ptab">120 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
@@ -49,7 +49,7 @@
             <td class="tdNomEquipement"><p class="ptab">Amulette divine incrustée</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-2 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+2 SAG</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 ESP</p></td>
             <td class="tdEquipement"><p class="ptab">160 po</p></td>
             <td class="tdEquipement"><p class="ptab">Admirable</p></td>
         </tr>
@@ -147,7 +147,7 @@
             <td class="tdNomEquipement"><p class="ptab">Poitrail en peau d'ours</p></td>
             <td class="tdEquipement"><p class="ptab">+1 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 AGI</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 HAB</p></td>
             <td class="tdEquipement"><p class="ptab">50 po</p></td>
             <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
         </tr>
@@ -155,7 +155,7 @@
             <td class="tdNomEquipement"><p class="ptab">Broigne en poil de troll</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 AGI</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 HAB</p></td>
             <td class="tdEquipement"><p class="ptab">60 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
@@ -163,7 +163,7 @@
             <td class="tdNomEquipement"><p class="ptab">Carapace en peau d'ogresse</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+2 AGI</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 HAB</p></td>
             <td class="tdEquipement"><p class="ptab">90 po</p></td>
             <td class="tdEquipement"><p class="ptab">Admirable</p></td>
         </tr>
@@ -185,7 +185,7 @@
             <td class="tdNomEquipement"><p class="ptab">Tenue en mailles renforcée</p></td>
             <td class="tdEquipement"><p class="ptab">+1 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-2 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1AGI</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 HAB</p></td>
             <td class="tdEquipement"><p class="ptab">60 po</p></td>
             <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
         </tr>
@@ -193,7 +193,7 @@
             <td class="tdNomEquipement"><p class="ptab">Plastron en écailles de basilic</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-2 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 AGI</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 HAB</p></td>
             <td class="tdEquipement"><p class="ptab">70 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
@@ -201,7 +201,7 @@
             <td class="tdNomEquipement"><p class="ptab">Plastron en mithril</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-2 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+2 AGI</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 HAB</p></td>
             <td class="tdEquipement"><p class="ptab">100 po</p></td>
             <td class="tdEquipement"><p class="ptab">Admirable</p></td>
         </tr>
@@ -223,7 +223,7 @@
             <td class="tdNomEquipement"><p class="ptab">Armure complète en thorium</p></td>
             <td class="tdEquipement"><p class="ptab">+1 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-3 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 CON</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 VIG</p></td>
             <td class="tdEquipement"><p class="ptab">80 po</p></td>
             <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
         </tr>
@@ -231,7 +231,7 @@
             <td class="tdNomEquipement"><p class="ptab">Armure en écailles de dragonnet</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-3 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 CON</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 VIG</p></td>
             <td class="tdEquipement"><p class="ptab">90 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
@@ -239,7 +239,7 @@
             <td class="tdNomEquipement"><p class="ptab">Cuirasse en écaille de dragon rouge</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EP</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-3 dégâts p. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+2 CON</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 VIG</p></td>
             <td class="tdEquipement"><p class="ptab">120 po</p></td>
             <td class="tdEquipement"><p class="ptab">Admirable</p></td>
         </tr>

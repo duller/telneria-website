@@ -438,7 +438,7 @@
         le joueur peut choisir un équipement de qualité moyenne. Pour les niveaux 7 et supérieurs, le choix peut porter sur un équipement de qualité bonne.</p><br />
     <img class="communImages" style="max-height:80px;float:left;margin: 10px;box-shadow:none;" src="ressources/02-Creation/beard.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne" style="font-weight:normal;font-style:normal;font-size:16px;">Les <a href="?Page=menuLateral/experience">points de vie et de mana</a></span>
-         : &nbsp Pour les points de vie, il faut prendre le modificateur de départ de constitution, puis y ajouter tous les modificateurs suivants du tableau des caractéristiques
+         : &nbsp Pour les points de vie, il faut prendre le modificateur de départ de vigueur, puis y ajouter tous les modificateurs suivants du tableau des caractéristiques
     jusqu'à ce qu'on se soit déplacé [niveau] fois dans le tableau. Notez bien, si un modificateur est négatif, il faut le remplacer par 0 pour le calcul. À cette première somme, 
     il convient d'ajouter la base de points de vie présente sur la fiche de personnage, puis y rajouter [niveau], puis y soustraire 4, puis y rajouter 1d4.</p>
     <p>Pour les points de mana, le principe est le même, mais c'est avec le modificateur d'intelligence qu'il faut faire le calcul.</p>

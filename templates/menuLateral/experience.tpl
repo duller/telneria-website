@@ -19,7 +19,7 @@
     <p><span class="titreDebutLigne">Compétences</span> : Les joueurs gagnent également 2d2 points de compétences à distribuer librement.
         Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.</p>
     <p><span class="titreDebutLigne">Points de vie et de mana</span> :  À chaque niveau, le nombre de points de vie et de mana augmente de 1d2 plus le 
-        modificateur du niveau précédent, respectivement de constitution et d'intelligence, sauf si celui-ci est négatif.</p>
+        modificateur du niveau précédent, respectivement de vigueur et d'intelligence, sauf si celui-ci est négatif.</p>
 </div>
 
 <div class="divMoitieDroite">

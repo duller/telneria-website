@@ -13,14 +13,14 @@
         <p>Le modificateur de force modifie le dé de toucher au corps-à-corps.</p>
     </div>
     <div class="zoneCarac">
-        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Dexterite.png" title="Illustration : Horror Pen, Open Game Art">
-        <h3 class="h3Carac">Dextérité</h3>
-        <p>Le modificateur de dexterité modifie le dé de toucher à distance et l'esquive physique.</p>
+        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Habilete.png" title="Illustration : Horror Pen, Open Game Art">
+        <h3 class="h3Carac">Habileté</h3>
+        <p>Le modificateur d'habileté modifie le dé de toucher à distance et l'esquive physique.</p>
     </div>
     <div class="zoneCarac">
-        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Constitution.png" title="Illustration : Horror Pen, Open Game Art">
-        <h3 class="h3Carac">Constitution</h3>
-        <p>Le modificateur de constitution détermine le nombre de points de vie gagnés à chaque niveau.</p>
+        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Vigueur.png" title="Illustration : Horror Pen, Open Game Art">
+        <h3 class="h3Carac">Vigueur</h3>
+        <p>Le modificateur de vigueur détermine le nombre de points de vie gagnés à chaque niveau.</p>
     </div>
 
 </div>
@@ -32,14 +32,14 @@
         <p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs et le nombre de points de mana gagnés à chaque niveau.</p>
     </div>
     <div class="zoneCarac">
-        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Sagesse.png" title="Illustration : Horror Pen, Open Game Art">
-        <h3 class="h3Carac">Sagesse</h3>
-        <p>Le modificateur de sagesse modifie le dé de toucher avec les sorts de soins.</p>
+        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Esprit.png" title="Illustration : Horror Pen, Open Game Art">
+        <h3 class="h3Carac">Esprit</h3>
+        <p>Le modificateur d'esprit modifie le dé de toucher avec les sorts de soins.</p>
     </div>
     <div class="zoneCarac">
-        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Charisme.png" title="Illustration : Horror Pen, Open Game Art">
-        <h3 class="h3Carac">Charisme</h3>
-        <p>Le modificateur de charisme modifie l'esquive magique.</p>
+        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Prestance.png" title="Illustration : Horror Pen, Open Game Art">
+        <h3 class="h3Carac">Prestance</h3>
+        <p>Le modificateur de prestance modifie l'esquive magique.</p>
     </div>
 </div>
 
