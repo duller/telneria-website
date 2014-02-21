@@ -50,7 +50,7 @@
 </div>
 
 
-<div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
+<div class="classeImage communDivClasseMarges" style="margin-top:30px;">
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un magicien kerfenn</p>
 </div>

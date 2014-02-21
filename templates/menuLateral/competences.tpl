@@ -58,7 +58,7 @@
                 <p class="ptab">HAB</p>
             </td>
             <td width="">
-                <p class="ptab">Capacité à se mouvoir sans bruit ou à se faire silencieux dans une situation qui le nécessite.</p>
+                <p class="ptab">Capacité à se mouveoir sans bruit ou à se faire silencieux dans une situation qui le nécessite.</p>
             </td>
         </tr>
         <tr class="trTableauCompe">
@@ -80,7 +80,7 @@
                 <p class="ptab">VIG</p>
             </td>
             <td width="">
-                <p class="ptab">Capacité à résister dans un environnement hostile, notamment un milieu volcanique ou toxique.</p>
+                <p class="ptab">Capacité à survivre dans un environnement hostile, notamment un milieu volcanique ou toxique.</p>
             </td>
         </tr>
         <tr class="trTableauCompe">
@@ -160,7 +160,7 @@
                 <p class="ptab">PRE</p>
             </td>
             <td width="">
-                <p class="ptab">Capacité à dresser des animaux sauvages et à monter sur une monture terrestre ou volante.</p>
+                <p class="ptab">Capacité à dresser des animaux sauvages et à monter une créature terrestre ou volante.</p>
             </td>
         </tr>
 
