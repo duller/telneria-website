@@ -192,7 +192,7 @@
     </table>
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le funeste</h3>
 
     <p>Le funeste est un sombregarde adepte de la puissance du chaos.</p>
@@ -258,7 +258,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le vampiriste</h3>
 
     <p>Le vampiriste est un sombregarde puisant sa force dans la vigueur de ses ennemis.</p>

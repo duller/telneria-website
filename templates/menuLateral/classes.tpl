@@ -4,7 +4,7 @@
 
 <div style="float:left;">
 
-    <div class="divVoie classesMagie">
+    <div id="idVoieMagie" class="divVoie classesMagie">
         <h3 class="titreVoie">La voie de la magie</h3>
         <br />
 
@@ -23,7 +23,7 @@
 
     <img class="communImages imageChoixClasses" src="ressources/03-Classes/Classes.WillDan.DA.Small.png" title="Illustration : Will Dan, Deviant Art" style="box-shadow:none;">
 
-    <div class="divVoie classesFoi">
+    <div id="idVoieFoi" class="divVoie classesFoi">
         <h3 class="titreVoie">La voie de la foi</h3>
         <br />
 
@@ -44,7 +44,7 @@
 </div>
 <div style="float:left;">
 
-    <div class="divVoie classesNature">
+    <div id="idVoieNature" class="divVoie classesNature">
         <h3 class="titreVoie">La voie de la nature</h3>
         <br />
 
@@ -62,7 +62,7 @@
     </div>
 
 
-    <div class="divVoie classesDiscretion">
+    <div id="idVoieDiscretion" class="divVoie classesDiscretion">
         <h3 class="titreVoie">La voie de la discrétion</h3>
         <br />
 
@@ -81,7 +81,7 @@
     </div>
 
 
-    <div class="divVoie classesGuerre">
+    <div id="idVoieGuerre" class="divVoie classesGuerre">
         <h3 class="titreVoie">La voie de la guerre</h3>
         <br />
 

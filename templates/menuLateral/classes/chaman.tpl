@@ -193,7 +193,7 @@
     </table>
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le totémiste</h3>
 
     <p>Le totémiste est un chaman versé dans les arts mystiques des totems.</p>
@@ -259,7 +259,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le mentaliste</h3>
 
     <p>Le mentaliste est un chaman adepte de la maîtrise des esprits mortels.</p>

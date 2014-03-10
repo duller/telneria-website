@@ -191,7 +191,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le nécromant</h3>
 
     <p>Le nécromant est un sorcier versé dans l'art de communier avec les morts-vivants.</p>
@@ -257,7 +257,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le démoniste</h3>
 
     <p>Le démoniste est un sorcier spécialisé dans la communion avec les créatures démoniaques.</p>

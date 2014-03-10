@@ -193,7 +193,7 @@
 
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : L'assassin</h3>
 
     <p>L'assassin est un roublard spécialisé dans le meurtre et la tuerie.</p>
@@ -260,7 +260,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le fourbe</h3>
 
     <p>Le fourbe est un roublard spécialisé dans la discrétion et la tromperie.</p>

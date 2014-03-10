@@ -193,7 +193,7 @@
 
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le templier</h3>
 
     <p>Le templier est un paladin dévolue à la protection d'autrui, portant armure lourde et bouclier.</p>
@@ -259,7 +259,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : L'inquisiteur</h3>
 
     <p>L'inquisiteur est un paladin obnubilé par la traque et l'élimination des êtres impies.</p>

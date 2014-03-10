@@ -192,7 +192,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le naturaliste</h3>
 
     <p>Le naturaliste est un druide spécialisé dans la communion avec la nature.</p>
@@ -258,7 +258,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le farouche</h3>
 
     <p>Le farouche est un druide spécialisé dans le changement de forme animale.</p>

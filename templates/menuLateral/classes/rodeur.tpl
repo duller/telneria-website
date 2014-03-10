@@ -191,7 +191,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le nimrod</h3>
 
     <p>Le nimrod est un rôdeur expert en archerie et au combat à distance.</p>
@@ -257,7 +257,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : L'animalier</h3>
 
     <p>L'animalier est un rôdeur très proche de son familier et des animaux sauvages.</p>

@@ -191,7 +191,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le barbare</h3>
 
     <p>Le barbare est un guerrier brutal orienté vers un type de combat primitif.</p>
@@ -257,7 +257,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le gardien</h3>
 
     <p>Le gardien est un guerrier spécialisé dans le combat à l'armure lourde et au bouclier.</p>

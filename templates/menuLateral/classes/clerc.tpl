@@ -193,7 +193,7 @@
 	</table>
 </div>
 
-<div class="classePrestige1 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le prêtre</h3>
 
     <p>Le prêtre est un clerc dévolu à la transmission de la parole de la lumière sacrée.</p>
@@ -259,7 +259,7 @@
 </div>
 
 
-<div class="classePrestige2 communDivClasseMarges communDivClasseContour">
+<div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : Le moine</h3>
 
     <p>Le moine est un clerc spécialisé dans le combat au corps-à-corps.</p>

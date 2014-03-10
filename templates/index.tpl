@@ -41,6 +41,69 @@
     </head>
 
     <body>
+
+        {literal}
+            <script type="text/javascript">
+
+            $(function ()
+            {
+                setHeightClasses();
+    
+                $( window ).resize(function() {
+                    $("#idPrestige1").css('height','auto');
+                    $("#idPrestige2").css('height','auto');
+                    $("#idVoieMagie").css('height','auto');
+                    $("#idVoieFoi").css('height','auto');
+                    $("#idVoieNature").css('height','auto');
+                    $("#idVoieDiscretion").css('height','auto');
+                    $("#idVoieGuerre").css('height','auto');
+                    setHeightClasses();
+                });
+        
+                function setHeightClasses()
+                {
+                    if ($("#idPrestige1").height() > $("#idPrestige2").height())
+                    {
+                        $("#idPrestige2").height($("#idPrestige1").height());
+                    }
+                    else
+                    {
+                        $("#idPrestige1").height($("#idPrestige2").height());
+                    }
+
+                    if ($("#idVoieMagie").height() > $("#idVoieFoi").height())
+                    {
+                        $("#idVoieFoi").height($("#idVoieMagie").height());
+                    }
+                    else
+                    {
+                        $("#idVoieMagie").height($("#idVoieFoi").height());
+                    }
+                        
+                    var maxH = 0;
+                    if ($("#idVoieNature").height() > maxH)
+                    {
+                        maxH = $("#idVoieNature").height();
+                    }
+                    if ($("#idVoieDiscretion").height() > maxH)
+                    {
+                        maxH = $("#idVoieDiscretion").height();
+                    }
+                    if ($("#idVoieGuerre").height() > maxH)
+                    {
+                        maxH = $("#idVoieGuerre").height();
+                    }
+                        
+                    $("#idVoieNature").height(maxH);
+                    $("#idVoieDiscretion").height(maxH);
+                    $("#idVoieGuerre").height(maxH);
+
+                }        
+            });
+
+            </script>
+        {/literal}
+
         <div id="container">
             <!--<div id="header">{ include file="header.tpl"}</div>-->
             <div id="topmenu">{include file="topmenu.tpl"}</div>

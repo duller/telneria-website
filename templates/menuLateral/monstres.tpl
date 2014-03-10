@@ -14,15 +14,15 @@
                                                              title="Illustration : Archerion, Deviant Art">
         <p class="lienMonstre">Les humanoïdes</p></a>
         </div>
-        <div class="divSousGroupeMonstres" style="max-width:32%;">
-        <a href="?Page=menuLateral/monstres/vampires"><img class="communImages imageTousMonstres" src="ressources/11-Monstres/Mini/Vampire.WheresPerry.DA.mini.png"
-                                                             title="Illustration : WheresPerry">
-        <p class="lienMonstre">Les vampires</p></a>
-        </div>
         <div class="divSousGroupeMonstres" style="max-width:31%;padding-top:4%;">
         <a href="?Page=menuLateral/monstres/mortVivants"><img class="communImages imageTousMonstres" src="ressources/11-Monstres/Mini/Skeleton.GeminiStranger.DA.mini.png"
                                                              title="Illustration : GeminiStranger, Deviant Art">
         <p class="lienMonstre">Les mort-vivants</p></a>
+        </div>
+        <div class="divSousGroupeMonstres" style="max-width:32%;">
+        <a href="?Page=menuLateral/monstres/vampires"><img class="communImages imageTousMonstres" src="ressources/11-Monstres/Mini/Vampire.WheresPerry.DA.mini.png"
+                                                             title="Illustration : WheresPerry">
+        <p class="lienMonstre">Les vampires</p></a>
         </div>
     </div>
 
