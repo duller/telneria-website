@@ -79,14 +79,14 @@
             <td class="tdEquipement"><p class="ptab"><img class="communImages imageEquipementCommun" src="ressources/10-Equipem/Commun/potion-vie.jpg" title="Illustration : Nangeyi"></p></td>
             <td class="tdDescrEquipementCommun"><p class="ptab">De la même couleur que le fluide vital de nombreuses espèces, les potions de vie permettent de regagner vigueur au cours d'un combat.</p></td>
             <td class="tdEquipement"><p class="ptab">20 po</p></td>
-            <td class="tdDescrEquipementCommun"><p class="ptab">Permet de regagner [niveau] points de vie pendant un combat.</p></td>
+            <td class="tdDescrEquipementCommun"><p class="ptab">Permet de regagner [niveau] points de vie pendant un combat. Action complète, une seule fois par combat.</p></td>
         </tr>
         <tr>
             <td class="tdEquipement tdNomEquipementCommun"><p class="ptab">Potion de mana</p></td>
             <td class="tdEquipement"><p class="ptab"><img class="communImages imageEquipementCommun" src="ressources/10-Equipem/Commun/potion-mana.jpg" title="Illustration : Nangeyi"></p></td>
             <td class="tdDescrEquipementCommun"><p class="ptab">Les érudits se déchirent pour percer le secret de la couleur des potions de mana.</p></td>
             <td class="tdEquipement"><p class="ptab">20 po</p></td>
-            <td class="tdDescrEquipementCommun"><p class="ptab">Permet de regagner [niveau] points de mana pendant un combat.</p></td>
+            <td class="tdDescrEquipementCommun"><p class="ptab">Permet de regagner [niveau] points de mana pendant un combat. Action complète, une seule fois par combat.</p></td>
         </tr>
         <tr>
             <td class="tdEquipement tdNomEquipementCommun"><p class="ptab">Champignons</p></td>

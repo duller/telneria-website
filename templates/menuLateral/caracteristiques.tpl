@@ -7,17 +7,17 @@
     utilisée pour quelle compétence. En dehors des compétences, les caractéristiques ont également une utilité propre détaillée sur cette page.</p>
 
 <div class="divMoitieGauche">
-    <div class="zoneCarac">
+    <div id="idForce" class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Force.png" title="Illustration : Horror Pen, Open Game Art">
         <h3 class="h3Carac">Force</h3>
         <p>Le modificateur de force modifie le dé de toucher au corps-à-corps.</p>
     </div>
-    <div class="zoneCarac">
+    <div id="idHabil" class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Habilete.png" title="Illustration : Horror Pen, Open Game Art">
         <h3 class="h3Carac">Habileté</h3>
         <p>Le modificateur d'habileté modifie le dé de toucher à distance et l'esquive physique.</p>
     </div>
-    <div class="zoneCarac">
+    <div id="idVigueur" class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Vigueur.png" title="Illustration : Horror Pen, Open Game Art">
         <h3 class="h3Carac">Vigueur</h3>
         <p>Le modificateur de vigueur détermine le nombre de points de vie gagnés à chaque niveau.</p>
@@ -26,17 +26,17 @@
 </div>
 
 <div class="divMoitieDroite">
-    <div class="zoneCarac">
+    <div id="idIntel" class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Intelligence.png" title="Illustration : Horror Pen, Open Game Art">
         <h3 class="h3Carac">Intelligence</h3>
         <p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs et le nombre de points de mana gagnés à chaque niveau.</p>
     </div>
-    <div class="zoneCarac">
+    <div id="idEsprit" class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Esprit.png" title="Illustration : Horror Pen, Open Game Art">
         <h3 class="h3Carac">Esprit</h3>
         <p>Le modificateur d'esprit modifie le dé de toucher avec les sorts de soins.</p>
     </div>
-    <div class="zoneCarac">
+    <div id="idPrestance" class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Prestance.png" title="Illustration : Horror Pen, Open Game Art">
         <h3 class="h3Carac">Prestance</h3>
         <p>Le modificateur de prestance modifie l'esquive magique.</p>

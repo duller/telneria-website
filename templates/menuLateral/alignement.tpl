@@ -5,20 +5,20 @@
 
 <div class="divMoitieGauche">
     <h2>L'éthique</h2>
-    <div class="zoneAlignement">
+    <div id="idAlignementLoyal" class="zoneAlignement">
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/ethiqueLoyal.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Loyal</h3>
         <p>Un personnage loyal est digne de confiance et croit en les règles établies. Il se dévoue à ses compagnons et ne se soucie que peu de sa propre personne.
             Être loyal n'empêche pas d'être cruel ou malveillant, mais un personnage loyal sera mauvais tout en restant fidèle.</p>
     </div>
-    <div class="zoneAlignement">
+    <div id="idAlignementNeutreEthique" class="zoneAlignement">
 
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/ethiqueNeutre.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Neutre</h3>
         <p>Un personnage neutre respecte la plupart du temps les règles établies mais sera enclin à les enfreindre s'il en ressent le besoin ou la nécessité, 
             il sera digne de confiance mais pourra être amené à trahir ses compagnons si la situation le nécessite.</p>
     </div>
-    <div class="zoneAlignement">
+    <div id="idAlignementChaotique" class="zoneAlignement">
 
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/ethiqueChaotique.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Chaotique</h3>
@@ -29,14 +29,14 @@
 
 <div class="divMoitieDroite">
     <h2>La morale</h2>
-    <div class="zoneAlignement">
+    <div id="idAlignementBon" class="zoneAlignement">
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/moraleBon.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Bon</h3>
         <p>Un personnage bon croit en le bien et cherchera toujours à porter assistance à autrui. Il n'est cependant pas nécessairement dédié à ses compagnons et 
             respectueux de la loi. La défense des opprimés et des victimes d'injustice passe avant toute règle ou toute promesse s'il est chaotique. 
             S'il est loyal, il conciliera les deux aspects.</p>
     </div>
-    <div class="zoneAlignement">
+    <div id="idAlignementNeutreMorale" class="zoneAlignement">
 
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/moraleNeutre.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Neutre</h3>
@@ -44,7 +44,7 @@
             Un enfant abandonné peut faire naître en lui tantôt de la compassion, tantôt une soudaine envie de voir couler du sang innocent.
         </p>
     </div>
-    <div class="zoneAlignement">
+    <div id="idAlignementMauvais" class="zoneAlignement">
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/moraleMauvais.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Mauvais</h3>
         <p>Un personnage mauvais à une forte propension à oeuvrer pour le mal. Il se délecte aisément des souffrances d'autrui et recourt à la torture sans état d'âme.

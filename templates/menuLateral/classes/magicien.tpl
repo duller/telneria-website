@@ -191,8 +191,6 @@
 
 </div>
 
-<div>
-
 <div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : L'arcaniste</h3>
 
@@ -323,5 +321,3 @@
         </div>
     </div>
 </div>
-    
-    </div>

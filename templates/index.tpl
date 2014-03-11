@@ -47,58 +47,64 @@
 
             $(function ()
             {
-                setHeightClasses();
-    
+                setHauteurClasses();
+                    
                 $( window ).resize(function() {
-                    $("#idPrestige1").css('height','auto');
-                    $("#idPrestige2").css('height','auto');
-                    $("#idVoieMagie").css('height','auto');
-                    $("#idVoieFoi").css('height','auto');
-                    $("#idVoieNature").css('height','auto');
-                    $("#idVoieDiscretion").css('height','auto');
-                    $("#idVoieGuerre").css('height','auto');
-                    setHeightClasses();
+                    setHauteurClasses();
                 });
         
-                function setHeightClasses()
+                function setHauteurClasses()
                 {
-                    if ($("#idPrestige1").height() > $("#idPrestige2").height())
+                    setHauteurDiv($("#idVoieMagie"), $("#idVoieFoi"), false);
+                    setHauteurDiv($("#idVoieNature"), $("#idVoieDiscretion"), $("#idVoieGuerre"));
+                    setHauteurDiv($("#idPrestige1"), $("#idPrestige2"), false);
+                    setHauteurDiv($("#idAlignementLoyal"), $("#idAlignementNeutreEthique"), $("#idAlignementChaotique"));
+                    setHauteurDiv($("#idAlignementBon"), $("#idAlignementNeutreMorale"), $("#idAlignementMauvais"));
+                    setHauteurDiv($("#idDon01"), $("#idDon02"), $("#idDon03"));
+                    setHauteurDiv($("#idDon11"), $("#idDon21"), $("#idDon31"));
+                    setHauteurDiv($("#idDon12"), $("#idDon22"), $("#idDon32"));
+                    setHauteurDiv($("#idDon13"), $("#idDon23"), $("#idDon33"));
+                    setHauteurDiv($("#idForce"), $("#idIntel"), false);
+                    setHauteurDiv($("#idHabil"), $("#idEsprit"), false);
+                    setHauteurDiv($("#idVigueur"), $("#idPrestance"), false);
+                    setHauteurDiv($("#idPrepGauche"), $("#idPrepDroite"), false);
+                    setHauteurDiv($("#idExpGauche"), $("#idExpDroite"), false);
+                }
+                    
+                function setHauteurDiv(gauche, milieu, droite)
+                {
+                    if (!gauche.length)
                     {
-                        $("#idPrestige2").height($("#idPrestige1").height());
-                    }
-                    else
-                    {
-                        $("#idPrestige1").height($("#idPrestige2").height());
+                        return;
                     }
 
-                    if ($("#idVoieMagie").height() > $("#idVoieFoi").height())
+                    gauche.css('height','auto');
+                    milieu.css('height','auto');
+                    if (droite)
                     {
-                        $("#idVoieFoi").height($("#idVoieMagie").height());
-                    }
-                    else
-                    {
-                        $("#idVoieMagie").height($("#idVoieFoi").height());
-                    }
-                        
+                        droite.css('height','auto');
+                    }                
                     var maxH = 0;
-                    if ($("#idVoieNature").height() > maxH)
+                    if (gauche.height() > maxH)
                     {
-                        maxH = $("#idVoieNature").height();
+                        maxH = gauche.height();
                     }
-                    if ($("#idVoieDiscretion").height() > maxH)
+                    if (milieu.height() > maxH)
                     {
-                        maxH = $("#idVoieDiscretion").height();
+                        maxH = milieu.height();
                     }
-                    if ($("#idVoieGuerre").height() > maxH)
+                    if (droite && droite.height() > maxH)
                     {
-                        maxH = $("#idVoieGuerre").height();
+                        maxH = droite.height();
                     }
                         
-                    $("#idVoieNature").height(maxH);
-                    $("#idVoieDiscretion").height(maxH);
-                    $("#idVoieGuerre").height(maxH);
-
-                }        
+                    gauche.height(maxH);
+                    milieu.height(maxH);
+                    if (droite)
+                    {
+                        droite.height(maxH);
+                    }
+                }
             });
 
             </script>
