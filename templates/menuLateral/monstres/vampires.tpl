@@ -13,7 +13,7 @@
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/vampir-skull.png" title="Illustration : Lorc, Open Game Art">
     
     <p><span class="titreDebutLigne">Morsure vampirisante : </span>&nbsp La nuit, les vampires peuvent prendre leur forme de combat et sucer le sang de leurs victimes,
-    volant 1d8+2*niveau points de vie à leur victime. Un tour de recharge.</p>
+    volant 1d8+(niveau*2) points de vie à leur victime. Un tour de recharge.</p>
     <br />
     
     <p><span class="titreDebutLigne">Nature impie : </span>&nbsp En forme de combat, les vampires subissent 50% de dégâts de chaos en moins et 50% de dégâts de sacré en plus.</p>
@@ -75,7 +75,7 @@
                 <p class="ptab">4</p>
             </td>
             <td>
-                <p class="ptab">12+1d10</p>
+                <p class="ptab">22+1d10</p>
             </td>
             <td>
                 <p class="ptab">14</p>
@@ -104,7 +104,7 @@
                 <p class="ptab">6</p>
             </td>
             <td>
-                <p class="ptab">22+1d10</p>
+                <p class="ptab">28+1d10</p>
             </td>
             <td>
                 <p class="ptab">16</p>
@@ -133,7 +133,7 @@
                 <p class="ptab">8</p>
             </td>
             <td>
-                <p class="ptab">42+1d10</p>
+                <p class="ptab">56+1d10</p>
             </td>
             <td>
                 <p class="ptab">18</p>

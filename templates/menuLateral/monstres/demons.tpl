@@ -32,7 +32,7 @@
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p style="margin-left:90px;"><span class="titreDebutLigne">Sorts : </span>&nbsp 
         <br /><span style="font-style:italic;">Invocation chaotique</span>&nbsp : Invoque un molosse chaotique obéissant à l'asservisseur. Deux tours de recharge.
-        <br /><span style="font-style:italic;">Trait du chaos</span>&nbsp : Inflige 10+1d10 de dégâts de chaos à un joueur.
+        <br /><span style="font-style:italic;">Trait du chaos</span>&nbsp : Inflige 12+1d12 de dégâts de chaos à un joueur.
         <br /><span style="font-style:italic;">Possession démoniaque</span>&nbsp : Pénètre l'esprit d'un ennemi et le soumet à sa volonté pour deux tours. Deux tours de recharge.</p>
     
     <h3 class="h3region">Seigneur démon</h3>
@@ -98,7 +98,7 @@
                 <p class="ptab">3</p>
             </td>
             <td>
-                <p class="ptab">12+1d4</p>
+                <p class="ptab">22+1d4</p>
             </td>
             <td>
                 <p class="ptab">13</p>
@@ -110,7 +110,7 @@
                 <p class="ptab">+3</p>
             </td>
             <td>
-                <p class="ptab">1+1d4</p>
+                <p class="ptab">3+1d4</p>
             </td>
             <td>
                 <p class="ptab">+3</p>
@@ -127,7 +127,7 @@
                 <p class="ptab">5</p>
             </td>
             <td>
-                <p class="ptab">14+1d10</p>
+                <p class="ptab">26+1d10</p>
             </td>
             <td>
                 <p class="ptab">15</p>
@@ -156,7 +156,7 @@
                 <p class="ptab">7</p>
             </td>
             <td>
-                <p class="ptab">20+1d12</p>
+                <p class="ptab">30+1d12</p>
             </td>
             <td>
                 <p class="ptab">17</p>
@@ -171,7 +171,7 @@
                 <p class="ptab">10+1d10</p>
             </td>
             <td>
-                <p class="ptab">+7</p>
+                <p class="ptab">+9</p>
             </td>
             <td>
                 <p class="ptab">Moyenne</p>
@@ -188,19 +188,19 @@
                 <p class="ptab">90+1d20</p>
             </td>
             <td>
-                <p class="ptab">19</p>
+                <p class="ptab">21</p>
             </td>
             <td>
-                <p class="ptab">19</p>
+                <p class="ptab">21</p>
             </td>
             <td>
-                <p class="ptab">+9</p>
+                <p class="ptab">+11</p>
             </td>
             <td>
-                <p class="ptab">20+1d20</p>
+                <p class="ptab">20+1d20+1d10</p>
             </td>
             <td>
-                <p class="ptab">+9</p>
+                <p class="ptab">+11</p>
             </td>
             <td>
                 <p class="ptab">Grande</p>

@@ -109,16 +109,16 @@
                 <p class="ptab">2</p>
             </td>
             <td>
-                <p class="ptab">6+1d4</p>
+                <p class="ptab">12+1d4</p>
             </td>
             <td>
-                <p class="ptab">11</p>
+                <p class="ptab">12</p>
             </td>
             <td>
-                <p class="ptab">11</p>
+                <p class="ptab">12</p>
             </td>
             <td>
-                <p class="ptab">+1</p>
+                <p class="ptab">+2</p>
             </td>
             <td>
                 <p class="ptab">1+1d4</p>
@@ -138,16 +138,16 @@
                 <p class="ptab">3</p>
             </td>
             <td>
-                <p class="ptab">12+1d4</p>
+                <p class="ptab">18+1d4</p>
             </td>
             <td>
-                <p class="ptab">12</p>
+                <p class="ptab">13</p>
             </td>
             <td>
-                <p class="ptab">12</p>
+                <p class="ptab">13</p>
             </td>
             <td>
-                <p class="ptab">+2</p>
+                <p class="ptab">+3</p>
             </td>
             <td>
                 <p class="ptab">2+1d6</p>
@@ -167,7 +167,7 @@
                 <p class="ptab">5</p>
             </td>
             <td>
-                <p class="ptab">16+1d8</p>
+                <p class="ptab">24+1d8</p>
             </td>
             <td>
                 <p class="ptab">15</p>
@@ -196,7 +196,7 @@
                 <p class="ptab">6</p>
             </td>
             <td>
-                <p class="ptab">22+1d10</p>
+                <p class="ptab">32+1d10</p>
             </td>
             <td>
                 <p class="ptab">16</p>
@@ -225,7 +225,7 @@
                 <p class="ptab">7</p>
             </td>
             <td>
-                <p class="ptab">32+1d12</p>
+                <p class="ptab">42+1d12</p>
             </td>
             <td>
                 <p class="ptab">17</p>

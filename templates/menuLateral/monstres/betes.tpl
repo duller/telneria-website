@@ -91,7 +91,7 @@
                 <p class="ptab">1</p>
             </td>
             <td>
-                <p class="ptab">6+1d4</p>
+                <p class="ptab">16+1d4</p>
             </td>
             <td>
                 <p class="ptab">11</p>
@@ -120,7 +120,7 @@
                 <p class="ptab">3</p>
             </td>
             <td>
-                <p class="ptab">20+1d10</p>
+                <p class="ptab">24+1d10</p>
             </td>
             <td>
                 <p class="ptab">13</p>
@@ -152,10 +152,10 @@
                 <p class="ptab">24+1d12</p>
             </td>
             <td>
-                <p class="ptab">15</p>
+                <p class="ptab">16</p>
             </td>
             <td>
-                <p class="ptab">15</p>
+                <p class="ptab">16</p>
             </td>
             <td>
                 <p class="ptab">+7</p>
@@ -178,7 +178,7 @@
                 <p class="ptab">7</p>
             </td>
             <td>
-                <p class="ptab">40+1d20</p>
+                <p class="ptab">48+1d20</p>
             </td>
             <td>
                 <p class="ptab">17</p>
@@ -219,7 +219,7 @@
                 <p class="ptab">+10</p>
             </td>
             <td>
-                <p class="ptab">20+1d10+1d20</p>
+                <p class="ptab">20+1d20+1d10</p>
             </td>
             <td>
                 <p class="ptab">0</p>

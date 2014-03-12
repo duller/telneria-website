@@ -75,10 +75,10 @@
                 <p class="ptab">3</p>
             </td>
             <td>
-                <p class="ptab">10+1d4</p>
+                <p class="ptab">16+1d4</p>
             </td>
             <td>
-                <p class="ptab">13</p>
+                <p class="ptab">14</p>
             </td>
             <td>
                 <p class="ptab">13</p>
@@ -104,7 +104,7 @@
                 <p class="ptab">6</p>
             </td>
             <td>
-                <p class="ptab">20+1d8</p>
+                <p class="ptab">34+1d8</p>
             </td>
             <td>
                 <p class="ptab">16</p>
@@ -133,7 +133,7 @@
                 <p class="ptab">8</p>
             </td>
             <td>
-                <p class="ptab">42+1d20</p>
+                <p class="ptab">52+1d20</p>
             </td>
             <td>
                 <p class="ptab">18</p>

@@ -108,7 +108,7 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Moissonne [niveau]/2(arrondi supérieur) points de vie (ou de mana) de chaque ennemi présent (jusqu'à 3).</span></p>
+                    <span class="detailsEffetSort">Moissonne (niveau/2, arrondi supérieur) points de vie (ou de mana) de chaque ennemi présent (jusqu'à 3).</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
@@ -219,7 +219,7 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Mur de 4 mètres de longueur, avec une EP de [niveau] et 1d10+[niveau]*2 points de vie.</p>
+                    <span class="detailsEffetSort">Mur de 4 mètres de longueur, avec une EP de (niveau) et 1d10 (+niveau*2) points de vie.</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
@@ -248,7 +248,7 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Sur un ennemi blessé, empêche sa guérison afférente et inflige 1d6+[niveau]/2 (arrondi supérieur) par tour.</span></p>
+                    <span class="detailsEffetSort">Sur un ennemi blessé, empêche sa guérison et inflige 1d6 (+niveau/2, arrondi supérieur) par tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>

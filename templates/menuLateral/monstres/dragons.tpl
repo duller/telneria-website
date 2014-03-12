@@ -97,7 +97,7 @@
                 <p class="ptab">4</p>
             </td>
             <td>
-                <p class="ptab">5o+1d8</p>
+                <p class="ptab">58+1d8</p>
             </td>
             <td>
                 <p class="ptab">16</p>
@@ -106,13 +106,13 @@
                 <p class="ptab">16</p>
             </td>
             <td>
-                <p class="ptab">+2</p>
+                <p class="ptab">+6</p>
             </td>
             <td>
-                <p class="ptab">4+1d1o</p>
+                <p class="ptab">4+1d12</p>
             </td>
             <td>
-                <p class="ptab">+2</p>
+                <p class="ptab">+6</p>
             </td>
             <td>
                 <p class="ptab">Grande</p>
@@ -126,7 +126,7 @@
                 <p class="ptab">6</p>
             </td>
             <td>
-                <p class="ptab">8o+1d1o</p>
+                <p class="ptab">84+1d1o</p>
             </td>
             <td>
                 <p class="ptab">18</p>
@@ -135,13 +135,13 @@
                 <p class="ptab">18</p>
             </td>
             <td>
-                <p class="ptab">+4</p>
+                <p class="ptab">+8</p>
             </td>
             <td>
-                <p class="ptab">8+1d12</p>
+                <p class="ptab">8+1d16</p>
             </td>
             <td>
-                <p class="ptab">+4</p>
+                <p class="ptab">+8</p>
             </td>
             <td>
                 <p class="ptab">Énorme</p>
@@ -164,13 +164,13 @@
                 <p class="ptab">2o</p>
             </td>
             <td>
-                <p class="ptab">+6</p>
+                <p class="ptab">+10</p>
             </td>
             <td>
-                <p class="ptab">1o+1d2o</p>
+                <p class="ptab">12+1d2o</p>
             </td>
             <td>
-                <p class="ptab">+6</p>
+                <p class="ptab">+10</p>
             </td>
             <td>
                 <p class="ptab">Gigantesque</p>
@@ -193,13 +193,13 @@
                 <p class="ptab">24</p>
             </td>
             <td>
-                <p class="ptab">+1o</p>
+                <p class="ptab">+12</p>
             </td>
             <td>
-                <p class="ptab">12+2d2o</p>
+                <p class="ptab">20+2d2o</p>
             </td>
             <td>
-                <p class="ptab">+1o</p>
+                <p class="ptab">+12</p>
             </td>
             <td>
                 <p class="ptab">Colossale</p>

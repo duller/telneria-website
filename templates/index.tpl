@@ -58,8 +58,9 @@
                     setHauteurDiv($("#idVoieMagie"), $("#idVoieFoi"), false);
                     setHauteurDiv($("#idVoieNature"), $("#idVoieDiscretion"), $("#idVoieGuerre"));
                     setHauteurDiv($("#idPrestige1"), $("#idPrestige2"), false);
-                    setHauteurDiv($("#idAlignementLoyal"), $("#idAlignementNeutreEthique"), $("#idAlignementChaotique"));
-                    setHauteurDiv($("#idAlignementBon"), $("#idAlignementNeutreMorale"), $("#idAlignementMauvais"));
+                    setHauteurDiv($("#idAlignementLoyal"), $("#idAlignementBon"), false);
+                    setHauteurDiv($("#idAlignementNeutreEthique"), $("#idAlignementChaotique"), false);
+                    setHauteurDiv($("#idAlignementChaotique"), $("#idAlignementMauvais"), false);
                     setHauteurDiv($("#idDon01"), $("#idDon02"), $("#idDon03"));
                     setHauteurDiv($("#idDon11"), $("#idDon21"), $("#idDon31"));
                     setHauteurDiv($("#idDon12"), $("#idDon22"), $("#idDon32"));

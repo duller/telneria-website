@@ -206,7 +206,7 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Augmente de 10 le score de toucher du magicien pour le prochain sort et de 10 le score d'esquive d'un allié pour 1 tour.</span></p>
+                    <span class="detailsEffetSort">Augmente de 10 le score de toucher de l'arcaniste pour le prochain sort et de 10 le score d'esquive d'un allié pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
@@ -219,7 +219,7 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Le magicien peut se déplacer de 100m et lancer un sort sans jet de toucher, 2 tours de recharge.</p>
+                    <span class="detailsEffetSort">L'arcaniste peut se déplacer de 100m et lancer un sort sans jet de toucher, 2 tours de recharge.</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
@@ -248,7 +248,7 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Assomme tout le monde pour 1 tour, sauf le magicien, dans un périmètre de 10 mètres.</span></p>
+                    <span class="detailsEffetSort">Assomme tout le monde pour 1 tour, sauf l'arcaniste, dans un périmètre de 10 mètres, 1 tour de recharge.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
