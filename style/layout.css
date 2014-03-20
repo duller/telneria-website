@@ -22,6 +22,24 @@ body
         
 }
 
+/****** Permet de cacher la barre de défilement horizontal tout en gardant le défilement*/
+            html, body {
+                padding: 0;
+                margin: 0;
+                overflow: hidden;
+            }
+            #container {
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: -30px;
+                bottom: 0;	
+                padding-right: 15px;
+                overflow-y: scroll;
+            }
+            
+/*****************************************************************************************/
+
 a:link
 {
     cursor: url('../ressources/curseurs/GantPointe32.png'), auto;
@@ -84,14 +102,13 @@ a:link
 /* Le menu de gauche au milieu */
 #menu
 {
-	/*border: 1px solid #000;*/
-        /*border-radius: 10px;*/
-        position: fixed;
-	float:left;
-	width:10%;
-	/*min-height: 655px;*/
+        float:left;
+        width:10%;
+    
+        /*** Menu fixe ***/
+        /*position: fixed;
+	
         max-height:100%;
-        /*box-shadow: 0 0 5px #666;*/
         overflow: auto;
         
 	padding-top:0%;
@@ -102,10 +119,27 @@ a:link
 	margin-top:1%;
 	margin-left:0.5%;
 	margin-right:0;
-	margin-bottom:0;
+	margin-bottom:0;*/
+        
+        /**********************/
         
 	/*background-color: #D06E3D;*/
         /*background-image: url('../ressources/FondParcheminRouge.jpg');*/
+        
+        /*** Menu bougeant ***/
+        min-height: 655px;
+        
+	padding-top:10px;
+        padding-left:1%;
+        padding-right:1%;
+	padding-bottom:10px;
+	
+	margin-top:-90px;
+	margin-left:1%;
+	margin-right:0%;
+	margin-bottom:10px;
+        
+        /**********************/
 }
 
 #content_top
@@ -139,7 +173,7 @@ a:link
 	padding-bottom:70px;*/
         padding : 30px 3% 80px 4%;
 	
-	margin-left:12%;
+	margin-left:0%;/*12%;*/
 	margin-right:0%;
 	
         /*background-image: url('../ressources/00-Page/parchemin.repeat.png');

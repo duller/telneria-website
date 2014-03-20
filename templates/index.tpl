@@ -18,24 +18,6 @@
         <link rel="stylesheet" href="style/pagesPersonnages.css">
         <link rel="stylesheet" media="screen" href="style/fonts.css" rel="stylesheet" type="text/css"/> 
 
-        <style media="screen" type="text/css">
-            /*Permet de cacher la barre de défilement horizontal tout en gardant le défilement*/
-            html, body {
-                padding: 0;
-                margin: 0;
-                overflow: hidden;
-            }
-            #container {
-                position: absolute;
-                left: 0;
-                top: 0;
-                right: -30px;
-                bottom: 0;	
-                padding-right: 15px;
-                overflow-y: scroll;
-            }
-        </style>
-
         <script type="text/javascript" src="js/Jquery.js"></script>
         <title>{$nom}</title>
     </head>
