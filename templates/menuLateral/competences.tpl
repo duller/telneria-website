@@ -110,7 +110,7 @@
                 <p class="ptab">Concentration</p>
             </td>
             <td>
-                <p class="ptab">ESP</p>
+                <p class="ptab">VOL</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à résister aux distractions lors d'un travail intellectuel. 
@@ -122,7 +122,7 @@
                 <p class="ptab">Perception</p>
             </td>
             <td>
-                <p class="ptab">ESP</p>
+                <p class="ptab">VOL</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à détecter les sons, les lumières, même dans les situations les plus bruyantes et les pièces les plus sombres.</p>
@@ -133,7 +133,7 @@
                 <p class="ptab">Tromperie</p>
             </td>
             <td>
-                <p class="ptab">ESP</p>
+                <p class="ptab">VOL</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à se jouer de son interlocuteur ou de son adversaire pour l'amener à agir favorablement. 

@@ -25,7 +25,7 @@
             <td class="tdNomEquipement"><p class="ptab">Pendentif en lierre</p></td>
             <td class="tdEquipement"><p class="ptab">+1 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 ESP</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 VOL</p></td>
             <td class="tdEquipement"><p class="ptab">40 po</p></td>
             <td class="tdEquipement"><p class="ptab">Médiocre</p></td>
         </tr>
@@ -33,7 +33,7 @@
             <td class="tdNomEquipement"><p class="ptab">Anneau enchanté</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+1 ESP</p></td>
+            <td class="tdEquipement"><p class="ptab">+1 VOL</p></td>
             <td class="tdEquipement"><p class="ptab">80 po</p></td>
             <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
         </tr>
@@ -41,7 +41,7 @@
             <td class="tdNomEquipement"><p class="ptab">Amulette sacrée en or</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-1 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+2 ESP</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 VOL</p></td>
             <td class="tdEquipement"><p class="ptab">120 po</p></td>
             <td class="tdEquipement"><p class="ptab">Bonne</p></td>
         </tr>
@@ -49,7 +49,7 @@
             <td class="tdNomEquipement"><p class="ptab">Amulette divine incrustée</p></td>
             <td class="tdEquipement"><p class="ptab">+2 EM</p></td>
             <td class="tdEquipementReduc"><p class="ptab">-2 dégâts m. subis</p></td>
-            <td class="tdEquipement"><p class="ptab">+2 ESP</p></td>
+            <td class="tdEquipement"><p class="ptab">+2 VOL</p></td>
             <td class="tdEquipement"><p class="ptab">160 po</p></td>
             <td class="tdEquipement"><p class="ptab">Admirable</p></td>
         </tr>
