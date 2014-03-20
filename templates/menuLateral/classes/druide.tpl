@@ -64,12 +64,12 @@
             <h4 class="h4ClassePersoSort">Toucher guérisseur (niveau 1)</h4>
             <p>Soigne un personnage-joueur choisi et procure un léger soin aux autres alliés autour de la cible.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                    <span class="detailsEffetSort">1d2 (+niveau) de soins à un allié et (niveau) de soins à tous ses compagnons à moins de 10 mètres.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -77,12 +77,12 @@
             <h4 class="h4ClassePersoSort">Sarments (niveau 2)</h4>
             <p>Enracine un ennemi au sol en extérieur, l'empêchant de se mouveoir.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                    <span class="detailsEffetSort">La cible ne peut plus se déplacer, mais peut encore se battre.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -92,12 +92,12 @@
             <h4 class="h4ClassePersoSort">Forme d'ursidé (niveau 3)</h4>
             <p>Le druide se transforme en un ours redoutable, augmentant sa force brute et sa résistance.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                    <span class="detailsEffetSort">Dégâts subis réduits de 3, et dégâts infligés augmentés de 3.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p> 
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -105,12 +105,12 @@
             <h4 class="h4ClassePersoSort">Communion sylvaine (niveau 4)</h4>
             <p>Le druide utilise sa connaissance de la forêt pour rendre son groupe discret et trouver le chemin à suivre.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif - Zone - Hors combat</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                    <span class="detailsEffetSort">+3 à la discrétion et à la perception pour tous les alliés en forêt.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -175,7 +175,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Esprit</p>
+				<p class="ptab">Volonté</p>
 			</td>
 			<td>
 				<p class="ptab">9</p>
@@ -204,12 +204,12 @@
             <h4 class="h4ClassePersoSort">Tréants (niv 5)</h4>
             <p>Invoque des arbres animés pour assister le druide au combat et au soin.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                    <span class="detailsEffetSort">Invoque deux arbres qui procurent à un allié +3 à l'esquive magique et au jet de toucher pour les sorts, pendant deux tours.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -220,9 +220,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                    <span class="detailsEffetSort">Inflige 1d8 (+niveau) de dégâts de nature et réduit la vitesse de moitié.</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -233,12 +233,12 @@
             <h4 class="h4ClassePersoSort">Tempête orageuse (niv 7)</h4>
             <p>Invoque une tempête très intense repoussant les ennemis et leur infligeant des dégâts de chute.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                    <span class="detailsEffetSort">Repousse tout le monde jusqu'à 20 mètres et inflige 1d4 (+niveau) de dégâts de nature.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -249,9 +249,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                    <span class="detailsEffetSort">Soigne les personnages-joueurs de (niveau) points de vie et inflige 1d4 (+niveau) de dégâts aux monstres, 1 tour de recharge.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -272,9 +272,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, 15+ au d20 assomme pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -285,9 +285,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, immobilise pour 1 tour et incite à attaquer le druide.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
 
             </div>
         </div>
@@ -299,12 +299,12 @@
             <h4 class="h4ClassePersoSort">Déluge de griffes (niv 7)</h4>
             <p>Inflige trois violents coups de griffe successifs à un ou plusieurs ennemis.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                    <span class="detailsEffetSort"> Arme/2 (arrondi supérieur) de dégâts pour chaque attaque, avec trois jets de toucher. Pour distinguer les cibles, JdT réduit de 2.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -312,12 +312,12 @@
             <h4 class="h4ClassePersoSort">Étreinte sauvage (niv 8)</h4>
             <p>Le farouche se jette sur son ennemi et le maintient au sol grâce à sa force d'ours.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                    <span class="detailsEffetSort">Inflige (niveau/2, arrondi inférieur) points de dégâts et immobilise l'ennemi au sol, l'obligeant à se dégager.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>

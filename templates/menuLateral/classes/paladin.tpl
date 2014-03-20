@@ -67,9 +67,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts physiques et de sacré.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -77,12 +77,12 @@
             <h4 class="h4ClassePersoSort">Toucher sacré (niveau 2)</h4>
             <p>Soigne un personnage allié du paladin et augmente temporairement son armure.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                    <span class="detailsEffetSort">1d2 (+niveau) de soins pour un allié, dégâts subis de la prochaine attaque réduits de 2.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -92,12 +92,12 @@
             <h4 class="h4ClassePersoSort">Exorcisme (niveau 3)</h4>
             <p>Attaque puissante infligeant de lourds dégâts aux morts-vivants et aux démons, et réduisant leur capacité de mouvement.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                    <span class="detailsEffetSort">Inflige 1d8 (+niveau) de dégâts de sacré, vitesse réduite de moitié pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p> 
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -108,9 +108,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                    <span class="detailsEffetSort">Sur la prochaine attaque subie ou infligée,  EP/EM ou JdT +5.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -175,7 +175,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Esprit</p>
+				<p class="ptab">Volonté</p>
 			</td>
 			<td>
 				<p class="ptab">6</p>
@@ -203,14 +203,14 @@
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/4-Paladin/retribution-juste.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Rétribution du juste (niv 5)</h4>
-            <p>Puissant coup porté à l'arme en riposte à un coup porté par un ennemi.</p>
+            <p>Puissant coup porté avec l'arme en riposte à une attaque d'un ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                    <span class="detailsEffetSort">Si le templier vient de subir une attaque, cette technique ajoute 4 points de dégâts et 2 au jet de toucher.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -218,12 +218,12 @@
             <h4 class="h4ClassePersoSort">Infusion du bouclier (niv 6)</h4>
             <p>Infuse le bouclier d'énergie sacrée, le rendant plus efficace contre les attaques physiques et magiques.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                    <span class="detailsEffetSort">Augmente l'EP/EM et les dégâts réduits de 2 pour 2 tours.</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -237,9 +237,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), l'ennemi doit utiliser une demi-action pour se relever.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -247,12 +247,12 @@
             <h4 class="h4ClassePersoSort">Intervention salutaire (niv 8)</h4>
             <p>Le templier se rue entre un ennemi et un allié, encaissant le coup destiné à son compagnon. Peut être utilisé indépendamment du rang d'initiative.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                    <span class="detailsEffetSort">Se positionne devant un allié et encaisse la prochaine attaque, jet d'équilibre requis.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -268,27 +268,27 @@
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/4-Paladin/marteau-beni.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Marteau béni (niv 5)</h4>
-            <p>Attaque de zone infligeant de lours dégâts aux morts-vivants et aux démons.</p>
+            <p>Attaque de zone infligeant de lourds dégâts aux morts-vivants et aux démons.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                    <span class="detailsEffetSort">Inflige (niveau) points de dégâts de sacré à tous les ennemis proches, bonus de 4 contre les êtres impies.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/4-Paladin/courroux.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Courroux répurgateur (niv 6)</h4>
-            <p>Sort infligeant des dégâts de sacré à un ennemi.</p>
+            <p>Technique infligeant des dégâts de sacré à un ennemi.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts physiques et de sacré, JdT +2.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
 
             </div>
         </div>
@@ -300,12 +300,12 @@
             <h4 class="h4ClassePersoSort">Regard incriminateur (niv 7)</h4>
             <p>Regard accusateur envers un ennemi lui faisant subir les propres dégâts de ses attaques.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                    <span class="detailsEffetSort">La prochaine attaque contre l'inquisiteur est subie par son auteur.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -313,12 +313,12 @@
             <h4 class="h4ClassePersoSort">Au bûcher ! (niv 8)</h4>
             <p>L'inquisiteur déclenche un feu sacré au pied de ses ennemis.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                    <span class="detailsEffetSort">Crée une zone de feu immobile de 10 mètres de large, infligeant 1d4 (+niveau) de sacré à tout occupant.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>

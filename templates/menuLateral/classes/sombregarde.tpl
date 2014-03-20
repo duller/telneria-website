@@ -175,7 +175,7 @@
         </tr>
         <tr>
             <td>
-                <p class="ptab">Esprit</p>
+                <p class="ptab">Volonté</p>
             </td>
             <td>
                 <p class="ptab">5</p>

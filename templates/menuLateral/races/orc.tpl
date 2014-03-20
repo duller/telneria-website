@@ -31,7 +31,7 @@
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la vigueur</p>
-            <p>-1 à l'esprit</p>
+            <p>-1 à la volonté</p>
             <p>+1 aux jets de toucher en mếlée</p>
             <p>-1 aux dégâts physiques subis</p>
         </div>

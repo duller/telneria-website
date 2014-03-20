@@ -35,7 +35,7 @@
             <h4 class="sousTitre4Race">Caractéristiques</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la vigueur, +1 à l'habileté</p>
-            <p>-1 à l'esprit</p>
+            <p>-1 à la volonté</p>
             <br /><p style="clear:left;"><span class="titreDebutLigne">Clan du dragon noir : </span>Réduit les effets subis des sorts de chaos d'un quart. Vice versa pour ceux de sacré.</p>
             <br /><p><span class="titreDebutLigne">Clan du dragon bleu : </span>Réduit les effets subis des sorts des arcanes d'un quart. Vice versa pour ceux de nature.</p>
             <br /><p><span class="titreDebutLigne">Clan du dragon rouge : </span>Réduit les effets subis de tous les sorts d'un quart.</p>

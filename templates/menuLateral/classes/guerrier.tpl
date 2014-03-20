@@ -67,9 +67,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, pas de jet de toucher requis, 1 tour de recharge</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -77,12 +77,12 @@
             <h4 class="h4ClassePersoSort">Désarmement (niveau 2)</h4>
             <p>Désarme complètement l'adversaire pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                    <span class="detailsEffetSort">Inflige (niveau/2, arrondi inférieur) de dégâts physiques et désarme pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -92,12 +92,12 @@
             <h4 class="h4ClassePersoSort">Brise-genou (niveau 3)</h4>
             <p>Coup puissant porté au genou de l'ennemi, réduisant fortement sa vitesse de déplacement.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                    <span class="detailsEffetSort">Inflige (niveau/2, arrondi inférieur) de dégâts physiques et réduit la vitesse de moitié.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p> 
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -105,12 +105,12 @@
             <h4 class="h4ClassePersoSort">Rudesse de la guerre (niveau 4)</h4>
             <p>Le guerrier, habitué aux rudes conditions des campagnes guerrières, se tient prêt à affronter les situations les plus périlleuses.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif - Hors combat</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Augmente la survie de 5 pour trois tours.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -174,7 +174,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Esprit</p>
+				<p class="ptab">Volonté</p>
 			</td>
 			<td>
 				<p class="ptab">4</p>
@@ -206,9 +206,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                    <span class="detailsEffetSort">Trois attaques infligeant 50% des dégâts de l'arme, jet de toucher pour chaque, -5 EP et EM pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -216,12 +216,12 @@
             <h4 class="h4ClassePersoSort">Frappe puissante (niv 6)</h4>
             <p>Frappe puissante portée avec les deux mains du combattant, infligeant le double des dégâts normaux. Nécessite de se tenir en posture d'attaque.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                    <span class="detailsEffetSort">Arme x2 (+niveau) de dégâts physiques, nécessite posture d'attaque.</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -232,12 +232,12 @@
             <h4 class="h4ClassePersoSort">Cri de guerre (niv 7)</h4>
             <p>Puissant hurlement poussé par le barbare réduisant les dégâts infligés par les ennemis et augmentant les dégâts infligés par les alliés.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                    <span class="detailsEffetSort">-3 aux dégâts des ennemis, +3 aux dégâts des alliés.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -245,12 +245,12 @@
             <h4 class="h4ClassePersoSort">Charge bestiale (niv 8)</h4>
             <p>Le barbare perd tout contrôle et charge comme un forcené sur son ennemi.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                    <span class="detailsEffetSort">Charge normale +1d12 de dégâts, -2 JdT (en sus du -2 de base).</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -271,9 +271,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), l'ennemi doit utiliser une demi-action pour se relever.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -284,9 +284,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts, l'ennemi attaque ensuite le gardien.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
 
             </div>
         </div>
@@ -301,9 +301,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, -2 aux dégâts et au JdT de l'ennemi.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -311,12 +311,12 @@
             <h4 class="h4ClassePersoSort">Maîtrise héroïque (niv 8)</h4>
             <p>Le gardien se rue sur un ennemi et l'enlace fermement, permettant à ses alliés de frapper plus aisément. Un échec met en grand danger le gardien.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                    <span class="detailsEffetSort">Enlace l'ennemi, annulant son esquive physique et magique. Un échec réduit l'EP du gardien de 10.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau.</span></p>
             </div>
         </div>
     </div>

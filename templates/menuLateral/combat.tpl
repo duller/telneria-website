@@ -123,7 +123,7 @@
                     <li>Corps-à-corps (attaque simple & technique) : Force</li>
                     <li>Distance (attaque simple & technique) : Habileté</li>
                     <li>Sort offensif : Intelligence</li>
-                    <li>Sort de soin & défensif : Esprit</li>
+                    <li>Sort de soin & défensif : Volonté</li>
                 </ul>
                 <p>Une réussite critique peut être obtenue lorsque le score au dé est de 20, ce qui se traduit par une réussite assurée et un doublement de l'effet.</p>
                 <p>Un échec critique est obtenu lorsque le score au dé est de 1, c'est nécessairement un échec ayant des conséquences néfastes.</p>
@@ -138,7 +138,7 @@
                 <h3 class="h3region">Sorts et techniques</h3>
                 <img class="communImages imageCombatInitiative" style="float:right;margin:0 0 0 10px;" src="ressources/14-Combat/dripping-goo.png" title="Illustration : Lorc, Open Game Art">
                 <p>Les sorts et techniques sont détaillés pour chacune des classes de personnages. Ils ont un coût en mana défini auquel s'ajoute le niveau du personnage.</p>
-                <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par l'esprit :</p>
+                <p>Les sorts de soins et défensifs ne peuvent pas être esquivés, leur réussite est déterminée par le score du jet au dé 20, pondéré par le modificateur de volonté :</p>
                 <ul>
                     <li>Score de 20 (au dé) : réussite critique, effet du soin doublé</li>
                     <li>Score entre 10 et 19 : réussite, effet normal</li>

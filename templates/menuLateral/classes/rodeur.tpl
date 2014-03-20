@@ -67,9 +67,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                    <span class="detailsEffetSort">Inflige 1d6 (+niveau) de dégâts physiques, 50 mètres de portée.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">Aucun</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -77,12 +77,12 @@
             <h4 class="h4ClassePersoSort">Flèche précise (niveau 2)</h4>
             <p>Un tir de flèche qui augmente sensiblement les chances de toucher, mais avec une puissance réduite.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, +2 au JdT.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -92,12 +92,12 @@
             <h4 class="h4ClassePersoSort">Flèche puissante (niveau 3)</h4>
             <p>Un tir de flèche qui frappe sa cible avec beaucoup de puissance, mais avec une précision réduite.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts physiques.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p> 
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -105,12 +105,12 @@
             <h4 class="h4ClassePersoSort">Éclaireur bestial (niveau 4)</h4>
             <p>Le rôdeur envoie son familier en éclaireur.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif - Hors combat</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                    <span class="detailsEffetSort">Le familier part en éclaireur jusqu'à 300 mètres, avec +5 en discrétion.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">Aucun</span></p>
             </div>
         </div>
     </div>
@@ -174,7 +174,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Esprit</p>
+				<p class="ptab">Volonté</p>
 			</td>
 			<td>
 				<p class="ptab">6</p>
@@ -203,12 +203,12 @@
             <h4 class="h4ClassePersoSort">Flèches multiples (niv 5)</h4>
             <p>Permet de tirer jusqu'à trois flèches simultanément. Il est possible de tirer sur trois ennemis distincts mais avec une difficulté accrue.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                    <span class="detailsEffetSort">Arme/2 (arrondi supérieur) de dégâts pour chaque attaque, avec trois jets de toucher. Pour distinguer les cibles, JdT réduit de 2.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -216,12 +216,12 @@
             <h4 class="h4ClassePersoSort">Flèche guidée (niv 6)</h4>
             <p>Tir de flèche courbé qui permet d'atteindre une cible en mouvement et de s'adapter à ses changements de direction.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, pas de JdT requis, peut atteindre des cibles en mouvement.</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -235,9 +235,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de nature.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -245,12 +245,12 @@
             <h4 class="h4ClassePersoSort">Flèche vénéneuse (niv 8)</h4>
             <p>Tir de flèche affaiblissant l'ennemi et réduisant ses réflexes.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau ) de dégâts physiques, JdT ennemi réduit de 2 pour la prochaine attaque.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -258,22 +258,22 @@
 
 
 <div id="idPrestige2" class="classePrestige2 communDivClasseMarges communDivClasseContour">
-    <h3 class="h3ClassesPerso">Classe de prestige : L'animalier</h3>
+    <h3 class="h3ClassesPerso">Classe de prestige : L'animaphile</h3>
 
-    <p>L'animalier est un rôdeur très proche de son familier et des animaux sauvages.</p>
+    <p>L'animaphile est un rôdeur très proche de son familier et des animaux sauvages.</p>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/8-Rodeur/motivation-familier.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Motivation du familier (niv 5)</h4>
-            <p>L'animalier concentre son esprit sur son familier, augmentant la combativité et les réflexes d'icelui.</p>
+            <p>Le rôdeur concentre son esprit sur son familier, augmentant la combativité et les réflexes d'icelui.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                    <span class="detailsEffetSort">Permet d'utiliser Attaque du familier avec +1d4 de dégâts et +2 au JdT.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -281,12 +281,12 @@
             <h4 class="h4ClassePersoSort">Compassion animale (niv 6)</h4>
             <p>Le rôdeur partage avec son familier l'ensemble des dégâts et des soins subis pendant 3 tours.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                    <span class="detailsEffetSort">Les dégâts et les soins sont répartis pour moitié entre le rôdeur et le familier.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
 
             </div>
         </div>
@@ -298,12 +298,12 @@
             <h4 class="h4ClassePersoSort">Apaisement animal (niv 7)</h4>
             <p>Apaise une bête ennemie, lui enlevant toute agressivité et animosité à l'égard du rôdeur ou de ses alliés.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                    <span class="detailsEffetSort">Apaise une bête, qui n'attaquera plus le groupe à moins d'être provoquée.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -311,12 +311,12 @@
             <h4 class="h4ClassePersoSort">Appel de la nature (niv 8)</h4>
             <p>À proximité des forêts et des collines, le rôdeur peut appeler un ours sauvage pour l'aider au combat.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                    <span class="detailsEffetSort">Attire un ours brun, qui se bat pour le rôdeur pendant 2 tours.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>

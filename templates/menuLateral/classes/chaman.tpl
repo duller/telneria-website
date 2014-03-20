@@ -67,9 +67,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts physiques et de nature.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -77,12 +77,12 @@
             <h4 class="h4ClassePersoSort">Trait de foudre (niveau 2)</h4>
             <p>Un puissant sort permettant d'infliger des dégâts de foudre à un ennemi unique.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                    <span class="detailsEffetSort">Inflige 1d6 (+niveau) de dégâts de nature.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -92,12 +92,12 @@
             <h4 class="h4ClassePersoSort">Vague de soins (niveau 3)</h4>
             <p>Soins canalisé qui permet de soigner jusqu'à trois alliés par rebond.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                    <span class="detailsEffetSort">Soigne trois cibles pour (niveau/2, arrondi inférieur) + 1d6, puis +1d4, puis +1d2.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p> 
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -105,12 +105,12 @@
             <h4 class="h4ClassePersoSort">Voile des esprits (niveau 4)</h4>
             <p>Le chaman fait appel aux esprits pour dissimuler son groupe au regard des ennemis.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif - Zone - Hors combat</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Discrétion +5 pour tout le monde.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -176,7 +176,7 @@
             </tr>
             <tr>
                     <td>
-                            <p class="ptab">Esprit</p>
+                            <p class="ptab">Volonté</p>
                     </td>
                     <td>
                             <p class="ptab">7</p>
@@ -201,16 +201,16 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueBasDroite">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-terre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4 class="h4ClassePersoSort">Totem de terre (niv 5)</h4>
-            <p>Invoque un totem de terre apportant protection au chaman et à ses alliés.</p>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-foudre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Totem de foudre (niv 5)</h4>
+            <p>Invoque un totem de foudre permettant d'infliger des dégâts de foudre à trois ennemis proches. Le sort saute de monstre en monstre, perdant en intensité à chaque saut.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                    <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui inflige à chaque tour en dégâts de nature (niveau/2, arrondi inférieur) +1d4, puis +1d2, puis +0.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -218,28 +218,28 @@
             <h4 class="h4ClassePersoSort">Totem d'eau (niv 6)</h4>
             <p>Invoque un totem d'eau permettant de soigner le chaman et ses alliés.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                    <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui soigne à chaque tour tous les alliés pour (niveau/2, arrondi inférieur).</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueSansOmbre">
-            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-foudre.png" title="Illustration : Eleazzaar, Deviant Art">
-            <h4 class="h4ClassePersoSort">Totem de foudre (niv 7)</h4>
-            <p>Invoque un totem de foudre permettant d'infliger des dégâts de foudre à trois ennemis proches. Le sort saute de monstre en monstre, perdant en intensité à chaque saut.</p>
+            <img class="communImages imageLogoClasse" src="ressources/03-Classes/6-Chaman/totem-terre.png" title="Illustration : Eleazzaar, Deviant Art">
+            <h4 class="h4ClassePersoSort">Totem de terre (niv 7)</h4>
+            <p>Invoque un totem de terre apportant protection au chaman et à ses alliés.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                    <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui procure à chaque tour à tous les alliés une réduction des dégâts subis de 2.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -250,9 +250,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                    <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui inflige à chaque tour à tout le monde 1d4 (+niveau) de dégâts de nature.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -270,12 +270,12 @@
             <h4 class="h4ClassePersoSort">Immobilisation (niv 5)</h4>
             <p>Pénètre l'esprit d'un ennemi afin de l'empêcher de faire tout mouvement.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                    <span class="detailsEffetSort">Empêche tout mouvement de la part de l'ennemi pour 1 tour, réduisant également son esquive de 10.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -283,12 +283,12 @@
             <h4 class="h4ClassePersoSort">Lévitation des armes (niv 6)</h4>
             <p>Contrôle psychique des armes du chaman à distance, permettant d'infliger des dégâts sans se mettre en danger.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, 30 mètres de portée.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
 
             </div>
         </div>
@@ -300,12 +300,12 @@
             <h4 class="h4ClassePersoSort">Contrôle mental (niv 7)</h4>
             <p>Contrôle total de l'esprit d'un ennemi, permettant de le faire agir selon la volonté du mentaliste.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                    <span class="detailsEffetSort">Contrôle un ennemi de niveau égal ou inférieur à 8 pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -313,12 +313,12 @@
             <h4 class="h4ClassePersoSort">Vague assommante (niv 8)</h4>
             <p>Le mentaliste projette une vague d'énergie mentale autour de lui, assommant tous les ennemis pour un tour.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                    <span class="detailsEffetSort">Assomme tous les ennemis pour 1 tour, 2 tours de recharge.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>

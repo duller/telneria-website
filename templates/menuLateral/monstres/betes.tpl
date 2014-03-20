@@ -10,13 +10,13 @@
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3 class="h3region" style="clear:both;padding-top:20px;">Tigre blanc</h3>
-    <p>Gracieux félins, les tigres blancs sont de redoutables adversaires avec leurs mâchoires puissantes et leurs griffes acérées.</p>
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Yéti des montagnes</h3>
+    <p>Bêtes à mi-chemin entre un ours et un humain, les yétis jouissent d'une intelligence remarquable pour des animaux sauvages. Peu agressifs, ils se défendront cependant sans hésiter.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3 class="h3region">Yéti des montagnes</h3>
-    <p>Bêtes à mi-chemin entre un ours et un humain, les yétis jouissent d'une intelligence remarquable pour des animaux sauvages. Peu agressifs, ils se défendront cependant sans hésiter.</p>
+    <h3 class="h3region">Tigre blanc</h3>
+    <p>Gracieux félins, les tigres blancs sont de redoutables adversaires avec leurs mâchoires puissantes et leurs griffes acérées.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
@@ -114,7 +114,7 @@
         </tr>
         <tr>
             <td>
-                <p class="ptab">Ours brun</p>
+                <p class="ptab">Yéti des montagnes</p>
             </td>
             <td>
                 <p class="ptab">3</p>
@@ -172,7 +172,7 @@
         </tr>
         <tr>
             <td>
-                <p class="ptab">Yéti des montagnes</p>
+                <p class="ptab">Ours brun</p>
             </td>
             <td>
                 <p class="ptab">7</p>

@@ -29,7 +29,7 @@
             <img class="communImages imagesDescriptionClasse" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.png" style="height:100px;width:100px;"
                  title="Illustration : Angelfire, Deviant Art">
             <h4 class="h4ClassePerso h4ClassePersoArmes">Armes disponibles</h4>
-            <p>Dagues, épées à une main, masses à une main, haches à une main, arcs.</p>
+            <p>Dagues, épées à une main, masses à une main, haches à une main, arcs, arbalètes.</p>
         </div>
     </div>
     <div class="divInterneClasse">
@@ -65,25 +65,25 @@
             <p>Pour ce combat, permet au roublard d'infliger des dégâts avec l'arme de sa main secondaire en plus d'une autre attaque. 
                 Cette attaque supplémentaire inflige la moitié des dégâts d'un coup normal.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, -2 au score de toucher de l'ennemi</span></p>
+                    <span class="detailsEffetSort">Chaque attaque donne lui à une deuxième attaque avec -4 au JdT et la moitié des dégâts (arrondi inférieur).</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">0</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">Aucun</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/frappe-pernicieuse.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe pernicieuse (niveau 2)</h4>
-            <p>Nécessite d'être de dos, frappe l'ennemi au point le plus fragile, lui infligeant de lourds dégâts.</p>
+            <p>Nécessite d'être dans le dos de l'ennemi, le frappe au point le plus fragile, lui infligeant de lourds dégâts.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Hors combat</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">+5 au jet de diplomatie.</span></p>
+                    <span class="detailsEffetSort">Arme +4 (+niv) de dégâts physiques, nécessite d'être dans le dos de l'ennemi.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -91,14 +91,14 @@
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/frappe-etourdissante.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Frappe étourdissante (niveau 3)</h4>
-            <p>Nécessite d'être de dos, frappe l'ennemi au point le plus sensible, l'étourdissant pour un court laps de temps.</p>
+            <p>Nécessite d'être dos à l'ennemi, le frappe au point le plus sensible, l'étourdissant pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">-2 au score de toucher et à l'EP pour tous les ennemis pendant 1 tour.</span></p>
+                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts physiques, 15+ au 1d20 assomme l'adversaire pour un tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p> 
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p> 
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -106,12 +106,12 @@
             <h4 class="h4ClassePersoSort">Pas de l'ombre (niveau 4)</h4>
             <p>Le roublard se faufile dans l'ombre et fait preuve d'une discrétion exemplaire.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif - Hors combat</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Permet de se téléporter, puis de se mettre en posture défensive.</span></p>
+                    <span class="detailsEffetSort">+10 à la discrétion dans les zones d'ombre.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -175,7 +175,7 @@
 		</tr>
 		<tr>
 			<td>
-				<p class="ptab">Esprit</p>
+				<p class="ptab">Volonté</p>
 			</td>
 			<td>
 				<p class="ptab">6</p>
@@ -203,15 +203,15 @@
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/7-Roublard/tranche-gorge.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Tranche-gorge (niv 5)</h4>
-            <p>Nécessite d'être de dos et d'être camouflé, c'est-à-dire ne pas avoir été vu par les ennemis au début du combat. 
+            <p>Nécessite d'être dans le dos de l'ennemi et d'être camouflé, c'est-à-dire ne pas avoir été vu par les ennemis au début du combat. 
                 Tranche la gorge de l'ennemi avec l'arme et le fait se vider de son sang.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme +2 (+niveau) dégâts physique +2 dégâts de chaos.</span></p>
+                    <span class="detailsEffetSort">Arme x2 (+niveau) de dégâts physiques, puis 1d4 par tour. Nécessite d'être dans le dos et camouflé.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -219,12 +219,12 @@
             <h4 class="h4ClassePersoSort">Frappe au point faible (niv 6)</h4>
             <p>Inflige de lourds dégâts à un ennemi sans nécessiter de frapper par derrière.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">2d4+2(+niveau) de dégâts de chaos.</p>
+                    <span class="detailsEffetSort">Arme +4 (+niveau) de dégâts physiques.</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -238,9 +238,9 @@
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Dégâts de l'arme (+niveau), pas de jet de toucher requis.</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, prochain mouvement fait s'écrouler l'ennemi.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -248,12 +248,12 @@
             <h4 class="h4ClassePersoSort">Déchaînement cruel (niv 8)</h4>
             <p>L'assassin inflige deux violents coups de taille à l'ennemi, sans chercher la précision.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">1d6(+niveau) de dégâts de chaos à tout le monde</span></p>
+                    <span class="detailsEffetSort">Deux attaques enchaînées infligeant Arme (+niveau) de dégâts physiques, JdT réduit de 4 pour chacune.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -271,12 +271,12 @@
             <h4 class="h4ClassePersoSort">Poudre aux yeux (niv 5)</h4>
             <p>Jette de la poudre très fine au visage des ennemis, les aveuglant pour un court laps de temps.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme +2 (+niveau) de dégâts de chaos, récupère 1d4(+niveau) de vie</span></p>
+                    <span class="detailsEffetSort">Aveugle tous les ennemis proches pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -284,12 +284,12 @@
             <h4 class="h4ClassePersoSort">Illusion (niv 6)</h4>
             <p>Le fourbe se confond dans le paysage et peut faire croire à ses ennemis qu'il est présent à un autre endroit.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) de dégâts, puis 1d4 de dégâts chaque tour.</span></p>
+                    <span class="detailsEffetSort">Génère un double illusoire que les ennemis attaquent une fois.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
 
             </div>
         </div>
@@ -301,12 +301,12 @@
             <h4 class="h4ClassePersoSort">Retrait de précaution (niv 7)</h4>
             <p>Permet au fourbe de se mettre rapidement hors de portée de ses ennemis.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort défensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Immobilise pour 1 tour, 1d2(+niveau) de dégâts, transférés au sombregarde.</span></p>
+                    <span class="detailsEffetSort">Permet de se déplacer de 30 mètres en un tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -314,12 +314,12 @@
             <h4 class="h4ClassePersoSort">Provocation horripilante (niv 8)</h4>
             <p>Le fourbe pousse son ennemi à perdre son sang-froid, l'incitant à l'attaquer avec énervement et une précision amoindrie.</p>
             <div class="divSortTechniqueDetails">
-                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
+                <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Technique</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
-                    <span class="detailsEffetSort">Arme(+niveau) +1d12 de dégâts physique.</span></p>
+                    <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, l'ennemi attaque ensuite le roublard avec -4 au JdT.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">4 mana + niveau. La moitié du 1d12 en vie.</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>

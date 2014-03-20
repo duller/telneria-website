@@ -31,10 +31,10 @@
         <h3 class="h3Carac">Intelligence</h3>
         <p>Le modificateur d'intelligence modifie le dé de toucher avec les sorts offensifs et le nombre de points de mana gagnés à chaque niveau.</p>
     </div>
-    <div id="idEsprit" class="zoneCarac">
-        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Esprit.png" title="Illustration : Horror Pen, Open Game Art">
-        <h3 class="h3Carac">Esprit</h3>
-        <p>Le modificateur d'esprit modifie le dé de toucher avec les sorts de soins.</p>
+    <div id="idVolonte" class="zoneCarac">
+        <img class="communImages imageLogoCarac" src="ressources/07-Carac/Volonte.png" title="Illustration : Horror Pen, Open Game Art">
+        <h3 class="h3Carac">Volonté</h3>
+        <p>Le modificateur de volonté modifie le dé de toucher avec les sorts de soins.</p>
     </div>
     <div id="idPrestance" class="zoneCarac">
         <img class="communImages imageLogoCarac" src="ressources/07-Carac/Prestance.png" title="Illustration : Horror Pen, Open Game Art">

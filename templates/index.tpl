@@ -66,7 +66,7 @@
                     setHauteurDiv($("#idDon12"), $("#idDon22"), $("#idDon32"));
                     setHauteurDiv($("#idDon13"), $("#idDon23"), $("#idDon33"));
                     setHauteurDiv($("#idForce"), $("#idIntel"), false);
-                    setHauteurDiv($("#idHabil"), $("#idEsprit"), false);
+                    setHauteurDiv($("#idHabil"), $("#idVolonte"), false);
                     setHauteurDiv($("#idVigueur"), $("#idPrestance"), false);
                     setHauteurDiv($("#idPrepGauche"), $("#idPrepDroite"), false);
                     setHauteurDiv($("#idExpGauche"), $("#idExpDroite"), false);
