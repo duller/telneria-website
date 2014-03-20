@@ -133,7 +133,7 @@
                 <p class="ptab">Tromperie</p>
             </td>
             <td>
-                <p class="ptab">VOL</p>
+                <p class="ptab">PRE</p>
             </td>
             <td width="">
                 <p class="ptab">Capacité à se jouer de son interlocuteur ou de son adversaire pour l'amener à agir favorablement. 
