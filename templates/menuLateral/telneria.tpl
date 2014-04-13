@@ -9,8 +9,8 @@
         <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> dans les forêts au nord de l'île et des 
             <a href="?Page=menuLateral/races/varelias">Varelias</a> au sud. 
             La plus grande cité de l'île est Istville, une ville de taille moyenne abritant les aînés des Varelias.</p>
-        <p>La mer environnante est gelée pendant presque toute l'année, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
-            cromlechs de transport pour les rares qui en connaissent l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé, symbolisant
+        <p>La mer environnante est gelée pendant la majeure partie de l'année, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
+            cromlechs de transport, pour les rares qui en connaissent l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé, symbolisant
             la disposition de chacune des pierres formant l'édifice.</p>
     </div>
     <div class="divMoitieDroite">
@@ -39,9 +39,9 @@
         <h3 class="h3region">Ferestos</h3>
         <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des <a href="?Page=menuLateral/races/nain">Nains</a> et des 
             <a href="?Page=menuLateral/races/dragonide">Dragonides</a>, le paysage est majoritairement montagnard et le climat y est rude.</p>
-        <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains .</p>
-        <p>L'intérieur des terres de l'île de Ferestos est constitué de hautes montagnes et de volcans. Quelques nains et les clans dragonides habitent 
-            ces terres désolées.</p>
+        <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains.</p>
+        <p>L'intérieur des terres de Ferestos est constitué de hautes montagnes et de volcans. Quelques nains et les clans dragonides habitent 
+            ces contrées désolées.</p>
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg" title="Illustration : Hilmar Wild">
@@ -74,17 +74,16 @@
     </ul>
 
     <ul class="intervals">
-        <li class="first liChronologie">-900</li>
-        <li class="liChronologie">-600</li>
-        <li class="liChronologie">-300</li>
-        <li class="liChronologie">0</li>
-        <li class="liChronologie">+300</li>
-        <li class="liChronologie">+600</li>
-        <li class="last liChronologie">+900</li>
+        <li class="first liChronologie">&nbsp;-900</li>
+        <li class="liChronologie">&nbsp;-600</li>
+        <li class="liChronologie">&nbsp;-300</li>
+        <li class="liChronologie">&nbsp;0</li>
+        <li class="liChronologie">&nbsp;+300</li>
+        <li class="liChronologie">&nbsp;+600</li>
+        <li class="last liChronologie">&nbsp;+900</li>
     </ul>
     
-
-    <h2 style="clear:both;padding-top:30px;">Les unités du monde de Telneria</h2>
+    <h2 style="clear:both;padding-top:40px;">Les unités du monde de Telneria</h2>
     <div class="divMoitieGauche">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/temps.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Les unités de temps</h3>

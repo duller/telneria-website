@@ -1,6 +1,6 @@
 
 <p>
-<a href="?Page=accueil"><span class="menuElement menuAccueil" style="background-image: url('../ressources/00-Page/bouton.accueil.png');
+<a href="?Page=accueil"><span class="menuElement" style="background-image: url('../ressources/00-Page/bouton.accueil.png');
                               background-size: 100% 100%;background-repeat: no-repeat;
                               padding-top:100px;padding-bottom:25px;"
                               >Accueil</span></a>

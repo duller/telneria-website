@@ -83,7 +83,7 @@ a:link
 	width:96%;
 	min-height:60px;
         
-	padding-top:10px;
+	padding-top:0px;
         padding-left:1%;
         padding-right:1%;
 	padding-bottom:10px;
@@ -129,12 +129,12 @@ a:link
         /*** Menu bougeant ***/
         min-height: 655px;
         
-	padding-top:10px;
+	padding-top:30px;
         padding-left:1%;
         padding-right:1%;
 	padding-bottom:10px;
 	
-	margin-top:-90px;
+	margin-top:-150px;
 	margin-left:1%;
 	margin-right:0%;
 	margin-bottom:10px;
@@ -180,7 +180,7 @@ a:link
         background-repeat: repeat-y;
         background-size: 100% auto;*/
         
-        margin-top:4.5%;
+        margin-top:0;/*4.5%;*/
         background-image: url('../ressources/00-Page/parchemin.entier.png');
         background-size: 100% 100%;
 
@@ -299,13 +299,8 @@ a:link
 
 .menuElement:hover
 {
-        color:green;/*#C03000;*/
+        color:gold;/*#C03000;*/
 	/*background-color:#F6E497;*/
-}
-
-.menuAccueil:hover
-{
-    color:red;
 }
 
 #hidden

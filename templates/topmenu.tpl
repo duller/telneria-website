@@ -21,9 +21,9 @@
 <a onclick="var _window = window.open('iframeaudio.html'/*, '_blank'*/);_window.blur();window.focus();alert('Mettez en plein écran(F11) pour une immersion complète !');" 
    style="float:right;margin-right:20px;margin-top:60px;" title="Par Butterfly Tea">
     <img src="ressources/audio/clef-de-sol.png" style="max-height:65px; float:left;margin-top: -23px;">
-    <p style="display: inline;font-size: 20px;">Musique<span style="font-size:14px;"></span></p>
+    <p style="display: inline;font-size: 20px;color:silver;" class="lienBlanc">Musique</p>
 </a>
 
-<!-- p style="text-align:center;text-indent:-50px;">
-    <img src="ressources/00-Page/grand.titre.png" style="max-width:100%;">
-</p-->
+<p style="text-align:center;margin-left:10%;">
+    <img src="ressources/00-Page/grand.titre.png" style="width:70%;">
+</p>

@@ -51,7 +51,7 @@
                     setHauteurDiv($("#idHabil"), $("#idVolonte"), false);
                     setHauteurDiv($("#idVigueur"), $("#idPrestance"), false);
                     setHauteurDiv($("#idPrepGauche"), $("#idPrepDroite"), false);
-                    setHauteurDiv($("#idExpGauche"), $("#idExpDroite"), false);
+                    //setHauteurDiv($("#idExpGauche"), $("#idExpDroite"), false);
                 }
                     
                 function setHauteurDiv(gauche, milieu, droite)
@@ -100,7 +100,7 @@
             <div id="menu">{include file="menu.tpl"}</div>
             <div id="content">{include file=$page}</div>
             <div id="footer">{include file="footer.tpl"}</div>
-            <div style="font-family:'Orthoventional'; font-size:16px; padding-bottom:10px;color:white;" id="hidden">
+            <div style="font-family:'Orthoventional'; font-size:16px; padding-bottom:10px;color:white;" id="hidden" class="lienBlanc">
                 François Ripp : Creative Commons by-nc-sa & GPL</div>
         </div>
     </body>

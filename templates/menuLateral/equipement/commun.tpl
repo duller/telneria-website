@@ -107,7 +107,7 @@
             <td class="tdEquipement"><p class="ptab"><img class="communImages imageEquipementCommun" src="ressources/10-Equipem/Commun/racine.jpg" title="Illustration : Nangeyi"></p></td>
             <td class="tdDescrEquipementCommun"><p class="ptab">D'un goût douteux, les racines s'avèrent être particulièrement nutritives.</p></td>
             <td class="tdEquipement"><p class="ptab">10 po</p></td>
-            <td class="tdDescrEquipementCommun"><p class="ptab">Peut être consommé ou utiliser pour de l'alchimie.</p></td>
+            <td class="tdDescrEquipementCommun"><p class="ptab">Peut être consommée ou utilisée pour de l'alchimie.</p></td>
         </tr>
         <tr>
             <td class="tdEquipement tdNomEquipementCommun"><p class="ptab">Radis</p></td>
