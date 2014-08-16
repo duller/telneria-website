@@ -3,7 +3,7 @@
 
 <h3>Un monde de magie...</h3>
 
-<img class="imageDecoAccueil" src="ressources/01-Accueil/Dragon-Fa11eng0d-DeviantArt.jpg" title="Illustration : Fa11eng0d, Deviant Art">
+<img class="imageDecoAccueil" src="ressources/01-Accueil/Albert_Bierstadt_mountains_dragon.png" title="Illustration : Albert Bierstadt, Wikimédia">
 <p>Les sociétés humaines de Telneria étaient jadis structurées en petits villages dirigés par un chef élu. Druides et chamans secondaient ces dirigeants
     et assistaient les villageois grâce à leur affinité avec les esprits de la nature.</p>
 
