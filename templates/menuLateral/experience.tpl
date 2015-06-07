@@ -19,8 +19,8 @@
         <h2>La prise de niveau</h2>
         <img class="communImages" style="max-height:80px;float:left;margin-right:10px;box-shadow:none;" src="ressources/13-Experience/exp-livre.png" 
              title="Illustration : Lorc, Open Game Art">
-        <p><span class="titreDebutLigne">Caractéristiques</span> : À chaque niveau supplémentaire, les joueurs gagnent 1d4+8 de points de caractéristiques. 
-            Pour chaque caractéristique, le nombre de points à distribuer est au maximum 2.</p>
+        <p><span class="titreDebutLigne">Caractéristiques</span> : À chaque niveau supplémentaire, les joueurs gagnent 2d4+6 de points de caractéristiques. 
+            Pour chaque caractéristique, le nombre de points à distribuer est au maximum 3.</p>
         <p><span class="titreDebutLigne">Compétences</span> : Les joueurs gagnent également 2d2 points de compétences à distribuer librement.
             Le maximum de points par compétence est de 3 au niveau 1, ce maximum passe à 4 au niveau 3 et 5 au niveau 5.</p>
         <p><span class="titreDebutLigne">Points de vie et de mana</span> :  À chaque niveau, le nombre de points de vie et de mana augmente de 1d2 plus le 

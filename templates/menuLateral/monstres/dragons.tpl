@@ -1,38 +1,40 @@
 <h1>Les dragons</h1>
 
 <div style="width:53%;margin:1%;float:left;">
+    <img class="communImages imageLogoMonstres" style="" src="ressources/11-Monstres/Icones/dragon-whole.png" title="Illustration : Lorc, Open Game Art">
     <p>Il existe quatre familles principales de dragons, chacune affiliée à une école de magie. Les caractéristiques de combat varient en conséquence.
         Toutes les familles de dragons ont cependant en commun leur souffle de feu.</p>
     <p><span class="titreDebutLigne">Souffle du dragon : </span>&nbsp Crache du feu sous forme de cône, et inflige 1d20+niveau de dégâts de nature à tous les personnages
         et monstres présents dans la zone d'effet. Les dégâts sont calculés par joueur et par monstre. Deux tours de recharge.</p>
     
     <h3 class="h3region">Dragons Noirs</h3>
-    <img class="communImages imageLogoMonstres" style="border-radius:20px 20px 20px 7px;" 
+    <img class="communImages imageLogoMonstres" style="border-radius:20px 20px 20px 7px;float:right;" 
          src="ressources/11-Monstres/Icones/dragon-head.inverse.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Chaos, les dragons noirs sont des créatures malfaisantes et destructrices. <span class="titreDebutLigne">Chaotique mauvais.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Chaos. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Trait du chaos</span>&nbsp : 2 cibles, 2d8+(niveau*2) de dégâts de chaos par joueur.</p>
     
     <h3 class="h3region">Dragons Bleus</h3>
+    <img class="communImages imageLogoMonstres" style="" src="ressources/11-Monstres/Icones/dragon-gueule.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie des Arcanes, les dragons bleus sont des créatures cruelles et dominatrices. <span class="titreDebutLigne">Loyal mauvais.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs des Arcanes. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Rugissement déstabilisant</span>&nbsp : 
         réduit les jets de toucher de tous les opposants de 1d8+niveau.</p>
     
-    <h3 class="h3region">Dragons Verts</h3>
-    <p>Affiliés à la magie de la Nature, les dragons verts sont les protecteurs des terres et des mers. <span class="titreDebutLigne">Chaotique bon.</span></p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Nature. Un tour de recharge.</p>
-    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Toucher revigorant</span>&nbsp : le dragon vert regagne 2d8+(niveau*2) de vie.</p>
-    
-    
-    <h3 class="h3region">Dragons Blancs</h3>
-    <img class="communImages imageLogoMonstres" style="border-radius:20px 20px 20px 7px;" 
+    <h3 class="h3region" style="margin-top:25px;clear:both;">Dragons Blancs</h3>
+    <img class="communImages imageLogoMonstres" style="border-radius:20px 20px 20px 7px;float:right;" 
          src="ressources/11-Monstres/Icones/dragon-head.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie du Sacré, les dragons blancs sont d'impitoyables gardiens de la lumière contre le chaos. <span class="titreDebutLigne">Loyal bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Sacré. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Rugissement prosélyte</span>&nbsp : 
         convertit un personnage-joueur à la cause du dragon blanc pour deux tours.</p>
-
+    
+    <h3 class="h3region">Dragons Verts</h3>
+    <img class="communImages imageLogoMonstres" style="" src="ressources/11-Monstres/Icones/dragon-breath.png" title="Illustration : Lorc, Open Game Art">
+    <p>Affiliés à la magie de la Nature, les dragons verts sont les protecteurs des terres et des mers. <span class="titreDebutLigne">Chaotique bon.</span></p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Nature. Un tour de recharge.</p>
+    <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Toucher revigorant</span>&nbsp : le dragon vert regagne 2d8+(niveau*2) de vie.</p>
+    
 </div>
 
 <div style="width: 43%; margin: 1%; float:left;">
@@ -40,6 +42,7 @@
     <p class="pImageRace">Un dragon adulte</p>
 
     <h3 class="h3region">Dragons Rouges</h3>
+    <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/dragon-red.png" title="Illustration : Lorc, Open Game Art">
     <p>Une cinquième famille de dragons existe, mais n'est affiliée à aucune école de magie. Les Dragons Rouges sont les seules
         créatures draconiques à ne pas recourir aux sortilèges. Ils sont extrêmement résistants à toute attaque magique et jouissent d'une force physique sans égale.
         <span class="titreDebutLigne">Neutre strict.</span></p>
