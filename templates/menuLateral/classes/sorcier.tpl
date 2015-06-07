@@ -6,8 +6,9 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
-
-            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
+            
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le sorcier est un adepte de magie noire, il cherche continuellement à gagner en 
             puissance et à s'affirmer face à ses compétiteurs. Sectateurs du chaos, les sorciers contrôlent les morts-vivants et les démons pour dominer leurs ennemis.
             </p>

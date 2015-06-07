@@ -6,8 +6,9 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
 
-            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le roublard est un combattant agile et pernicieux,  il attaque le plus souvent en traître et se faufile dans l'ombre comme personne. Exécuteurs de basses oeuvres pour vivre, 
                 les roublards mettent un point d'honneur à rester indépendants.
             </p>

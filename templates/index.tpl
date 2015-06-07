@@ -50,7 +50,7 @@
                     setHauteurDiv($("#idForce"), $("#idIntel"), false);
                     setHauteurDiv($("#idHabil"), $("#idVolonte"), false);
                     setHauteurDiv($("#idVigueur"), $("#idPrestance"), false);
-                    setHauteurDiv($("#idPrepGauche"), $("#idPrepDroite"), false);
+                    //setHauteurDiv($("#idPrepGauche"), $("#idPrepDroite"), false);
                     //setHauteurDiv($("#idExpGauche"), $("#idExpDroite"), false);
                 }
                     

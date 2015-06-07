@@ -1,4 +1,4 @@
-/templates_c/
+/templates_c/*
 /nbproject/private/
 /ressources/PdfFichesPerso/FicheSorcier_backup.pdf
 /ressources/PdfFichesPerso/FicheRoublard_backup.pdf
@@ -9,11 +9,4 @@
 /ressources/PdfFichesPerso/FichePaladin_backup.pdf
 /ressources/PdfFichesPerso/FicheRodeur_backup.pdf
 /ressources/PdfFichesPerso/FicheMagicien_backup.pdf
-templates_c/31677e43011aa5d31d2ad048f7e011000f515a3f.file.accueil.tpl.php
-templates_c/90093ad09988b466f409a1871733c5589014713e.file.index.tpl.php
-templates_c/9206ffe216f3f7c2e7655782292928f7d20e8be5.file.footer.tpl.php
-templates_c/b6da4162c469d98c5e879f8e0b21e18d44108090.file.menu.tpl.php
-templates_c/be439f82a4dbec61746f62a0df07c19a7eecd966.file.header.tpl.php
-templates_c/d6a3ddba090bba57155e0be688e27df453321ff3.file.topmenu.tpl.php
-templates_c/ea20e2c5e9d75727b5b44b042f449eee51202896.file.telneria.tpl.php
 

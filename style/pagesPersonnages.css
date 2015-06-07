@@ -356,8 +356,13 @@
 .imageChoixRaces
 {
     width: 80%;
+    height: 50%;
     margin: 5px 5% 5px 5%;
     box-shadow: none;
+    background-image: url("../ressources/04-Races/ToutesRacesSite.png");
+    background-position: center top;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
 }
 
 .lienRacesChoix

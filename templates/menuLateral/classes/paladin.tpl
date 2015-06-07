@@ -6,8 +6,9 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
 
-            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le paladin est un héraut de la lumière, combattant les ombres avec dévouement.
             Les paladins sont d'anciens clercs embrassant la voie des armes pour s'élever contre les adeptes du chaos.
             </p>

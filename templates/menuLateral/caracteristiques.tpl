@@ -1,5 +1,7 @@
 <h1>Les caractéristiques</h1>
 
+<img class="communImages imageArbreCarac" src="ressources/02-Creation/CaracCompe.png" title="Illustration : Inconnu">
+
 <p class="pSousTitre pSousTitreCarac">Lors de l'utilisation d'une caractéristique pour une action, son modificateur associé est utilisé pour déterminer sa réussite. 
     Le calcul du modificateur se trouve dans le tableau au bas de cette page.</p>
 <p class="pSousTitre pSousTitreCarac">Les caractéristiques impactent les jets de dés lors de l'utilisation des compétences, 

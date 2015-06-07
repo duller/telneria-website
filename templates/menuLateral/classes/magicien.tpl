@@ -6,8 +6,9 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
 
-            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le magicien est un maître inégalé de la magie élémentaire et arcanique.
             Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.
             </p>

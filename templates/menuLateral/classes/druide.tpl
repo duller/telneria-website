@@ -6,8 +6,9 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
 
-            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le druide communie avec la nature, il dévoue sa vie à celle-ci et 
             y puise sa puissance magique. Les druides vivent en harmonie avec les animaux des forêts, avec lesquels ils peuvent communiquer en prenant leur forme.
             </p>

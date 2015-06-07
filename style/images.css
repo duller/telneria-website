@@ -180,6 +180,15 @@
     border-radius: 10px;
 }
 
+.imageArbreCarac
+{
+    max-width: 20%;
+    max-height: 120px;
+    float: left;
+    box-shadow: none;
+    margin-right: 10px;
+}
+
 /* CSS pour les images de la page des compétences */
 .imageCompeGauche
 {

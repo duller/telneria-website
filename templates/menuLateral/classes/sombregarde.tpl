@@ -6,8 +6,9 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
-
-            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
+            
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le sombregarde est à l'instar du sorcier un adepte du chaos, 
                 il est cependant plus axé vers le combat à l'arme. Les sombregardes sont d'anciens guerriers initiés aux sortilèges de magie noire.
             </p>

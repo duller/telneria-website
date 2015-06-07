@@ -6,8 +6,9 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueDroite">
+            <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
 
-            <h4 class="h4ClassePerso h4ClassePersoDescription">Description</h4>
+            <h4 class="h4ClassePerso">Description</h4>
             <p>Le clerc est un homme saint, il cherche à honorer les divinités du sacré et à transmettre ses préceptes à autrui. 
             Les clercs ont accompagné les telnastes dans leur conquête du pouvoir, mais se cantonnent à un rôle plus spirituel que temporel.
             </p>

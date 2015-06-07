@@ -5,7 +5,8 @@
         <img class="communImages imageExpGuerrier" src="ressources/13-Experience/ExpKnight.FantasyArt.jpg" title="Illustration : Fantasy Art">
         <h2>Gagner en expérience</h2>
         <p>Les joueurs gagnent de l'expérience lorsqu'ils participent à un combat qui résulte en la mort d'une créature.</p>
-        <p>Les points d'expérience octroyés sont à l'appréciation du MJ. Tous les joueurs commencent le jeu avec 100 points d'expérience.</p>
+        <p>Le gain de points d'expérience est détaillé dans la page des <a href="?Page=menuLateral/monstres">monstres</a>.
+            Tous les joueurs commencent le jeu avec 100 points d'expérience.</p>
         <p>Il faut acquérir 100 points d'expérience supplémentaires pour passer au niveau suivant. 
             Les points d'expérience continuent à augmenter, il faut attendre 300 points d'expériences pour passer 
             au niveau 3 et ainsi de suite. </p>
