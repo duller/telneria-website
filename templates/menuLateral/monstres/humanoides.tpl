@@ -25,7 +25,7 @@
     
     <h3 class="h3region" style="margin-bottom:10px;">Minotaures</h3>
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/human-minotaur.png" title="Illustration : Lorc, Open Game Art">
-    <p>Humanoïdes bipèdes de grande taille à tête de taureau, les minotaures affectionnent les larges haches à deux mains.<span class="titreDebutLigne">Tout alignement.</span></p>
+    <p>Humanoïdes bipèdes de grande taille à tête de taureau, les minotaures affectionnent les larges haches à deux mains. <span class="titreDebutLigne">Tout alignement.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Fureur taurine</span>&nbsp : le coup de hache de ce tour touche jusqu'à trois ennemis.
     Trois tours de recharge.</p>

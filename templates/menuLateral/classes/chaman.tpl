@@ -211,7 +211,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui inflige à chaque tour en dégâts de nature (niveau/2, arrondi inférieur) +1d4, puis +1d2, puis +0.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -224,7 +224,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui soigne à chaque tour tous les alliés pour (niveau/2, arrondi inférieur).</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -240,7 +240,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui procure à chaque tour à tous les alliés une réduction des dégâts subis de 2.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -253,7 +253,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Invoque un totem pour 2 tours, qui inflige à chaque tour à tout le monde 1d4 (+niveau) de dégâts de nature.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>
@@ -276,7 +276,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Empêche tout mouvement de la part de l'ennemi pour 1 tour, réduisant également son esquive de 10.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueSansOmbre">
@@ -289,7 +289,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Arme (+niveau) de dégâts physiques, 30 mètres de portée.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
 
             </div>
         </div>
@@ -306,7 +306,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Contrôle un ennemi de niveau égal ou inférieur à 8 pour 1 tour.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
         <div class="divSortTechnique divSortTechniqueHautGauche">
@@ -319,7 +319,7 @@
                     <span class="detailsEffetSort"> &nbsp:&nbsp </span>
                     <span class="detailsEffetSort">Assomme tous les ennemis pour 1 tour, 2 tours de recharge.</span></p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Coût&nbsp</span>
-                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">1 mana + niveau</span></p>
+                    <span class="detailsEffetSort"> &nbsp:&nbsp </span><span class="detailsEffetSort">2 mana + niveau</span></p>
             </div>
         </div>
     </div>

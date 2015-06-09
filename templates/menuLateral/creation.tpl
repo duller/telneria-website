@@ -37,7 +37,7 @@
         <img class="communImages imageAlignementCreation" style="max-height:80px;float:left;margin-top:0px;" src="ressources/02-Creation/FichePerso.Inverse.png" 
              title="Illustration : Lorc, Open Game Art">
         
-        <p>Une fois le personange choisi, le joueur doit remplir sa fiche en commençant par le cadre haut de la feuille. Il est libre de donner les attributs physiques qu'il
+        <p>Une fois le personnage choisi, le joueur doit remplir sa fiche en commençant par le cadre haut de la feuille. Il est libre de donner les attributs physiques qu'il
         souhaite à son personnage, en respectant cependant les limites de la race sélectionnée. Pour l'expérience, les points de vie et les points de mana, les 
         valeurs au niveau 1 sont celles indiquées de base.</p><br />
     </div>
