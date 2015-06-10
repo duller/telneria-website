@@ -26,7 +26,7 @@
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Leur aura de feu inflige à chaque ennemi les attaquant 1d6 de dégâts de chaos.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
-    <h3 class="h3region">Asservisseur funeste</h3>
+    <h3 class="h3region" style="margin-top:20px;">Asservisseur funeste</h3>
     <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/demon-oeil.png" title="Illustration : Lorc, Open Game Art">
     <p>Les asservisseurs funestes sont des démons adeptes de la magie du chaos. Maîtres de la tromperie, ils peuvent intégrer les sociétés humanoïdes et sont à l'origine des possessions
     démoniaques qu'exécrent la populace superstitieuse.</p>
@@ -36,7 +36,7 @@
         <br /><span style="font-style:italic;margin-left:50px;">Trait du chaos</span>&nbsp : Inflige 12+1d12 de dégâts de chaos à un joueur.
         <br /><span style="font-style:italic;margin-left:50px;">Possession démoniaque</span>&nbsp : Pénètre l'esprit d'un ennemi et le soumet à sa volonté pour deux tours. Deux tours de recharge.</p>
     
-    <h3 class="h3region">Seigneur démon</h3>
+    <h3 class="h3region" style="margin-top:20px;">Seigneur démon</h3>
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/demon-lord.png" title="Illustration : Lorc, Open Game Art">
     <p>Les seigneurs démons font partie de la caste dirigeante de la lune Demonos. Êtres dominateurs, ces démons sont de redoutables adversaires ne refusant jamais le combat.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Leur aura démoniaque inflige chaque tour à tous les ennemis 1d10 de dégâts de chaos.</p>

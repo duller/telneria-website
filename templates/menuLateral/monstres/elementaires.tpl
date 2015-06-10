@@ -5,6 +5,7 @@
     invoquées par les mages et possèdent une autonomie assez faible.</p>
     <br />
     
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/elem-ifrit.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne">Fureur élémentaire : </span>&nbsp Les élémentaires n'ont pas d'attaques physiques, leurs sorts représentent leurs attaques normales,
         infligeant des dégâts de nature.</p>
     <br />
@@ -12,26 +13,28 @@
     <br />
         
     <h3 class="h3region">Élémentaires d'eau</h3>
-    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/elem-crystal.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/elem-eau.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations de l'eau, ces élémentaires deviennent très résistants dans les zones aquatiques.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Tous les dégâts subis réduits de [niveau] si le combat a lieu dans une zone humide.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Maelström</span>&nbsp :
         L'élémentaire d'eau invoque un puissant maelström, infligeant des dégâts à tous les joueurs présents.</p>
     
-    <h3 class="h3region" style="clear:both;padding-top:20px;">Élémentaires d'air</h3>
+    <h3 class="h3region" style="margin-top:30px;">Élémentaires d'air</h3>
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/elem-air.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations de l'air, ces élémentaires peuvent se déplacer très rapidement dans toutes les directions.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Déplacement porté à 60 mètres au lieu de 10, et peut enchaîner immédiatement une attaque.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Cyclone</span>&nbsp : 
         l'élémentaire d'air repousse violemment tous les ennemis présents au corps-à-corps à 10 mètres de lui, leur infligeant des dégâts.</p>
     
-    <h3 class="h3region">Élémentaires de feu</h3>
-    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/elem-ifrit.png" title="Illustration : Lorc, Open Game Art">
+    <h3 class="h3region" style="clear:both;padding-top:20px;">Élémentaires de feu</h3>
+    <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/elem-feu.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations du feu, ces élémentaires peuvent immoler les chairs et les armures les plus résistantes.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts infligés doublés par rapport aux autres élémentaires.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Immolation</span>&nbsp : 
         l'élémentaire immole deux adversaires, le plus proche et le plus éloigné de lui.</p>
     
-    <h3 class="h3region" style="clear:both;padding-top:20px;">Élémentaires de terre</h3>
+    <h3 class="h3region" style="margin-top:30px;">Élémentaires de terre</h3>
+    <img class="communImages imageLogoMonstres" style="margin-top:-20px;" src="ressources/11-Monstres/Icones/elem-terre.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations de la terre, ces élémentaires sont résistants aux attaques physiques et utilisent leur masse pour vaincre leurs adversaires.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts physiques subis réduits de [niveau].</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Choc terrestre</span>&nbsp :
