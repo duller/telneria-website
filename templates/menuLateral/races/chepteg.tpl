@@ -56,9 +56,6 @@
         <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"
                                                                                title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Roublard</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/druide"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Druide.png"
-                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
-            <p class="pClassesDispo">Druide</p></a>
 
     </div>
 

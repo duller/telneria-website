@@ -127,15 +127,15 @@
                 <p class="ptab">O</p>
             </td>
             <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
                 <p class="ptab">O</p>
-            </td>
-            <td>
-            </td>
-            <td>
-            </td>
-            <td>
-            </td>
-            <td>
             </td>
             <td>
             </td>
@@ -170,7 +170,6 @@
 
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>
@@ -188,7 +187,6 @@
             <td>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>
@@ -212,7 +210,6 @@
                 <p class="ptab"><a href="?Page=menuLateral/classes/roublard">Roublard</a></p>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>
@@ -229,7 +226,6 @@
                 <p class="ptab">O</p>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
             </td>
@@ -244,7 +240,6 @@
                 <p class="ptab"><a href="?Page=menuLateral/classes/rodeur">Rôdeur</a></p>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
             </td>
@@ -260,7 +255,6 @@
                 <p class="ptab">O</p>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>
@@ -280,13 +274,13 @@
             <td>
             </td>
             <td>
-            </td>
-            <td>
-            </td>
-            <td>
-            </td>
-            <td>
                 <p class="ptab">O</p>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -309,6 +303,7 @@
             <td>
             </td>
             <td>
+                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>
@@ -339,7 +334,6 @@
                 <p class="ptab">O</p>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>
@@ -353,7 +347,6 @@
                 <p class="ptab">O</p>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>
@@ -369,17 +362,17 @@
             <td>
             </td>
             <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            </td>
+            </td>
+            <td>
+            </td>
+            <td>
                 <p class="ptab">O</p>
-            </td>
-            <td>
-            </td>
-            <td>
-            </td>
-            </td>
-            </td>
-            <td>
-            </td>
-            <td>
             </td>
             <td>
             </td>
@@ -399,7 +392,6 @@
             <td>
             </td>
             <td>
-                <p class="ptab">O</p>
             </td>
             <td>
                 <p class="ptab">O</p>

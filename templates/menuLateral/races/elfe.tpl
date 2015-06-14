@@ -24,14 +24,14 @@
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Polonais</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Russe, Allemand, Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la prestance, +1 à l'habileté, +1 à la volonté</p>
             <p>-1 à la force, -1 à la vigueur</p>
             <p>Bonus de 1 aux jets de détection et de discrétion.</p>
@@ -45,25 +45,19 @@
 
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
-        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un rôdeur elfe est assez commun, tandis qu'un sombregarde est plutôt rare.</p> 
+        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un rôdeur elfe est assez commun, tandis qu'un magicien est plutôt rare.</p> 
         <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"
                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Rôdeur</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"
                                                                                title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Roublard</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"
                                                                                title="Illustration : Horror Pen, Open Game Art"></img>
-            <p class="pClassesDispo">Guerrier</p></a>
+            <p class="pClassesDispo">Chaman</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"
-                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
-            <p class="pClassesDispo">Magicien</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"
                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
-            <p class="pClassesDispo">Sorcier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/sombregarde"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sombregarde.png"
-                                                                                  title="Illustration : Horror Pen, Open Game Art"></img>
-            <p class="pClassesDispo">Sombregarde</p></a>
+            <p class="pClassesDispo">Magicien</p></a>
 
     </div>
 

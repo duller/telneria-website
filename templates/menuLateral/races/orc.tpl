@@ -16,20 +16,20 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Trollnordh, siège du suzerain, est la capitale politique et économique des Orcs.</p>
             <p>Ce peuple est divisé en de nombreux clans rivaux, dont les chefs combattent continuellement pour le titre de suzerain.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Russe</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Polonais</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la vigueur</p>
             <p>-1 à la volonté</p>
             <p>+1 aux jets de toucher en mêlée</p>
@@ -37,7 +37,7 @@
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 6 pieds à 6 pieds et demi (1m80 à 2m)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 200 à 240 livres (100kg à 120kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 60 ans</p>

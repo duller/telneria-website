@@ -15,28 +15,28 @@
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Istville, cité de taille modeste, abrite le Conseil des Anciens des Varelias ainsi que les édifices de commerce et de diplomatie. 
                 Bien que la société varelias soit peu centralisée, cette cité est vue comme la capitale politique de ce peuple.</p>
             <p>Les Varelias habitant toujours la Forêt Touffue du nord de Veldris sont le plus souvent des ermites, ne participant pas à la vie commune.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Russe</p>
             <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Polonais, Français</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Caractéristiques</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la vigueur, +1 à la volonté</p>
             <p>-1 à l'habileté</p>
             <p>Peut regagner 2d4 de points de vie une fois par combat, si celui-ci a lieu a proximité d'une forêt.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
-            <img class="communImages imageLorcRaces"" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
+            <img class="communImages imageLorcRaces" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Grande, 7 à 8 pieds (2m10 à 2m40)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 320 à 400 livres (160kg à 200kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 400 ans.</p>
