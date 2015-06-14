@@ -1,4 +1,4 @@
-<h1 style="margin-top:40px;">Les monstres</h1>
+<h1 style="margin-top:80px;">Les monstres</h1>
 
 <div style="margin-bottom:10px;">
     <h3 class="h3region">Préparer et gérer les monstres en combat</h3>

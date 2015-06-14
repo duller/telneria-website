@@ -91,7 +91,7 @@
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/4-Paladin/exorcisme.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Exorcisme (niveau 3)</h4>
-            <p>Attaque puissante infligeant de lourds dégâts aux morts-vivants et aux démons, et réduisant leur capacité de mouvement.</p>
+            <p>Attaque puissante affectant les créatures impies, leur infligeant de lourds dégâts et réduisant leur capacité de mouvement.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>
@@ -269,7 +269,7 @@
         <div class="divSortTechnique divSortTechniqueBasDroite">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/4-Paladin/marteau-beni.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Marteau béni (niv 5)</h4>
-            <p>Attaque de zone infligeant de lourds dégâts aux morts-vivants et aux démons.</p>
+            <p>Attaque de zone infligeant de lourds dégâts, particulièrement aux créatures impies.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif - Zone</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>

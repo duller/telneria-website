@@ -9,7 +9,8 @@
         poussant nombre de créatures démoniaques à attaquer les humains. Ces pratiques céphalophages contribuent à leur réputation sanguinaire et malveillante dans les sociétés humaines.</p>
     <br />
     
-    <p><span class="titreDebutLigne">Nature impie : </span>&nbsp Tous les démons subissent 50% de dégâts de chaos en moins et 50% de dégâts de sacré en plus.</p>
+    <p><span class="titreDebutLigne">Nature impie : </span>&nbsp Tous les démons voient leurs dégâts de chaos subis et les dégâts infligés aux adeptes du sacré
+        réduits de moitié, arrondis au nombre supérieur.</p>
     <br />
     
     <h3 class="h3region">Diablotin</h3>

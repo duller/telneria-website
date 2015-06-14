@@ -91,7 +91,7 @@
         <div class="divSortTechnique divSortTechniqueSansOmbre">
             <img class="communImages imageLogoClasse" src="ressources/03-Classes/3-Clerc/adjuration.png" title="Illustration : Eleazzaar, Deviant Art">
             <h4 class="h4ClassePersoSort">Adjuration (niveau 3)</h4>
-            <p>Frappe un mort-vivant ou un démon avec un jet de lumière sacrée, lui inflige des dégâts et le ralentit.</p>
+            <p>Frappe une créature impie avec un jet de lumière sacrée, lui inflige des dégâts et la ralentit.</p>
             <div class="divSortTechniqueDetails">
                 <p><span class="titreDebutLigne titreDebutLigneSort">Type</span> &nbsp: Sort offensif</p>
                 <p><span class="titreDebutLigne titreDebutLigneSort sousTitreEffetSort">Effet </span>

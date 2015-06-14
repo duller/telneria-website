@@ -195,7 +195,8 @@
 <div id="idPrestige1" class="classePrestige1 communDivClasseMarges communDivClasseContour">
     <h3 class="h3ClassesPerso">Classe de prestige : L'arcaniste</h3>
 
-    <p>L'arcaniste est un magicien focalisé sur les arcanes, la forme de magie la plus pure.</p>
+    <p>L'arcaniste est un magicien focalisé sur les arcanes, la forme de magie la plus pure. 
+        Il renie la magie de la nature, ses anciens sorts de feu et de givre infligent dorénavant des dégâts d'arcane et non plus de feu ou de givre.</p>
 
 
     <div class="divInterneClasse">

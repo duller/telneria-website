@@ -8,7 +8,8 @@
         Leur invocateur les dirige sans résistance, mais un nécromant ennemi peut faire prévaloir sa propre volonté.</p>
     <br />    
     
-    <p><span class="titreDebutLigne">Nature impie : </span>&nbsp Tous les morts-vivants subissent 50% de dégâts de chaos en moins et 50% de dégâts de sacré en plus.</p>
+    <p><span class="titreDebutLigne">Nature impie : </span>&nbsp Tous les morts-vivants voient leurs dégâts de chaos subis et les dégâts infligés aux adeptes du sacré
+        réduits de moitié, arrondis au nombre supérieur.</p>
     <br />
     
     <p><span class="titreDebutLigne">Décharge ténébreuse : </span>&nbsp Les incantateurs mort-vivants peuvent décharger sur 

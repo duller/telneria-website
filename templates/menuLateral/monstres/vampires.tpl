@@ -16,7 +16,8 @@
     volant 1d8+(niveau*2) points de vie à leur victime. Un tour de recharge.</p>
     <br />
     
-    <p><span class="titreDebutLigne">Nature impie : </span>&nbsp En forme de combat, les vampires subissent 50% de dégâts de chaos en moins et 50% de dégâts de sacré en plus.</p>
+    <p><span class="titreDebutLigne">Nature impie : </span>&nbsp En forme de combat, les vampires voient leurs dégâts de chaos subis et les dégâts infligés aux adeptes du sacré
+        réduits de moitié, arrondis au nombre supérieur.</p>
 
 </div>
 
