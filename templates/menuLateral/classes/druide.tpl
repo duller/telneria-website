@@ -52,8 +52,8 @@
 
 
 <div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasDruide.png" title="Illustration : Jérôme Rotfarb"></p>
-    <p class="pImageRace">Un druide varelias</p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainDruide.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Un druide nain</p>
 </div>
 
 

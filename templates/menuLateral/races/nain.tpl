@@ -62,7 +62,7 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainClerc.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NainDruide.png" title="Illustration : Jérôme Rotfarb"></p>
     <p class="pImageRace">Un nain druide</p>
 </div>
 

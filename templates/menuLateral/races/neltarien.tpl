@@ -62,8 +62,8 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NeltarienneRoublarde.png" title="Illustration : Jérôme Rotfarb"></p>
-    <p class="pImageRace">Une neltarienne roublarde</p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NeltarienneSorciere.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Une neltarienne sorcière</p>
 </div>
 
 <div class="classeImage communDivClasseMarges">

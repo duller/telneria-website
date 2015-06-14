@@ -52,8 +52,8 @@
 
 
 <div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/CheptegChaman.png" title="Illustration : Jérôme Rotfarb"></p>
-    <p class="pImageRace">Un chaman chepteg</p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/VareliasChaman.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Un chaman varelias</p>
 </div>
 
 

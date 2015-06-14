@@ -52,8 +52,8 @@
 
 
 <div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/MurvienSorcier.png" title="Illustration : Jérôme Rotfarb"></p>
-    <p class="pImageRace">Un sorcier murvien</p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NeltarienneSorciere.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Une sorcière neltarienne</p>
 </div>
 
 

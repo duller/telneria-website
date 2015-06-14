@@ -63,8 +63,8 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennMagicien.png" title="Illustration : Jérôme Rotfarb"></p>
-    <p class="pImageRace">Un kerfenn magicien</p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/KerfennClerc.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Un kerfenn clerc</p>
 </div>
 
 <div class="classeImage communDivClasseMarges">

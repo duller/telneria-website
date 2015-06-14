@@ -52,8 +52,8 @@
 
 
 <div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/NeltarienneRoublarde.png" title="Illustration : Jérôme Rotfarb"></p>
-    <p class="pImageRace">Une roublarde neltarienne</p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/CheptegRoublard.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace">Un roublard chepteg</p>
 </div>
 
 
