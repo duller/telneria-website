@@ -3,7 +3,7 @@
 
 <h3>Un monde de magie...</h3>
 
-<img class="imageDecoAccueil" src="ressources/01-Accueil/Albert_Bierstadt_mountains_dragon.png" title="Illustration : Albert Bierstadt, Wikimédia">
+<img class="imageDecoAccueil" src="ressources/01-Accueil/Albert_Bierstadt_mountains_dragon.jpg" title="Illustration : Albert Bierstadt, Wikimédia">
 <p>Les sociétés humaines de Telneria étaient jadis structurées en petits villages dirigés par un chef élu. Druides et chamans secondaient ces dirigeants
     et assistaient les villageois grâce à leur affinité avec les esprits de la nature.</p>
 
@@ -80,7 +80,7 @@ détaillant <a href="?Page=menuLateral/telneria">le monde de Telneria</a>. Vous 
                     <div style="background-image:url(ressources/01-Accueil/old_book_cover.jpg);text-align: center;">
                         <h2 style="margin-top:200px;color: gold;"><span style="font-size:24px;">Telneria</span><br /><br />Un jeu de rôle<br />Des romans</h2>
                     </div>
-                    <div style="background-image:url(ressources/00-Page/parchemin.centre.png);text-align: center;">
+                    <div style="background-image:url(ressources/00-Page/parchemin.centre.gif);text-align: center;">
                         <h2 style="margin-top:60px;">Partir à l'aventure : le jeu de rôle</h2>
     <img class="communImages" style="max-height:80px;float:left;margin: 10px;" src="ressources/01-Accueil/Runes-Eleazzaar-DA.png" title="Illustration : Eleazzar, Deviant Art">
     <p class="paragDansLivre">Le jeu de rôle consiste à vivre une aventure à plusieurs en s'imaginant la situation et en se mettant dans la peau de personnages fictifs.</p>
@@ -94,7 +94,7 @@ détaillant <a href="?Page=menuLateral/telneria">le monde de Telneria</a>. Vous 
         imaginaire propice au jeu.</p>
 
                     </div>
-                    <div style="background-image:url(ressources/00-Page/parchemin.centre.png);text-align: center;">
+                    <div style="background-image:url(ressources/00-Page/parchemin.centre.gif);text-align: center;">
                         <img class="imageDecoAccueil imageDecoAccueilDes" src="ressources/01-Accueil/Des-Wikimedia.png" title="Illustration : Wikimédia">
 
     <p class="paragDansLivre">Pour chaque aventure, il est conseillé au MJ de <a href="?Page=menuLateral/preparation">suivre un scénario</a> préparé à l'avance, afin de profiter d'une histoire cohérente 
@@ -107,7 +107,7 @@ détaillant <a href="?Page=menuLateral/telneria">le monde de Telneria</a>. Vous 
     <p class="paragDansLivre">Le dé le plus utilisé est le dé à 20 faces, noté 1d20. Si le joueur doit lancer plusieurs dés, 
         c'est noté 2d8 pour jeter 2 dés à 8 faces.</p>
                     </div>
-                    <div style="background-image:url(ressources/00-Page/parchemin.centre.png);text-align: center;">
+                    <div style="background-image:url(ressources/00-Page/parchemin.centre.gif);text-align: center;">
                         <h2>Les romans de l'univers de Telneria</h2>
     <img style="margin-left:10px;" class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/01-Accueil/Wikimedia-Books.png" title="Illustration : Wikimédia">
 
