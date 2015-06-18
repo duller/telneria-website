@@ -12,6 +12,8 @@
 	margin:auto;
         border-radius: 10px;
         box-shadow:0 0 20px #ccc;
+        background-image: url("/ressources/01-Accueil/Dragon.Rewan.DA.png");
+        background-repeat: no-repeat;
 }
 
 .flipbook-viewport .flipbook{
