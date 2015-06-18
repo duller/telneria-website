@@ -1,7 +1,7 @@
 <h1>Les dragons</h1>
 
 <div style="width:53%;margin:1%;float:left;">
-    <img class="communImages imageLogoMonstres" style="" src="ressources/11-Monstres/Icones/dragon-whole.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" style="" src="ressources/11-Monstres/Icones/dragon-breath.png" title="Illustration : Lorc, Open Game Art">
     <p>Il existe quatre familles principales de dragons, chacune affiliée à une école de magie. Les caractéristiques de combat varient en conséquence.
         Toutes les familles de dragons ont cependant en commun leur souffle de feu.</p>
     <p><span class="titreDebutLigne">Souffle du dragon : </span>&nbsp Crache du feu sous forme de cône, et inflige 1d20+niveau de dégâts de nature à tous les personnages
@@ -30,7 +30,7 @@
         convertit un personnage-joueur à la cause du dragon blanc pour deux tours.</p>
     
     <h3 class="h3region">Dragons Verts</h3>
-    <img class="communImages imageLogoMonstres" style="" src="ressources/11-Monstres/Icones/dragon-breath.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" style="" src="ressources/11-Monstres/Icones/dragon-whole.png" title="Illustration : Lorc, Open Game Art">
     <p>Affiliés à la magie de la Nature, les dragons verts sont les protecteurs des terres et des mers. <span class="titreDebutLigne">Chaotique bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Insensibles aux sorts offensifs de Nature. Un tour de recharge.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Toucher revigorant</span>&nbsp : le dragon vert regagne 2d8+(niveau*2) de vie.</p>
