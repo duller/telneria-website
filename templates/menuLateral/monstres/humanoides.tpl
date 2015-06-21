@@ -14,7 +14,7 @@
         Le port d'une arbalète, 40 mètres de portée, augmente le dé de toucher de 4 et les dégâts infligés de 6 ; par contre un coup ne peut être tiré que tous les deux tours.</p>
     
     <h3 class="h3region">Races jouables</h3>
-    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/human-self.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" style="margin-top:0px;" src="ressources/11-Monstres/Icones/human-self.png" title="Illustration : Lorc, Open Game Art">
     <p>N'importe quelle des dix races jouables peut être utilisée en tant que monstre. <span class="titreDebutLigne">Alignement dépendant de la race.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp Tous les sorts détaillés dans les classes de personnage peuvent être utilisés.</p>
@@ -27,7 +27,7 @@
         soulage la bourse d'un personnage-joueur de [niveau]x20 pièces d'or.</p>
     
     <h3 class="h3region">Minotaures</h3>
-    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/human-minotaur.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" style="margin-top:0px;" src="ressources/11-Monstres/Icones/human-minotaur.png" title="Illustration : Lorc, Open Game Art">
     <p>Humanoïdes bipèdes de grande taille à tête de taureau, les minotaures affectionnent les larges haches à deux mains. <span class="titreDebutLigne">Tout alignement.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Fureur taurine</span>&nbsp : le coup de hache de ce tour touche jusqu'à trois ennemis.
@@ -42,7 +42,7 @@
     Trois tours de recharge.</p>
     
     <h3 class="h3region">Ogres</h3>
-    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/human-ogre.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" style="margin-top:0px;" src="ressources/11-Monstres/Icones/human-ogre.png" title="Illustration : Lorc, Open Game Art">
     <p>Les ogres sont d'énormes humanoïdes vivant dans les basses montagnes des continents du nord. Agressifs et irritables, ils attaquent à vue tout aventurier importun.
         Grands de plus de trois mètres, les ogres se battent habituellement avec d'énormes massues.<span class="titreDebutLigne"> Ne peut être bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Lorsque les points de vie de l'ogre descendent sous la barre des 40, ses dégâts sont augmentés de 1d6 et
@@ -51,7 +51,7 @@
     
     <h3 class="h3region">Trolls</h3>
     <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/human-troll.png" title="Illustration : Lorc, Open Game Art">
-    <p>Les trolls sont les créatures les plus anciennes de Veldris. Humanoïdes gigantesques, les mâles adultes peuvent dépasser les sept mètres, les trolls se sont fait pratiquement 
+    <p>Les trolls sont les créatures les plus anciennes de Middenardh. Humanoïdes gigantesques, les mâles adultes peuvent dépasser les sept mètres, les trolls se sont fait pratiquement 
         exterminer par les orcs. Les derniers individus subsistent dans les collines désertes du nord du continent.
         <span class="titreDebutLigne">Ni loyal, ni bon.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
@@ -65,7 +65,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/humanoides.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/humanoides.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 

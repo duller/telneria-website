@@ -51,7 +51,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:7%">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/dragons.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/dragons.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 

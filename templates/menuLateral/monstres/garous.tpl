@@ -1,7 +1,7 @@
 <h1>Les garous</h1>
 
 <div style="width:66%;margin:1%;float:left;">
-    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/garou-loup.png" title="Illustration : Lorc, Open Game Art">
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/garou-oeil.png" title="Illustration : Lorc, Open Game Art">
     <p>Les garous sont des humains présentant naturellement des dispositions à la transformation s'étant fait mordre par une créature sauvage. <br />
         La morsure leur permet de prendre à loisir une forme à mi-chemin entre l'animal associé et l'humain. 
         Cette transformation leur confère force, agilité et une perception remarquable.</p>
@@ -11,12 +11,35 @@
     efficaces qu'un guerrier traditionnel.</p>
     <br />
     
-    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/garou-oeil.png" title="Illustration : Lorc, Open Game Art">
     <p><span class="titreDebutLigne">Forme animale : </span>&nbsp En forme animale, les garous se révèlent être de redoutables combattants. Ils conservent leur intelligence humaine et savent
         prendre la fuite si le combat tourne en leur défaveur. Les chat-garous sont de taille modeste, mais leur agilité compense leur gabarit.</p>
     <br />
     
     <p><span class="titreDebutLigne">Prévalence de la pleine lune : </span>&nbsp Les soirs de pleine lune, les garous infligent [niveau] points de dégâts supplémentaires.</p>
+    
+    <h3 class="h3region">Chat-garou</h3>
+    <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/garou-chat.png" title="Illustration : Lorc, Open Game Art">
+    <p>De taille modeste, les chat-garous compensent leur faible force par une agilité sans égale.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
+    <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
+    
+    <h3 class="h3region" style="clear:both;">Loup-garou</h3>
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/garou-loup.png" title="Illustration : Lorc, Open Game Art">
+    <p>Dôtés d'une mâchoire redoutable, les loup-garous peuvent courir à quatre pattes pour être rapides ou sur deux pattes pour profiter de leurs griffes postérieures.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
+    <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
+    
+    <h3 class="h3region" style="margin-top:20px;">Sanglier-garou</h3>
+    <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/garou-sanglier.png" title="Illustration : Lorc, Open Game Art">
+    <p>Mammifères imposants, les sanglier-garous s'illustrent en combat lors de leurs charges dévastatrices.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
+    <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
+    
+    <h3 class="h3region" style="margin-top:20px;">Ours-garou</h3>
+    <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/garou-ours.png" title="Illustration : Lorc, Open Game Art">
+    <p>Alliant l'intelligence d'un humanoïde et la puissance brute d'un ours, un ours-garou est une créature redoutablement dangereuse.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Rien de particulier.</p>
+    <p><span class="titreDebutLigne">Technique : </span>&nbsp Aucune.</p>
     
 </div>
 
@@ -26,7 +49,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/garous.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/garous.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 
@@ -78,7 +101,7 @@
                 <p class="ptab">16+1d4</p>
             </td>
             <td>
-                <p class="ptab">14</p>
+                <p class="ptab">15</p>
             </td>
             <td>
                 <p class="ptab">13</p>

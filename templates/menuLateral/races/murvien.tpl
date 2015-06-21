@@ -67,6 +67,6 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/cartes/murvien.jpg" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/cartes/murvien.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>

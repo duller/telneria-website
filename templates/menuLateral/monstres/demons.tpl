@@ -2,9 +2,9 @@
 
 <div style="width:65%;margin:1%;float:left;">
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/demon-lune.png" title="Illustration : Lorc, Open Game Art">
-    <p>Les démons sont originaires de la lune Demonos, en orbite autour du monde de Telneria. Certains croyances populaires attribuent une origine souterraine ou infernale aux démons, 
+    <p>Les démons sont originaires de la lune en orbite autour du monde de Telneria. Certains croyances populaires attribuent une origine souterraine ou infernale aux démons, 
         mythes que ces derniers aiment entretenir. Les premiers démons ont été convoqués par des sorciers neltariens en Telneria. Seuls des portails magiques ou des sorts d'invocation
-        permettent de transiter entre Telneria et Demonos.</p>
+        permettent de transiter entre Telneria et Demonos, nom que ces créatures utilisent pour désigner leur lune d'origine.</p>
     <p>Les sociétés démoniques de Demonos sont fortement hiérarchisées et tournées vers le combat et la connaissance. L'ingestion de cerveau humain confère aux démons sagacité et perspicacité,
         poussant nombre de créatures démoniaques à attaquer les humains. Ces pratiques céphalophages contribuent à leur réputation sanguinaire et malveillante dans les sociétés humaines.</p>
     <br />
@@ -16,7 +16,7 @@
     <h3 class="h3region">Diablotin</h3>
     <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/demon-tete.png" title="Illustration : Lorc, Open Game Art">
     <p>Démons de petite taille, les diablotins sont des maléficieurs sournois et blagueurs.</p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp En danger de mort, les diablotins peuvent se téléporter sur de courtes distances.</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp En danger de mort, les diablotins peuvent se téléporter sur de courtes distances, indépendamment de l'initiative.</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Boule de chaos</span>&nbsp : 
         le diablotin lance sur ses ennemis une boule infligeant 3+1d4 de dégâts de chaos.</p>
     
@@ -52,7 +52,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/demons.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/demons.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 

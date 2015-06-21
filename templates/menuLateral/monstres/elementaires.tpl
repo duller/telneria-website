@@ -9,7 +9,7 @@
     <p><span class="titreDebutLigne">Fureur élémentaire : </span>&nbsp Les élémentaires n'ont pas d'attaques physiques, leurs sorts représentent leurs attaques normales,
         infligeant des dégâts de nature.</p>
     <br />
-    <p><span class="titreDebutLigne">Nature élémentaire : </span>&nbsp Réduit tous les dégâts de nature subis de moitié.</p>
+    <p><span class="titreDebutLigne">Nature élémentaire : </span>&nbsp Insensibles aux attaques physiques et aux sorts de leur élément, à l'exception des élémentaires de terre.</p>
     <br />
         
     <h3 class="h3region">Élémentaires d'eau</h3>
@@ -36,7 +36,7 @@
     <h3 class="h3region" style="margin-top:30px;">Élémentaires de terre</h3>
     <img class="communImages imageLogoMonstres" style="margin-top:-20px;" src="ressources/11-Monstres/Icones/elem-terre.png" title="Illustration : Lorc, Open Game Art">
     <p>Incarnations de la terre, ces élémentaires sont résistants aux attaques physiques et utilisent leur masse pour vaincre leurs adversaires.</p>
-    <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts physiques subis réduits de [niveau].</p>
+    <p><span class="titreDebutLigne">Combat : </span>&nbsp Dégâts physiques et des sorts de nature subis réduits de [niveau].</p>
     <p><span class="titreDebutLigne">Sorts : </span>&nbsp <span style="font-style:italic;">Choc terrestre</span>&nbsp :
         l'élémentaire de terre fait trembler la terre sur 10 mètres autour de lui, infligeant des dégâts à tous les ennemis proches.</p>
 
@@ -48,7 +48,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/elementaires.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/elementaires.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 

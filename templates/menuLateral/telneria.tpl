@@ -3,8 +3,8 @@
 <div class="zoneRegionsHaut">
 
     <div class="divMoitieGauche">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Istnor.Serendigity.Flickr.jpg" title="Illustration : Serendigity, Flickr">
-        <h3 class="h3region">Istnor</h3>
+        <img class="communImages imageRegion" src="ressources/09-Monde/Ceiltigahn.SkullDixon.DA.jpg" title="Illustration : Skull Dixon, Deviant Art">
+        <a href="?Page=menuLateral/monde/ceiltigahn"><h3 class="h3region">Ceiltigahn</h3></a>
         <p>Petite île au nord-ouest de Telneria, Istnor est une contrée froide et peu habitée.</p>
         <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> dans les forêts au nord de l'île et des 
             <a href="?Page=menuLateral/races/varelias">Varelias</a> au sud. 
@@ -14,8 +14,8 @@
             la disposition de chacune des pierres formant l'édifice.</p>
     </div>
     <div class="divMoitieDroite">
-        <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Veldris.Phatpuppy.Flickr.Petit.jpg" title="Illustration : Phatpuppy, Flickr">
-        <h3 class="h3region">Veldris</h3>
+        <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Middenardh.Phatpuppy.Flickr.Petit.jpg" title="Illustration : Phatpuppy, Flickr">
+        <a href="?Page=menuLateral/monde/middenardh"><h3 class="h3region">Middenardh</h3></a>
         <p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'ouest jusqu'à l'île de Ferestos à l'est.</p>
         <p>Le nord-ouest du continent est peuplé par les <a href="?Page=menuLateral/races/neltarien">Neltariens</a>, avec Norska comme ville-sanctuaire.</p>
         <p>Au centre-nord, se trouvent de nombreuses tribus d'<a href="?Page=menuLateral/races/orc">Orcs</a>. Ces peuplades sont inféodées au suzerain de la cité de Trollnordh, 
@@ -30,13 +30,13 @@
 </div>
 
 <div class="zoneCarte">
-    <img class="communImages imageCarte" src="ressources/09-Monde/CarteMonde.jpg" title="Illustration : Geoffrey Vallin">
+    <img class="communImages imageCarte" src="ressources/09-Monde/CarteMonde.jpg" title="Illustration : François Ripp">
 </div>
 
 <div class="zoneRegionsBas">
     <div class="divMoitieGauche">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Ferestos.SkullDixon.DA.jpg" title="Illustration : Skull Dixon, Deviant Art">
-        <h3 class="h3region">Ferestos</h3>
+        <img class="communImages imageRegion" src="ressources/09-Monde/Notikonos.HilmarWild.jpg" title="Illustration : Hilmar Wild">
+        <a href="?Page=menuLateral/monde/notikonos"><h3 class="h3region">Notikonos</h3></a>
         <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des <a href="?Page=menuLateral/races/nain">Nains</a> et des 
             <a href="?Page=menuLateral/races/dragonide">Dragonides</a>, le paysage est majoritairement montagnard et le climat y est rude.</p>
         <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains.</p>
@@ -44,8 +44,8 @@
             ces contrées désolées.</p>
     </div>
     <div class="divMoitieDroite">
-        <img class="communImages imageRegion" src="ressources/09-Monde/Mestrhune.HilmarWild.jpg" title="Illustration : Hilmar Wild">
-        <h3 class="h3region">Mestrhune</h3>
+        <img class="communImages imageRegion" src="ressources/09-Monde/Slaviskis.Serendigity.Flickr.jpg" title="Illustration : Serendigity, Flickr">
+        <a href="?Page=menuLateral/monde/slaviskis"><h3 class="h3region">Slaviskis</h3></a>
         <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
         <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, se trouvent les terres des <a href="?Page=menuLateral/races/kerfenn">Kerfenn</a>
             et leur capitale Kerbourg.  Au centre se trouve le royaume <a href="?Page=menuLateral/races/humain">humain</a> de Carnum, dont
@@ -88,14 +88,14 @@
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/temps.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Les unités de temps</h3>
         <p>Le temps dans le monde de Telneria est basé sur le lever et le coucher du soleil. 
-            Chaque jour est séparé en 24 heures réparties en 12 heures avant et après le zénith.</p>
+            Chaque jour est séparé en 24 heures réparties en 12 heures de jour et 12 heures de nuit.</p>
         <p>Le découpage de la journée en heures est mesurée à l'aide d'horloges à huile. Le beffroi des villes indique chaque heure en faisant sonner la cloche municipale.</p>
-        <p>Une lune est composée de 36 jours, tandis que 12 lunes forment un cycle. Le cycle est utilisé par les habitants pour indiquer leur âge ou les périodes de règne.</p>
+        <p>Les mois se basent grossièrement sur les lunaisons et comptent 30 jours, tandis qu'une année compte 12 mois.</p>
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/mesure.png" title="Illustration :  Lorc, Open Game Art">
         <h3 class="h3Alignement">Les unités de mesure</h3>
-        <p>L'utilisation du pied, de la toise et de la lieue est répandue sur l'ensemble des quatre continents, à l'exception de quelques tribus nomades de Mestrhune.</p>
+        <p>L'utilisation du pied, de la toise et de la lieue est répandue sur l'ensemble des quatre continents.</p>
         <p>Le pied correspond à la taille du pied d'un nain adulte. Pour les mesures plus petites, le pouce est parfois utilisé, il faut douze pouces pour faire un pied.</p>
         <p>La toise est utilisée pour mesurer les distances à l'intérieur d'un village et d'une ville, ou exceptionnellement pour les très grands édifices ; 
             il faut six pieds pour faire une toise.</p>
@@ -115,7 +115,7 @@
         <img class="communImages imageLogoSystemeUnite" src="ressources/09-Monde/poids.png" title="Illustration :  Lorc, Open Game Art">
         <h3 class="h3Alignement">Les unités de poids</h3>
         <p>L'unité de poids la plus courante dans le monde de Telneria est la livre. La livre correspond au poids d'une chope de bière naine.</p>
-        <p>L'once est également utilisée pour indiquer des poids plus faibles. Une once correspond au poids d'un vescu d'or, 
+        <p>L'once est également utilisée pour indiquer des poids plus faibles. Une once correspond au poids de 6 pièces d'or, 
             une livre correspondant à 16 onces.</p>
     </div>
 </div>

@@ -31,7 +31,7 @@
     
     <h3 class="h3region" style="clear:both;padding-top:20px;">Serpent géant</h3>
     <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/bete-snake.png" title="Illustration : Lorc, Open Game Art">
-    <p>Énormes créatures reptiliennes, les serpents géants ne sont que légende pour nombre de Veldriens. Pouvant dépasser les 20 mètres de long, ces imposants reptiles sont de redoutables
+    <p>Énormes créatures reptiliennes, les serpents géants ne sont que légende pour nombre de Nardhiens. Pouvant dépasser les 20 mètres de long, ces imposants reptiles sont de redoutables
     adversaires.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Les serpents géants subissent des dégâts réduits de moitié sur l'ensemble de leur corps. 
         Viser la tête implique un malus de toucher de [niveau].</p>
@@ -46,7 +46,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/betes.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/betes.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 

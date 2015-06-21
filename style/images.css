@@ -230,6 +230,12 @@
     float:right;
 }
 
+.imageRegionPage
+{
+    margin:20px;
+    max-width:1200px;
+}
+
 /* CSS pour les images de la page d'équipement */
 .imageEquipementEquip
 {

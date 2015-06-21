@@ -38,7 +38,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/etheres.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/etheres.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 

@@ -2,7 +2,7 @@
 
 <div style="width:66%;margin:1%;float:left;">
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/aran-tentacul.png" title="Illustration : Lorc, Open Game Art">
-    <p>Race insectoïde vivant dans les sous-sols de Veldris et Mestrhune, les aranides restent fort méconnus des habitants de Telneria. Ne s'aventurant presque jamais à la surface, 
+    <p>Race insectoïde vivant dans les sous-sols des zones arides de Notikonos, les aranides restent fort méconnus des habitants de Telneria. Ne s'aventurant presque jamais à la surface, 
     ces créatures d'intelligence moyenne creusent d'innombrables tunnels et protègent les oeufs pondus chaque année par les reines couveuses.</p>
     <br />
     
@@ -45,7 +45,7 @@
 </div>
 
 <div class="classeImageCarteMonstre divCarteMonstre" style="margin-right:0%;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/aranides.png" title="Illustration : Geoffrey Vallin"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/11-Monstres/cartes/aranides.jpg" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Répartition géographique</p>
 </div>
 
