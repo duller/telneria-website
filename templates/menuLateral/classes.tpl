@@ -24,14 +24,14 @@
     <img class="communImages imageChoixClasses" src="ressources/03-Classes/Classes.WillDan.DA.Small.png" title="Illustration : Will Dan, Deviant Art" style="box-shadow:none;">
 
     <div id="idVoieFoi" class="divVoie classesFoi">
-        <h3 class="titreVoie">La voie de la foi</h3>
+        <h3 class="titreVoie">La voie de la lumière</h3>
         <br />
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Clerc.png" title="Illustration : Horror Pen, Open Game Art">
         <h4 class="h4choixClasse">Le clerc</h4>
-        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/clerc">clerc</a> est un homme saint, il cherche à honorer les divinités du sacré et à 
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/clerc">clerc</a> est un homme saint, il cherche à honorer la divine lueur et à 
             transmettre ses préceptes à autrui. 
-            Les clercs ont accompagné les telnastes dans leur conquête du pouvoir, mais se cantonnent à un rôle plus spirituel que temporel.</p>
+            Les clercs sont des êtres habituellement bons, mais ils se montrent peu tolérants envers les hérétiques.</p>
         <br />
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Paladin.png" title="Illustration : Horror Pen, Open Game Art">
@@ -50,14 +50,14 @@
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Druide.png" title="Illustration : Horror Pen, Open Game Art">
         <h4 class="h4choixClasse">Le druide</h4>
-        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/druide">druide</a> communie avec la nature, il dévoue sa vie à celle-ci et 
-            y puise sa puissance magique. Les druides vivent en harmonie avec les animaux des forêts, avec lesquels ils peuvent communiquer en prenant leur forme.</p>
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/druide">druide</a> communie avec la nature, il dévoue sa vie à icelle et 
+            y puise sa puissance incantatoire. Les druides vivent en harmonie avec les animaux des forêts, avec lesquels ils peuvent communiquer en prenant leur forme.</p>
         <br />
 
         <img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Chaman.png" title="Illustration : Horror Pen, Open Game Art">
         <h4 class="h4choixClasse">Le chaman</h4>
-        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/chaman">chaman</a> est un guide spirituel et un professeur de magie.
-            Supplantés par les clercs dans les sociétés humaines, les chamans se concentrent à présent sur la maîtrise des éléments et leur étude.</p>
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/chaman">chaman</a> est un guide spirituel et un maître envoûteur, pacifique et bienveillant.
+            Les chamans abhorrent cependant la magie des arcanes, antithèse de l'école de la nature, et méprisent les magiciens.</p>
         <br />
     </div>
 

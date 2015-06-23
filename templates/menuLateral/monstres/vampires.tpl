@@ -26,7 +26,7 @@
     
     <h3 class="h3region" style="clear:both;">Terreur strygienne</h3>
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/vampir-aile.png" title="Illustration : Lorc, Open Game Art">
-    <p>Affectées depuis de nombreuses années, les terreurs strygiennes finissent par laisser court à leurs instincts sauvages.
+    <p>Affectées depuis de nombreuses années, les terreurs strygiennes finissent par laisser libre court à leurs instincts sauvages.
     Ces vampires ne cherchent plus à vivre avec autrui et se montrent ouvertement agressifs avec les intrus.</p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp En forme nocture, une terreur strygienne peut voler sur de courtes distances.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp Morsure vampirisante, voir ci-dessus.</p>

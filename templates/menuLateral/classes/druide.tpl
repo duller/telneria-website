@@ -9,8 +9,8 @@
             <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
 
             <h4 class="h4ClassePerso">Description</h4>
-            <p>Le druide communie avec la nature, il dévoue sa vie à celle-ci et 
-            y puise sa puissance magique. Les druides vivent en harmonie avec les animaux des forêts, avec lesquels ils peuvent communiquer en prenant leur forme.
+            <p>Le druide communie avec la nature, il dévoue sa vie à icelle et 
+            y puise sa puissance incantatoire. Les druides vivent en harmonie avec les animaux des forêts, avec lesquels ils peuvent communiquer en prenant leur forme.
             </p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">

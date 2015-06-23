@@ -9,8 +9,8 @@
             <img class="communImages imagesDescriptionClasse" src="ressources/02-Creation/inner-self.png" title="Illustration : Lorc, Open Game Art">
 
             <h4 class="h4ClassePerso">Description</h4>
-            <p>Le chaman est un guide spirituel et un professeur de magie.
-            Supplantés par les clercs dans les sociétés humaines, les chamans se concentrent à présent sur la maîtrise des éléments et leur étude.
+            <p>Le chaman est un guide spirituel et un maître envoûteur, pacifique et bienveillant.
+            Les chamans abhorrent cependant la magie des arcanes, antithèse de l'école de la nature, et méprisent les magiciens.
             </p>
         </div>
         <div class="divSortTechnique divSortTechniqueDescription divSortTechniqueGauche">
