@@ -46,6 +46,11 @@ a:link
     outline: none;
 }
 
+area
+{
+    cursor: url('../ressources/curseurs/GantPointe32.png'), auto;
+}
+
 /* L'entête, tout en haut de la page'*/
 #header
 {

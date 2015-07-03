@@ -30,7 +30,17 @@
 </div>
 
 <div class="zoneCarte">
-    <img class="communImages imageCarte" src="ressources/09-Monde/CarteMonde.jpg" title="Illustration : François Ripp">
+    <map name="telneria_map">
+        <area href="?Page=menuLateral/monde/ceiltigahn" shape="rect" coords="100,100,700,500"
+          alt="Ceiltigahn" title="Ceiltigahn, continent du Nord">
+        <area href="?Page=menuLateral/monde/middenardh" shape="rect" coords="900,500,1300,700"
+          alt="Middenardh" title="Middenardh, continent du Centre">
+        <area href="?Page=menuLateral/monde/slaviskis" shape="rect" coords="1500,500,1900,800"
+          alt="Slaviskis" title="Slaviskis, continent de l'Est">
+        <area href="?Page=menuLateral/monde/notikonos" shape="rect" coords="400,900,1500,1200"
+          alt="Notikonos" title="Notikonos, continent du Sud">
+  </map>
+    <img id="telneria_img" class="communImages imageCarte" src="ressources/09-Monde/CarteMonde.jpg" title="Illustration : François Ripp" usemap="#telneria_map">
 </div>
 
 <div class="zoneRegionsBas">
@@ -119,3 +129,16 @@
             une livre correspondant à 16 onces.</p>
     </div>
 </div>
+
+{literal}
+<script type="text/javascript" src="../../js/turnjs4/extras/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="../../js/responsive_map.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(e) {
+    $('img[usemap]').rwdImageMaps();
+});
+
+</script>
+{/literal}
