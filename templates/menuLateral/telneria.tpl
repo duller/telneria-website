@@ -5,27 +5,26 @@
     <div class="divMoitieGauche">
         <img class="communImages imageRegion" src="ressources/09-Monde/Ceiltigahn.SkullDixon.DA.jpg" title="Illustration : Skull Dixon, Deviant Art">
         <a href="?Page=menuLateral/monde/ceiltigahn"><h3 class="h3region">Ceiltigahn</h3></a>
-        <p>Petite île au nord-ouest de Telneria, Istnor est une contrée froide et peu habitée.</p>
-        <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> dans les forêts au nord de l'île et des 
-            <a href="?Page=menuLateral/races/varelias">Varelias</a> au sud. 
-            La plus grande cité de l'île est Istville, une ville de taille moyenne abritant les aînés des Varelias.</p>
-        <p>La mer environnante est gelée pendant la majeure partie de l'année, expliquant l'absence de ports sur l'île. L'accès depuis les autres continents ne se fait qu'au moyen des 
-            cromlechs de transport, pour les rares qui en connaissent l'existence. Les cromlechs sont représentés par les cartographes de Telneria par un grand C cerclé, symbolisant
-            la disposition de chacune des pierres formant l'édifice.</p>
+        <p>Ensemble d'îles au nord-ouest de Telneria, <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a> est une contrée isolée et dangereuse.</p>
+        <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/nain">Nains</a> dans les forêts des îles de l'ouest, formant les nations d'Érin, Cymru et Fortriu.
+            Les <a href="?Page=menuLateral/races/dragonide">Dragonides</a> viennent, quant à eux, des îles montagneuses de l'est appelées Lochlann.</p>
+        <p>Les îles occidentales abritent également les <a href="?Page=menuLateral/races/orc">Orcs</a> d'Anglia. Ces créatures belliqueuses sont originaires de Middenardh
+            et tentent de conquérir l'ensemble des îles de l'ouest aux dépens des Nains.</p>
+        <p>Le Maelstrom au sud du continent empêche toute navigation depuis et vers le continent de Notikonos, les voyageurs doivent aller passer par la Mer Septentris, 
+        ou utiliser les dolmens de transport pour les rares personnes qui en connaissent l'existence.</p>
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Middenardh.Phatpuppy.Flickr.Petit.jpg" title="Illustration : Phatpuppy, Flickr">
         <a href="?Page=menuLateral/monde/middenardh"><h3 class="h3region">Middenardh</h3></a>
-        <p>Continent principal de Telneria, Veldris s'étend de l'île d'Istnor à l'ouest jusqu'à l'île de Ferestos à l'est.</p>
-        <p>Le nord-ouest du continent est peuplé par les <a href="?Page=menuLateral/races/neltarien">Neltariens</a>, avec Norska comme ville-sanctuaire.</p>
-        <p>Au centre-nord, se trouvent de nombreuses tribus d'<a href="?Page=menuLateral/races/orc">Orcs</a>. Ces peuplades sont inféodées au suzerain de la cité de Trollnordh, 
-            bâtie sur les refuges des derniers trolls sauvages.</p>
-        <p>Au nord-est, se trouve la cité sylvaine de Prenence, capitale des <a href="?Page=menuLateral/races/elfe">Elfes</a> des forêts.</p>
-        <p>Le sud du continent se compose des belliqueuses baronnies <a href="?Page=menuLateral/races/humain">humaines</a> veldriennes. 
-            Vesnoth, à l'ouest, est la capitale des baronnies et le siège du prince régnant ; 
-            se trouvent également dans cette baronnie la cité telnaste de Maldaran, ainsi que le bourg commercial de Brill. 
-            Les autres baronnies sont inféodées au souverain de Vesnoth : ce sont les baronnies de Vilnus, Temberg, Valmer
-            et Estrhan.</p>
+        <p>Continent central de Telneria,  <a href="?Page=menuLateral/monde/middenardh">Middenardh</a> est le lieu de passage de tous les voyageurs, envahisseurs et commerçants.</p>
+        <p>Les populations <a href="?Page=menuLateral/races/nain">naines</a> couvraient auparavant la majeure partie du royaume actuel de Francie ;
+            suite aux conquêtes franques, elles sont à présent retranchées à l'ouest du continent dans la région d'Aremorica, où les combats font toujours rage.</p>
+        <p>L'est du continent est habité par les tribus des <a href="?Page=menuLateral/races/orc">Orcs</a> saxons et carinthiens.
+            À l'instar des Nains, les Orcs se défendent avec ardeur contre les conquérants francs.</p>
+        <p>Le centre du continent est occupé par les populations <a href="?Page=menuLateral/races/humain">humaines</a> franques.
+            Originaires de l'est du continent, les Humains ont envahi les terres naines et latines, tant en Middenardh qu'en Notikonos.
+            Le royaume de Francie est à présent la puissance politique et militaire la plus importante, il se compose de quatre provinces dirigées chacun par un duc,
+            la couronne de Francie étant détenue par le duc d'Austrasie.</p>
     </div>
 </div>
 
@@ -48,20 +47,22 @@
     <div class="divMoitieGauche">
         <img class="communImages imageRegion" src="ressources/09-Monde/Notikonos.HilmarWild.jpg" title="Illustration : Hilmar Wild">
         <a href="?Page=menuLateral/monde/notikonos"><h3 class="h3region">Notikonos</h3></a>
-        <p>L'île de Ferestos, à l'est de Telneria, est la terre d'origine des <a href="?Page=menuLateral/races/nain">Nains</a> et des 
-            <a href="?Page=menuLateral/races/dragonide">Dragonides</a>, le paysage est majoritairement montagnard et le climat y est rude.</p>
-        <p>Au nord, se trouve Dilnis, la cité elfe du savoir. À l'ouest et au sud, se trouvent Feresbourg et Tendris, les cités commerçantes des nains.</p>
-        <p>L'intérieur des terres de Ferestos est constitué de hautes montagnes et de volcans. Quelques nains et les clans dragonides habitent 
-            ces contrées désolées.</p>
+        <p>Notikonos est le continent le plus ensoleillé de Telneria. La péninsule d'Asturie, la plus à l'ouest, accueille les <a href="?Page=menuLateral/races/kerfenn">Kerfenn</a>.
+        De petite taille, ce peuple a réussi à arracher son territoire aux Latins et à le conserver face aux Minotaures du Croissant.</p>
+        <p>Dans la péninsule centrale, les <a href="?Page=menuLateral/races/humain">Humains</a> du royaume lombard viennent de se faire envahir par les Francs 
+        et dépendent à présent de la couronne de Francie.</p>
+        <p>À l'est du continent, l'empire murvien est l'héritier de langue grecque du défunt empire latin. Jouissant d'une force considérable, les 
+            <a href="?Page=menuLateral/races/murvien">Murviens</a> doivent cependant faire face aux invasions des Minotaures et des Centaures.</p>
     </div>
     <div class="divMoitieDroite">
         <img class="communImages imageRegion" src="ressources/09-Monde/Slaviskis.Serendigity.Flickr.jpg" title="Illustration : Serendigity, Flickr">
         <a href="?Page=menuLateral/monde/slaviskis"><h3 class="h3region">Slaviskis</h3></a>
-        <p>Le continent de Mestrhune, au sud de Telneria, est constitué de grands déserts arides entrecoupés de fleuves descendant des montagnes.</p>
-        <p>L'île est coupée en trois régions par deux grandes murailles. À l'ouest, se trouvent les terres des <a href="?Page=menuLateral/races/kerfenn">Kerfenn</a>
-            et leur capitale Kerbourg.  Au centre se trouve le royaume <a href="?Page=menuLateral/races/humain">humain</a> de Carnum, dont
-            le souverain est un ancien rival des barons de Veldris. À l'est, se trouve la république des <a href="?Page=menuLateral/races/murvien">Murviens</a>
-            et leur capitale Golnan.</p>
+        <p>Le continent de Slaviskis se situe à l'est du Continent de Middenardh, séparé par l'étroite mer Odera.
+            La partie occidentale de cette contrée froide est habitée au nord par les <a href="?Page=menuLateral/races/elfe">Elfes</a> polanes,
+            et au sud par les <a href="?Page=menuLateral/races/neltarien">Neltariens</a> vislanes.</p>
+        <p>Le Khaganat des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> domine la plus grande partie de l'est du continent.
+        Ce domaine est également le refuge des vénérables <a href="?Page=menuLateral/races/varelias">Varelias</a>, les plus anciens humanoïdes de Telneria.</p>
+        <p>Le sud du continent est peuplé par les tribus nomades des Centaures Khazars, avec lesquels les Chepteg n'ont que peu d'interaction.</p>
     </div>
 </div>
 
