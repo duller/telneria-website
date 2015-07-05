@@ -1,5 +1,3 @@
-/templates_c/*
-/nbproject/private/
 /ressources/PdfFichesPerso/FicheSorcier_backup.pdf
 /ressources/PdfFichesPerso/FicheRoublard_backup.pdf
 /ressources/PdfFichesPerso/FicheSombregarde_backup.pdf
@@ -10,3 +8,7 @@
 /ressources/PdfFichesPerso/FicheRodeur_backup.pdf
 /ressources/PdfFichesPerso/FicheMagicien_backup.pdf
 
+/templates_c/
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
