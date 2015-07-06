@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageElfe.jpg" style="max-width:55%;" title="Illustration : Phatpuppy, Flickr">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Elfe.IshtaureDawn.Flickr.jpg" style="max-width:55%;" title="Illustration : Ishtaure Dawn, Flickr">
 
         <p>Peuple le plus ancien de Telneria, les Elfes vivent dans les grandes forêts du nord-est de Veldris et du nord de Ferestos.</p>
         <p>Anciennement maîtres du continent de Veldris avec les Neltariens, les Elfes vivent aujourd'hui en autarcie dans leurs forêts majestueuses.</p>

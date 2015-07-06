@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.WolfgangStaudt.jpg" style="max-width:65%;" title="Illustration : Wolfgang Staudt">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.jpg" style="max-width:55%;" title="Illustration : Phatpuppy, Flickr">
 
         <p>Originaires des plaines arides du nord de Veldris, les Orcs ont conquis l'ensemble de la région aux dépens des Trolls et des Varelias.
             Peuple belliqueux et conquérant, ces humanoïdes à la peau verte connaissent de nombreux conflits internes.</p>
