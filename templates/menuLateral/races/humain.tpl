@@ -25,8 +25,8 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
-            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Français (Veldris), Espagnol (Mestrhune)</p>
-            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
+            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Français (Middenardh), Italien (Notikonos)</p>
+            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Latin</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">

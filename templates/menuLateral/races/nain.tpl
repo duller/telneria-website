@@ -24,8 +24,8 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
-            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Allemand</p>
-            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Français</p>
+            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Gaélique (Érin, Fortriu), Brittonnique (Cymru, Aremorica)</p>
+            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">

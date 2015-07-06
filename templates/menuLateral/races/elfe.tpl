@@ -26,7 +26,7 @@
             <h4 class="sousTitre4Race">Langues</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
             <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Polonais</p>
-            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Russe, Allemand, Français</p>
+            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Russe</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
