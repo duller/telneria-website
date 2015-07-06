@@ -5,21 +5,19 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageChepteg.jpg" style="max-width:50%;" title="Illustration : Serendigity, Flickr">
 
-        <p>Originaires de l'île reculée d'Istnor, les Chepteg vivent en petites tribus dans les forêts enneigées du nord de la péninsule.</p>
-        <p>Les chepteg sont des humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite 
-            mais des griffes rétractables puissantes.</p>
-        <p>Peuple de chasseurs, tant à l'arc qu'à mains nues, ils s'aventurent peu en dehors de leur île.
-            Les chepteg les plus anciens deviennent parfois adeptes de magie et suivent la voie du chaman ou plus rarement du druide.</p>
-        <p>Ils n'entretiennent pas de relations commerciales avec l'extérieur et vivent en paix avec les Varelias, également russophones, 
-            leurs voisins au sud de l'île d'Istnor.</p>
+        <p>Originaires des fraîches contrées de <a href="?Page=menuLateral/monde/slaviskis">Slaviskis</a>, les Chepteg vivent en grandes tribus à l'est du continent.</p>
+        <p>Humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite mais des griffes rétractables puissantes.</p>
+        <p>Peuple de paysans et de commerçants, les Chepteg se montrent parfois agressifs lors de leurs expéditions.
+            Les plus anciens individus deviennent parfois adeptes de magie et suivent la voie du chaman, secondés par leurs voisins Varelias.</p>
+        <p>L'arrivée et l'expansion des Centaures khazars au sud de Slaviskis a influencé les tribus Chepteg, qui se sont rapprochées en un Khaganat modérément centralisé.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Aucune capitale définie.</p>
-            <p>Les chepteg vivent en petites tribus isolées, ils n'ont pas de gouvernement central ni d'autorité religieuse.</p>
+            <p>Holmgard, au nord, est le siège du Khagan chepteg, la ville est également ouverte aux pacifiques Varelias.</p>
+            <p>La plupart des chepteg vivent en petites tribus isolées, sans remettre en cause le Khaganat.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
@@ -43,19 +41,19 @@
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 100 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
-        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un rôdeur chepteg est assez commun, tandis qu'un druide est plutôt rare.</p> 
+        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un rôdeur chepteg est assez commun, tandis qu'un chaman est plutôt rare.</p> 
         <a class="aClasseDispo" href="?Page=menuLateral/classes/rodeur"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Rodeur.png"
                                                                              title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Rôdeur</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/guerrier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Guerrier.png"
                                                                                title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Guerrier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"
-                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
-            <p class="pClassesDispo">Chaman</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"
                                                                                title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Roublard</p></a>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/chaman"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Chaman.png"
+                                                                             title="Illustration : Horror Pen, Open Game Art"></img>
+            <p class="pClassesDispo">Chaman</p></a>
 
     </div>
 

@@ -44,19 +44,19 @@
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 120 ans</p>
         </div>
         <h3 class="sousTitre3Race">Classes disponibles</h3>
-        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un roublard kerfenn est assez commun, tandis qu'un clerc est plutôt rare.</p> 
+        <p class="pDescriptionClassesDispo">Triées par la population de chaque classe. Un roublard kerfenn est assez commun, tandis qu'un sorcier est plutôt rare.</p> 
         <a class="aClasseDispo" href="?Page=menuLateral/classes/roublard"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Roublard.png"
                                                                                title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Roublard</p></a>
+        <a class="aClasseDispo" href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Clerc.png"
+                                                                            title="Illustration : Horror Pen, Open Game Art"></img>
+            <p class="pClassesDispo">Clerc</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Magicien.png"
                                                                                title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Magicien</p></a>
         <a class="aClasseDispo" href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Sorcier.png"
                                                                               title="Illustration : Horror Pen, Open Game Art"></img>
             <p class="pClassesDispo">Sorcier</p></a>
-        <a class="aClasseDispo" href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseRace" src="ressources/03-Classes/Clerc.png"
-                                                                            title="Illustration : Horror Pen, Open Game Art"></img>
-            <p class="pClassesDispo">Clerc</p></a>
 
     </div>
 

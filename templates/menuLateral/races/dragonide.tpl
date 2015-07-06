@@ -5,24 +5,28 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageDragonide.jpg" style="max-width:50%;" title="Illustration : Skull Dixon, Deviant Art">
 
-        <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de Ferestos.</p>
-        <p>Il y a 2000 ans, il existait encore en Ferestos des dragonides de toutes les ethnies. Chacune des cinq ethnies de ce peuple est originaire d'une des cinq familles de 
+        <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de <a href="?Page=menuLateral/monde/ceiltigahn">Lochlann</a> en Ceiltigahn.</p>
+        <p>Il y a 800 ans, il existait encore des dragonides de toutes les ethnies. Chacun des cinq groupes de ce peuple est originaire d'une des cinq familles de 
             <a href="?Page=menuLateral/monstres/dragons">dragons</a>.
             Les clans du dragon blanc et du dragon vert n'ont cependant pas survécu à l'animosité des clans ennemis des dragons noir, bleu et rouge.</p>
         <p>À l'instar de leur ancêtres dragons, les dragonides adoptent un mode de vie en fonction de leur ethnie.</p>
-        <p>Les membres du clan du dragon noir empruntent ainsi la voie du sorcier et du sombregarde, avec un alignement à tendance chaotique mauvais.</p>
-        <p>Les membres du clan du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivent la voie du magicien. 
+        <p>Les membres des clans du dragon noir empruntent ainsi la voie du sorcier et du sombregarde, avec un alignement à tendance chaotique mauvais.</p>
+        <p>Les membres des clans du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivent la voie du magicien. 
             Leur alignement est habituellement loyal mauvais.</p>
-        <p>Enfin, les membres du clan du dragon rouge ne pratiquent aucune magie et deviennent de puissants guerriers, neutres en toute circonstance.</p>
-        <p>La nature violente des dragonides et les dissensions entre les clans ont toujours empêché les contacts diplomatiques et commerciaux avec les autres peuples.</p>
+        <p>Enfin, les membres des clans du dragon rouge ne pratiquent aucune magie et deviennent de puissants guerriers, neutres en toute circonstance.</p>
+        <p>Le développement des runes au premier siècle a pérennisé la culture dragonide et a permis le développement technique. 
+            Ce progrès se retrouve notamment dans les drakkars que les dragonides utilisent depuis le cinquième siècle pour le commerce et l'exploration.</p>
+        <p>Les expéditions navales dragonides n'ont pour l'instant mené à aucun heurt d'importance avec les cultures côtières de Ceiltigahn, Middenardh et Slaviskis.
+        Cependant, les marins de ces peuples font part de leur préoccupation croissante face à l'efficacité des navires dragonides et à leur valeur guerrière.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Aucune capitale définie.</p>
-            <p>Les clans dragonides sont souvent en conflit et vivent en petits groupes isolés.</p>
+            <p>Les dragonides des clans du dragon bleu résident à l'est de la plus grande île de <a href="?Page=menuLateral/monde/ceiltigahn">Lochlann</a>, avec Sarpborg pour capitale.</p>
+            <p>Les adeptes du dragon noir vivent sur l'île du sud, où Viborg est le centre urbain le plus étendu.</p>
+            <p>Quand aux partisans du dragon rouge, ils habitent à l'est de la plus grande île, avec Agnafit pour ville principale.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
@@ -36,9 +40,9 @@
             <img class="communImages imageLorcRaces" src="ressources/04-Races/carac.png" title="Illustration : Lorc, Open Game Art">
             <p>+1 à la force, +1 à la vigueur, +1 à l'habileté</p>
             <p>-1 à la volonté</p>
-            <br /><p style="clear:left;"><span class="titreDebutLigne">Clan du dragon noir : </span>Réduit les effets subis des sorts de chaos d'un quart. Vice versa pour ceux de sacré.</p>
-            <br /><p><span class="titreDebutLigne">Clan du dragon bleu : </span>Réduit les effets subis des sorts des arcanes d'un quart. Vice versa pour ceux de nature.</p>
-            <br /><p><span class="titreDebutLigne">Clan du dragon rouge : </span>Réduit les effets subis de tous les sorts d'un quart.</p>
+            <br /><p style="clear:left;"><span class="titreDebutLigne">Clans du dragon noir : </span>Réduit les effets subis des sorts de chaos d'un quart. Vice versa pour ceux de sacré.</p>
+            <br /><p><span class="titreDebutLigne">Clans du dragon bleu : </span>Réduit les effets subis des sorts des arcanes d'un quart. Vice versa pour ceux de nature.</p>
+            <br /><p><span class="titreDebutLigne">Clans du dragon rouge : </span>Réduit les effets subis de tous les sorts d'un quart.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
