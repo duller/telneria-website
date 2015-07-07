@@ -5,20 +5,26 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.jpg" style="max-width:55%;" title="Illustration : Phatpuppy, Flickr">
 
-        <p>Originaires des plaines arides du nord de Veldris, les Orcs ont conquis l'ensemble de la région aux dépens des Trolls et des Varelias.
-            Peuple belliqueux et conquérant, ces humanoïdes à la peau verte connaissent de nombreux conflits internes.</p>
-        <p>Vaincus pendant des siècles par les Elfes et les Neltariens, les Orcs ne s'aventurent plus ni à l'est, ni à l'ouest de leur territoire.
-            Ils se disputent cependant toujours la Forêt Touffue avec les Humains et envoient de temps en temps des escouades dans les baronnies.</p>
-        <p>Les Orcs parlent de nombreux dialectes locaux, mais ils ont appris à maîtriser le russe en combattant les Varelias. 
-            Les classes éduquées ont également appris le polonais auprès des Elfes et des Neltariens.</p>
+        <p>Originaires des terres forestières de l'est de Middenardh, les Orcs sont des humanoïdes vigoureux et redoutables. 
+        Le chamanisme de Wodan, forme germanique du Odin dragonide, est répandu dans toute la société orcque du continent central.</p>
+        <p>Peuple conquérant et belliqueux, ces guerriers à la peau verte ont commencé à partir du quatrième siècle à débarquer sur la côte sud d'Anglia et de Cymru. 
+        Ces invasions ont mené à la chute de l'emprise latine sur les terres de Ceiltigahn, et  l'émergence de petits royaumes orcs en Anglia, 
+        avides de conquêtes aux dépens des Nains aborigènes.</p>
+        <p>La vaillance des Orcs n'a cependant pas suffi à décourager les Francs de poursuivre leur inexorable expansion, principalement pour imposer la divine lueur
+        à ces populations païennes. Depuis un siècle, des missionnaires ont également été envoyés en Ceiltigahn afin de convertir les populations orcques et naines 
+        à la sainte lumière. La noblesse orcque d'Anglia s'est montrée réceptive aux préceptes lumineux, mais le reste de la population reste attaché au chamanisme.</p>
+        <p>Une frange minoritaire des Orcs de Middenardh estime que la magie naturelle des chamans n'est pas suffisante pour vaincre les adversaires francs.
+        Afin d'acquérir une puissance plus importante, ces individus se sont tournés vers la magie du chaos pour maîtriser les sortilèges les plus puissants et infuser leurs
+        armes de guerre.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Trollnordh, siège du suzerain, est la capitale politique et économique des Orcs.</p>
-            <p>Ce peuple est divisé en de nombreux clans rivaux, dont les chefs combattent continuellement pour le titre de suzerain.</p>
+            <p>En Middenardh, Irminsul et Karnburg sont les capitales respectives de la Saxonie et de la Carinthie.
+                Widukind est le meneur des Saxons face aux Francs, il a pris les armes suite à la première destruction du sanctuaire d'Irminsul, une décennie auparavant.</p>
+            <p>En Ceiltigahn, la ville orcque la plus importante est Northwic, à proximité de la côte.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>

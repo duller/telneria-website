@@ -9,7 +9,7 @@
         <p>Il y a 800 ans, il existait encore des dragonides de toutes les ethnies. Chacun des cinq groupes de ce peuple est originaire d'une des cinq familles de 
             <a href="?Page=menuLateral/monstres/dragons">dragons</a>.
             Les clans du dragon blanc et du dragon vert n'ont cependant pas survécu à l'animosité des clans ennemis des dragons noir, bleu et rouge.</p>
-        <p>À l'instar de leur ancêtres dragons, les dragonides adoptent un mode de vie en fonction de leur ethnie.</p>
+        <p>À l'instar de leur ancêtres dragons, les dragonides adoptent un mode de vie en fonction de leur ethnie, bien que tous vénèrent le terrible Odin et son panthéon.</p>
         <p>Les membres des clans du dragon noir empruntent ainsi la voie du sorcier et du sombregarde, avec un alignement à tendance chaotique mauvais.</p>
         <p>Les membres des clans du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivent la voie du magicien. 
             Leur alignement est habituellement loyal mauvais.</p>

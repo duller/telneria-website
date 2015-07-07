@@ -5,22 +5,21 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Elfe.IshtaureDawn.Flickr.jpg" style="max-width:55%;" title="Illustration : Ishtaure Dawn, Flickr">
 
-        <p>Peuple le plus ancien de Telneria, les Elfes vivent dans les grandes forêts du nord-est de Veldris et du nord de Ferestos.</p>
-        <p>Anciennement maîtres du continent de Veldris avec les Neltariens, les Elfes vivent aujourd'hui en autarcie dans leurs forêts majestueuses.</p>
-        <p>En Veldris, les Orcs, les Humains et les Varelias vivent en paix avec les Elfes et respectent les frontières sanctuarisées. 
-            Ce n'est cependant pas le cas en Ferestos, où les Nains empiètent souvent sur les territoires elfes lors de leurs incursions contre les Dragonides.
-            La diplomatie est habituellement de mise, mais il arrive que des combats éclatent entre les Nains et les Elfes.</p>
-        <p>Leur langue maternelle est le polonais, qu'ils partagent avec les Neltariens, mais ils maîtrisent également les langues des Humains, des Varelias et même des Nains.
-            Le commerce avec les autres peuples est très rare, et les échanges académiques n'ont plus lieu en raison du climat de guerre permanent 
-            des sociétés humaines, orques et naines.</p>
+        <p>Originaires des plaines au nord-ouest de <a href="?Page=menuLateral/monde/slaviskis">Slaviskis</a>, les Elfes se sont sédentarisés il y a plusieurs siècles de cela.
+        Peuple de paysans, ils vivent principalement de l'agriculture le long de la Wiselka. Cette population humanoïde porte le nom de Polanes, 
+        principalement en raison de leur vie en plaine.</p>
+        <p>Similaires à leurs voisins du sud par leur faible constitution, ils sont cependant plus petits et plus déterminés. 
+            Les Elfes polanes vivent en larges tribus dont les dirigeants sont prompts à l'extension territoriale et certains cherchent même à se faire couronner.</p>
+        <p>Bien que l'ensemble de la population soit favorable au chamanisme, certains Elfes avides de puissance se sont formés à la magie des arcanes, 
+            à laquelle s'oppose la magie naturelle prônée par les Varelias depuis de nombreux siècles.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces"" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Prenence, au nord-est de Veldris, est la capitale politique des Elfes.</p>
-            <p>Les Elfes vivent au coeur des forêts dans des petites villes disséminées autour de Prenence en Veldris et de Dilnis au nord de Ferestos.</p>
+            <p><a href="?Page=menuLateral/monde/slaviskis">Gniezno</a> est la capitale politique et spirituelle des Elfes polanes.</p>
+            <p>Ils vivent principalement dans les plaines, à proximité des forêts et de la Wiselka.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>

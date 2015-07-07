@@ -9,7 +9,7 @@
     <p>Pour les compétences spécifiques à la classe, un point gratuit supplémentaire est attribué, déjà affiché sur la fiche de classe.</p><br/>
     <p>Chaque compétence a une caractéristique associée. 
         Lorsque le MJ demande à un personnage-joueur de lancer un jet d'équilibre par exemple, 
-        le d20 est pondéré par le nombre de points de la compétence plus le modificateur de la caractéristique associée (dextérité dans ce cas).</p><br />
+        le d20 est pondéré par le nombre de points de la compétence plus le modificateur de la caractéristique associée (habileté dans ce cas).</p><br />
 
 </div>
 

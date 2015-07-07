@@ -5,27 +5,30 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageNain.jpg" style="max-width:55%;" title="Illustration : Skull Dixon, Deviant Art">
 
-        <p>Originaires de Ferestos, les Nains vivent aux pieds des grandes montagnes de l'île et sur les côtes.</p>
-        <p>Peuple de forgerons et de guerriers, les Nains vivent principalement du commerce avec les Humains de Veldris.</p>
-        <p>L'île de Ferestos abrite également les Dragonides, humanoïdes belliqueux et particulièrement friands de chair naine.
-            Face à cette menace, les Nains sont constamment sur le pied de guerre et forment leurs enfants au combat dès le plus jeune âge.</p>
-        <p>Ce état de conflit permanent engendre souvent des incidents diplomatiques avec les Elfes habitant au nord du continent. 
-            Ces derniers ne goûtent en effet guère les fréquentes intrusions des Nains sur leur territoire lors d'opérations contre les Dragonides.</p>
-        <p>La ville de Tendris au sud, ancienne cité elfe, est également un point d'achoppement fréquent, car les Nains refusent de rendre la ville à ses antiques fondateurs.</p>
+        <p>Originaires des terres fertiles de l'ouest de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>, les Nains se sont développés jusqu'aux confins de 
+            <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a>.
+        Les Humains latins ont conquis les terres natales naines huit siècles plus tôt, absorbant la population et syncrétisant les cultures existantes.
+        Érin et Fortrui, éloignés des pouvoirs centraux latins, sont restés indépendants et ont maintenu leur culture celtique.</p>
+        <p>L'invasion des Orcs au quatrième siècle s'est accompagnée d'invasions de Nains pictes, menant à la chute de la domination latine.
+        Le départ des Humains n'a cependant pas permis de recouvrer l'ensemble des terres en Ceiltigahn, car les royaumes orcs d'Anglia se montrent
+        toujours belliqueux et avides de conquête.</p>
+        <p>En Middenardh, la culture celtique perdure en Aremorica, malgré les nombreuses tentatives des Francs pour conquérir la péninsule.</p>
+        <p>Sous l'influence des Varelias, les Nains celtes ont développé un fort attachement à la magie druidique. 
+            Les conquêtes franques et les missionnaires de la divine lueur ont cependant fait émerger chez la noblesse naine une affinité pour les enseignements de la lumière.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Feresbourg est la capitale politique et économique des Nains.</p>
-            <p>Peuple soudé et social, les Nains vivent dans des villes de taille importante au pied des montagnes.</p>
+            <p><a href="?Page=menuLateral/monde/ceiltigahn">Ath Cliath</a> est la capitale politique des Nains de l'île d'Érin.</p>
+            <p>Les capitales des régions de Fortrui et Cymru sont respectivement Din Eidyn et Caerdyf.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/tablet.png" title="Illustration : Lorc, Open Game Art">
-            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Gaélique (Érin, Fortriu), Brittonnique (Cymru, Aremorica)</p>
-            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: -</p>
+            <p><span class="titreDebutLigne">Langue maternelle</span> &nbsp: Gaélique (Érin, Fortriu), Brittonique (Cymru, Aremorica)</p>
+            <p><span class="titreDebutLigne">Langues secondaires</span> &nbsp: Latin (Cymru, Aremorica)</p>
         </div>
         <h3 class="sousTitre3Race">Traits raciaux</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
