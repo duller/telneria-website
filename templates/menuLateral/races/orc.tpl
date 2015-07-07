@@ -5,10 +5,10 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.jpg" style="max-width:55%;" title="Illustration : Phatpuppy, Flickr">
 
-        <p>Originaires des terres forestières de l'est de Middenardh, les Orcs sont des humanoïdes vigoureux et redoutables. 
+        <p>Originaires des terres forestières de l'est de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>, les Orcs sont des humanoïdes vigoureux et redoutables. 
         Le chamanisme de Wodan, forme germanique du Odin dragonide, est répandu dans toute la société orcque du continent central.</p>
         <p>Peuple conquérant et belliqueux, ces guerriers à la peau verte ont commencé à partir du quatrième siècle à débarquer sur la côte sud d'Anglia et de Cymru. 
-        Ces invasions ont mené à la chute de l'emprise latine sur les terres de Ceiltigahn, et  l'émergence de petits royaumes orcs en Anglia, 
+        Ces invasions ont mené à la chute de l'emprise latine sur les terres de <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a>, et  l'émergence de petits royaumes orcs en Anglia, 
         avides de conquêtes aux dépens des Nains aborigènes.</p>
         <p>La vaillance des Orcs n'a cependant pas suffi à décourager les Francs de poursuivre leur inexorable expansion, principalement pour imposer la divine lueur
         à ces populations païennes. Depuis un siècle, des missionnaires ont également été envoyés en Ceiltigahn afin de convertir les populations orcques et naines 
@@ -22,9 +22,9 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>En Middenardh, Irminsul et Karnburg sont les capitales respectives de la Saxonie et de la Carinthie.
+            <p>En <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>, Irminsul et Karnburg sont les capitales respectives de la Saxonie et de la Carinthie.
                 Widukind est le meneur des Saxons face aux Francs, il a pris les armes suite à la première destruction du sanctuaire d'Irminsul, une décennie auparavant.</p>
-            <p>En Ceiltigahn, la ville orcque la plus importante est Northwic, à proximité de la côte.</p>
+            <p>En <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a>, la ville orcque la plus importante est Northwic, à proximité de la côte.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
