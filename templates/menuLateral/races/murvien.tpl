@@ -5,20 +5,27 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageMurvien.jpg" style="max-width:50%;" title="Illustration : Hilmar Wild">
 
-        <p>Les Murviens étaient le premier peuple à apparaître sur le continent de Mestrhune. 
-            Contemporains des Elfes dans les temps anciens, les Murviens se sont rapidement isolés à l'est de leur continent.</p>
-        <p>À ce jour, leur peuple est toujours reclus derrière la Petite Muraille qui sépare le royaume humain de Mestrhune de la république murvienne de Golnan.</p>
-        <p>Les Murviens ont conservé de leurs lointains ancêtres des caractéristiques aquatiques. Ils peuvent respirer sous l'eau et ont un besoin continu de s'hydrater le corps.
-            Cependant, ils ont également besoin d'un soleil radieux et d'un air sec, ce qui explique leur implantation autour des Oasis du désert de Mestrhune.</p>
-
+        <p>Peuple originaire des terres côtières de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, les Murviens ont conservé de leurs lointains ancêtres  
+            plusieurs caractéristiques aquatiques. Ils peuvent notamment respirer sous l'eau et ont un besoin continu de s'hydrater le corps.</p>
+        <p>Conquis par les Latins il y a près d'un millénaire, ce peuple marin a su préserver sa langue et sa culture grecque que le monde admire toujours.
+        La fin du quatrième siècle a vu la séparation de l'empire latin. L'ouest des terres impériales s'est fait envahir en moins d'un siècle, ce qui a abouti à
+        l'émergence de royaumes germains. À l'est, où le grec était à nouveau utilisé dans l'administration et par la noblesse depuis deux siècles, 
+        l'empire murvien s'est développé, et se proclame l'héritier de l'antique puissance latine.</p>
+        <p>Le panthéon grec qu'honoraient les populations dans les temps anciens ne sont plus que folklore pour nombre de Murviens. La divine lueur
+        s'est répandue dans l'ensemble de la société et régit la doctrine impériale.</p>
+        <p>La puissance des armées murviennes héritée de l'empire latin ne décourage pas les envahisseurs. Les généraux murviens doivent faire face depuis
+        plus d'un siècle aux attaques des Minotaures abbassides du Croissant à l'est du Sangarios et à celles des Centaures bulgares au nord de la 
+        Dragovistica.</p>
+        
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Golnan, ville des Oasis éternelles, est la capitale politique et économique des Murviens.</p>
-            <p>Peuple solidaire et respectueux, les Murviens vivent principalement dans des petits villages autour des Oasis de Mestrhune.</p>
+            <p><a href="?Page=menuLateral/monde/notikonos">Arkadiopolis</a> est la capitale politique, économique et religieuse de l'empire.</p>
+            <p>Les Murviens vivent en majorité dans des cités le long des côtes de la mer Aigailos, Naupactos est la plus célèbre de ces cités.
+                Le reste de l'empire s'organise autour des Themata, divisions administratives dédiées à la défense de l'empire.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>

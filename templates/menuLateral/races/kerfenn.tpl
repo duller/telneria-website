@@ -5,22 +5,25 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Kerfenn.PeterFries.jpg" style="max-width:55%;" title="Illustration : Peter Fries">
 
-        <p>Humanoïdes de petite taille, les Kerfenn vivent dans de grandes villes sur les côtes ouest de Mestrhune.</p>
-        <p>Peuple ingénieux et pacifique, les Kerfenn vivent dans une société orientée vers l'artisanat et le commerce. 
-            Ils compensent leur petite taille par leur habileté à concevoir des objets fort pratiques dans la vie courante. 
-            Leurs inventions ont un grand succès auprès des acheteurs humains de Mestrhune et de Veldris.</p>
-        <p>Leur langue maternelle est le hollandais, mais la majorité des Kerfenn a également appris l'espagnol et le français, dans le but de commercer avec les Humains.</p>
-        <p>Les villes Kerfenn se trouvent pour la plupart le long des côtes, les déserts arides de Mestrhune n'attirant presque aucun habitant. 
-            Les Kerfenn fournissent également aux peuples voisins des navires de guerre et commerce. 
-            Bien que pacifiques et neutres, ils possèdent une flotte capable de se défendre contre les conquérants marins et les pirates.</p>
+        <p>Humanoïdes de petite taille, les Kerfenn gothiques ont pour origine lointaine les plaines du nord-ouest de Slaviskis. 
+            Peuple migrateur, cela fait presque deux millénaires qu'ils ont quitté leur terre natale pour écumer Telneria.</p>
+        <p>Artisans avec les Humains germains de la déstabilisation de l'empire latin, les Kerfenn ont tenté de s'installer en Middenardh, mais ont finalement 
+        conquis les landes reculées d'Asturie en <a href="?Page=menuLateral/monde/Notikonos">Notikonos</a>, au détriment des Latins. 
+        Cette conquête s'est faite au cinquième siècle, et s'est suivie de l'invasion au sud par les Minotaures cordouans du Croissant, combattants d'outremer. 
+        Ces valeureux guerriers n'ont pas réussi à avoir raison des populations gothiques, et ont été vaincus par les Kerfenn, 
+        maintenant regroupés en le royaume d'Asturie.</p>
+        <p>Les populations natives de la péninsule asturienne avaient adopté les préceptes druidiques des Varelias. Les Kerfenn, quant à eux,
+        ont été plus sensibles aux enseignements de la lumière, et vénèrent la divine lueur avec diligence. Les troubles internes persistent
+        dans le royaume, plusieurs révoltes ont déjà eu lieu au cours du huitième siècle.</p>
+        
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Kerbourg est la capitale politique et économique des Kerfenn.</p>
-            <p>Peuple de marchands, les Kerfenn vivent essentiellement à Kerbourg et dans les grandes cités commerçantes de la côte ouest de Metrhune.</p>
+            <p><a href="?Page=menuLateral/monde/notikonos">Oviedo</a>, au nord de la péninsule, est la capitale politique et économique des Kerfenn.</p>
+            <p>L'emprise royale sur le domaine n'est pas établie, les populations des nombreux petits villages sont peu favorables à un pouvoir central fort.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>

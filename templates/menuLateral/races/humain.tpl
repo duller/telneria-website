@@ -5,22 +5,27 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageHumain.jpg" style="max-width:55%;" title="Illustration : Herman Saftleven, Wikimédia">
 
-        <p>Les Humains sont une des races les plus jeunes de Telneria. Originaires du continent de Mestrhune, 
-            ils se sont rapidement développés vers le continent de Veldris.</p>
-        <p>Le royaume dirigé par le souverain de Carnum s'étendait autrefois sur les deux continents. 
-            Suite à la découverte du Telnas, les nobles humains de Veldris se sont soulevés contre le souverain et ont fondé les baronnies.</p>
-        <p>En Mestrhune, les Humains entretiennent des relations commerciales avec les Kerfenn à l'ouest, mais restent à l'écart des Murviens à l'est.</p>
-        <p>En Veldris, les Humains partent au contraire souvent en guerre au nom de leurs barons contre leurs semblables,
-            ou contre les Orcs s'aventurant dans la Forêt Touffue au nord.</p>
+        <p>La race humaine se compose de deux groupes ethniques distincts, les Germains originaires de l'est de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>
+            et les Latins originaires de la péninsule centrale de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>.</p>
+        <p>L'empire latin s'étendait jusqu'au quatrième siècle sur l'ensemble de Notikonos et de grands pans de Middenardh et de Ceiltigahn.
+        La fin du quatrième siècle a vu la séparation de cet empire et l'émergence de l'empire murvien en Notikonos.
+        Au cinquième siècle, ce sont les continents de Middenardh et de Ceiltigahn qui ont été perdus face aux Humains germains et aux Orcs angles.
+        La péninsule asturienne en Notikonos a également été perdue au cours de ce siècle face aux envahisseurs Kerfenn.</p>
+        <p>Les Humains germains, aussi appelés Francs, ont conquis l'ensemble les terres latines et mis en place le royaume de Francie, la plus puissante entité 
+        militaire de Telneria. La dernière conquête de ces valeureux guerriers est le royaume lombard de Notikonos, il y a dix ans de cela.</p>
+        <p>Anciens païens, les Francs se sont convertis à la divine lueur au cinquième siècle. Depuis lors, ils cherchent à rallier les tribus païennes 
+        aux préceptes de la lumière. Les guerres saxonnes commencées en 777 par le grand Karl, roi des Francs depuis 768, visent ainsi à éradiquer le chamanisme païen 
+        des Orcs et à leur faire accepter la divine lueur.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>La capitale des Humains sur le continent de Veldris est Vesnoth. Tandis que la capitale humaine de Mestrhune est Carnum.</p>
-            <p>En Veldris, les Humains vivent sous l'égide des barons, eux-mêmes sous l'égide du prince de Vesnoth.</p>
-            <p>En Mestrhune, le système politique est de type monarchique, l'autorité du souverain de Carnum s'étend sur tout son territoire.</p>
+            <p>En <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>, Aquisgrana est le siège du royaume franc et du duché d'Austrasie.
+            Parisis est la capitale du duché de Neustrie, tandis qu'Ensérune est celle du duché de Septimanie, et Cularone celle du duché de Sapandie.</p>
+            <p>Sur <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, Mandragone est la capitale du royaume lombard, lui-même sous l'égide du 
+            royaume franc.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>
@@ -37,6 +42,7 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Physique</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/physique.png" title="Illustration : Lorc, Open Game Art">
+            <p>Les Germains sont légèrement plus grands et plus lourds que les Latins.</p>
             <p><span class="titreDebutLigne">Taille</span> &nbsp: Moyenne, 5 à 6 pieds (1m50 à 1m80)</p>
             <p><span class="titreDebutLigne">Poids</span> &nbsp: 100 à 160 livres (50kg à 80kg)</p>
             <p><span class="titreDebutLigne">Durée de vie</span> &nbsp: 80 ans</p>

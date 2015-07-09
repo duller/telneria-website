@@ -100,7 +100,7 @@
         
         <li class="liChronologie" style="width: 27%; left: 14%;"><span class="spanChronologie">-600 à -29 : </span>Influence druidique en Asturie</li>
         <li class="liChronologie" style="width: 22%; left: 41%;"><span class="spanChronologie">-29 à +418 : </span>Conquête de l'Asturie par les Latins</li>
-        <li class="liChronologie" style="width: 12%; left: 63%;"><span class="spanChronologie">+418 à +722 : </span>Invasion&nbsp;de&nbsp;l'Asturie par&nbsp;les&nbsp;Kerfenn&nbsp;et les&nbsp;Minotaures&nbsp;du&nbsp;Croissant</li>
+        <li class="liChronologie" style="width: 12%; left: 63%;"><span class="spanChronologie">+418 à +722 : </span>Invasion&nbsp;de&nbsp;l'Asturie par&nbsp;les&nbsp;Kerfenn&nbsp;gothiques&nbsp;et les&nbsp;Minotaures&nbsp;du&nbsp;Croissant</li>
         <li class="liChronologie" style="width: 5%; left: 75%;"><span class="spanChronologie">+722 à +782 : </span>Victoire&nbsp;des&nbsp;Kerfenn&nbsp;et Royaume&nbsp;d'Asturie</li>
         
         <li class="liChronologie" style="width: 18%; left: 42%;"><span class="spanChronologie">0 à +400 : </span>Développement des runes dans les clans dragonides</li>
