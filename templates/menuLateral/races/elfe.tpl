@@ -10,8 +10,8 @@
         principalement en raison de leur vie en plaine.</p>
         <p>Similaires à leurs voisins du sud par leur faible constitution, ils sont cependant plus petits et plus déterminés. 
             Les Elfes polanes vivent en larges tribus dont les dirigeants sont prompts à l'extension territoriale et certains cherchent même à se faire couronner.</p>
-        <p>Bien que l'ensemble de la population soit favorable au chamanisme, certains Elfes avides de puissance se sont formés à la magie des arcanes, 
-            à laquelle s'oppose la magie naturelle prônée par les Varelias depuis de nombreux siècles.</p>
+        <p>Bien que l'ensemble de la population soit favorable au chamanisme, certains Elfes avides de puissance se sont formés à la magie des arcanes. 
+            À celle-ci s'oppose la magie naturelle prônée par les Varelias depuis de nombreux siècles.</p>
     </div>
     <div class="divDescrRace">
         <h3 class="sousTitre3Race">Société</h3>

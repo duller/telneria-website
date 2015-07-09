@@ -5,12 +5,12 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageMurvien.jpg" style="max-width:50%;" title="Illustration : Hilmar Wild">
 
-        <p>Peuple originaire des terres côtières de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, les Murviens ont conservé de leurs lointains ancêtres  
-            plusieurs caractéristiques aquatiques. Ils peuvent notamment respirer sous l'eau et ont un besoin continu de s'hydrater le corps.</p>
+        <p>Peuple originaire des terres côtières de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, les Murviens ont conservé plusieurs caractéristiques aquatiques
+            de leurs lointains ancêtres. Ils peuvent notamment respirer sous l'eau et ont un besoin continu de s'hydrater le corps.</p>
         <p>Conquis par les Latins il y a près d'un millénaire, ce peuple marin a su préserver sa langue et sa culture grecque que le monde admire toujours.
         La fin du quatrième siècle a vu la séparation de l'empire latin. L'ouest des terres impériales s'est fait envahir en moins d'un siècle, ce qui a abouti à
-        l'émergence de royaumes germains. À l'est, où le grec était à nouveau utilisé dans l'administration et par la noblesse depuis deux siècles, 
-        l'empire murvien s'est développé, et se proclame l'héritier de l'antique puissance latine.</p>
+        l'émergence de royaumes germains. L'empire murvien, héritier de l'antique puissance latine, s'est développé à l'est. Le grec y était à nouveau utilisé dans l'administration 
+        et par la noblesse depuis deux siècles.</p>
         <p>Le panthéon grec qu'honoraient les populations dans les temps anciens ne sont plus que folklore pour nombre de Murviens. La divine lueur
         s'est répandue dans l'ensemble de la société et régit la doctrine impériale.</p>
         <p>La puissance des armées murviennes héritée de l'empire latin ne décourage pas les envahisseurs. Les généraux murviens doivent faire face depuis

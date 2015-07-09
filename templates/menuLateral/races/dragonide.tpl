@@ -6,14 +6,16 @@
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageDragonide.jpg" style="max-width:50%;" title="Illustration : Skull Dixon, Deviant Art">
 
         <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de <a href="?Page=menuLateral/monde/ceiltigahn">Lochlann</a> en Ceiltigahn.</p>
-        <p>Il y a 800 ans, il existait encore des dragonides de toutes les ethnies. Chacun des cinq groupes de ce peuple est originaire d'une des cinq familles de 
+        <p>Il y a 800 ans, il existait encore des dragonides des cinq clans. Chacun de ces clans est originaire d'une des cinq familles de 
             <a href="?Page=menuLateral/monstres/dragons">dragons</a>.
             Les clans du dragon blanc et du dragon vert n'ont cependant pas survécu à l'animosité des clans ennemis des dragons noir, bleu et rouge.</p>
+        <br />
         <p>À l'instar de leur ancêtres dragons, les dragonides adoptent un mode de vie en fonction de leur ethnie, bien que tous vénèrent le terrible Odin et son panthéon.</p>
         <p>Les membres des clans du dragon noir empruntent ainsi la voie du sorcier et du sombregarde, avec un alignement à tendance chaotique mauvais.</p>
         <p>Les membres des clans du dragon bleu sont, quant à eux, plus adeptes de la magie des arcanes et suivent la voie du magicien. 
             Leur alignement est habituellement loyal mauvais.</p>
         <p>Enfin, les membres des clans du dragon rouge ne pratiquent aucune magie et deviennent de puissants guerriers, neutres en toute circonstance.</p>
+        <br />
         <p>Le développement des runes au premier siècle a pérennisé la culture dragonide et a permis le développement technique. 
             Ce progrès se retrouve notamment dans les drakkars que les dragonides utilisent depuis le cinquième siècle pour le commerce et l'exploration.</p>
         <p>Les expéditions navales dragonides n'ont pour l'instant mené à aucun heurt d'importance avec les cultures côtières de Ceiltigahn, Middenardh et Slaviskis.

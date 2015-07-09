@@ -19,7 +19,7 @@
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
             <p>Krakow, proche de la Wiselka, fait office de capitale politique pour les populations vislanes.</p>
-            <p>Les Neltariens sont un peuple uni et solidaire, ils vivent dans des villages de taille moyenne proche du fleuve et dans les montagnes.</p>
+            <p>Les Neltariens sont un peuple uni et solidaire, ils vivent dans des villages de taille moyenne proches du fleuve et dans les montagnes.</p>
         </div>
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Langues</h4>

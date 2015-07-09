@@ -10,7 +10,7 @@
         <p>Peuple ancien et sage, les Varelias sont d'imposants humanoïdes dont l'épiderme s'apparente à l'écorce des arbres.</p>
         <p>Proche de la nature, la société varelias reste très empreinte de druidisme et de chamanisme, 
             même si nombreux sont les individus à ne maîtriser aucune forme de magie.</p>
-        <p>Prompts au voyage et à l'exil, ces géants prodigent leurs conseils depuis plus de 1000 ans aux adeptes de la nature, tant chez les Nains 
+        <p>Prompts au voyage et à l'exil, ces géants prodiguent leurs conseils depuis plus de 1000 ans aux adeptes de la nature, tant chez les Nains 
             que chez les Orcs, les Elfes et les Chepteg.</p>
     </div>
     <div class="divDescrRace">
