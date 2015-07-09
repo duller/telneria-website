@@ -2,11 +2,11 @@
 
 <div style="width:60%;margin:1%;float:left;">
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/ether-form.png" title="Illustration : Lorc, Open Game Art">
-    <p>Les éthérés sont des créatures composées de résidus de magie des arcanes. L'apparition et la diffusion de la maîtrise du telnas a donné naissance à moults éthérés : 
+    <p>Les éthérés sont des créatures composées de résidus de magie des arcanes. L'apparition et la diffusion de la maîtrise du Telnas a donné naissance à moults éthérés : 
     nombreux étaient les adeptes à ne pas maîtriser cette nouvelle magie et à laisser se former ces émanations tentaculaires.</p>
     <br />
     
-    <p><span class="titreDebutLigne">Nature arcanique : </span>&nbsp les éthérés ne peuvent être endommagés que par la magie des arcanes et du telnas. 
+    <p><span class="titreDebutLigne">Nature arcanique : </span>&nbsp les éthérés ne peuvent être endommagés que par la magie des arcanes et du Telnas. 
         La magie de la nature les soigne du nombre de points de dégâts qui auraient été infligés.</p>
     
     <h3 class="h3region">Méduse de mana</h3>

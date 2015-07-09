@@ -33,7 +33,7 @@
 
         <h2>La maîtrise du Telnas</h2>
         <p>À chaque gain de niveau par un personnage, celui-ci a une petite chance de progresser dans son niveau de maîtrise du Telnas.</p>
-        <p>Le telnas est une matérialisation brumeuse de la magie des arcanes que les joueurs peuvent utiliser
+        <p>Le Telnas est une matérialisation brumeuse de la magie des arcanes que les joueurs peuvent utiliser
             pour inventer et faire apparaître des armes, des objets ou des sorts.</p>
         <p>À chaque tentative de matérialisation, ils augmentent les chances d'augmenter leur maîtrise du Telnas. À chaque passage de niveau,
             le joueur jette 1d20 auquel il rajoute chaque action de Telnas réussie pendant ce niveau.
