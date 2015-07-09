@@ -35,11 +35,11 @@
                  title="Illustration : Jérôme Rotfarb">
         <p class="lienMonstre">Dragonide&nbsp&nbsp&nbsp</p></a>
         </div>
-        <div class="divSousGroupeMonstres" style="max-width:15.7%;">
+        <div class="divSousGroupeMonstres" style="max-width:16.1%;">
         <a href="?Page=menuLateral/races/neltarien">
             <img class="communImages imageTousMonstres"
                  src="ressources/04-Races/RacesProportions/Neltarien.png"
-                 title="Illustration : Jérôme Rotfarb">
+                 title="Illustration : Will Dan, Deviant Art">
         <p class="lienMonstre">Neltarien</p></a>
         </div>
         <div class="divSousGroupeMonstres" style="max-width:15.1%;">
@@ -70,7 +70,7 @@
         <a href="?Page=menuLateral/races/elfe">
             <img class="communImages imageTousMonstres"
                  src="ressources/04-Races/RacesProportions/Elfe.png"
-                 title="Illustration : Jérôme Rotfarb">
+                 title="Illustration : Will Dan, Deviant Art">
         <p class="lienMonstre">Elfe&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p></a>
         </div>
         <div class="divSousGroupeMonstres" style="max-width:16.2%; margin-left:0;">
