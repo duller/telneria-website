@@ -52,7 +52,7 @@
         </tr>
     </table>
 
-    <h3 class="h3equipement">À deux mains (requiert niveau 2) : JdT-1</h3>
+    <h3 class="h3equipement">À deux mains (requiert niveau 2) : JdT -1</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Epee2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -88,7 +88,7 @@
 
     <h2>Haches</h2>
 
-    <h3 class="h3equipement">À une main : JdT-1</h3>
+    <h3 class="h3equipement">À une main : JdT -1</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache1M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -122,7 +122,7 @@
         </tr>
     </table>
 
-    <h3 class="h3equipement">À deux mains (requiert niveau 2) : JdT-2</h3>
+    <h3 class="h3equipement">À deux mains (requiert niveau 2) : JdT -2</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hache2M.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -228,7 +228,8 @@
         </tr>
     </table>
 
-    <h2>Armes d'hast (requiert niveau 2) : JdT-3</h2>
+    <h2>Armes d'hast (requiert niveau 2)</h2>
+    <h3 class="h3equipement">À deux mains : JdT -3</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Hast.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -262,7 +263,8 @@
         </tr>
     </table>
 
-    <h2>Dagues : JdT+1</h2>
+    <h2>Dagues</h2>
+    <h3 class="h3equipement">À une main : JdT +1</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Flare.Dague.png" title="Illustration : Flare RPG">
 
     <table>
@@ -296,7 +298,8 @@
         </tr>
     </table>
 
-    <h2>Bâtons : JdT normal</h2>
+    <h2>Bâtons</h2>
+    <h3 class="h3equipement">À deux mains : JdT normal</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Baton.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -330,7 +333,8 @@
         </tr>
     </table>
 
-    <h2>Baguettes : JdT normal</h2>
+    <h2>Baguettes</h2>
+    <h3 class="h3equipement">À une main : JdT normal</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Baguette.Caetis.jpg" title="Illustration : Caetis, Deviant Art">
 
     <table>
@@ -364,7 +368,8 @@
         </tr>
     </table>
 
-    <h2>Arcs : JdT normal</h2>
+    <h2>Arcs</h2>
+    <h3 class="h3equipement">À deux mains : JdT normal</h3>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Arc.Nangeyi.jpg" title="Illustration : Nangeyi, Deviant Art">
 
     <table>
@@ -398,7 +403,8 @@
         </tr>
     </table>
 
-    <h2>Arbalètes (requiert niveau 2) : JdT+1</h2>
+    <h2>Arbalètes (requiert niveau 2)</h2>
+    <h3 class="h3equipement">À deux mains : JdT +1</h3>
     <p style="margin:-5px 0 5px 0;">La recharge d'une arbalète correspond à une demi-action.</p>
     <img class="communImages imageArme" src="ressources/10-Equipem/Armes/Arbalete.Nangeyi.jpg" title="Illustration : Nangeyi, Deviant Art">
 
