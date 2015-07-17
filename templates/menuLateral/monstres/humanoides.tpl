@@ -36,7 +36,7 @@
     <h3 class="h3region" style="margin-top:10px;clear:both;">Centaures</h3>
     <img class="communImages imageLogoMonstres" style="float:right;" src="ressources/11-Monstres/Icones/human-centaur.png" title="Illustration : Lorc, Open Game Art">
     <p>Créatures de grande taille, les centaures possèdent 4 bras et 4 jambes. La partie basse de leur corps abritent également un autre torse avec l'ensemble des organes vitaux.
-        <span class="titreDebutLigne">Ni chaotique, ni mauvais.</span></p>
+        <span class="titreDebutLigne">Tout alignement.</span></p>
     <p><span class="titreDebutLigne">Combat : </span>&nbsp Les deux parties du corps d'un centaure doivent être frappées pour achever le monstre.</p>
     <p><span class="titreDebutLigne">Technique : </span>&nbsp <span style="font-style:italic;">Montée d'adrénaline</span>&nbsp : le centaure peut enchaîner deux actions ce même tour.
     Trois tours de recharge.</p>
