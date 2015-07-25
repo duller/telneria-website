@@ -13,9 +13,8 @@
         et par la noblesse depuis deux siècles.</p>
         <p>Le panthéon grec qu'honoraient les populations dans les temps anciens ne sont plus que folklore pour nombre de Murviens. La divine lueur
         s'est répandue dans l'ensemble de la société et régit la doctrine impériale.</p>
-        <p>La puissance des armées murviennes héritée de l'empire latin ne décourage pas les envahisseurs. Les généraux murviens doivent faire face depuis
-        plus d'un siècle aux attaques des Minotaures abbassides du Croissant à l'est du Sangarios et à celles des Centaures bulgares au nord de la 
-        Dragovistica.</p>
+        <p>La puissance des armées murviennes héritée de l'empire latin ne décourage toutefois pas les envahisseurs. Les généraux murviens doivent faire face aux attaques des 
+            Minotaures abbassides à l'est du Sangarios, et à celles des Centaures bulgares au nord de la Dragovistica.</p>
         
     </div>
     <div class="divDescrRace">

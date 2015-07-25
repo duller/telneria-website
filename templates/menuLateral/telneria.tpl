@@ -95,12 +95,12 @@
         <li class="liChronologie" style="width: 7%; left: 58%;"><span class="spanChronologie">+376 à +476 : </span>Migrations kerfenn et franques</li>
         <li class="liChronologie" style="width: 2%; left: 61%;"><span class="spanChronologie">+444&nbsp;à&nbsp;+453&nbsp;:&nbsp;</span>Invasion&nbsp;des&nbsp;Centaures&nbsp;hunniques</li>
         <li class="liChronologie" style="width: 11%; left: 68%;"><span class="spanChronologie">+568 à +774 : </span>Royaume lombard dans la péninsule latine, avant sa conquête par les Francs</li>
-        <li class="liChronologie" style="width: 7%; left: 73%;"><span class="spanChronologie">+629&nbsp;à&nbsp;+782&nbsp;:&nbsp;</span>Guerre&nbsp;des&nbsp;Murviens contre&nbsp;les&nbsp;Minotaures&nbsp;du&nbsp;Croissant</li>
+        <li class="liChronologie" style="width: 7%; left: 73%;"><span class="spanChronologie">+629&nbsp;à&nbsp;+782&nbsp;:&nbsp;</span>Guerre&nbsp;des&nbsp;Murviens contre&nbsp;les&nbsp;Minotaures&nbsp;abbassides</li>
         <li class="liChronologie" style="width: 5%; left: 75%;"><span class="spanChronologie">+682&nbsp;à&nbsp;+782&nbsp;:&nbsp;</span>Guerre&nbsp;des&nbsp;Murviens contre&nbsp;les&nbsp;Centaures&nbsp;bulgares</li>
         
         <li class="liChronologie" style="width: 27%; left: 14%;"><span class="spanChronologie">-600 à -29 : </span>Influence druidique en Asturie</li>
         <li class="liChronologie" style="width: 22%; left: 41%;"><span class="spanChronologie">-29 à +418 : </span>Conquête de l'Asturie par les Latins</li>
-        <li class="liChronologie" style="width: 12%; left: 63%;"><span class="spanChronologie">+418 à +722 : </span>Invasion&nbsp;de&nbsp;l'Asturie par&nbsp;les&nbsp;Kerfenn&nbsp;gothiques&nbsp;et les&nbsp;Minotaures&nbsp;du&nbsp;Croissant</li>
+        <li class="liChronologie" style="width: 12%; left: 63%;"><span class="spanChronologie">+418 à +722 : </span>Invasion&nbsp;de&nbsp;l'Asturie par&nbsp;les&nbsp;Kerfenn&nbsp;gothiques&nbsp;et les&nbsp;Minotaures&nbsp;omeyyades</li>
         <li class="liChronologie" style="width: 5%; left: 75%;"><span class="spanChronologie">+722 à +782 : </span>Victoire&nbsp;des&nbsp;Kerfenn&nbsp;et Royaume&nbsp;d'Asturie</li>
         
         <li class="liChronologie" style="width: 18%; left: 42%;"><span class="spanChronologie">0 à +400 : </span>Développement des runes dans les clans dragonides</li>

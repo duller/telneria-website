@@ -9,9 +9,9 @@
             Peuple migrateur, cela fait presque deux millénaires qu'ils ont quitté leur terre natale pour écumer Telneria.</p>
         <p>Les Kerfenn ont d'abord tenté de s'installer en Middenardh, au même moment que les Humains germains, ce qui a fragilisé l'empire latin.
             Ils ont finalement conquis les landes reculées d'Asturie en <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, anciennement occupées par les Humains latins. </p>
-        <p>Cette conquête s'est faite au cinquième siècle, suivie au sud par l'invasion des Minotaures omeyyades. Les Minotaures, humanoïdes bovins, viennent des terres du Croissant, 
+        <p>Cette conquête s'est faite au cinquième siècle, suivie au sud par l'invasion des Minotaures omeyyades. Ces humanoïdes bovins sont originaires des terres du Croissant, 
         par-delà les mers. 
-        Ces valeureux guerriers n'ont pas réussi à avoir raison des populations gothiques, maintenant regroupées au sein du royaume d'Asturie des Kerfenn.</p>
+        Ces valeureux guerriers n'ont cependant pas réussi à avoir raison des populations gothiques, maintenant regroupées au sein du royaume d'Asturie des Kerfenn.</p>
         <p>Les populations natives de la péninsule asturienne avaient adopté les préceptes druidiques des Varelias. Les Kerfenn, quant à eux,
         ont été plus sensibles aux enseignements de la lumière, et vénèrent la divine lueur avec diligence. Les troubles internes persistent
         dans le royaume, plusieurs révoltes ont déjà eu lieu au cours du huitième siècle.</p>
