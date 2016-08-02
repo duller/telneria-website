@@ -52,7 +52,7 @@
 
 
 <div class="classeImage communDivClasseMarges" style="margin-top:-30px;">
-    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/ElfeRodeuse.png" title="Illustration : Jérôme Rotfarb"></p>
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/ElfeRodeuse.png" title="Illustration : Will Dan, Deviant Art"></p>
     <p class="pImageRace">Un rôdeuse elfe</p>
 </div>
 

@@ -110,7 +110,7 @@
                 <p class="ptab"><a href="?Page=menuLateral/races/varelias">Varelias</a></p>
             </td>
             <td>
-                <p class="ptab"><a href="?Page=menuLateral/races/neltarien">Neltarien</a></p>
+                <p class="ptab"><a href="?Page=menuLateral/races/satyre">Satyre</a></p>
             </td>
             <td>
                 <p class="ptab"><a href="?Page=menuLateral/races/dragonide">Dragonide</a></p>

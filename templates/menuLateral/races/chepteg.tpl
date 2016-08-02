@@ -6,9 +6,9 @@
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageChepteg.jpg" style="max-width:50%;" title="Illustration : Serendigity, Flickr">
 
         <p>Originaires des fraîches contrées de <a href="?Page=menuLateral/monde/slaviskis">Slaviskis</a>, les Chepteg vivent en grandes tribus à l'est du continent.</p>
-        <p>Humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite mais des griffes rétractables puissantes.</p>
-        <p>Peuple de paysans et de commerçants, les Chepteg se montrent parfois agressifs lors de leurs expéditions.
-            Les plus anciens individus deviennent parfois adeptes de magie et suivent la voie du chaman, secondés par leurs voisins Varelias.</p>
+        <p>Humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite mais de puissantes griffes rétractiles.</p>
+        <p>Peuple de paysans et de commerçants, les Chepteg peuvent se montrent agressifs lors de leurs expéditions.
+            Les plus anciens individus deviennent parfois adeptes de magie et suivent la voie du chaman, guidés par les sages Varelias.</p>
         <p>L'arrivée et l'expansion des Centaures khazars au sud de Slaviskis a influencé les tribus Chepteg, qui se sont rapprochées en un Khaganat modérément centralisé.</p>
     </div>
     <div class="divDescrRace">

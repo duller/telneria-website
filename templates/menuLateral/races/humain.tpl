@@ -13,8 +13,8 @@
         La péninsule asturienne en Notikonos a également été perdue au cours de ce siècle face aux envahisseurs Kerfenn.</p>
         <p>Les Humains germains, aussi appelés Francs, ont conquis l'ensemble les terres latines et mis en place le royaume de Francie, la plus puissante entité 
         militaire de Telneria. La dernière conquête de ces valeureux guerriers est le royaume lombard de Notikonos, il y a dix ans de cela.</p>
-        <p>Anciens païens, les Francs se sont convertis à la divine lueur au cinquième siècle. Depuis lors, ils cherchent à rallier les tribus païennes 
-        aux préceptes de la lumière. Les guerres saxonnes commencées en 777 par le grand Karl, roi des Francs depuis 768, visent ainsi à éradiquer le chamanisme païen 
+        <p>Anciens païens, les Francs se sont convertis à la divine lueur au cinquième siècle. Depuis lors, ils cherchent à rallier les tribus idolâtres 
+        aux préceptes de la lumière. Les guerres saxonnes commencées en 777 par le grand Karl, roi des Francs depuis 768, visent ainsi à éradiquer le chamanisme 
         des Orcs et à leur faire accepter la divine lueur.</p>
     </div>
     <div class="divDescrRace">

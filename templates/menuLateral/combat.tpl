@@ -61,14 +61,14 @@
                 <div class="divMoitieGauche">
                     <h3 class="h3region">Initiative</h3>
                     <img class="communImages imageCombatInitiative" src="ressources/14-Combat/fleche-droite.png" title="Illustration : Lorc, Open Game Art" style="border-radius: 0;">
-                    <p>Au début de chaque combat, tous les protagonistes font un jet d'initiative pour déterminer l'ordre de jeu.</p>
-                    <p>L'initiative peut être modifiée négativement si un protagoniste est pris par surprise ou est affairé à autre chose, c'est au MJ de le décider.</p>
+                    <p>Au début de chaque combat, le maître du jeu décide qui des joueurs ou des monstres a l'initiative.</p>
+                    <p>Lorsqu'aucun des camps n'a clairement l'avantage de la surprise, un jet de dé permet de prendre la décision de manière impartiale.</p>
                 </div>
                 <div class="divMoitieGauche">
                     <h3 class="h3region">Tour de jeu</h3>
                     <img class="communImages imageCombatInitiative" src="ressources/14-Combat/cycle.png" title="Illustration : Lorc, Open Game Art">
                     <p>Un tour de jeu est écoulé lorsque tous les protagonistes ont accompli leur action, s'ils ne sont pas évanouis ou décédés.</p>
-                    <p>Le maître du jeu peut modifier le tour de jeu en faisant intervenir un protagoniste, il fait alors un jet d'initiative pour le nouvel arrivant.</p>
+                    <p>Le maître du jeu peut modifier le tour de jeu en faisant intervenir un protagoniste, il peut faire un jet d'initiative pour le nouvel arrivant.</p>
                 </div>
                     
             </div>
