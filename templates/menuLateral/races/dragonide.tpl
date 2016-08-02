@@ -26,7 +26,7 @@
         <div class="divMoitieGauche divDescriptionRaceOmbre">
             <h4 class="sousTitre4Race">Capitales et groupes ethniques</h4>
             <img class="communImages imageLorcRaces" src="ressources/04-Races/castle.png" title="Illustration : Lorc, Open Game Art">
-            <p>Les dragonides des clans du dragon bleu résident à l'est de la plus grande île de <a href="?Page=menuLateral/monde/ceiltigahn">Lochlann</a>, avec Sarpborg pour capitale.</p>
+            <p>Les dragonides des clans du dragon bleu résident à l'ouest de la plus grande île de <a href="?Page=menuLateral/monde/ceiltigahn">Lochlann</a>, avec Sarpborg pour capitale.</p>
             <p>Les adeptes du dragon noir vivent sur l'île du sud, où Viborg est le centre urbain le plus étendu.</p>
             <p>Quand aux partisans du dragon rouge, ils habitent à l'est de la plus grande île, avec Agnafit pour ville principale.</p>
         </div>

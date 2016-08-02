@@ -48,8 +48,8 @@
         <a href="?Page=menuLateral/monde/notikonos"><img class="communImages imageRegion" src="ressources/09-Monde/Notikonos.HilmarWild.jpg" title="Illustration : Hilmar Wild">
         <h3 class="h3region">Notikonos</h3></a>
         <p><a href="?Page=menuLateral/monde/notikonos">Notikonos</a> est le continent le plus ensoleillé de Telneria. La péninsule d'Asturie, la plus à l'ouest, accueille les <a href="?Page=menuLateral/races/kerfenn">Kerfenn</a>.
-        De petite taille, ce peuple a réussi à arracher son territoire aux Latins et à le conserver face aux Minotaures du Croissant.</p>
-        <p>Dans la péninsule centrale, les <a href="?Page=menuLateral/races/humain">Humains</a> du royaume lombard viennent de se faire envahir par les Francs 
+        De petite taille, ce peuple a réussi à arracher son territoire aux Satyres latins et à le conserver face aux Minotaures du Croissant.</p>
+        <p>Dans la péninsule centrale, les <a href="?Page=menuLateral/races/satyre">Satyres</a>, anciennement sous domination lombarde, viennent de se faire envahir par les Francs 
         et dépendent à présent de la couronne de Francie.</p>
         <p>À l'est du continent, l'empire murvien est l'héritier de langue grecque du défunt empire latin. Jouissant d'une force considérable, les 
             <a href="?Page=menuLateral/races/murvien">Murviens</a> doivent cependant faire face aux invasions des Minotaures et des Centaures.</p>
@@ -59,8 +59,8 @@
         <h3 class="h3region">Slaviskis</h3></a>
         <p>Le continent de <a href="?Page=menuLateral/monde/slaviskis">Slaviskis</a> se situe à l'est du Continent de Middenardh, séparé par l'étroite mer Odera.
             La partie occidentale de cette contrée froide est habitée au nord par les <a href="?Page=menuLateral/races/elfe">Elfes</a> polanes,
-            et au sud par les <a href="?Page=menuLateral/races/neltarien">Neltariens</a> vislanes.</p>
-        <p>Le Khaganat des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> domine la plus grande partie de l'est du continent.
+            et au sud par les Elfes vislanes.</p>
+        <p>Le Khanat des <a href="?Page=menuLateral/races/chepteg">Chepteg</a> domine la plus grande partie de l'est du continent.
         Ce domaine est également le refuge des vénérables <a href="?Page=menuLateral/races/varelias">Varelias</a>, les plus anciens humanoïdes de Telneria.</p>
         <p>Le sud du continent est peuplé par les tribus nomades des Centaures Khazars, avec lesquels les Chepteg n'ont que peu d'interaction.</p>
     </div>
@@ -87,9 +87,9 @@
         <li class="liChronologie" style="width: 1%; left: 67%;"><span class="spanChronologie">+506&nbsp;:&nbsp;</span>Conversion&nbsp;des&nbsp;Francs&nbsp;à&nbsp;la&nbsp;divine&nbsp;lueur</li>
         <li class="liChronologie" style="width: 2%; left: 78%;"><span class="spanChronologie">+777&nbsp;à&nbsp;+782&nbsp;:&nbsp;</span>Guerres&nbsp;saxonnes</li>
         
-        <li class="liChronologie" style="width: 10%; left: 8%;"><span class="spanChronologie">-750 à -509 : </span>Royaume latin dans la péninsule de Mondragone</li>
+        <li class="liChronologie" style="width: 10%; left: 8%;"><span class="spanChronologie">-750 à -509 : </span>Royaume satyr latin dans la péninsule de Mondragone</li>
         <li class="liChronologie" style="width: 23%; left: 18%;"><span class="spanChronologie">-509 à -27 : </span>République latine et expansion territoriale</li>
-        <li class="liChronologie" style="width: 24%; left: 41%;"><span class="spanChronologie">-27 à +476 : </span>Empire latin de Notikonos, Middenardh et Ceiltigahn</li>
+        <li class="liChronologie" style="width: 24%; left: 41%;"><span class="spanChronologie">-27 à +476 : </span>Empire latin des Satyres en Notikonos, Middenardh et Ceiltigahn</li>
         <li class="liChronologie" style="width: 1%; left: 42%;"><span class="spanChronologie">0&nbsp;:&nbsp;</span>Découverte&nbsp;de&nbsp;la&nbsp;divine&nbsp;lueur&nbsp;par&nbsp;l'empereur&nbsp;Augustus&nbsp;Lucoris</li>
         <li class="liChronologie" style="width: 20%; left: 60%;"><span class="spanChronologie">+392 à +782 : </span>Séparation de l'empire latin, émergence de l'empire murvien</li>
         <li class="liChronologie" style="width: 7%; left: 58%;"><span class="spanChronologie">+376 à +476 : </span>Migrations kerfenn et franques</li>

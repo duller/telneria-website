@@ -3,10 +3,11 @@
 <div style="width:65%;margin:1%;float:left;">
     <img class="communImages imageLogoMonstres" src="ressources/11-Monstres/Icones/demon-lune.png" title="Illustration : Lorc, Open Game Art">
     <p>Les démons sont originaires de la lune en orbite autour du monde de Telneria. Certains croyances populaires attribuent une origine souterraine ou infernale aux démons, 
-        mythes que ces derniers aiment entretenir. Les premiers démons ont été convoqués par des sorciers neltariens en Telneria. Seuls des portails magiques ou des sorts d'invocation
+        mythes que ces derniers aiment entretenir. Les premiers démons ont été convoqués par des sorciers satyres en Telneria. Seuls des portails magiques ou des sorts d'invocation
         permettent de transiter entre Telneria et Demonos, nom que ces créatures utilisent pour désigner leur lune d'origine.</p>
-    <p>Les sociétés démoniques de Demonos sont fortement hiérarchisées et tournées vers le combat et la connaissance. L'ingestion de cerveau humain confère aux démons sagacité et perspicacité,
-        poussant nombre de créatures démoniaques à attaquer les humains. Ces pratiques céphalophages contribuent à leur réputation sanguinaire et malveillante dans les sociétés humaines.</p>
+    <p>Les sociétés démoniques de Demonos sont fortement hiérarchisées et tournées vers le combat et la connaissance. L'ingestion de cerveau humain confère aux démons sagacité et 
+        perspicacité, poussant nombre de créatures démoniaques à attaquer les populations de Middenardh et de Notikonos. Ces pratiques céphalophages contribuent à leur réputation 
+        sanguinaire et malveillante dans les sociétés humaines.</p>
     <br />
     
     <p><span class="titreDebutLigne">Nature impie : </span>&nbsp Tous les démons voient leurs dégâts de chaos subis et les dégâts infligés aux adeptes du sacré

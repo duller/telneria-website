@@ -7,12 +7,12 @@
 
         <p>Originaires des terres fertiles de l'ouest de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>, les Nains se sont développés jusqu'aux confins de 
             <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a>.
-        Les Humains latins ont conquis les terres natales naines huit siècles plus tôt, absorbant la population et syncrétisant les cultures existantes.
+        Les Satyres ont conquis les terres natales naines huit siècles plus tôt, absorbant la population et syncrétisant les cultures existantes.
         <a href="?Page=menuLateral/monde/ceiltigahn">Érin et Fortrui</a>, régions éloignées des pouvoirs centraux latins, sont restées indépendantes et ont maintenu leur culture celtique.</p>
-        <p>L'invasion des Orcs au quatrième siècle s'est accompagnée d'invasions de Nains pictes, menant à la chute de la domination latine.
-        Le départ des Humains n'a cependant pas permis de recouvrer l'ensemble des terres en Ceiltigahn, car les royaumes orcs d'Anglia se montrent
+        <p>L'invasion d'Anglia par les Orcs au quatrième siècle s'est accompagnée d'invasions de Nains pictes, menant à la chute de la domination latine.
+        Le départ des Satyres n'a cependant pas permis de recouvrer l'ensemble des terres en Ceiltigahn, car les royaumes orcs d'Anglia se montrent
         toujours belliqueux et avides de conquête.</p>
-        <p>En Middenardh, la culture celtique perdure en <a href="?Page=menuLateral/monde/middenardh">Aremorica</a>, malgré les nombreuses tentatives des Francs pour conquérir la péninsule.</p>
+        <p>En Middenardh, la culture celtique perdure en <a href="?Page=menuLateral/monde/middenardh">Aremorica</a>, malgré les nombreuses tentatives des Humains francs pour conquérir la péninsule.</p>
         <p>Sous l'influence des Varelias, les Nains celtes ont développé un fort attachement à la magie druidique. 
             Les conquêtes franques et les missionnaires de la divine lueur ont cependant fait émerger, chez la noblesse naine, une affinité pour les enseignements de la lumière.</p>
     </div>

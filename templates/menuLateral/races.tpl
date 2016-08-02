@@ -4,15 +4,6 @@
 
 <br /><br />
 
-<!--<p class="ligneRacesChoix">
-    <span class="lienRacesChoix"><a href="?Page=menuLateral/races/varelias">Varelias&nbsp</a></span>
-    <span class="lienRacesChoix"><a href="?Page=menuLateral/races/chepteg">Chepteg&nbsp&nbsp</a></span>
-    <span class="lienRacesChoix"><a href="?Page=menuLateral/races/dragonide">Dragonide</a></span>
-    <span class="lienRacesChoix"><a href="?Page=menuLateral/races/neltarien">Neltarien</a></span>
-    <span class="lienRacesChoix"><a href="?Page=menuLateral/races/orc">Orc&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></span>
-
-</p>-->
-
 <div class="divGroupeMonstres" style="margin-bottom:25px;">
         <div class="divSousGroupeMonstres" style="max-width:20.5%;">
         <a href="?Page=menuLateral/races/varelias">
@@ -36,11 +27,11 @@
         <p class="lienMonstre">Dragonide&nbsp&nbsp&nbsp</p></a>
         </div>
         <div class="divSousGroupeMonstres" style="max-width:16.1%;">
-        <a href="?Page=menuLateral/races/neltarien">
+        <a href="?Page=menuLateral/races/elfe">
             <img class="communImages imageTousMonstres"
-                 src="ressources/04-Races/RacesProportions/Neltarien.png"
+                 src="ressources/04-Races/RacesProportions/Elfe.png"
                  title="Illustration : Will Dan, Deviant Art">
-        <p class="lienMonstre">Neltarien</p></a>
+        <p class="lienMonstre">Elfe&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p></a>
         </div>
         <div class="divSousGroupeMonstres" style="max-width:15.1%;">
         <a href="?Page=menuLateral/races/orc">
@@ -67,11 +58,11 @@
         <p class="lienMonstre">Murvien</p></a>
         </div>
         <div class="divSousGroupeMonstres" style="max-width:19.5%; margin-left:0; margin-right:0;">
-        <a href="?Page=menuLateral/races/elfe">
+        <a href="?Page=menuLateral/races/satyre">
             <img class="communImages imageTousMonstres"
-                 src="ressources/04-Races/RacesProportions/Elfe.png"
-                 title="Illustration : Will Dan, Deviant Art">
-        <p class="lienMonstre">Elfe&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p></a>
+                 src="ressources/04-Races/RacesProportions/Satyre.png"
+                 title="Illustration : M Jarrett, Deviant Art">
+        <p class="lienMonstre">Satyre&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p></a>
         </div>
         <div class="divSousGroupeMonstres" style="max-width:16.2%; margin-left:0;">
         <a href="?Page=menuLateral/races/nain">

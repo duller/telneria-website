@@ -318,7 +318,7 @@
             <td class="tdEquipement"><p class="ptab">Moyenne</p></td>
         </tr>
         <tr>
-            <td class="tdNomEquipement"><p class="ptab">Bâton orné neltarien</p></td>
+            <td class="tdNomEquipement"><p class="ptab">Bâton orné elfe</p></td>
             <td class="tdEquipement"><p class="ptab">1d10</p></td>
             <td class="tdEquipement"><p class="ptab">Mêlée</p></td>
             <td class="tdEquipement"><p class="ptab">60 po</p></td>
