@@ -5,15 +5,10 @@
 
         <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageHumain.jpg" style="max-width:55%;" title="Illustration : Herman Saftleven, Wikimédia">
 
-        <p>La race humaine se compose de deux groupes ethniques distincts, les Germains originaires de l'est de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>
-            et les Latins originaires de la péninsule centrale de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>.</p>
-        <p>L'empire latin s'étendait jusqu'au quatrième siècle sur l'ensemble de Notikonos et de grands pans de Middenardh et de Ceiltigahn.
-        La fin du quatrième siècle a vu la séparation de cet empire et l'émergence de l'empire murvien en Notikonos.
-        Au cinquième siècle, ce sont les continents de Middenardh et de Ceiltigahn qui ont été perdus face aux Humains germains et aux Orcs angles.
-        La péninsule asturienne en Notikonos a également été perdue au cours de ce siècle face aux envahisseurs Kerfenn.</p>
-        <p>Les Humains germains, aussi appelés Francs, ont conquis l'ensemble les terres latines et mis en place le royaume de Francie, la plus puissante entité 
+        <p>La race humaine est originaire de l'est de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a> et partage avec les Orcs les mêmes ancêtres germaniques.</p>
+        <p>Les Humains germains, aussi appelés Francs, ont conquis l'ensemble des territoires satyres et mis en place le royaume de Francie, la plus puissante entité 
         militaire de Telneria. La dernière conquête de ces valeureux guerriers est le royaume lombard de Notikonos, il y a dix ans de cela.</p>
-        <p>Anciens païens, les Francs se sont convertis à la divine lueur au cinquième siècle. Depuis lors, ils cherchent à rallier les tribus idolâtres 
+        <p>Anciens païens, les Francs se sont convertis à la divine lueur lors de leur migration vers les terres latines. Depuis lors, ils cherchent à rallier les tribus idolâtres 
         aux préceptes de la lumière. Les guerres saxonnes commencées en 777 par le grand Karl, roi des Francs depuis 768, visent ainsi à éradiquer le chamanisme 
         des Orcs et à leur faire accepter la divine lueur.</p>
     </div>

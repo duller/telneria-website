@@ -9,7 +9,7 @@
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/ethiqueLoyal.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Loyal</h3>
         <p>Un personnage loyal est digne de confiance et croit en les règles établies. Il se dévoue à ses compagnons et ne se soucie que peu de sa propre personne.
-            Être loyal n'empêche pas d'être cruel ou malveillant, mais un personnage loyal sera mauvais tout en restant fidèle.</p>
+            Être loyal n'empêche pas d'être cruel ou malveillant, un personnage loyal peut être mauvais tout en restant fidèle.</p>
     </div>
     <div id="idAlignementNeutreEthique" class="zoneAlignement">
 
@@ -22,7 +22,7 @@
 
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/ethiqueChaotique.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Chaotique</h3>
-        <p>Un personnage chaotique ne reconnaît pas les règles établis, n'est pas digne de confiance et trahit allègrement ses compagnons.
+        <p>Un personnage chaotique ne reconnaît pas les règles établies, n'est pas digne de confiance et trahit allègrement ses compagnons.
             Il oeuvre le plus souvent pour son propre intérêt. Il peut également se battre pour une cause bienveillante, mais il ne ne fera pas dans le cadre de la loi.</p>
     </div>
 </div>
@@ -48,7 +48,7 @@
         <img class="communImages imageLogoAlignement" src="ressources/05-Alignement/moraleMauvais.png" title="Illustration : Lorc, Open Game Art">
         <h3 class="h3Alignement">Mauvais</h3>
         <p>Un personnage mauvais à une forte propension à oeuvrer pour le mal. Il se délecte aisément des souffrances d'autrui et recourt à la torture sans état d'âme.
-            Un être mauvais ne sera par contre pas nécessairement chaotique, il peut se conformer à la loi et avoir relations de confiance avec ses congénères.
+            Un être mauvais ne sera par contre pas nécessairement chaotique, il peut se conformer à la loi et avoir des relations de confiance avec ses congénères.
         </p>
     </div>
 

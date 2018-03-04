@@ -87,7 +87,7 @@
         <li class="liChronologie" style="width: 1%; left: 67%;"><span class="spanChronologie">+506&nbsp;:&nbsp;</span>Conversion&nbsp;des&nbsp;Francs&nbsp;à&nbsp;la&nbsp;divine&nbsp;lueur</li>
         <li class="liChronologie" style="width: 2%; left: 78%;"><span class="spanChronologie">+777&nbsp;à&nbsp;+782&nbsp;:&nbsp;</span>Guerres&nbsp;saxonnes</li>
         
-        <li class="liChronologie" style="width: 10%; left: 8%;"><span class="spanChronologie">-750 à -509 : </span>Royaume satyr latin dans la péninsule de Mondragone</li>
+        <li class="liChronologie" style="width: 10%; left: 8%;"><span class="spanChronologie">-750 à -509 : </span>Royaume satyre latin dans la péninsule de Mondragone</li>
         <li class="liChronologie" style="width: 23%; left: 18%;"><span class="spanChronologie">-509 à -27 : </span>République latine et expansion territoriale</li>
         <li class="liChronologie" style="width: 24%; left: 41%;"><span class="spanChronologie">-27 à +476 : </span>Empire latin des Satyres en Notikonos, Middenardh et Ceiltigahn</li>
         <li class="liChronologie" style="width: 1%; left: 42%;"><span class="spanChronologie">0&nbsp;:&nbsp;</span>Découverte&nbsp;de&nbsp;la&nbsp;divine&nbsp;lueur&nbsp;par&nbsp;l'empereur&nbsp;Augustus&nbsp;Lucoris</li>

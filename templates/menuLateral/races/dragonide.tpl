@@ -16,8 +16,8 @@
             Leur alignement est habituellement loyal mauvais.</p>
         <p>Enfin, les membres des clans du dragon rouge ne pratiquent aucune magie et deviennent de puissants guerriers, neutres en toute circonstance.</p>
         <br />
-        <p>Le développement des runes au premier siècle a pérennisé la culture dragonide et a permis le développement technique. 
-            Ce progrès se retrouve notamment dans les drakkars que les dragonides utilisent depuis le cinquième siècle pour le commerce et l'exploration.</p>
+        <p>Le développement des runes au premier siècle a pérennisé la culture dragonide et a favorisé le progrès technique. 
+            Leur avancée technologique se retrouve notamment dans les mers du nord qu'écument les drakkars depuis le cinquième siècle pour le commerce et l'exploration.</p>
         <p>Les expéditions navales dragonides n'ont pour l'instant mené à aucun heurt d'importance avec les cultures côtières de Ceiltigahn, Middenardh et Slaviskis.
         Cependant, les marins de ces peuples font part de leur préoccupation croissante face à l'efficacité des navires dragonides et à leur valeur guerrière.</p>
     </div>
