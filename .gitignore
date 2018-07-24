@@ -8,7 +8,16 @@
 /ressources/PdfFichesPerso/FicheRodeur_backup.pdf
 /ressources/PdfFichesPerso/FicheMagicien_backup.pdf
 
+/templates_c/*.tpl.php
+./templates_c/*.tpl.php
+/templates_c/*/*.tpl.php
+./templates_c/*/*.tpl.php
+/templates_c/**/*.tpl.php
+./templates_c/**/*.tpl.php
 /templates_c/
+./templates_c/
+*.tpl.php
+/*.tpl.php
 nbproject/private/private.properties
 nbproject/private/private.xml
 nbproject/project.properties
