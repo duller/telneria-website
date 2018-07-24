@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageMurvien.jpg" style="max-width:50%;" title="Illustration : Hilmar Wild">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageMurvien.jpg" style="max-width:55%;" title="Illustration : Alexius Geyer">
 
         <p>Peuple originaire des terres côtières de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, les Murviens ont conservé plusieurs caractéristiques aquatiques
             de leurs lointains ancêtres. Ils peuvent notamment respirer sous l'eau et ont un besoin continu de s'hydrater le corps.</p>

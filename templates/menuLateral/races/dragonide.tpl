@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageDragonide.jpg" style="max-width:50%;" title="Illustration : Skull Dixon, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageDragonide.jpg" style="max-width:70%;" title="Illustration : August Wilhelm">
 
         <p>Humanoïdes descendant des dragons, les dragonides vivent dans les hautes montagnes de <a href="?Page=menuLateral/monde/ceiltigahn">Lochlann</a> en Ceiltigahn.</p>
         <p>Il y a 800 ans, il existait encore des dragonides des cinq clans. Chacun de ces clans est originaire d'une des cinq familles de 

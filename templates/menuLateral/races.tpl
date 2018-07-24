@@ -80,6 +80,23 @@
         </div>
 </div>
 
+<div class="divGroupeMonstres" style="margin-bottom:15px;">
+        <div class="divSousGroupeMonstres" style="max-width:20.7%;">
+        <a href="?Page=menuLateral/races/centaure">
+            <img class="communImages imageTousMonstres"
+                 src="ressources/04-Races/RacesProportions/centaure_manowolvie.png"
+                 title="Illustration : Manowolvie">
+        <p class="lienMonstre">Centaure</p></a>
+        </div>
+        <div class="divSousGroupeMonstres" style="max-width:16.1%;">
+        <a href="?Page=menuLateral/races/djinn">
+            <img class="communImages imageTousMonstres"
+                 src="ressources/04-Races/RacesProportions/djinn_ricardleen.png"
+                 title="Illustration : Ricardleen">
+        <p class="lienMonstre">Djinn</p></a>
+        </div>
+</div>
+
 <!--<img class="communImages imageChoixRaces" src="ressources/04-Races/ToutesRacesSite.png" title="Illustration : Jérôme Rotfarb">
 
 <div class="imageChoixRaces" ></div>
