@@ -10,7 +10,7 @@
             Les <a href="?Page=menuLateral/races/dragonide">Dragonides</a> viennent, quant à eux, des îles montagneuses de l'est appelées Lochlann.</p>
         <p>Les îles occidentales abritent également les <a href="?Page=menuLateral/races/orc">Orcs</a> d'Anglia. Ces créatures belliqueuses sont originaires de Middenardh
             et tentent de conquérir l'ensemble des îles de l'ouest aux dépens des Nains.</p>
-        <p>Le Maelstrom au sud du continent empêche toute navigation depuis et vers le continent de Notikonos, les voyageurs doivent aller passer par la Mer Septentris, 
+        <p>Le Maelstrom au sud du continent empêche toute navigation depuis et vers le continent de Notikonos, les voyageurs doivent passer par la Mer Septentris, 
         ou utiliser les dolmens de transport pour les rares personnes qui en connaissent l'existence.</p>
     </div>
     <div class="divMoitieDroite">

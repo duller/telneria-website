@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Orc.jpg" style="max-width:55%;" title="Illustration : Phatpuppy, Flickr">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageOrc_AsherBrownDurand.jpg" style="max-width:55%;" title="Illustration : Asher Brown Durand">
 
         <p>Originaires des terres forestières de l'est de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>, les Orcs sont des humanoïdes vigoureux et redoutables. 
         Le chamanisme de Wodan, forme germanique du Odin dragonide, est répandu dans toute la société orcque du continent central.</p>

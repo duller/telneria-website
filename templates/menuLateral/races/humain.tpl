@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageHumain.jpg" style="max-width:55%;" title="Illustration : Herman Saftleven, Wikimédia">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageHumain_AlbertBierstadt.jpg" style="max-width:55%;" title="Illustration : Albert Bierstadt">
 
         <p>La race humaine est originaire de l'est de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a> et partage avec les Orcs les mêmes ancêtres germaniques.</p>
         <p>Les Humains germains, aussi appelés Francs, ont conquis l'ensemble des territoires satyres et mis en place le royaume de Francie, la plus puissante entité 

@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Elfe.IshtaureDawn.Flickr.jpg" style="max-width:55%;" title="Illustration : Ishtaure Dawn, Flickr">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageElf_AlbertBierstadt.jpg" style="max-width:65%;" title="Illustration : Albert Bierstadt">
 
         <p>Originaires des plaines et des montagnes à l'ouest de <a href="?Page=menuLateral/monde/slaviskis">Slaviskis</a>, 
             les Elfes se sont sédentarisés au courant du 7ème siècle.

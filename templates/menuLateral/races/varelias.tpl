@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageVarelias.jpg" style="max-width:65%;" title="Illustration : Skull Dixon, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageVarelias_AlbertBierstadt.jpg" style="max-width:65%;" title="Illustration : Albert Bierstadt">
 
         <p>Originaires des forêts glacées du nord de Slaviskis, les Varelias vivent paisiblement 
             sur les terres du <a href="?Page=menuLateral/monde/slaviskis">Khaganat Chepteg</a>.</p>

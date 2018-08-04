@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageCentaure.jpg"
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageCentaure_Wikimedia.jpg"
              style="max-width:65%;" title="Illustration : Александр Лещёнок, Wikimedia">
 
         <p>Peuple originaire de la péninsule latine au centre de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, les Satyres sont des humanoïdes rusés 

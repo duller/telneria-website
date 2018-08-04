@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/Paysage.Kerfenn.PeterFries.jpg" style="max-width:55%;" title="Illustration : Peter Fries">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageKerfenn_PeterFries.jpg" style="max-width:55%;" title="Illustration : Peter Fries">
 
         <p>Humanoïdes de petite taille, les Kerfenn gothiques ont pour origine lointaine les plaines du nord-ouest de Slaviskis. 
             Peuple migrateur, cela fait presque deux millénaires qu'ils ont quitté leur terre natale pour écumer Telneria.</p>

@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageChepteg.jpg" style="max-width:50%;" title="Illustration : Serendigity, Flickr">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageChepteg_JohanChristianDahl.jpg" style="max-width:50%;" title="Illustration : Johan Christian Dahl">
 
         <p>Originaires des fraîches contrées de <a href="?Page=menuLateral/monde/slaviskis">Slaviskis</a>, les Chepteg vivent en grandes tribus à l'est du continent.</p>
         <p>Humanoïdes intégralement recouverts de poils, ils ont une mâchoire très étroite mais de puissantes griffes rétractiles.</p>

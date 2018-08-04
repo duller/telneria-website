@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageNain.jpg" style="max-width:55%;" title="Illustration : Skull Dixon, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageNain_AlbertBierstadt.jpg" style="max-width:65%;" title="Illustration : Albert Bierstadt">
 
         <p>Originaires des terres fertiles de l'ouest de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a>, les Nains se sont développés jusqu'aux confins de 
             <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a>.

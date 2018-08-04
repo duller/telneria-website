@@ -3,7 +3,7 @@
 <div class="descriptionClasse communDivClasseMarges communDivClasseContour">
     <div>
 
-        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageSatyre.jpg" style="max-width:65%;" title="Illustration : JonasDeRo, Deviant Art">
+        <img class="communImages imagePaysageRace" src="ressources/04-Races/PaysageSatyre_WilliamHart.jpg" style="max-width:65%;" title="Illustration : William Hart">
 
         <p>Peuple originaire de la péninsule latine au centre de <a href="?Page=menuLateral/monde/notikonos">Notikonos</a>, les Satyres sont des humanoïdes rusés 
             et hédonistes.</p>
