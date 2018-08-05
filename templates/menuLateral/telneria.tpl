@@ -3,7 +3,8 @@
 <div class="zoneRegionsHaut">
 
     <div class="divMoitieGauche">
-        <a href="?Page=menuLateral/monde/ceiltigahn"><img class="communImages imageRegion" src="ressources/09-Monde/Ceiltigahn.SkullDixon.DA.jpg" title="Illustration : Skull Dixon, Deviant Art">
+        <a href="?Page=menuLateral/monde/ceiltigahn"><img class="communImages imageRegion" style="max-width:35%;"
+                                                          src="ressources/04-Races/PaysageNain_AlbertBierstadt.jpg" title="Illustration : Albert Bierstadt">
         <h3 class="h3region">Ceiltigahn</h3></a>
         <p>Ensemble d'îles au nord-ouest de Telneria, <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a> est une contrée isolée et dangereuse.</p>
         <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/nain">Nains</a> dans les forêts des îles de l'ouest, formant les nations d'Érin, Cymru et Fortriu.
@@ -14,7 +15,8 @@
         ou utiliser les dolmens de transport pour les rares personnes qui en connaissent l'existence.</p>
     </div>
     <div class="divMoitieDroite">
-        <a href="?Page=menuLateral/monde/middenardh"><img class="communImages imageRegion" style="max-width:35%;" src="ressources/09-Monde/Middenardh.Phatpuppy.Flickr.Petit.jpg" title="Illustration : Phatpuppy, Flickr">
+        <a href="?Page=menuLateral/monde/middenardh"><img class="communImages imageRegion" style="max-width:45%;" src="ressources/04-Races/PaysageHumain_AlbertBierstadt.jpg"
+                                                          title="Illustration : Albert Bierstadt">
         <h3 class="h3region">Middenardh</h3></a>
         <p>Continent central de Telneria,  <a href="?Page=menuLateral/monde/middenardh">Middenardh</a> est le lieu de passage de tous les voyageurs, envahisseurs et commerçants.</p>
         <p>Les populations <a href="?Page=menuLateral/races/nain">naines</a> couvraient auparavant la majeure partie du royaume actuel de Francie ;
@@ -45,7 +47,7 @@
 
 <div class="zoneRegionsBas">
     <div class="divMoitieGauche">
-        <a href="?Page=menuLateral/monde/notikonos"><img class="communImages imageRegion" src="ressources/09-Monde/Notikonos.HilmarWild.jpg" title="Illustration : Hilmar Wild">
+        <a href="?Page=menuLateral/monde/notikonos"><img class="communImages imageRegion" src="ressources/04-Races/PaysageSatyre_WilliamHart.jpg" title="Illustration : William Hart">
         <h3 class="h3region">Notikonos</h3></a>
         <p><a href="?Page=menuLateral/monde/notikonos">Notikonos</a> est le continent le plus ensoleillé de Telneria. La péninsule d'Asturie, la plus à l'ouest, accueille les <a href="?Page=menuLateral/races/kerfenn">Kerfenn</a>.
         De petite taille, ce peuple a réussi à arracher son territoire aux Satyres latins et à le conserver face aux Minotaures du Croissant.</p>
@@ -55,7 +57,8 @@
             <a href="?Page=menuLateral/races/murvien">Murviens</a> doivent cependant faire face aux invasions des Minotaures et des Centaures.</p>
     </div>
     <div class="divMoitieDroite">
-        <a href="?Page=menuLateral/monde/slaviskis"><img class="communImages imageRegion" src="ressources/09-Monde/Slaviskis.Serendigity.Flickr.jpg" title="Illustration : Serendigity, Flickr">
+        <a href="?Page=menuLateral/monde/slaviskis"><img class="communImages imageRegion" style="max-width:35%;"
+                                                         src="ressources/04-Races/PaysageChepteg_JohanChristianDahl.jpg" title="Illustration : Johan Christian Dahl">
         <h3 class="h3region">Slaviskis</h3></a>
         <p>Le continent de <a href="?Page=menuLateral/monde/slaviskis">Slaviskis</a> se situe à l'est du Continent de Middenardh, séparé par l'étroite mer Odera.
             La partie occidentale de cette contrée froide est habitée au nord par les <a href="?Page=menuLateral/races/elfe">Elfes</a> polanes,
