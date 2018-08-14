@@ -3,8 +3,8 @@
 <div class="zoneRegionsHaut">
 
     <div class="divMoitieGauche">
-        <a href="?Page=menuLateral/monde/ceiltigahn"><img class="communImages imageRegion" style="max-width:35%;"
-                                                          src="ressources/04-Races/PaysageNain_AlbertBierstadt.jpg" title="Illustration : Albert Bierstadt">
+        <a href="?Page=menuLateral/monde/ceiltigahn"><img class="communImages imageRegion" style="max-width:45%;"
+                                                          src="ressources/04-Races/PaysageDragonide_AugustWilhelmLeu.jpg" title="Illustration : August Wilhelm Leu">
         <h3 class="h3region">Ceiltigahn</h3></a>
         <p>Ensemble d'îles au nord-ouest de Telneria, <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a> est une contrée isolée et dangereuse.</p>
         <p>Elle est la terre d'origine des <a href="?Page=menuLateral/races/nain">Nains</a> dans les forêts des îles de l'ouest, formant les nations d'Érin, Cymru et Fortriu.
