@@ -20,9 +20,12 @@
             Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.</p>
         <br />
     </div>
-
+    
+    <-<!--
     <img class="communImages imageChoixClasses" src="ressources/03-Classes/Classes.WillDan.DA.Small.png" title="Illustration : Will Dan, Deviant Art" style="box-shadow:none;">
-
+    -->
+    <img class="communImages imageChoixClasses" src="ressources/04-Races/lmm/elfe_orc_kerfenn_murvien.png" title="Illustration : François Ripp" style="box-shadow:none;">
+    
     <div id="idVoieFoi" class="divVoie classesFoi">
         <h3 class="titreVoie">La voie de la lumière</h3>
         <br />

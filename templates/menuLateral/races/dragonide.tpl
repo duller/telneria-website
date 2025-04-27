@@ -73,7 +73,10 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
+    <!-- 
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/DragonideSombregarde.png" title="Illustration : Jérôme Rotfarb"></p>
+    -->
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/lmm/dragonide.png" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Un dragonide sombregarde</p>
 </div>
 

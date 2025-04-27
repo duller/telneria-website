@@ -274,6 +274,22 @@
     box-shadow:none;
 }
 
+.divContainerImageRaces
+{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    width: fit-content;
+}
+
+.divImageRaces
+{
+    display: flex; /* Allow vertical alignment */
+    align-items: flex-end; /* Align image content at bottom */
+    width: 25%; /* Adjust width proportionally for four images per line */
+    box-sizing: border-box; /* Ensure padding/border doesn't affect width */
+}
+
 /* CSS pour les images de la page de préparation des personnages */
 .imagePrepTour
 {

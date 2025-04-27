@@ -3,7 +3,10 @@
 <div id="divCreationHautGauche">
 
     <div style="text-align:center;">
+        <!-- 
         <img class="communImages imageClassesRaces" src="ressources/02-Creation/Races.WillDan.DA.Small.png" title="Illustration : Will Dan, Deviant Art" style="box-shadow:none;">
+        -->
+        <img class="communImages imageClassesRaces" src="ressources/04-Races/lmm/varelias_chepteg_centaure_dragonide.png" title="Illustration : François Ripp" style="box-shadow:none;">
     </div>
     <h3 class="titreCreation">La race et la classe</h3>
     <img class="communImages imageAlignementCreation" style="margin-top:0px;max-height:80px;float:left;" src="ressources/02-Creation/inner-self.png" 

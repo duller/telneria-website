@@ -66,7 +66,10 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
+    <!-- 
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/djinn_ricardleen.png" title="Illustration : Ricardleen"></p>
+    -->
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/lmm/djinn.png" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Un djinn roublard</p>
 </div>
 

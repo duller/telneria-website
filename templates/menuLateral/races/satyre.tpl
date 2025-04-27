@@ -66,7 +66,10 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
+    <!-- 
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/SatyreSorcier.png" title="Illustration : M Jarrett, Deviant Art"></p>
+    -->
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/lmm/satyre.png" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Un satyre sorcier</p>
 </div>
 

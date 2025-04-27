@@ -68,7 +68,10 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
+    <!-- 
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/OrcGuerrier.png" title="Illustration : Jérôme Rotfarb"></p>
+    -->
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/lmm/orc.png" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Un orc guerrier</p>
 </div>
 

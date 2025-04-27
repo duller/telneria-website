@@ -65,7 +65,10 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
+    <!-- 
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/ElfeRodeuse.png" title="Illustration : Jérôme Rotfarb"></p>
+    -->
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/lmm/elfe.png" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Une elfe rôdeuse</p>
 </div>
 

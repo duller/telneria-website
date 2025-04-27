@@ -67,7 +67,10 @@
 </div>
 
 <div class="classeImage communDivClasseMarges">
+    <!-- 
     <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/centaure_manowolvie.png" title="Illustration : Manowolvie"></p>
+    -->
+    <p class="pImageRace"><img class="imagePersonnage" src="ressources/04-Races/lmm/centaure.png" title="Illustration : François Ripp"></p>
     <p class="pImageRace">Une centaure rôdeuse</p>
 </div>
 
