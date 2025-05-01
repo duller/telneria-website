@@ -11,7 +11,7 @@
         <p>Voici un description sommaire d'un scénario possible pour une partie de "Les légendes de Telneria".</p>
     </div>
     <div>
-        <h3 style="text-indent:20px;margin-right:150px;">La tour maudite</h3>
+        <h3 style="text-indent:20px;margin-right:200px;">La tour maudite</h3>
         <img class="communImages" style="max-height:80px;float:left;margin-right:10px;box-shadow:none;" src="ressources/12-Preparation/prep-chateau.png" 
              title="Illustration : Lorc, Open Game Art">
         <p>Les personnages-joueurs se connaissent déjà et se rendent dans la cité de Mecusa au centre de Middenardh

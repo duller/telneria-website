@@ -54,7 +54,7 @@
         <div id="divInitiative" class="divPageCombat" style="max-width: 100%;">
             
             <div class="div40" style="float:right;">
-                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.Asthenot.DA.png" title="Illustration : Asthenot, Deviant Art">
+                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/fuite.png" title="Illustration : François Ripp">
             </div>
             
             <div class="div60">
@@ -131,7 +131,7 @@
             </div>
 
             <div class="div40">
-                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/Combat.SilverlightDream.DA.png" title="Illustration : Silverlight Dream, Deviant Art">
+                <img class="communImages imageCombatJetToucher" src="ressources/14-Combat/combat.png" title="Illustration : François Ripp">
             </div>
 
             <div class="div30">
@@ -321,7 +321,7 @@
         <h2 class="titreCombat">Incapacités et mort</h2>
         <div id="divIncapacite" class="divPageCombat">
             <div class="divEtroite">
-                <img class="communImages imageCrane" src="ressources/14-Combat/Crane.jpg" title="Illustration : Inconnu">
+                <img class="communImages imageCrane" style="box-shadow:none;" src="ressources/14-Combat/crane.png" title="Illustration : François Ripp">
                 <h3 class="h3region" style="margin-right:180px;">Mise hors de combat</h3>
                 <p>Lorsqu'un joueur ou un monstre voit ses points de vie atteindre 0, il devient inconscient et ne peut plus mener d'actions. Il perd ensuite 1 point de vie par tour.
                     Si les points de vie d'un joueur atteignent -10, l'intéressé est mort et ni la fin du combat ni des soins d'un autre joueur ne peuvent rétablir la victime.</p>
@@ -354,7 +354,7 @@
     <div class="divZoneCombatTitre">
         <h2 class="titreCombat">Le Telnas</h2>
         <div id="divTelnas" class="divPageCombat divEtroite">
-            <img class="communImages imageCombatTelnas" src="ressources/14-Combat/TelnasBleu.Demiruigi.DA.png" title="Illustration : Demiruigi, Deviant Art" style="margin-top:-30px;">
+            <img class="communImages imageCombatTelnas" src="ressources/14-Combat/telnas.jpg" title="Illustration : François Ripp" style="margin-top:-30px;">
             <p>Le Telnas est la matérialisation physique d'une forme très pure de magie des arcanes.</p>
             <p>Elle permet au joueur d'invoquer une épaisse fumée bleue qu'il peut contrôler à sa guise.</p>
             <p>Voici quelques exemples de l'utilisation du Telnas par ordre de difficulté :</p>

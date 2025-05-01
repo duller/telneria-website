@@ -2,7 +2,7 @@
 
 <div class="divMoitieGauche">
     <div id="idExpGauche">
-        <img class="communImages imageExpGuerrier" src="ressources/13-Experience/ExpKnight.FantasyArt.jpg" title="Illustration : Fantasy Art">
+        <img class="communImages imageExpGuerrier" style="margin-left:20px;" src="ressources/13-Experience/chepteg.png" title="Illustration : François Ripp">
         <h2>Gagner en expérience</h2>
         <p>Les joueurs gagnent de l'expérience lorsqu'ils participent à un combat qui résulte en la mort d'une créature.</p>
         <p>Le gain de points d'expérience est détaillé dans la page des <a href="?Page=menuLateral/monstres">monstres</a>.
@@ -29,7 +29,7 @@
 </div>
 <div class="divMoitieDroite">
     <div id="idExpDroite">
-        <img class="communImages imageExpTelnas" src="ressources/13-Experience/TelnasMagie.Candra.DA.jpg" title="Illustration : Candra, Deviant Art">
+        <img class="communImages imageExpTelnas" style="margin-left:20px;" src="ressources/13-Experience/telnas.png" title="Illustration : François Ripp">
 
         <h2>La maîtrise du Telnas</h2>
         <p>À chaque gain de niveau par un personnage, celui-ci a une petite chance de progresser dans son niveau de maîtrise du Telnas.</p>

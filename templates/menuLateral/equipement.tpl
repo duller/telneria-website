@@ -4,8 +4,8 @@
 
     <div class="divEquipHaut">
         <div class="divEquipGauche">
-            <a href="?Page=menuLateral/equipement/armes"><img class="communImages imageEquipementEquip" src="ressources/10-Equipem/ArmeBouclier.Angelfire.DA.Small.png"
-                                                              title="Illustration : Angelfire, Deviant Art">
+            <a href="?Page=menuLateral/equipement/armes"><img class="communImages imageEquipementEquip" src="ressources/10-Equipem/epee.png"
+                                                              title="Illustration : François Ripp">
                 <p class="pEquip">Les armes </p></a>
         </div>
         <div  class="divEquipCentre">
@@ -17,7 +17,7 @@
         </div>
 
         <div class="divEquipDroite">
-            <a href="?Page=menuLateral/equipement/armures"><img class="communImages imageEquipementEquip" src="ressources/10-Equipem/Armure.png" title="Illustration : Inconnu">
+            <a href="?Page=menuLateral/equipement/armures"><img class="communImages imageEquipementEquip" src="ressources/10-Equipem/armure.png" title="Illustration : François Ripp">
                 <p class="pEquip">Les armures</p></a>
         </div>
     </div>
@@ -31,7 +31,7 @@
         <div class="divEquipDroite" style="width:45%;">
             <a href="?Page=menuLateral/equipement/commun" style="float:left;">
                 <img class="communImages imageEquipementEquip" style="width:70%;" 
-                     src="ressources/10-Equipem/Corde.png" title="Illustration : Wikimédia">
+                     src="ressources/10-Equipem/corde_sac.png" title="Illustration : François Ripp">
                 <p class="pEquip">L'équipement commun </p>
             </a>
         </div>
