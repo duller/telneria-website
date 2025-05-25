@@ -42,7 +42,7 @@
 	<div class="container">
 		<div class="flipbook">
                     <div style="background-image:url(ressources/01-Accueil/old_book_cover.jpg);text-align: center;">
-                        <h2 style="margin-top:200px;color: gold;"><span style="font-size:24px;">Telneria</span><br /><br />Un jeu de rôle<br />Des romans</h2>
+                        <h2 style="margin-top:200px;color: gold;"><span style="font-size:24px;">Telneria</span><br /><br />Un jeu de rôle<br />Un jeu de plateau<br />Des romans</h2>
                     </div>
                     <div style="background-image:url(ressources/00-Page/parchemin.centre.gif);text-align: center;">
                         <h2 style="margin-top:60px;">Partir à l'aventure : le jeu de rôle</h2>
@@ -72,12 +72,20 @@
         c'est noté 2d8 pour jeter 2 dés à 8 faces.</p>
                     </div>
                     <div style="background-image:url(ressources/00-Page/parchemin.centre.gif);text-align: center;">
+
                         <h2>Les romans de l'univers de Telneria</h2>
     <img style="margin-left:10px;" class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/01-Accueil/Wikimedia-Books.png" title="Illustration : Wikimédia">
 
     <p class="paragDansLivre">Pour les visiteurs arrivés sur ce site suite à la lecture des romans "Les contrées de Telneria", vous êtes invités à vous rendre dans 
         la section détaillant <a href="?Page=menuLateral/telneria">le monde de Telneria</a>. Vous pourrez ainsi découvrir plus en détail l'univers des livres.</p>
+                    
+                        <h2>Le jeu de plateau</h2>
+    <img style="margin-left:10px;" class="imageDecoAccueil imageDecoAccueilLivres" src="ressources/01-Accueil/small_board.png" title="Illustration : François Ripp">
+
+    <p class="paragDansLivre">Pour le jeu de plateau "Les contrées de Telneria", vous êtes invités à vous rendre dans 
+        la section <a href="?Page=board_game/boardgame">Jeu de plateau</a>. Vous pourrez ainsi télécharger les documents nécessaires.</p>
                     </div>
+            
                     <div style="background-image:url(ressources/00-Page/parchemin.centre.png);text-align: center;">
                         <h2 style="margin-top:200px;">Bon jeu !</h2>
                     </div>
