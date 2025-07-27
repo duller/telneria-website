@@ -26,7 +26,7 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription">
             <h4 class="h4ClassePerso">Plateau</h4>
-            <p>Plateau de jeu. Il est préférable de dessiner une carte à la main.</p>
+            <p>Plateau de jeu. Il faut découper les bords blancs et aligner les pages de chaque moitié de continent.</p>
             <div class="divInterneClasse">
                 <a class="pdfFichePerso" href="ressources/pdfboardgame/plateau.pdf">Plateau de jeu</a>
             </div>
@@ -35,12 +35,9 @@
         <div class="divSortTechnique divSortTechniqueDescription">
             <h4 class="h4ClassePerso">Sorts</h4>
             
-            <p>Cartes de sorts, à imprimer trois fois.</p>
+            <p>Cartes de sorts.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/front_spell_x3.pdf">Sorts (face avant)</a>
-            </div>
-            <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/back_spell.pdf">Sorts (face arrière)</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/spells.pdf">Sorts</a>
             </div>
         </div>
     </div>
@@ -56,24 +53,36 @@
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription">
-            <h4 class="h4ClassePerso">Évènements mineurs</h4>
-            <p>Cartes d'évènements mineurs, à imprimer deux fois.</p>
+            <h4 class="h4ClassePerso">Évènements de Middenardh</h4>
+            <p>Cartes d'évènements pour le continent de Middenardh.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/front_eventmin_x2.pdf">Évènements mineurs (face avant)</a>
-            </div>
-            <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/back_eventmin.pdf">Évènements mineurs (face arrière)</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/events_middenardh.pdf">Évènements de Middenardh</a>
             </div>
         </div>
 
         <div class="divSortTechnique divSortTechniqueDescription">
-            <h4 class="h4ClassePerso">Évènements majeurs</h4>
-            <p>Cartes d'évènements majeurs, à imprimer deux fois.</p>
+            <h4 class="h4ClassePerso">Évènements de Ceiltigahn</h4>
+            <p>Cartes d'évènements pour le continent de Ceiltigahn.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/front_eventmaj_x2.pdf">Évènements majeurs (face avant)</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/events_ceiltigahn.pdf">Évènements de Ceiltigahn</a>
             </div>
+        </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription">
+            <h4 class="h4ClassePerso">Évènements de Slaviskis</h4>
+            <p>Cartes d'évènements pour le continent de Slaviskis.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/back_eventmaj.pdf">Évènements majeurs (face arrière)</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/events_slaviskis.pdf">Évènements de Slaviskis</a>
+            </div>
+        </div>
+
+        <div class="divSortTechnique divSortTechniqueDescription">
+            <h4 class="h4ClassePerso">Évènements de Notikonos</h4>
+            <p>Cartes d'évènements pour le continent de Notikonos.</p>
+            <div class="divInterneClasse">
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/events_notikonos.pdf">Évènements de Notikonos</a>
             </div>
         </div>
     </div>
@@ -87,10 +96,7 @@
             <h4 class="h4ClassePerso">Grimoires</h4>
             <p>Cartes des grimoires pour les artefacts.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/front_grim_x1.pdf">Grimoires d'artefacts (face avant)</a>
-            </div>
-            <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/back_grim.pdf">Grimoires d'artefacts  (face arrière)</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/grimoires.pdf">Grimoires d'artefacts</a>
             </div>
         </div>
 
@@ -98,12 +104,27 @@
             <h4 class="h4ClassePerso">Objets</h4>
             <p>Cartes des objets.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/front_object_x1.pdf">Objets (face avant)</a>
-            </div>
-            <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/back_object.pdf">Objets (face arrière)</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/objets.pdf">Objets</a>
             </div>
         </div>
+    </div>
+
+    <div class="divInterneClasse">
+        <div class="divSortTechnique divSortTechniqueDescription">
+            <h4 class="h4ClassePerso">Reliques</h4>
+            <p>Cartes des reliques.</p>
+            <div class="divInterneClasse">
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/reliques.pdf">Reliques</a>
+            </div>
+        </div>
+
+        <div class="divSortTechnique divSortTechniqueDescription">
+            <h4 class="h4ClassePerso">Sorts</h4>
+            
+            <p>Cartes des composants.</p>
+            <div class="divInterneClasse">
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/composants.pdf">Composants</a>
+            </div>
         </div>
     </div>
 </div>
