@@ -26,9 +26,18 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription">
             <h4 class="h4ClassePerso">Plateau</h4>
-            <p>Plateau de jeu. Il faut découper les bords blancs et aligner les pages de chaque moitié de continent.</p>
+            <p>Plateau de jeu. Il faut découper les bords blancs.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/plateau.pdf">Plateau de jeu</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/west.png">Middenardh (continent central)</a>
+            </div>
+            <div class="divInterneClasse">
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/north.png">Ceiltigahn (continent du nord)</a>
+            </div>
+            <div class="divInterneClasse">
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/east.png">Slaviskis (continent de l'est)</a>
+            </div>
+            <div class="divInterneClasse">
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/south.png">Notikonos (continent du sud)</a>
             </div>
         </div>
 

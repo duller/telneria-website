@@ -2,7 +2,7 @@
 
 <h2>Un monde de magie...</h2>
 
-<img class="imageDecoAccueil" src="ressources/01-Accueil/Albert_Bierstadt_mountains_dragon.jpg" title="Illustration : Albert Bierstadt, Wikimédia">
+<img class="imageDecoAccueil" src="ressources/01-Accueil/telneria_home.png" title="Illustration : François Ripp">
 <p>Les sociétés de <a href="?Page=menuLateral/monde/middenardh">Middenardh</a> et <a href="?Page=menuLateral/monde/ceiltigahn">Ceiltigahn</a> étaient jadis structurées en petits villages
     dirigés par un chef élu. Druides et chamans secondaient ces dirigeants et assistaient les villageois grâce à leur affinité avec les esprits de la nature.</p>
 

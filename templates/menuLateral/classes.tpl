@@ -1,33 +1,46 @@
 <h1>Les classes</h1>
 
-<p class="pSousTitre">Le joueur a le choix entre cinq voies principales pour choisir son personnage. Il faut ensuite choisir une classe de personnage de la voie voulue.</p><br />
+<p class="pSousTitre">Le joueur a le choix entre six voies principales pour choisir son personnage. Il faut ensuite choisir une classe de personnage de la voie voulue.</p><br />
 
 <div style="float:left;">
 
-    <div id="idVoieMagie" class="divVoie classesMagie">
-        <h3 class="titreVoie">La voie de la magie</h3>
+    <div id="idVoieArcane" class="divVoie classesGauche">
+        <h3 class="titreVoie">La voie des arcanes</h3>
         <br />
 
-        <a href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Sorcier.png" title="Illustration : Horror Pen, Open Game Art">
-        <h4 class="h4choixClasse">Le sorcier</h4></a>
-        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/sorcier">sorcier</a> est un adepte de magie noire, il cherche continuellement à gagner en 
-            puissance et à s'affirmer face à ses compétiteurs. Sectateurs du chaos, les sorciers contrôlent les morts-vivants et les démons pour dominer leurs ennemis.</p>
+        <a href="?Page=menuLateral/classes/sorcier"><img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Chronosage.png" title="Illustration : Horror Pen, Open Game Art">
+        <h4 class="h4choixClasse">Le chronosage</h4></a>
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/sorcier">chronosage</a> est un magicien adepte de la manipulation du temps et de l'espace. Sa maîtrise de la magie
+            arcanique lui permet de déplacer tout objet ou de figer tout ennemi.</p>
         <br />
 
-        <a href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Magicien.png" title="Illustration : Horror Pen, Open Game Art">
-        <h4 class="h4choixClasse">Le magicien</h4></a>
-        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/magicien">magicien</a> est un maître inégalé de la magie élémentaire et arcanique.
-            Les magiciens les plus puissants dans l'école des arcanes peuvent intégrer l'ordre restreint des telnastes.</p>
+        <a href="?Page=menuLateral/classes/magicien"><img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Thermolige.png" title="Illustration : Horror Pen, Open Game Art">
+        <h4 class="h4choixClasse">Le thermolige</h4></a>
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/magicien">thermolige</a> est un magicien manipulateur des éléments de la glace et du feu.
+            Le thermolige utilise son contrôle des arcanes pour plier à sa volonté la puissance élémentaire. Les chamans et les druides entrent au contraire en communion avec les éléments,
+            et s'insurgent des pratiques des magiciens.</p>
         <br />
     </div>
     
-    <-<!--
-    <img class="communImages imageChoixClasses" src="ressources/03-Classes/Classes.WillDan.DA.Small.png" title="Illustration : Will Dan, Deviant Art" style="box-shadow:none;">
-    -->
-    <img class="communImages imageChoixClasses" src="ressources/04-Races/lmm/elfe_orc_kerfenn_murvien.png" title="Illustration : François Ripp" style="box-shadow:none;">
+    <div id="idVoieChaos" class="divVoie classesMilieu">
+        <h3 class="titreVoie">La voie du chaos</h3>
+        <br />
+
+        <a href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Demoniste.png" title="Illustration : Horror Pen, Open Game Art">
+        <h4 class="h4choixClasse">Le démoniste</h4></a>
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/clerc">démoniste</a> est un adepte du chaos. Il fait appel aux forces démoniaques pour gagner en puissance
+        et vaincer ses ennemis.</p>
+        <br />
+
+        <a href="?Page=menuLateral/classes/paladin"><img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Necromant.png" title="Illustration : Horror Pen, Open Game Art">
+        <h4 class="h4choixClasse">Le nécromant</h4></a>
+        <p class="pDescriptionClasseChoix">Le <a href="?Page=menuLateral/classes/paladin">nécromant</a> puise dans la magie du chaos pour ramener à la vie les ennemis tombés au combat 
+            et les forcer à combattre à sa place.</p>
+        <br />
+    </div>
     
-    <div id="idVoieFoi" class="divVoie classesFoi">
-        <h3 class="titreVoie">La voie de la lumière</h3>
+    <div id="idVoieSacre" class="divVoie classesDroite">
+        <h3 class="titreVoie">La voie du sacré</h3>
         <br />
 
         <a href="?Page=menuLateral/classes/clerc"><img class="communImages imageLogoClasseChoix" src="ressources/03-Classes/Clerc.png" title="Illustration : Horror Pen, Open Game Art">
@@ -45,9 +58,17 @@
     </div>
 
 </div>
+
+<div style="text-align: center;">
+
+    <img class="communImages" src="ressources/03-Classes/SixPersos.png" title="Illustration : François Ripp" style="box-shadow:none;width:90%;">
+
+    
+</div>
+
 <div style="float:left;">
 
-    <div id="idVoieNature" class="divVoie classesNature">
+    <div id="idVoieNature" class="divVoie classesGauche">
         <h3 class="titreVoie">La voie de la nature</h3>
         <br />
 
@@ -65,7 +86,7 @@
     </div>
 
 
-    <div id="idVoieDiscretion" class="divVoie classesDiscretion">
+    <div id="idVoieDiscretion" class="divVoie classesMilieu">
         <h3 class="titreVoie">La voie de la discrétion</h3>
         <br />
 
@@ -84,7 +105,7 @@
     </div>
 
 
-    <div id="idVoieGuerre" class="divVoie classesGuerre">
+    <div id="idVoieGuerre" class="divVoie classesDroite">
         <h3 class="titreVoie">La voie de la guerre</h3>
         <br />
 

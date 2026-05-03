@@ -50,9 +50,9 @@
 
         <ul>
             <li><span class="titreDebutLigne">Chaos</span> :  sorts de ténèbres et de nécromancie.</li>
-            <li><span class="titreDebutLigne">Sacré</span> :  sorts de soins et d'adjuration.</li>
-            <li><span class="titreDebutLigne">Nature</span> :  sorts d'invocation des éléments et de la végétation.</li>
-            <li><span class="titreDebutLigne">Arcane</span> :  sorts de destruction et de manipulation.</li>
+            <li><span class="titreDebutLigne">Sacré</span> :  sorts de soins et de lumière.</li>
+            <li><span class="titreDebutLigne">Nature</span> :  sorts de communion avec les éléments et la végétation.</li>
+            <li><span class="titreDebutLigne">Arcane</span> :  sorts de manipulation des éléments, de l'espace et du temps.</li>
         </ul>
     </div>
 </div>

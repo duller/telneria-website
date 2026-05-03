@@ -37,7 +37,7 @@
         
                 function setHauteurClasses()
                 {
-                    setHauteurDiv($("#idVoieMagie"), $("#idVoieFoi"), false);
+                    setHauteurDiv($("#idVoieArcane"), $("#idVoieChaos"), $("#idVoieSacre"));
                     setHauteurDiv($("#idVoieNature"), $("#idVoieDiscretion"), $("#idVoieGuerre"));
                     setHauteurDiv($("#idPrestige1"), $("#idPrestige2"), false);
                     setHauteurDiv($("#idAlignementLoyal"), $("#idAlignementBon"), false);
