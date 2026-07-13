@@ -63,37 +63,30 @@
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription">
             <h4 class="h4ClassePerso">Évènements de Middenardh</h4>
-            <p>Cartes d'évènements pour le continent de Middenardh.</p>
+            <p>Cartes d'évènements pour le continent de Middenardh. Niveau des joueurs 1 à 3.</p>
             <div class="divInterneClasse">
                 <a class="pdfFichePerso" href="ressources/pdfboardgame/events_middenardh.pdf">Évènements de Middenardh</a>
             </div>
         </div>
 
         <div class="divSortTechnique divSortTechniqueDescription">
-            <h4 class="h4ClassePerso">Évènements de Ceiltigahn</h4>
-            <p>Cartes d'évènements pour le continent de Ceiltigahn.</p>
+            <h4 class="h4ClassePerso">Évènements de niveau 3 et 4</h4>
+            <p>Cartes d'évènements pour le continents extérieurs. Niveau des joueurs 3 à 4.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/events_ceiltigahn.pdf">Évènements de Ceiltigahn</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/even_3_4.pdf">Évènements de niveau 3 et 4</a>
             </div>
         </div>
     </div>
 
     <div class="divInterneClasse">
         <div class="divSortTechnique divSortTechniqueDescription">
-            <h4 class="h4ClassePerso">Évènements de Slaviskis</h4>
-            <p>Cartes d'évènements pour le continent de Slaviskis.</p>
+            <h4 class="h4ClassePerso">Évènements de niveau 5 et 6</h4>
+            <p>Cartes d'évènements pour les continents extérieurs. Niveau des joueurs 5 à 6.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/events_slaviskis.pdf">Évènements de Slaviskis</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/even_5_6.pdf">Évènements de niveau 5 et 6</a>
             </div>
         </div>
 
-        <div class="divSortTechnique divSortTechniqueDescription">
-            <h4 class="h4ClassePerso">Évènements de Notikonos</h4>
-            <p>Cartes d'évènements pour le continent de Notikonos.</p>
-            <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/events_notikonos.pdf">Évènements de Notikonos</a>
-            </div>
-        </div>
     </div>
     
 </div>
@@ -132,7 +125,7 @@
             
             <p>Cartes des composants.</p>
             <div class="divInterneClasse">
-                <a class="pdfFichePerso" href="ressources/pdfboardgame/composants.pdf">Composants</a>
+                <a class="pdfFichePerso" href="ressources/pdfboardgame/compo.pdf">Composants</a>
             </div>
         </div>
     </div>
